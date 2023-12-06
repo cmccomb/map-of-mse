@@ -1,0 +1,28 @@
+name: update visualization
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/*.json'
+  workflow_dispatch:
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  full_update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install library
+        run: pip install git+https://github.com/cmccomb/map-of-research.git
+      - name: create the visualization
+        run: visualize_faculty_data
+      - name: commit and push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

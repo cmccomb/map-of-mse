@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'data/*.json'
+      - 'data/**'
   workflow_dispatch:
 
 env:

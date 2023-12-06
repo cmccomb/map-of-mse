@@ -1,0 +1,107 @@
+[
+    {
+        "title": "3D contact modelling of large plastic deformation in powder forming processes",
+        "pub_year": "2012",
+        "citation": "International journal of material forming 5, 163-173, 2012"
+    },
+    {
+        "title": "A new computational algorithm for 3D contact modeling of large plastic deformation in powder forming processes",
+        "pub_year": "2009",
+        "citation": "Computational materials science 46 (1), 203-220, 2009"
+    },
+    {
+        "title": "An Enriched-FEM Technique for Large Frictional Contact Deformation",
+        "pub_year": "2010",
+        "citation": "STEEL RESEARCH INTERNATIONAL 81 (9), 1478-1481, 2010"
+    },
+    {
+        "title": "Anisotropy governs strain stiffening in nanotwinned-materials",
+        "pub_year": "2018",
+        "citation": "Nature Communications 9 (1), 1586, 2018"
+    },
+    {
+        "title": "Dynamic crack propagation in a heterogeneous ceramic microstructure, insights from a cohesive model",
+        "pub_year": "2015",
+        "citation": "Acta Materialia 88, 136-146, 2015"
+    },
+    {
+        "title": "Highly efficient parallel grand canonical simulations of interstitial-driven diffusion-deformation processes",
+        "pub_year": "2021",
+        "citation": "Modelling and Simulation in Materials Science and Engineering 29 (5), 055018, 2021"
+    },
+    {
+        "title": "How hair deforms steel",
+        "pub_year": "2020",
+        "citation": "Science 369 (6504), 689-694, 2020"
+    },
+    {
+        "title": "Limiting mechanisms and scaling of electrostatically controlled adhesion of soft nanocomposite surfaces for robotic gripping",
+        "pub_year": "2020",
+        "citation": "ACS Applied Materials & Interfaces 13 (1), 1192-1203, 2020"
+    },
+    {
+        "title": "Low-Profile, Large-Range Compressive Strain Sensing Using Micromanufactured CNT Micropillar Arrays",
+        "pub_year": "2023",
+        "citation": "ACS Applied Materials & Interfaces 15 (32), 38665-38673, 2023"
+    },
+    {
+        "title": "Methodologies for formulating compositions, including aluminum alloys with high-temperature strength",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
+        "title": "Micro-mechanical finite element modeling of diagonal compression test for historical stone masonry structure",
+        "pub_year": "2017",
+        "citation": "International Journal of Solids and Structures 112, 122-132, 2017"
+    },
+    {
+        "title": "Modeling Abrasion Resistant Materials by Modeling Large Sliding Frictional Contact",
+        "pub_year": "2012",
+        "citation": "Applied Mechanics and Materials 110, 2888-2895, 2012"
+    },
+    {
+        "title": "Modeling large sliding frictional contact along non-smooth discontinuities in X-FEM",
+        "pub_year": "2011",
+        "citation": "International Journal of Modeling and Optimization 1 (2), 169, 2011"
+    },
+    {
+        "title": "Modeling of large deformation – Large sliding contact via the penalty X-FEM technique",
+        "pub_year": "2010",
+        "citation": "Computational Materials Science 48 (3), 471-480, 2010"
+    },
+    {
+        "title": "On stress concentration in nanotwinned metals",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2102.07059, 2021"
+    },
+    {
+        "title": "On the influence of transgranular and intergranular failure mechanisms during dynamic loading of silicon nitride",
+        "pub_year": "2014",
+        "citation": "Acta materialia 67, 239-251, 2014"
+    },
+    {
+        "title": "On-lattice voxelated convolutional neural networks for prediction of phase diagrams and diffusion barriers in cubic alloys",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2103.02638, 2021"
+    },
+    {
+        "title": "Origin of micrometer-scale dislocation motion during hydrogen desorption",
+        "pub_year": "2020",
+        "citation": "Science advances 6 (23), eaaz1187, 2020"
+    },
+    {
+        "title": "Revealing nanoscale local chemical environments governing diffusion within binary concentrated alloys through machine learning",
+        "pub_year": "2021",
+        "citation": "APS March Meeting Abstracts 2021, V41. 012, 2021"
+    },
+    {
+        "title": "Transition from source-to stress-controlled plasticity in nanotwinned materials below a softening temperature",
+        "pub_year": "2019",
+        "citation": "npj Computational Materials 5 (1), 2, 2019"
+    },
+    {
+        "title": "Unraveling nanoscale features controlling the diffusion of multi-component alloys through machine learning methods",
+        "pub_year": "2020",
+        "citation": "Bulletin of the American Physical Society 65, 2020"
+    }
+]

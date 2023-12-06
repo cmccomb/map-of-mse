@@ -5,6 +5,8 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+    paths:
+      - '**.html'
   workflow_run:
     workflows: ["update visualization"]
     types:

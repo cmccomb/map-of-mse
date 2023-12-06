@@ -4,6 +4,10 @@ permissions:
   contents: write
 
 on:
+  workflow_run:
+    workflows: ["update data"]
+    types:
+      - completed
   push:
     branches: [ main ]
     paths:

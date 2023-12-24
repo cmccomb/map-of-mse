@@ -1400,6 +1400,11 @@
         "citation": "NASA Tech Briefs, May 2008, 2008"
     },
     {
+        "title": "Solid-State High-Temperature Power Cells",
+        "pub_year": "2008",
+        "citation": ""
+    },
+    {
         "title": "Solvent-processed metallic lithium microparticles for lithium metal batteries",
         "pub_year": "2019",
         "citation": "ACS Applied Energy Materials 2 (3), 1623-1628, 2019"
@@ -1625,11 +1630,6 @@
         "citation": "Journal of The Electrochemical Society 163 (13), A2636, 2016"
     },
     {
-        "title": "Using Molten-Salts as a Thermal Processing Medium for Cobalt-Free Lithium-Rich Cathode Material",
-        "pub_year": "2023",
-        "citation": "Electrochemistry Communications, 107617, 2023"
-    },
-    {
         "title": "Using a CO2 Re-Activation Step to Tailor Carbons for Use in Organic Electrolyte Systems",
         "pub_year": "2010",
         "citation": "ECS Meeting Abstracts, 433, 2010"
@@ -1638,6 +1638,11 @@
         "title": "Using intimate carbon to enhance the performance of NaTi2 (PO4) 3 anode materials: carbon nanotubes vs graphite",
         "pub_year": "2014",
         "citation": "Journal of The Electrochemical Society 161 (4), A561, 2014"
+    },
+    {
+        "title": "Using molten-salts as a thermal processing medium for cobalt-free lithium-rich cathode material",
+        "pub_year": "2023",
+        "citation": "Electrochemistry Communications 157, 107617, 2023"
     },
     {
         "title": "Using polypyrrole coating to improve cycling stability of NaTi2 (PO4) 3 as an aqueous Na-ion anode",

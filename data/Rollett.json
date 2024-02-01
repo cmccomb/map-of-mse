@@ -340,6 +340,11 @@
         "citation": "Metallurgical and Materials Transactions A 53 (4), 1486-1498, 2022"
     },
     {
+        "title": "Analytical verification of FFT-based micromechanical simulations near an elliptical crack tip by using composite voxels",
+        "pub_year": "2023",
+        "citation": "Mechanics of Advanced Materials and Structures, 1-10, 2023"
+    },
+    {
         "title": "Analyzing the effects of powder and post-processing on porosity and properties of electron beam melted Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Materials Research Letters 5 (7), 516-525, 2017"
@@ -778,6 +783,11 @@
         "citation": ""
     },
     {
+        "title": "Deep learning approaches for instantaneous laser absorptance prediction in additive manufacturing",
+        "pub_year": "2024",
+        "citation": "npj Computational Materials 10 (1), 6, 2024"
+    },
+    {
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 36, 101552, 2020"
@@ -1156,6 +1166,11 @@
         "title": "Fatigue performance of laser powder bed fusion hydride-dehydride Ti-6Al-4V powder",
         "pub_year": "2022",
         "citation": "Additive Manufacturing 59, 103117, 2022"
+    },
+    {
+        "title": "Final Progress Report on DE-SC0019096: Probing Fundamental Mechanisms of Plastic Deformation with High Energy X-rays",
+        "pub_year": "2023",
+        "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2023"
     },
     {
         "title": "Finite Element Simulation of Pre-Heating Effect on Melt Pool Size during Micro-Plasma Transferred Arc Deposition Process",
@@ -3388,8 +3403,8 @@
     },
     {
         "title": "Viscoplastic micromechanical response of three-dimensional, two-phase unit cell composites with particles at regular positions",
-        "pub_year": "2023",
-        "citation": "Acta Materialia, 119613, 2023"
+        "pub_year": "2024",
+        "citation": "Acta Materialia 265, 119613, 2024"
     },
     {
         "title": "Why recrystallization generates more annealing twins in nickel than grain growth?",

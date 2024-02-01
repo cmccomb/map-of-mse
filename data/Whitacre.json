@@ -1036,6 +1036,11 @@
         "citation": "Forum on Innovative Approaches to Outer Planetary Exploration 2001-2020 …, 2001"
     },
     {
+        "title": "Micro/nanofabricated solid-state thermoelectric generator devices for integrated high voltage power sources",
+        "pub_year": "2002",
+        "citation": ""
+    },
+    {
         "title": "Microbatteries for Combinatorial Studies of Conventional Lithium-Ion Batteries",
         "pub_year": "2003",
         "citation": "NASA Tech Briefs, June 2003, 2003"
@@ -1114,6 +1119,11 @@
         "title": "Nanocomposite Photoelectrochemical Cells",
         "pub_year": "2007",
         "citation": "NASA Tech Briefs, August 2007, 2007"
+    },
+    {
+        "title": "Negative electrodes for electrochemical cells",
+        "pub_year": "2020",
+        "citation": ""
     },
     {
         "title": "Negative electrodes for electrochemical cells",
@@ -1701,5 +1711,15 @@
         "title": "\\textit {In-Situ} X-ray Absorption Spectroscopy Study of Li [LiMnNi] O2 Cathode Material",
         "pub_year": "2010",
         "citation": "Bulletin of the American Physical Society 55, 2010"
+    },
+    {
+        "title": "eletrodos negativos para células eletroquímicas",
+        "pub_year": "2021",
+        "citation": ""
+    },
+    {
+        "title": "Électrodes négatives pour cellules électrochimiques",
+        "pub_year": "2022",
+        "citation": ""
     }
 ]

@@ -20,11 +20,6 @@
         "citation": "Crystal Growth & Design 23 (9), 6275-6289, 2023"
     },
     {
-        "title": "Ab Initio Crystal Structure Prediction of the Energetic Materials LLM-105, α-RDX, and HMX",
-        "pub_year": "2024",
-        "citation": "Bulletin of the American Physical Society, 2024"
-    },
-    {
         "title": "Accurate Ionization Potentials and Electron Affinities of Acceptor Molecules III: A Benchmark of GW Methods",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 615-626, 2016"
@@ -199,11 +194,6 @@
         "citation": "npj Computational Materials 8 (1), 70, 2022"
     },
     {
-        "title": "First Principles Assessment of ZnTe and CdSe as Tunnel Barriers for the InAs/Al Interface",
-        "pub_year": "2024",
-        "citation": "Bulletin of the American Physical Society, 2024"
-    },
-    {
         "title": "First principles study of the electronic structure of the  and  interfaces",
         "pub_year": "2023",
         "citation": "Physical Review Materials 7 (2), 026203, 2023"
@@ -229,11 +219,6 @@
         "citation": "Computer Physics Communications 250, 107170, 2020"
     },
     {
-        "title": "Genarris 4.0: Random Structure Generator for Organic/Inorganic Interfaces",
-        "pub_year": "2022",
-        "citation": "Thesis Title: Structure Prediction of Organic/Inorganic Interfaces from …, 2022"
-    },
-    {
         "title": "Genarris: Random generation of molecular crystal structures and fast screening with a Harris approximation",
         "pub_year": "2018",
         "citation": "The Journal of Chemical Physics 148 (24), 2018"
@@ -256,7 +241,7 @@
     {
         "title": "Inverted Lowest Singlet and Triplet Excitation Energy Ordering of Graphitic Carbon Nitride Flakes",
         "pub_year": "2023",
-        "citation": "The Journal of Physical Chemistry Letters 14, 10910-10919, 2023"
+        "citation": "The Journal of Physical Chemistry Letters 14 (49), 10910-10919, 2023"
     },
     {
         "title": "Machine learned model for solid form volume estimation based on packing-accessible surface and molecular topological fragments",
@@ -349,19 +334,9 @@
         "citation": "Physical Review B 86 (4), 041110, 2012"
     },
     {
-        "title": "Structure Prediction and Discovery of Molecular Crystals with Enhanced Electronic Properties",
-        "pub_year": "2024",
-        "citation": "Bulletin of the American Physical Society, 2024"
-    },
-    {
         "title": "Structure Prediction of Epitaxial Organic Interfaces with Ogre, Demonstrated for Tetracyanoquinodimethane (TCNQ) on Tetrathiafulvalene (TTF)",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry C, 2023"
-    },
-    {
-        "title": "Structure Prediction of Epitaxial Organic Interfaces with Ogre, Demonstrated for Tetracyanoquinodimethane (TCNQ) on Tetrathiafulvalene (TTF)",
-        "pub_year": "2024",
-        "citation": "Bulletin of the American Physical Society, 2024"
     },
     {
         "title": "Structure Selection Based on High Vertical Electron Affinity for  Clusters",

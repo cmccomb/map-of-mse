@@ -10,6 +10,16 @@
         "citation": "Journal of the American Ceramic Society 97 (12), 3950-3957, 2014"
     },
     {
+        "title": "A Triple Junction Energy Study Using an Inclination-Dependent Anisotropic Monte Carlo Potts Grain Growth Model",
+        "pub_year": "2024",
+        "citation": "Materials & Design, 112763, 2024"
+    },
+    {
+        "title": "A new efficient grain growth model using a random Gaussian-sampled mode filter",
+        "pub_year": "2024",
+        "citation": "Materials & Design 237, 112604, 2024"
+    },
+    {
         "title": "A novel physics-regularized interpretable machine learning model for grain growth",
         "pub_year": "2022",
         "citation": "Materials & Design 222, 111032, 2022"
@@ -68,6 +78,11 @@
         "title": "Grain boundary complexion transitions",
         "pub_year": "2020",
         "citation": "Annual Review of Materials Research 50, 465-492, 2020"
+    },
+    {
+        "title": "Grain boundary migration in polycrystalline α-Fe",
+        "pub_year": "2024",
+        "citation": "Acta Materialia 264, 119541, 2024"
     },
     {
         "title": "High temperature interactions between environmental barrier coating (EBC) ceramics and calcia-magnesia-alumina-silicate (CMAS) glass",
@@ -130,6 +145,11 @@
         "citation": "Acta Materialia 148, 320-329, 2018"
     },
     {
+        "title": "The evolution of grain boundary energy in textured and untextured Ca‐doped alumina during grain growth",
+        "pub_year": "2024",
+        "citation": "Journal of the American Ceramic Society 107 (3), 1725-1735, 2024"
+    },
+    {
         "title": "The influence of grain boundary area on the complexion time-temperature-transformation diagram of Eu-doped magnesium aluminate spinel",
         "pub_year": "2020",
         "citation": "Scripta Materialia 178, 251-255, 2020"
@@ -137,7 +157,7 @@
     {
         "title": "Thermal stress measurement and modeling in plasma spray deposits used for attaching fiber optic sensors",
         "pub_year": "2012",
-        "citation": "Int. J. Mater. Mech. Eng. 1 (3), p32-p37, 2012"
+        "citation": "Int. J. Mater. Mech. Eng 1 (3), 32-p37, 2012"
     },
     {
         "title": "Thin‐Film Transformation of NH4PbI3 to CH3NH3PbI3 Perovskite: A Methylamine‐Induced Conversion–Healing Process",

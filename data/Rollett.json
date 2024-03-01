@@ -101,9 +101,9 @@
         "citation": "USDOE Office of Science (SC), Washington, DC (United States), 2018"
     },
     {
-        "title": "A Scalable Compact Additively-Manufactured Molten-Salt to Supercritical Carbon Dioxide Heat Exchanger for Solar Thermal Application",
-        "pub_year": "2022",
-        "citation": "Energy Sustainability 85772, V001T05A005, 2022"
+        "title": "A Scalable Compact Additively Manufactured Molten Salt to Supercritical Carbon Dioxide Heat Exchanger for Solar Thermal Application",
+        "pub_year": "2023",
+        "citation": "Journal of Solar Energy Engineering, 1-33, 2023"
     },
     {
         "title": "A calibrated Monte Carlo approach to quantify the impacts of misorientation and different driving forces on texture development",
@@ -256,6 +256,11 @@
         "citation": "International Conference on Advanced Manufacturing 2023, 2023"
     },
     {
+        "title": "Accurate predictions of keyhole depths using machine learning-aided simulations",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.16190, 2024"
+    },
+    {
         "title": "Additive Manufacturing of Cobalt Alloys",
         "pub_year": "2020",
         "citation": ""
@@ -288,6 +293,11 @@
         "title": "Advances in experimental method and analysis for estimation of geometrically-necessary dislocations",
         "pub_year": "2002",
         "citation": "Proceedings of the First Russian-French Symposium Physics and Mechanics of …, 2002"
+    },
+    {
+        "title": "Advantages of ionic conductors over electronic conductors as infiltrates in solid oxide fuel cell cathodes",
+        "pub_year": "2024",
+        "citation": "International Journal of Hydrogen Energy 59, 764-776, 2024"
     },
     {
         "title": "An Approach to the Mesoscale Simulation of Grain Growth David Kinderlehrer1, Irene Livshits1, Florin Manolache1, Anthony D. Rollett2, and Shlomo Ta'asan1",
@@ -831,6 +841,11 @@
         "title": "Design and performance characterization of an additively manufactured primary heat exchanger for sCO2 Waste Heat Recovery Cycles",
         "pub_year": "2018",
         "citation": "Proceedings of the 6th International Symposium on Supercritical CO2 Power …, 2018"
+    },
+    {
+        "title": "Design and techno economic optimization of an additively manufactured compact heat exchanger for high temperature and high pressure applications",
+        "pub_year": "2024",
+        "citation": "Applied Thermal Engineering, 122778, 2024"
     },
     {
         "title": "Design of an interpretable Convolutional Neural Network for stress concentration prediction in rough surfaces",
@@ -2336,6 +2351,11 @@
         "citation": "Annu. Rev. Condens. Matter Phys. 5 (1), 317-346, 2014"
     },
     {
+        "title": "Post-processing to Modify the a Phase Micro-Texture and beta Phase Grain Morphology in Ti-6Al-4V Fabricated by Powder Bed Electron Beam Melting (vol 50, pg 3429, 2019)",
+        "pub_year": "2019",
+        "citation": "METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND MATERIALS …, 2019"
+    },
+    {
         "title": "Post-processing to Modify the α Phase Micro-Texture and β Phase Grain Morphology in Ti-6Al-4V Fabricated by Powder Bed Electron Beam Melting",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions A 50, 3429-3439, 2019"
@@ -2838,6 +2858,11 @@
         "title": "Synthetic Generation of Annealing Twins in Three-Dimensional Microstructures",
         "pub_year": "2011",
         "citation": "Minerals, Metals and Materials Society/AIME, 420 Commonwealth Dr., P. O. Box …, 2011"
+    },
+    {
+        "title": "Systematic and Predictive Trends to Chromium Poisoning in Solid Oxide Fuel Cell Cathodes",
+        "pub_year": "2023",
+        "citation": "Available at SSRN 4731923, 2023"
     },
     {
         "title": "Systems and methods for providing high temperature and high pressure heat exchangers using additive manufacturing",
@@ -3350,6 +3375,11 @@
         "title": "Understanding process-microstructure-property relationships in laser powder bed fusion of non-spherical Ti-6Al-4V powder",
         "pub_year": "2023",
         "citation": "Materials Characterization 198, 112757, 2023"
+    },
+    {
+        "title": "Understanding the Role of Geometry and Interlayer Cooling Time on Microstructure Variations in LPBF Ti6Al4V through Part-Scale Scan-Resolved Thermal Modeling",
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing Letters, 100197, 2024"
     },
     {
         "title": "Understanding the Role of Interfaces in the Deformation of Lamellar Nanocomposites Fabricated via Severe Plastic Deformation Techniques",

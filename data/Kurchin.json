@@ -56,7 +56,7 @@
     {
         "title": "Enhanced Electrochemical Activity Volcanoes in Flat-Band Twisted Trilayer Graphene",
         "pub_year": "2023",
-        "citation": "244th ECS Meeting (October 8-12, 2023), 2023"
+        "citation": "Electrochemical Society Meeting Abstracts 244, 2913-2913, 2023"
     },
     {
         "title": "Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials",
@@ -166,5 +166,10 @@
         "title": "Twisto-electrochemical activity volcanoes in Trilayer Graphene",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2306.00028, 2023"
+    },
+    {
+        "title": "Using Bayesian parameter estimation to learn more from data without black boxes",
+        "pub_year": "2024",
+        "citation": "Nature Reviews Physics, 1-3, 2024"
     }
 ]

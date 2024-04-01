@@ -193,7 +193,7 @@
     {
         "title": "Calcium-Treated Steel Cleanliness Prediction Using High-Dimensional Steelmaking Process Data",
         "pub_year": "2023",
-        "citation": "Integrating Materials and Manufacturing Innovation, 1-14, 2023"
+        "citation": "Integrating Materials and Manufacturing Innovation 12 (2), 171-184, 2023"
     },
     {
         "title": "Can we decrease the ecological footprint of base metal production by recycling?",
@@ -231,7 +231,7 @@
         "citation": "Journal of the Southern African Institute of Mining and Metallurgy 115 (3 …, 2015"
     },
     {
-        "title": "Cold-Finger Measurement of Heat Transfer Through Solidified Mold Flux Layers",
+        "title": "Cold-finger measurement of heat transfer through solidified mold flux layers",
         "pub_year": "2016",
         "citation": "Advances in Molten Slags, Fluxes, and Salts: Proceedings of the 10th …, 2016"
     },
@@ -246,19 +246,19 @@
         "citation": ""
     },
     {
-        "title": "Comparison of Methods for Electrochemical Iron Removal from Titanium Ores",
-        "pub_year": "2017",
-        "citation": "Journal of Sustainable Metallurgy 3 (4), 711-719, 2017"
-    },
-    {
         "title": "Comparison of heat treatment response of semisolid metal processed alloys A356 and F357",
         "pub_year": "2010",
         "citation": "International Journal of Cast Metals Research 23 (1), 37-43, 2010"
     },
     {
+        "title": "Comparison of methods for electrochemical iron removal from titanium ores",
+        "pub_year": "2017",
+        "citation": "Journal of Sustainable Metallurgy 3 (4), 711-719, 2017"
+    },
+    {
         "title": "Control of diffusible weld metal hydrogen through flux chemistry modification",
         "pub_year": "2007",
-        "citation": "Welding journal 86 (9), 273s-280s, 2007"
+        "citation": "Welding Journal 86 (9), 273-280, 2007"
     },
     {
         "title": "Control of open slag bath furnaces at Highveld Steel and Vanadium Ltd: Development of operator guidance tables",
@@ -324,7 +324,7 @@
         "citation": "Materials Science Forum 111, 429-452, 1992"
     },
     {
-        "title": "Determination of the P e value of 5 wt-% calcia stabilised hafnia solid electrolyte at high temperatures",
+        "title": "Determination of the Pe value of 5 wt-% calcia stabilised hafnia solid electrolyte at high temperatures",
         "pub_year": "2004",
         "citation": "Ironmaking & steelmaking 31 (3), 269-272, 2004"
     },
@@ -337,6 +337,11 @@
         "title": "Development of a reliable kinetic model for ladle refining",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions B 50, 2163-2174, 2019"
+    },
+    {
+        "title": "Discriminating the Fe Peak in Al-Killed Steel Specimens Using an Energy Dispersive Spectrometer: From Matrix or from Oxide Inclusions?",
+        "pub_year": "2024",
+        "citation": "Metallurgical and Materials Transactions B, 1-14, 2024"
     },
     {
         "title": "Disintegration of Northern Cape iron ores under reducing conditions",
@@ -356,7 +361,7 @@
     {
         "title": "Early gaseous oxygen enrichment to enhance magnetite pellet oxidation",
         "pub_year": "2014",
-        "citation": "Metallurgical and Materials Transactions B 45, 1304-1314, 2014"
+        "citation": "Metallurgical and materials Transactions B 45, 1304-1314, 2014"
     },
     {
         "title": "Economic evaluation and design of an electric arc furnace controller based on economic objectives",
@@ -404,14 +409,14 @@
         "citation": "steel research international 93 (11), 2200208, 2022"
     },
     {
-        "title": "Effects of Thiocyanate on Anodic Dissolution of Iron, Chromium and Type 430 Stainless Steel",
-        "pub_year": "2012",
-        "citation": "Journal of The Electrochemical Society 159 (3), C114, 2012"
-    },
-    {
         "title": "Effects of thiocyanate on anodic dissolution of Iron, Chromium, Nickel and type 304 stainless steel: II. Surface analysis by XPS",
         "pub_year": "2012",
         "citation": "Journal of the Electrochemical Society 159 (11), C519, 2012"
+    },
+    {
+        "title": "Effects of thiocyanate on anodic dissolution of iron, chromium and type 430 stainless steel",
+        "pub_year": "2012",
+        "citation": "Journal of The Electrochemical Society 159 (3), C114, 2012"
     },
     {
         "title": "Effects of thiocyanate on anodic dissolution of iron, chromium, nickel and type 304 stainless steel: I. Electrochemical measurements and surface morphology",
@@ -459,7 +464,7 @@
         "citation": "Journal of the Southern African Institute of Mining and Metallurgy 121 (8 …, 2021"
     },
     {
-        "title": "Examples of How Fundamental Knowledge can Improve Steelmaking: Desulphurisation Kinetics Calcium and Modification",
+        "title": "Examples of how fundamental knowledge can improve steelmaking: Desulphurisation kinetics calcium and modification",
         "pub_year": "2013",
         "citation": "Transactions of the Indian Institute of Metals 66, 519-523, 2013"
     },
@@ -484,14 +489,14 @@
         "citation": "steel research international 93 (3), 2100068, 2022"
     },
     {
-        "title": "Formation of Hematite Whiskers during Magnetite Concentrate Oxidation",
-        "pub_year": "2019",
-        "citation": "ISIJ International 59 (10), 1765-1769, 2019"
-    },
-    {
         "title": "Formation of copper sulfide artifacts during electrolytic dissolution of steel",
         "pub_year": "2013",
         "citation": "Metallurgical and Materials transactions B 44, 483-486, 2013"
+    },
+    {
+        "title": "Formation of hematite whiskers during magnetite concentrate oxidation",
+        "pub_year": "2019",
+        "citation": "ISIJ International 59 (10), 1765-1769, 2019"
     },
     {
         "title": "Formation of silicon by electro-deoxidation, and implications for titanium metal production",
@@ -512,11 +517,6 @@
         "title": "GGGG LLLL G LGGLGLSS DURING THE AUTOGENOUS ARC VVELDING OF STAINLESS STEEL",
         "pub_year": "2003",
         "citation": "Welding in the World 47 (9/10), 2003"
-    },
-    {
-        "title": "Galvanic corrosion of dental cobalt-chromium alloys and dental amalgam in artificial saliva.",
-        "pub_year": "2008",
-        "citation": "SADJ: Journal of the South African Dental Association= Tydskrif van die Suid …, 2008"
     },
     {
         "title": "Galvanic corrosion of dental cobalt-chromium alloys and dental amalgam in artificial saliva: scientific",
@@ -591,7 +591,7 @@
     {
         "title": "In Situ Observation of Reaction Fronts During the Initial Stages of Iron Surface Oxidation at 1150° C",
         "pub_year": "2020",
-        "citation": "Oxidation of Metals 93, 449-463, 2020"
+        "citation": "Oxidation of Metals 93 (5), 449-463, 2020"
     },
     {
         "title": "Inclusion Compositions Before and After Calcium Treatment Measured Using Automated Inclusion Analysis Methods",
@@ -626,7 +626,7 @@
     {
         "title": "Interface-resolved simulation of bubbles–metal–slag multiphase system in a gas-stirred ladle",
         "pub_year": "2021",
-        "citation": "Metallurgical and Materials Transactions B 52, 1532-1549, 2021"
+        "citation": "Metallurgical and Materials Transactions B 52 (3), 1532-1549, 2021"
     },
     {
         "title": "Interfacial Reaction Rate Constant of Nitrogen with Liquid Cobalt Measured by Nitrogen Isotope Exchange",
@@ -684,7 +684,7 @@
         "citation": "Celebrating the Megascale: Proceedings of the Extraction and Processing …, 2016"
     },
     {
-        "title": "Large Bubble-Resolved Direct Numerical Simulation for Multiphase Flow Applied to Gas-Stirred Ladles: Grid Resolution and Plug Eccentricity Effects",
+        "title": "Large bubble-resolved direct numerical simulation for multiphase flow applied to gas-stirred ladles: Grid resolution and plug eccentricity effects",
         "pub_year": "2023",
         "citation": "Metallurgical and Materials Transactions B 54 (3), 1290-1313, 2023"
     },
@@ -694,14 +694,14 @@
         "citation": "Heavy Minerals 1999, 183-188, 1999"
     },
     {
-        "title": "Liquid Inclusion Collision and Agglomeration in Calcium-Treated Aluminum-Killed Steel",
-        "pub_year": "2021",
-        "citation": "Frontiers in Materials 8, 736807, 2021"
-    },
-    {
         "title": "Liquid Inclusion Distortion by Lens Shape Effect: In Situ Observation and Quantification on LCAK Steels Using HT-CSLM",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions B 50, 2498-2501, 2019"
+    },
+    {
+        "title": "Liquid inclusion collision and agglomeration in calcium-treated aluminum-killed steel",
+        "pub_year": "2021",
+        "citation": "Frontiers in Materials 8, 736807, 2021"
     },
     {
         "title": "Localized corrosion of carbon steel weldments",
@@ -812,7 +812,7 @@
         "citation": "ISIJ international 39 (1), 23-32, 1999"
     },
     {
-        "title": "Modeling manganese silicate inclusion composition changes during ladle treatment using factsage macros",
+        "title": "Modeling manganese silicate inclusion composition changes during ladle treatment using FactSage macros",
         "pub_year": "2017",
         "citation": "Metallurgical and Materials Transactions B 48, 37-45, 2017"
     },
@@ -872,10 +872,6 @@
         "citation": "Metallurgical and Materials Transactions B 46, 2414-2418, 2015"
     },
     {
-        "title": "Navigation Bar",
-        "citation": ""
-    },
-    {
         "title": "Nichteisenmetallproduktion in Sudafrika",
         "pub_year": "2007",
         "citation": "World of Metallurgy-Erzmetall 60 (3), 140-146, 2007"
@@ -886,13 +882,13 @@
         "citation": "Mineral Processing and Extractive Metallurgy 119 (2), 52-59, 2010"
     },
     {
-        "title": "Nitrogen Control during Autogenous Arc Welding of Stainless Steel- Part 1: Experimental Observations.",
-        "pub_year": "2003",
-        "citation": "Welding journal 82 (8), 219-224, 2003"
-    },
-    {
         "title": "Nitrogen Control during the Autogenous Arc Welding of Stainless Steel Part 2: A Kinetic Model for Nitrogen Absorption and Desorption",
         "citation": ""
+    },
+    {
+        "title": "Nitrogen control during autogenous arc welding of stainless steel-part 1: experimental observations",
+        "pub_year": "2003",
+        "citation": "Welding journal 82 (8), 219-224, 2003"
     },
     {
         "title": "Nitrogen control during the autogenous arc welding of stainless steel",
@@ -941,7 +937,7 @@
     {
         "title": "Origin of Oxides and Oxide-Related Pores in Laser Powder Bed Fusion Parts",
         "pub_year": "2020",
-        "citation": "Fourth ASTM Symposium on Structural Integrity of Additive Manufactured …, 2020"
+        "citation": "Structural Integrity of Additive Manufactured Materials and Parts; Shamsaei …, 2020"
     },
     {
         "title": "Oxidation of high-titanium slags in the presence of water vapour",
@@ -1157,9 +1153,9 @@
         "citation": "Metallurgical and Materials Transactions B 53 (3), 1335-1338, 2022"
     },
     {
-        "title": "Strength of direct reduced iron following Gas-based reduction and carburization",
+        "title": "Strength of direct reduced iron following gas-based reduction and carburization",
         "pub_year": "2020",
-        "citation": "Metallurgical and Materials Transactions B 51, 2628-2641, 2020"
+        "citation": "Metallurgical and Materials Transactions B 51 (6), 2628-2641, 2020"
     },
     {
         "title": "Strengthening of a cold worked 17% Cr ferritic stainless steel (type 430) by heat treatment",
@@ -1206,6 +1202,16 @@
         "citation": "TMS2015, 113, 0"
     },
     {
+        "title": "THE INSTITUTE, AS A BODY, IS NOT RESPONSIBLE FOR THE STATEMENTS AND OPINIONS ADVANCED IN ANY OF ITS PUBLICATIONS.",
+        "pub_year": "2004",
+        "citation": "Journal of the South African Institute of Mining and Metallurgy 104 (6-10), 363, 2004"
+    },
+    {
+        "title": "THE INSTITUTE, AS A BODY, IS NOT RESPONSIBLE FOR THE STATEMENTS AND OPINIONS ADVANCED IN ANY OF ITS PUBLICATIONS.",
+        "pub_year": "1996",
+        "citation": "Journal of the South African Institute of Mining and Metallurgy 96 (1-3), 83, 1996"
+    },
+    {
         "title": "Tap-hole wear: analysis of daily average slag and metal compositions of a single SiMn smelter",
         "pub_year": "2015",
         "citation": "Proceedings of the Fourteenth International Ferroalloys Congress, 505-510, 2015"
@@ -1218,7 +1224,7 @@
     {
         "title": "Technical and economic evaluation of top gas recycling blast furnace ironmaking",
         "pub_year": "2011",
-        "citation": "Proceedings of the Fray International Symposium 27, 2011"
+        "citation": "Proceedings of the Fray Int. Symp 27, 223-232, 2011"
     },
     {
         "title": "The Costs and Distributional Impacts of Decarbonizing the Iron and Steel Industry in the United States",
@@ -1229,11 +1235,6 @@
         "title": "The Importance of Metallurgical Process Phenomena",
         "pub_year": "2014",
         "citation": "Treatise on Process Metallurgy, 142, 2014"
-    },
-    {
-        "title": "The Potential of the Young",
-        "pub_year": "2022",
-        "citation": "Journal of the Southern African Institute of Mining and Metallurgy 122 (7 …, 2022"
     },
     {
         "title": "The Scanning Reference Electrode Technique--a\" Corrosion Microscope\"",
@@ -1258,7 +1259,7 @@
     {
         "title": "The effect of some fundamental aspects of the pitting corrosion of stainless steel on electrochemical noise measurements",
         "pub_year": "1996",
-        "citation": "Electrochemical Noise Measurement for Corrosion Applications 1277, 343, 1996"
+        "citation": "Electrochemical Noise Measurement for Corrosion Applications, 1996"
     },
     {
         "title": "The electrochemistry of gold–platinum alloys",
@@ -1381,7 +1382,7 @@
         "citation": "Proceedings of the second international slag valorization symposium, Leuven …, 2011"
     },
     {
-        "title": "Toward multiscale model development for multiphase flow: direct numerical simulation of dispersed phases and multiscale interfaces in a gas-stirred ladle",
+        "title": "Toward multiscale model development for multiphase flow: Direct numerical simulation of dispersed phases and multiscale interfaces in a gas-stirred ladle",
         "pub_year": "2021",
         "citation": "JOM 73 (10), 2888-2899, 2021"
     },
@@ -1435,14 +1436,14 @@
         "citation": "Metallurgical and Materials Transactions B 46, 668-679, 2015"
     },
     {
-        "title": "Wear Mechanisms of Carbon-Based Refractory Materials in Silicomanganese Tap Holes—Part I: Equilibrium Calculations and Slag and Refractory Characterization",
-        "pub_year": "2015",
-        "citation": "Metallurgical and Materials Transactions B 46, 653-667, 2015"
-    },
-    {
         "title": "Wear analysis of a tap-hole from a SiMn production furnace",
         "pub_year": "2014",
         "citation": "Furnace Tapping Conference 2014, 51-64, 2014"
+    },
+    {
+        "title": "Wear mechanisms of carbon-based refractory materials in silicomanganese tap holes—part I: equilibrium calculations and slag and refractory characterization",
+        "pub_year": "2015",
+        "citation": "Metallurgical and Materials Transactions B 46, 653-667, 2015"
     },
     {
         "title": "基模拟于和激实光验粉分床析熔融镍合金 (Inconel 718) 加热凝固分析的数值",

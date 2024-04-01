@@ -25,6 +25,11 @@
         "citation": "Materials & Design 222, 111032, 2022"
     },
     {
+        "title": "Anisotropic physics-regularized interpretable machine learning of microstructure evolution",
+        "pub_year": "2024",
+        "citation": "Computational Materials Science 238, 112941, 2024"
+    },
+    {
         "title": "Automated, high-accuracy classification of textured microstructures using a convolutional neural network",
         "pub_year": "2023",
         "citation": "Frontiers in Materials 10, 1086000, 2023"
@@ -70,11 +75,6 @@
         "citation": "Journal of the European Ceramic Society 38 (11), 3914-3924, 2018"
     },
     {
-        "title": "Grain Boundary Migration in Polycrystals",
-        "pub_year": "2023",
-        "citation": "Annual Review of Materials Research 53, 2023"
-    },
-    {
         "title": "Grain boundary complexion transitions",
         "pub_year": "2020",
         "citation": "Annual Review of Materials Research 50, 465-492, 2020"
@@ -83,6 +83,11 @@
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
         "citation": "Acta Materialia 264, 119541, 2024"
+    },
+    {
+        "title": "Grain boundary migration in polycrystals",
+        "pub_year": "2023",
+        "citation": "Annual Review of Materials Research 53, 347-369, 2023"
     },
     {
         "title": "High temperature interactions between environmental barrier coating (EBC) ceramics and calcia-magnesia-alumina-silicate (CMAS) glass",
@@ -98,6 +103,11 @@
         "title": "Interaction between ceramic powder and molten calcia-magnesia-alumino-silicate (CMAS) glass, and its implication on CMAS-resistant thermal barrier coatings",
         "pub_year": "2016",
         "citation": "Scripta Materialia 112, 118-122, 2016"
+    },
+    {
+        "title": "Large pores promote abnormal grain growth behavior in calcia doped alumina",
+        "pub_year": "2024",
+        "citation": "Scripta Materialia 245, 116058, 2024"
     },
     {
         "title": "Mapping the Evolution of Grains in Strontium Titanate through Laboratory based 4D Diffraction Contrast Tomography",

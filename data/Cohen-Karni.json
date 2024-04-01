@@ -135,6 +135,11 @@
         "citation": "Nano letters 9 (2), 914-918, 2009"
     },
     {
+        "title": "Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
+        "pub_year": "2023",
+        "citation": "Nature communications 14 (1), 7019, 2023"
+    },
+    {
         "title": "Electron transport in multidimensional fuzzy graphene nanostructures",
         "pub_year": "2019",
         "citation": "Nano letters 19 (8), 5335-5339, 2019"
@@ -142,12 +147,12 @@
     {
         "title": "Engineering three-dimensional (3D) out-of-plane graphene edge sites for highly selective two-electron oxygen reduction electrocatalysis",
         "pub_year": "2020",
-        "citation": "ACS Catalysis 10 (3), 1993-2008, 2020"
+        "citation": "ACS catalysis 10 (3), 1993-2008, 2020"
     },
     {
-        "title": "Fabrication and characterization of Fe-Pd ferromagnetic shape-memory thin films",
+        "title": "Fabrication and characterization of Fe-pd ferromagnetic shape-memory thin films",
         "pub_year": "2003",
-        "citation": "MRS Online Proceedings Library (OPL) 785, 2003"
+        "citation": "MRS Online Proceedings Library (OPL) 785, D7. 4, 2003"
     },
     {
         "title": "Fe-Pd alloy ferromagnetic shape memory thin films",
@@ -170,9 +175,13 @@
         "citation": "Proceedings of the National Academy of Sciences 106 (18), 7309-7313, 2009"
     },
     {
+        "title": "Graphene Micro-Electrode Arrays for Electrical and Optical Measurements of Human Embryonic Stem Cell-derived Cardiomyocytes",
+        "citation": ""
+    },
+    {
         "title": "Graphene and Poly (3, 4-ethylenedioxythiophene)–Polystyrene Sulfonate Hybrid Nanostructures for Input/Output Bioelectronics",
         "pub_year": "2023",
-        "citation": "ACS Applied Nano Materials, 2023"
+        "citation": "ACS Applied Nano Materials 6 (10), 8495-8505, 2023"
     },
     {
         "title": "Graphene and nanowire transistors for cellular interfaces and electrical recording",
@@ -197,7 +206,7 @@
     {
         "title": "Hysteresis‐Free and High‐Sensitivity Strain Sensing of Ionically Conductive Hydrogels",
         "pub_year": "2023",
-        "citation": "Advanced NanoBiomed Research 3 (2), 2200132, 2023"
+        "citation": "Advanced nanobiomed research 3 (2), 2200132, 2023"
     },
     {
         "title": "Intact mangrove root electrodes for desalination",
@@ -314,9 +323,9 @@
         "citation": ""
     },
     {
-        "title": "Photoactive electrospun fibers for inducing cell death",
-        "pub_year": "2014",
-        "citation": "Advanced Healthcare Materials 3 (4), 494-499, 2014"
+        "title": "Photoactive electrospun fibers for inducing cell death.",
+        "pub_year": "2013",
+        "citation": "Advanced Healthcare Materials 3 (4), 494-499, 2013"
     },
     {
         "title": "Photothermal Excitation of Neurons Using MXene: Cellular Stress and Phototoxicity Evaluation",
@@ -371,7 +380,7 @@
     {
         "title": "The Baltimore declaration toward the exploration of organoid intelligence",
         "pub_year": "2023",
-        "citation": "Frontiers in Science, 0, 2023"
+        "citation": "Frontiers in Science 1, 1068159, 2023"
     },
     {
         "title": "The smartest materials: the future of nanoelectronics in medicine",
@@ -417,10 +426,5 @@
         "title": "Using structural adaptations in plants for desalination",
         "pub_year": "2020",
         "citation": "Bulletin of the American Physical Society 65, 2020"
-    },
-    {
-        "title": "​​​ Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
-        "pub_year": "2023",
-        "citation": "bioRxiv, 2023.06. 05.543794, 2023"
     }
 ]

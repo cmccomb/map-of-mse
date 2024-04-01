@@ -5,6 +5,11 @@
         "citation": "Macromolecules, 2024"
     },
     {
+        "title": "A hybrid smoothed-particle hydrodynamics model of oxide skins on molten aluminum",
+        "pub_year": "2024",
+        "citation": "Applied Mathematical Modelling, 2024"
+    },
+    {
         "title": "A reversible strain-induced electrical conductivity in cup-stacked carbon nanotube",
         "pub_year": "2013",
         "citation": "Nanoscale, 2013"
@@ -22,7 +27,7 @@
     {
         "title": "Anomalous Diffusion of Smooth Nanorods in Polymer Nanocomposites",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, Z05. 002, 2023"
     },
     {
         "title": "Chain Ends and the Ultimate Strength of Polyethylene Fibers",
@@ -112,7 +117,7 @@
     {
         "title": "Entropic stress of grafted polymer chains in shear flow",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.07737, 2023"
+        "citation": "The Journal of Chemical Physics 159 (9), 2023"
     },
     {
         "title": "Evaluation of diffusion and dethreading in blends of ring and linear polymers",
@@ -127,7 +132,7 @@
     {
         "title": "Flow-Driven Dynamic Heterogeneity in Elongating Associative Polymer Networks",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, M02. 005, 2023"
     },
     {
         "title": "How the Microscopic Dynamics of Different Polymer Architectures Drive Nonlinear Extensional Flows",
@@ -185,14 +190,14 @@
         "citation": "Bulletin of the American Physical Society, 2024"
     },
     {
-        "title": "Nonlinear elongation flows in associating polymer melts: from homogeneous to heterogeneous flow",
+        "title": "Nonlinear elongation flows in associating polymer melts: From homogeneous to heterogeneous flow",
         "pub_year": "2022",
         "citation": "Physical Review X 12 (2), 021024, 2022"
     },
     {
         "title": "Orthotropic Behavior of Aged Paper",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, S33. 014, 2023"
     },
     {
         "title": "O’Connor, Alvarez, and Robbins Reply",
@@ -202,7 +207,7 @@
     {
         "title": "Reactive Bead-Spring Models for Associative Polymer Networks Far From Equilibrium",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, Q15. 011, 2023"
     },
     {
         "title": "Relating Solvent Dynamics to the Extensional Viscosity of Entangled Polymer Solutions.",
@@ -248,6 +253,11 @@
         "title": "Simulation studies of shock wave propagation and reflection in semi-crystalline polyethylene",
         "pub_year": "2017",
         "citation": "APS Shock Compression of Condensed Matter Meeting Abstracts, Y4. 002, 2017"
+    },
+    {
+        "title": "Smoother Surfaces Enhance Diffusion of Nanorods in Entangled Polymer Melts",
+        "pub_year": "2024",
+        "citation": "Macromolecules, 2024"
     },
     {
         "title": "Steady-state flow properties of amorphous materials",
@@ -312,16 +322,16 @@
     {
         "title": "Unexpected Slow Relaxation Dynamics in Pure Ring Polymers Arise from Intermolecular Interactions",
         "pub_year": "2023",
-        "citation": "ACS Polymers Au, 2023"
+        "citation": "ACS Polymers Au 3 (4), 307-317, 2023"
     },
     {
         "title": "Uniaxial Elongational Flow of Ring-Polymer Melts with Associating Groups",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, F04. 003, 2023"
     },
     {
         "title": "Uniaxial elongational flow of entangled, associating linear polymer melts",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, M02. 006, 2023"
     }
 ]

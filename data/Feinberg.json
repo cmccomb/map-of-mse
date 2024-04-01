@@ -14,6 +14,11 @@
         "citation": "TISSUE ENGINEERING PART A 28, S320-S321, 2022"
     },
     {
+        "title": "3D Bioprinted Collagen Microfluidics For Vascularization Of Volumetric Tissue",
+        "pub_year": "2023",
+        "citation": "TISSUE ENGINEERING PART A 29 (9-10), 2023"
+    },
+    {
         "title": "3D Bioprinted Patient‐Specific Extracellular Matrix Scaffolds for Soft Tissue Defects",
         "pub_year": "2022",
         "citation": "Advanced Healthcare Materials 11 (24), 2200866, 2022"
@@ -113,9 +118,9 @@
         "citation": "Nature Biotechnology 30 (8), 792-797, 2012"
     },
     {
-        "title": "ADDITIVE MANUFACTURING BASED ON FLUID-FLUID INTERFACE",
-        "pub_year": "2020",
-        "citation": "US Patent App. 16/603,173, 2020"
+        "title": "Additive manufacturing based on fluid-fluid interface",
+        "pub_year": "2024",
+        "citation": "US Patent 11,931,969, 2024"
     },
     {
         "title": "Additive manufacturing of embedded materials",
@@ -136,6 +141,11 @@
         "title": "Additive manufacturing support material",
         "pub_year": "2023",
         "citation": "US Patent 11,692,070, 2023"
+    },
+    {
+        "title": "Advances in 3D Bioprinted Cardiac Tissue Using Stem Cell-Derived Cardiomyocytes",
+        "pub_year": "2024",
+        "citation": "Stem Cells Translational Medicine, szae014, 2024"
     },
     {
         "title": "An in vitro model of cellular injury in traumatic brain injury",
@@ -173,9 +183,9 @@
         "citation": "Polymer Preprints 45 (1), 629-630, 2004"
     },
     {
-        "title": "Biodegradable, Sustainable Hydrogel Actuators with Shape and Stiffness Morphing Capabilities via Embedded 3D Printing",
+        "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
-        "citation": "Advanced Functional Materials, 2303659, 2023"
+        "citation": "Advanced Functional Materials 33 (36), 2303659, 2023"
     },
     {
         "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
@@ -330,6 +340,11 @@
         "title": "Effect of argon plasma treatment on PDMS elastomer investigated by AFM.",
         "pub_year": "2003",
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U711-U711, 2003"
+    },
+    {
+        "title": "Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
+        "pub_year": "2023",
+        "citation": "Nature communications 14 (1), 7019, 2023"
     },
     {
         "title": "Embedded 3D Printing of Thermally‐Cured Thermoset Elastomers and the Interdependence of Rheology and Machine Pathing",
@@ -627,6 +642,11 @@
         "citation": "US Patent App. 17/754,115, 2022"
     },
     {
+        "title": "MONOLAYER CELL PATCH IN AN EXTRACELLULAR MATRIX SCAFFOLD",
+        "pub_year": "2024",
+        "citation": "US Patent App. 17/769,626, 2024"
+    },
+    {
         "title": "MUSCLE CHIPS AND METHODS OF USE THEREOF",
         "pub_year": "2014",
         "citation": "US Patent 20,140,342,394, 2014"
@@ -682,12 +702,12 @@
     {
         "title": "Muscle chips and methods of use thereof",
         "pub_year": "2020",
-        "citation": ""
+        "citation": "US Patent 10,725,021, 2020"
     },
     {
         "title": "Muscle chips and methods of use thereof",
         "pub_year": "2020",
-        "citation": "US Patent 10,725,021, 2020"
+        "citation": ""
     },
     {
         "title": "Muscular thin films for building actuators and powering devices",
@@ -894,11 +914,6 @@
         "citation": "Journal of Biomedical Materials Research Part A 86 (2), 522-534, 2008"
     },
     {
-        "title": "THREE-DIMENSIONAL MICROTISSUES WITH INTEGRATED MECHANICAL LOADING",
-        "pub_year": "2020",
-        "citation": "US Patent App. 16/638,544, 2020"
-    },
-    {
         "title": "TISSUE ENGINEERED MYOCARDIUM AND METHODS OF PRODUCTION AND USES THEREOF",
         "pub_year": "2012",
         "citation": "US Patent 20,120,027,807, 2012"
@@ -917,6 +932,11 @@
         "title": "Three-dimensional fuzzy graphene ultra-microelectrodes for subcellular electrical recordings",
         "pub_year": "2020",
         "citation": "Nano Research 13 (5), 1444-1452, 2020"
+    },
+    {
+        "title": "Three-dimensional microtissues with integrated mechanical loading",
+        "pub_year": "2024",
+        "citation": "US Patent 11,926,844, 2024"
     },
     {
         "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels",
@@ -952,10 +972,5 @@
         "title": "Using the Embryonic Heart as an Instructive Template for Cardiac Tissue Engineering",
         "pub_year": "2015",
         "citation": "Circulation Research 117 (Suppl 1), A153-A153, 2015"
-    },
-    {
-        "title": "​​​ Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
-        "pub_year": "2023",
-        "citation": "bioRxiv, 2023.06. 05.543794, 2023"
     }
 ]

@@ -10,6 +10,11 @@
         "citation": "Journal of The Electrochemical Society 150 (12), A1676, 2003"
     },
     {
+        "title": "A Coupled NMR and Differential Capacity Study of the Consumption of Electrolyte and Additive Components during the Formation Cycle of Li-Ion Pouch Cells",
+        "pub_year": "2024",
+        "citation": "245th ECS Meeting (May 26-30, 2024), 2024"
+    },
+    {
         "title": "A High Voltage Grid-Tied Stationary Energy Storage Demonstration Based on The Aqueous Hybrid Ion Battery System",
         "pub_year": "2012",
         "citation": "ECS Meeting Abstracts, 375, 2012"
@@ -20,9 +25,9 @@
         "citation": "Electrochemical Society Meeting Abstracts 236, 592-592, 2019"
     },
     {
-        "title": "A Large Format Stationary Energy Storage Device Based On a Composite Sodium Titanium Phosphate Anode Materials System",
+        "title": "A Large Format Stationary Energy Storage Device Based on a Composite Sodium Titanium Phosphate Anode Materials System",
         "pub_year": "2013",
-        "citation": "Electrochemical Society Meeting Abstracts 224, 1684-1684, 2013"
+        "citation": "ECS Meeting Abstracts, 1684, 2013"
     },
     {
         "title": "A Polyionic, Large‐Format Energy Storage Device Using an Aqueous Electrolyte and Thick‐Format Composite NaTi2(PO4)3/Activated Carbon Negative Electrodes",
@@ -280,9 +285,9 @@
         "citation": "Electrochimica Acta 235, 730-739, 2017"
     },
     {
-        "title": "Catechol‐mediated reversible binding of multivalent cations in eumelanin half‐cells",
+        "title": "Catechol-mediated reversible binding of multivalent cations in eumelanin half-cells",
         "pub_year": "2014",
-        "citation": "Advanced Materials 26 (38), 6572-6579, 2014"
+        "citation": "Adv. Mater 26 (38), 6572-6579, 2014"
     },
     {
         "title": "Characterization of Used A123 LiFePO4 Cells from a Hybrid-Bus Battery Pack",
@@ -407,7 +412,7 @@
     {
         "title": "Current status of university-based energy institutes in the United States and a pathway to forming a national organization",
         "pub_year": "2022",
-        "citation": "Iscience 25 (4), 104151, 2022"
+        "citation": "Iscience 25 (4), 2022"
     },
     {
         "title": "Cycling-Induced crystallographic and morphological changes in Na4Mn9O18",
@@ -551,7 +556,7 @@
     {
         "title": "Electrodeposited amorphous manganese oxide nanowire arrays for high energy and power density electrodes",
         "pub_year": "2004",
-        "citation": "Journal of Power Sources 126 (1-2), 203-206, 2004"
+        "citation": "Journal of power sources 126 (1-2), 203-206, 2004"
     },
     {
         "title": "Electrodeposited thermoelectric nanowires",
@@ -618,9 +623,9 @@
         "citation": "Proceedings of the National Academy of Sciences 114 (26), 6722-6727, 2017"
     },
     {
-        "title": "Evidence of Porphyrin‐Like Structures in Natural Melanin Pigments Using Electrochemical Fingerprinting",
+        "title": "Evidence of Porphyrin-Like Structures in Natural Melanin Pigments Using Electrochemical Fingerprinting.",
         "pub_year": "2016",
-        "citation": "Advanced Materials 28 (16), 3173-3180, 2016"
+        "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (16), 3173-3180, 2016"
     },
     {
         "title": "Examining different recycling processes for lithium-ion batteries",
@@ -635,12 +640,17 @@
     {
         "title": "Expert assessments of the cost and expected future performance of proton exchange membrane fuel cells for vehicles",
         "pub_year": "2019",
-        "citation": "Proceedings of the National Academy of Sciences 116 (11), 4899-4904, 2019"
+        "citation": "Proceedings of the national academy of sciences 116 (11), 4899-4904, 2019"
     },
     {
         "title": "Expert elicitation on paths to advance fuel cell electric vehicles",
         "pub_year": "2022",
         "citation": "Energy Policy 160, 112671, 2022"
+    },
+    {
+        "title": "Exploring the Voltage Stability of Birnessitic Bi-MnO2 Cathodes Formed In Situ in NaOH and KOH-Based Electrolytes",
+        "pub_year": "2024",
+        "citation": "Journal of The Electrochemical Society, 2024"
     },
     {
         "title": "FLUO 25-The development of improved lithium-ion battery electrolytes containing fluorinated cosolvents",
@@ -660,7 +670,7 @@
     {
         "title": "Fabrication method for thermoelectric nanodevices",
         "pub_year": "2005",
-        "citation": "Advanced materials 17 (12), 1488-1492, 2005"
+        "citation": "Advanced Materials (Weinheim) 17, 2005"
     },
     {
         "title": "Formation of micro/mesopores during chemical activation in tailor-made nongraphitic carbons",
@@ -750,7 +760,7 @@
     {
         "title": "Hydrogen storage for fuel cell electric vehicles: expert elicitation and a levelized cost of driving model",
         "pub_year": "2020",
-        "citation": "Environmental Science & Technology 55 (1), 553-562, 2020"
+        "citation": "Environmental science & technology 55 (1), 553-562, 2020"
     },
     {
         "title": "Improved Fabrication of Lithium Films Having Micron Features",
@@ -804,7 +814,7 @@
     {
         "title": "In-plane Texturing in sputtered films",
         "pub_year": "2000",
-        "citation": "Textures and Microstructures 34 (2-3), 91-103, 2000"
+        "citation": "Texture, Stress, and Microstructure 34 (2-3), 91-103, 2000"
     },
     {
         "title": "Increasing Discharge Capacities of Li-(CF)(sub n) Cells",
@@ -843,18 +853,13 @@
     },
     {
         "title": "Large Format Aqueous Electrolyte Polyionic Devices for Low Cost, Multi-Hour Stationary Energy Storage",
-        "pub_year": "2012",
+        "pub_year": "2014",
         "citation": ""
     },
     {
         "title": "Large Format High Voltage Aqueous Hybrid Devices for Low Cost Scaled Energy Storage",
         "pub_year": "2011",
         "citation": "ECS Meeting Abstracts, 491, 2011"
-    },
-    {
-        "title": "Large Scale Aqueous Electrolyte Sodium Ion Based Energy Storage Batteries for Stationary Storage",
-        "pub_year": "2012",
-        "citation": "ECS Meeting Abstracts, 365, 2012"
     },
     {
         "title": "Large format electrochemical energy storage device housing and module",
@@ -870,6 +875,11 @@
         "title": "Large format electrochemical energy storage device housing and module",
         "pub_year": "2016",
         "citation": "US Patent App. 15/091,764, 2016"
+    },
+    {
+        "title": "Large scale aqueous electrolyte sodium ion based energy storage batteries for stationary storage",
+        "pub_year": "2012",
+        "citation": "ECS Meeting Abstracts, 365, 2012"
     },
     {
         "title": "Laser Ablation Increases PEM/Catalyst Interfacial Area",
@@ -942,6 +952,11 @@
         "citation": "Electrochemical Society Meeting Abstracts 227, 113-113, 2015"
     },
     {
+        "title": "Low Process Temperature Nanocrystalline LiCoO 2 Thin Film Cathodes",
+        "pub_year": "2001",
+        "citation": "Power Sources for the New Millennium: Proc. Int. Symp., 257-65, 2001"
+    },
+    {
         "title": "Low Pt content direct methanol fuel cell anode catalyst: nanophase PtRuNiZr",
         "pub_year": "2010",
         "citation": "US Patent 7,695,849, 2010"
@@ -955,11 +970,6 @@
         "title": "Low operational temperature Li–CFx batteries using cathodes containing sub-fluorinated graphitic materials",
         "pub_year": "2006",
         "citation": "Journal of power sources 160 (1), 577-584, 2006"
-    },
-    {
-        "title": "Low process temperature nanocrystalline LiCoO2 thin film cathodes",
-        "pub_year": "2001",
-        "citation": "Power Sources for the New Millennium: Proc. Int. Symp., 257-65, 2001"
     },
     {
         "title": "Low temperature electrochemical cell",
@@ -1116,7 +1126,7 @@
         "citation": "Electrochemistry Communications 12 (3), 463-466, 2010"
     },
     {
-        "title": "Nano Current Charging Algorithm for Thin-Film Lithium Microbatteries",
+        "title": "Nano current charging algorithm for thin film lithium microbatteries",
         "pub_year": "2003",
         "citation": "Proc. 11th NASA Symposium on VLSI Design, 28-29, 2003"
     },
@@ -1127,6 +1137,11 @@
     },
     {
         "title": "Negative electrodes for electrochemical cells",
+        "pub_year": "2023",
+        "citation": "US Patent 11,552,290, 2023"
+    },
+    {
+        "title": "Negative electrodes for electrochemical cells",
         "pub_year": "2020",
         "citation": ""
     },
@@ -1134,11 +1149,6 @@
         "title": "Negative electrodes for electrochemical cells",
         "pub_year": "2023",
         "citation": "US Patent App. 18/149,494, 2023"
-    },
-    {
-        "title": "Negative electrodes for electrochemical cells",
-        "pub_year": "2023",
-        "citation": "US Patent 11,552,290, 2023"
     },
     {
         "title": "Net air emissions from electric vehicles: the effect of carbon price and charging strategies",
@@ -1406,7 +1416,7 @@
     },
     {
         "title": "Sodium ion based aqueous electrolyte electrochemical secondary energy storage device",
-        "pub_year": "2016",
+        "pub_year": "2009",
         "citation": ""
     },
     {
@@ -1548,7 +1558,7 @@
     {
         "title": "The Importance of Structural Uniformity and Chemical Homogeneity in Cobalt‐Free Lithium Excess Nickel Manganese Oxide Cathodes",
         "pub_year": "2023",
-        "citation": "Advanced Science, 2300068, 2023"
+        "citation": "Advanced Science 10 (16), 2300068, 2023"
     },
     {
         "title": "The Kinetics of sub-fluorinated carbon fluoride cathodes for lithium batteries",
@@ -1558,7 +1568,7 @@
     {
         "title": "The Role of Roughness in Texture Development",
         "pub_year": "1996",
-        "citation": "MRS Online Proceedings Library (OPL) 440, 1996"
+        "citation": "MRS Online Proceedings Library (OPL) 440, 241, 1996"
     },
     {
         "title": "The Use of High Rate Li-ion Cells in Hybrid Fuel-Cell/Battery Power Systems for Application in Large Robotic Vehicles",
@@ -1573,7 +1583,7 @@
     {
         "title": "The economic end of life of electrochemical energy storage",
         "pub_year": "2020",
-        "citation": "Applied Energy 273, 115151, 2020"
+        "citation": "Applied energy 273, 115151, 2020"
     },
     {
         "title": "The economics of using PHEV battery packs for grid storage",

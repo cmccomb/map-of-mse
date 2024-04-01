@@ -382,7 +382,7 @@
     {
         "title": "Elucidation of chain dispersity effect on structure and mechanical properties of brush particle solids",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, W05. 008, 2023"
     },
     {
         "title": "Elucidation of the governing parameters that dictate thermal transport in polymer nanocomposites",
@@ -507,7 +507,7 @@
     {
         "title": "Hierarchically Ordered Multi-Component Block Copolymer/Particle Nanocomposite Materials",
         "pub_year": "2003",
-        "citation": "MRS Online Proceedings Library (OPL) 788, 2003"
+        "citation": "MRS Online Proceedings Library (OPL) 788, L9. 1, 2003"
     },
     {
         "title": "Hierarchically structured bioinspired nanocomposites",
@@ -741,7 +741,7 @@
     {
         "title": "Nanostructures from phase separated polymers",
         "pub_year": "2008",
-        "citation": "Dekker Encyclopedia of Nanoscience and Nanotechnology, 3093-3108, 2008"
+        "citation": "Dekker Encyclopedia of Nanoscience and Nanotechnology 3, 2641-2656, 2008"
     },
     {
         "title": "New type of montmorillonite compatibilizers and their influence on viscoelastic properties of ethylene propylene diene and methyl vinyl silicone rubbers blends",
@@ -836,7 +836,7 @@
     {
         "title": "Phase behavior of polymer-grafted nanoparticle blend films via thermal and solvent vapor annealing",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, W05. 010, 2023"
     },
     {
         "title": "Phase separation and anomalous domain growth in binary blends of polymer-grafted nanoparticles",
@@ -1029,6 +1029,10 @@
         "citation": "ACS Macro Letters 12 (4), 475-480, 2023"
     },
     {
+        "title": "SiO2‑g‑Polyisoprene Particle Brush Reinforced Advanced Elastomer Nanocomposites Prepared via ARGET ATRP",
+        "citation": "Advanced Functional Materials, 2315741, 0"
+    },
+    {
         "title": "Side group rotational mobility in hairy-rod polymers: A dielectric spectroscopy study",
         "pub_year": "2001",
         "citation": "Macromolecules 34 (10), 3497-3499, 2001"
@@ -1134,6 +1138,11 @@
         "citation": "Hairy Nanoparticles: From Synthesis to Applications, 1-48, 2023"
     },
     {
+        "title": "Synthesis of Mechanically Robust Very High Molecular Weight Polyisoprene Particle Brushes by Atom Transfer Radical Polymerization",
+        "pub_year": "2024",
+        "citation": "ACS Macro Letters 13, 415-422, 2024"
+    },
+    {
         "title": "Synthesis of Nanoparticle Assemblies: general discussion",
         "pub_year": "2016",
         "citation": "Faraday Discussions 186, 123-152, 2016"
@@ -1166,7 +1175,7 @@
     {
         "title": "Synthesis, characterization, electrocatalytic and catalytic activity of thermally generated polymer-stabilized metal nanoparticles",
         "pub_year": "2012",
-        "citation": "Int. J. Electrochem. Sci 7, 5297-5313, 2012"
+        "citation": "International Journal of Electrochemical Science 7 (6), 5297-5313, 2012"
     },
     {
         "title": "Tailoring structure formation and mechanical properties of particle brush solids via homopolymer addition",
@@ -1218,7 +1227,7 @@
         "citation": "Advanced Functional Materials, 2309725, 2023"
     },
     {
-        "title": "Topologically Induced Heterogeneity in Gradient Copolymer Brush Particle Materials",
+        "title": "Topologically induced heterogeneity in gradient copolymer brush particle materials",
         "pub_year": "2022",
         "citation": "Macromolecules 55 (19), 8846-8856, 2022"
     },
@@ -1240,7 +1249,7 @@
     {
         "title": "Transparent nanocomposites for protective coating applications",
         "pub_year": "2011",
-        "citation": "242nd National Meeting of the American-Chemical-Society (ACS) Conference …, 2011"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 242, 2011"
     },
     {
         "title": "Transparent, Conducting, Flexible Ag-NW/Polymer Composite Films",
@@ -1258,14 +1267,14 @@
         "citation": "Polymer Chemistry 12 (42), 6071-6082, 2021"
     },
     {
-        "title": "Tuning the Relaxation of Nanopatterned Polymer Films with Polymer-Grafted Nanoparticles: Observation of Entropy–Enthalpy Compensation",
-        "pub_year": "2018",
-        "citation": "Nano letters 18 (12), 7441-7447, 2018"
-    },
-    {
         "title": "Tuning the relaxation of imprinted polymer films with polymer-grafted nanoparticles",
         "pub_year": "2019",
         "citation": "Microscopy and Microanalysis 25 (S2), 2238-2239, 2019"
+    },
+    {
+        "title": "Tuning the relaxation of nanopatterned polymer films with polymer-grafted nanoparticles: Observation of entropy–enthalpy compensation",
+        "pub_year": "2018",
+        "citation": "Nano letters 18 (12), 7441-7447, 2018"
     },
     {
         "title": "Understanding ligand distributions in modified particle and particlelike systems",

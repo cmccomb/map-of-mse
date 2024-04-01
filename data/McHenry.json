@@ -90,14 +90,14 @@
         "citation": "IEEE transactions on magnetics 37 (4), 1299-1301, 2001"
     },
     {
-        "title": "Axial Flux Motor",
-        "pub_year": "2021",
-        "citation": "US Patent App. 16/733,593, 2021"
+        "title": "Axial flux motor",
+        "pub_year": "2024",
+        "citation": "US Patent 11,936,246, 2024"
     },
     {
         "title": "Barium Potassium Bismuth Oxide Synthesis and Physical Properties",
         "pub_year": "1989",
-        "citation": "MRS Online Proceedings Library (OPL) 156, 1989"
+        "citation": "MRS Online Proceedings Library (OPL) 156, 369, 1989"
     },
     {
         "title": "Behavior of critical currents in Bi-Pb-Sr-Ca-Cu-O/Ag tapes from transport and magnetization measurements: Dependence upon temperature, magnetic field, and field orientation",
@@ -120,11 +120,6 @@
         "citation": "Metallurgical and Materials Transactions A 38, 738-744, 2007"
     },
     {
-        "title": "CONDENSED MATTER: Electrical and Magnetic Properties (PACS 71-76)-Structure and magnetic properties of (Fe0. 5Co0. 5) 88Zr7B4Cu1 nanocrystalline alloys",
-        "pub_year": "1998",
-        "citation": "Journal of Applied Physics 84 (12), 6773-6777, 1998"
-    },
-    {
         "title": "Calculated electronic structure of icosahedral Al and Al-Mn alloys",
         "pub_year": "1986",
         "citation": "Physical review letters 56 (1), 81, 1986"
@@ -137,7 +132,7 @@
     {
         "title": "Carbon coated nanoparticle composites synthesized in an RF plasma torch",
         "pub_year": "1996",
-        "citation": "MRS Online Proceedings Library (OPL) 457, 1996"
+        "citation": "MRS Online Proceedings Library (OPL) 457, 219, 1996"
     },
     {
         "title": "Characterization of ferromagnetic nanoparticles produced by a carbon arc",
@@ -205,9 +200,14 @@
         "citation": "Physica C: Superconductivity 249 (1-2), 53-68, 1995"
     },
     {
+        "title": "Cross, 24. JO et al. Structure and magnetic properties of (Fe0. 5Co0. 5) 88Zr7B4Cu1 nanocrystalline alloys",
+        "pub_year": "1998",
+        "citation": "J. Appl. Phys 84 (12), 6773-6777, 1998"
+    },
+    {
         "title": "Crystallization and nanocrystallization kinetics of Fe-based amorphous alloys",
         "pub_year": "1999",
-        "citation": "MRS Online Proceedings Library (OPL) 577, 1999"
+        "citation": "MRS Online Proceedings Library (OPL) 577, 551, 1999"
     },
     {
         "title": "Crystallization and thermomagnetic treatment of a Co-rich Co–Fe–Ni–Zr–B–Cu based nanocomposite alloy",
@@ -296,6 +296,11 @@
         "title": "ECI",
         "pub_year": "2004",
         "citation": ""
+    },
+    {
+        "title": "ENGINEERING LIBRARY APR 1 3 1999",
+        "pub_year": "1999",
+        "citation": "Materials Transactions, JIM. 40, 85, 1999"
     },
     {
         "title": "Effect of Ga addition to the  (3:29) system",
@@ -459,13 +464,13 @@
     },
     {
         "title": "Fe-Ni Nanocomposite Alloys",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/617,173, 2022"
+        "pub_year": "2019",
+        "citation": "US Patent App. 16/434,869, 2019"
     },
     {
         "title": "Fe-Ni Nanocomposite Alloys",
-        "pub_year": "2019",
-        "citation": "US Patent App. 16/434,869, 2019"
+        "pub_year": "2022",
+        "citation": "US Patent App. 17/617,173, 2022"
     },
     {
         "title": "Ferrite Magnetism: Fundamentals of Néel's Molecular Field Theory",
@@ -555,11 +560,6 @@
         "title": "Formation of nanoparticles in a carbon arc",
         "pub_year": "1994",
         "citation": "MRS Online Proceedings Library (OPL) 359, 29, 1994"
-    },
-    {
-        "title": "Fullerenes. Chemistry, Physics, and Technology",
-        "pub_year": "2000",
-        "citation": "New York: Wiley-Interscience) p, 2000"
     },
     {
         "title": "Fundamental studies of hafnia-hematite nanoparticles",
@@ -658,17 +658,22 @@
     {
         "title": "Icosahedral Symmetry and Magnetism",
         "pub_year": "1986",
-        "citation": "MRS Online Proceedings Library (OPL) 80, 1986"
+        "citation": "MRS Online Proceedings Library (OPL) 80, 363, 1986"
     },
     {
         "title": "Icosahedral Symmetry and Magnetism",
         "pub_year": "1986",
-        "citation": "MRS Online Proceedings Library (OPL) 80, 1986"
+        "citation": "MRS Online Proceedings Library (OPL) 80, 363, 1986"
     },
     {
         "title": "Icosahedral quasicrystals and magnetism",
         "pub_year": "1990",
         "citation": "Philosophical Magazine B 61 (4), 677-690, 1990"
+    },
+    {
+        "title": "In Fullerenes.",
+        "pub_year": "2000",
+        "citation": "Chemistry, Physics and Technology.//Wiley-Interscience, 839, 2000"
     },
     {
         "title": "In situ ordered polycrystalline  (001) nanostructured films and the effect of CrMn and Zn top layer diffusion",
@@ -751,11 +756,6 @@
         "citation": "IEEE transactions on applied superconductivity 7 (2), 1150-1153, 1997"
     },
     {
-        "title": "J. 0. Cross, and VG Harris",
-        "pub_year": "1998",
-        "citation": "J. Appl. Phys 84, 6773, 1998"
-    },
-    {
         "title": "LAYERED Fe IN CONTACT WITH MgO",
         "citation": ""
     },
@@ -813,7 +813,7 @@
         "citation": ""
     },
     {
-        "title": "MAGNETIC PROPERTIES OF HITPERM (Fe, Co). Zr, B, Cu₁ NANOCRYSTALLINE MAGNETS (INVITED) MA WILLARD*, M. GINGRAS*, MJ LEE*, VG HARRIS",
+        "title": "MAGNETIC PROPERTIES OF HITPERM (Fe, Co), Zr, B, Cu, NANOCRYSTALLINE MAGNETS (INVITED) MA WILLARD*, M. GINGRAS*, MJ LEE*, VG HARRIS",
         "pub_year": "1999",
         "citation": "Advanced Hard and Soft Magnetic Materials: Volume 577 577, 469, 1999"
     },
@@ -953,7 +953,7 @@
         "citation": "Nanostructured Materials 9 (1-8), 291-300, 1997"
     },
     {
-        "title": "Magnetic ordering: some structural aspects",
+        "title": "Magnetic ordering: Some structural aspects",
         "pub_year": "2000",
         "citation": "Phase Transformations and Evolution in Materials, 121-137, 2000"
     },
@@ -1095,7 +1095,7 @@
     {
         "title": "Magnetism in 4d Transition Metal–Ag (001) Sandwiches",
         "pub_year": "1991",
-        "citation": "MRS Online Proceedings Library (OPL) 231, 1991"
+        "citation": "MRS Online Proceedings Library (OPL) 231, 203, 1991"
     },
     {
         "title": "Magnetism in icosahedral structures",
@@ -1365,24 +1365,19 @@
         "citation": "Materials Transactions, JIM. 40, 118, 1999"
     },
     {
-        "title": "PART 3-Amorphous and Nanocrystalline Soft Magnetic Materials-Recent advances in the development of (Fe, Co) 88M7 B4Cu1 magnets",
-        "pub_year": "2000",
-        "citation": "Journal of Applied Physics 87 (9), 7091-7096, 2000"
-    },
-    {
         "title": "Parameterised local spin density exchange-correlation energies and potentials for electronic structure calculations I. Zero temperature formalism",
         "pub_year": "1991",
         "citation": "Computer physics communications 66 (2-3), 383-391, 1991"
     },
     {
-        "title": "Permeability Engineered Soft Magnetics for Power Dense Energy Conversion",
-        "pub_year": "2021",
-        "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 5320-5326, 2021"
-    },
-    {
         "title": "Permeability Engineering Through Strain Anneal Manufacturing",
         "pub_year": "2019",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2019"
+    },
+    {
+        "title": "Permeability engineered soft magnetics for power dense energy conversion",
+        "pub_year": "2021",
+        "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 5320-5326, 2021"
     },
     {
         "title": "Phase Evolution in the FeO–FeTiO Pseudo-Binary System and Its Implications for Remanent Magnetization in Martian Minerals",
@@ -1485,9 +1480,9 @@
         "citation": "Philosophical Magazine B 60 (6), 871-880, 1989"
     },
     {
-        "title": "Publisher's Note: “Tuning the Curie temperature in -FeNi nanoparticles for magnetocaloric applications by controlling the oxidation kinetics” [J. Appl. Phys. 113 …",
+        "title": "Publisher's Note:“Tuning the Curie temperature in γ-FeNi nanoparticles for magnetocaloric applications by controlling the oxidation kinetics”[J. Appl. Phys. 113, 17A918 (2013)]",
         "pub_year": "2013",
-        "citation": "Journal of Applied Physics 113 (15), 159902, 2013"
+        "citation": "Journal of Applied Physics 113 (15), 2013"
     },
     {
         "title": "Quantum chemistry and high-Tc superconductivity",
@@ -1516,7 +1511,7 @@
     {
         "title": "Rapid Solidification of YBa2Cu3O7− x, EuBa2Cu3O7− x, and GdBa2Cu3O7− x",
         "pub_year": "1987",
-        "citation": "MRS Online Proceedings Library (OPL) 99, 1987"
+        "citation": "MRS Online Proceedings Library (OPL) 99, 567, 1987"
     },
     {
         "title": "Rapid solidification of oxide superconductors in the Y-Ba-Cu-O system",
@@ -1793,11 +1788,6 @@
         "citation": "IEEE transactions on magnetics 37 (4), 2261-2263, 2001"
     },
     {
-        "title": "Structure of Materials",
-        "pub_year": "2012",
-        "citation": "Cambridge University Press Textbooks, 2012"
-    },
-    {
         "title": "Structure of materials: an introduction to crystallography, diffraction and symmetry",
         "pub_year": "2012",
         "citation": "Cambridge University Press, 2012"
@@ -1860,7 +1850,7 @@
     {
         "title": "Synthesis, Microstructure, Critical Current Density, Magnetization and Relaxation of Hot-Pressed YBa2Cu3O6+ δ Through Partial Melting Post-Oxygenation",
         "pub_year": "1992",
-        "citation": "MRS Online Proceedings Library (OPL) 275, 1992"
+        "citation": "MRS Online Proceedings Library (OPL) 275, 287, 1992"
     },
     {
         "title": "Synthesis, structure and superconducting properties of tantalum carbide nanorods and nanoparticles",
@@ -1930,7 +1920,7 @@
     {
         "title": "The Influence of Microstructure on the Magnetic Properties in Nanostructured Copt L10 Thin Films",
         "pub_year": "1999",
-        "citation": "MRS Online Proceedings Library (OPL) 577, 1999"
+        "citation": "MRS Online Proceedings Library (OPL) 577, 365, 1999"
     },
     {
         "title": "The Inﬂuence of Granularity on Dissipation in High Temperature Superconductor",
@@ -2034,12 +2024,12 @@
     {
         "title": "Thermal plasma synthesis of Fe-Co alloy nanoparticles",
         "pub_year": "1997",
-        "citation": "MRS Online Proceedings Library 501, 121-126, 1997"
+        "citation": "MRS Online Proceedings Library 501 (1), 121-126, 1997"
     },
     {
         "title": "Thermal plasma synthesis of γ-FeN, Nanoparticles as precursors for the Fe16N2 synthesis by annealing",
         "pub_year": "1999",
-        "citation": "MRS Online Proceedings Library (OPL) 577, 1999"
+        "citation": "MRS Online Proceedings Library (OPL) 577, 399, 1999"
     },
     {
         "title": "Thermal processing techniques for metallic materials",
@@ -2129,7 +2119,7 @@
     {
         "title": "Tuning the Curie temperature in γ-FeNi nanoparticles for magnetocaloric applications by controlling the oxidation kinetics",
         "pub_year": "2013",
-        "citation": "Journal of Applied Physics 113 (17), 2013"
+        "citation": "Journal of applied physics 113 (17), 2013"
     },
     {
         "title": "Two-current model of the composition dependence of resistivity in amorphous (Fe100− xCox) 89− yZr7B4Cuy alloys using a rigid-band assumption",
@@ -2140,11 +2130,6 @@
         "title": "Understanding magnetic exchange interactions by the pressure dependent Curie temperature in FeCoNiCuMn high entropy alloys",
         "pub_year": "2021",
         "citation": "Journal of Phase Equilibria and Diffusion 42 (5), 617-622, 2021"
-    },
-    {
-        "title": "University, Pittsburgh, PA 15213-3890* Correspondence Author, E-mail: sm70 (3) andrew. cmu. edu",
-        "pub_year": "1996",
-        "citation": "Science And Technology Of Atomically Engineered Materials-Proceedings Of The …, 1996"
     },
     {
         "title": "Using carbon nanotubes for the synthesis of transition metal carbide nanoparticles",

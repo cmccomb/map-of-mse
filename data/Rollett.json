@@ -1,5 +1,10 @@
 [
     {
+        "title": "10. Modelling Microstructure and Mechanical Properties of High Strength Steels During Hot Rolling in an ESP Plant",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 6th International Conference on Recrystallization and …, 2016"
+    },
+    {
         "title": "13th International Conference on Aluminum Alloys (ICAA 13): Conference Proceedings",
         "pub_year": "2017",
         "citation": "Springer, 2017"
@@ -29,11 +34,6 @@
         "citation": "E-MRS 2010 Spring Meeting, 0"
     },
     {
-        "title": "3D In-situ Stop Action Study of Recrystallization in Additively Manufactured 316L Stainless Steel: Reconstruction Optimization and Observations",
-        "pub_year": "2022",
-        "citation": "IOP Conference Series: Materials Science and Engineering 1249 (1), 012054, 2022"
-    },
-    {
         "title": "3D MS: Proceedings of the 2nd International Congress on 3D Materials Science; Held by June 29-July 2, 2014, L'Impérial Palace, Annecy, France",
         "pub_year": "2016",
         "citation": "Springer, 2016"
@@ -46,6 +46,11 @@
         "title": "3D image-based viscoplastic response with crystal plasticity",
         "pub_year": "2009",
         "citation": "Microstructure and Texture in Steels: and Other Materials, 255-264, 2009"
+    },
+    {
+        "title": "3D in-situ stop action study of recrystallization in additively manufactured 316L stainless steel: reconstruction optimization and observations",
+        "pub_year": "2022",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1249 (1), 012054, 2022"
     },
     {
         "title": "3D printing, synchrotron X-Ray experiments and machine learning",
@@ -201,6 +206,10 @@
         "citation": "Materials Science and Engineering: A 538, 190-201, 2012"
     },
     {
+        "title": "AFRL-AFOSR-VA-TR-2020-0134",
+        "citation": ""
+    },
+    {
         "title": "AIS/DOE Technology Roadmap Program: Strip Casting: Anticipating New Routes To Steel Sheet",
         "pub_year": "2001",
         "citation": "American Iron and Steel Institute, Pittsburgh, PA (US), 2001"
@@ -330,7 +339,7 @@
         "citation": "AIP Conference Proceedings 1252 (1), 103-106, 2010"
     },
     {
-        "title": "An investigation of process parameter modifications on additively manufactured Inconel 718 parts",
+        "title": "An investigation of process parameter modifications on additively manufactured inconel 718 parts",
         "pub_year": "2019",
         "citation": "Journal of Materials Engineering and Performance 28, 620-626, 2019"
     },
@@ -449,11 +458,6 @@
         "citation": "USDOE Office of Science (SC), 2020"
     },
     {
-        "title": "Bonny G, Erhart P, Caro A, Pasianot RC, Malerba L and Caro M: The influence of short range order on the thermodynamics of Fe–Cr alloys 025006 Bonny G, Pasianot RC and Malerba L …",
-        "pub_year": "2009",
-        "citation": "Modelling Simul. Mater. Sci. Eng 17 (089901), 5pp, 2009"
-    },
-    {
         "title": "Boundary dynamics in 3D printed samples",
         "pub_year": "2022",
         "citation": "Technical University of Denmark, 2022"
@@ -466,7 +470,7 @@
     {
         "title": "Brittle Composites Modeling: Compazisons with MoSi2/ZrO2",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 322, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 322, 229, 1993"
     },
     {
         "title": "CA 94511, USA 2U. SFDA, 12725 Twinbrook Parkway, Rockville, MD 20852, USA",
@@ -556,7 +560,7 @@
     {
         "title": "Comparison of experimental and computational aspects of grain growth in Al-foil",
         "pub_year": "2000",
-        "citation": "MRS Online Proceedings Library (OPL) 652, 2000"
+        "citation": "MRS Online Proceedings Library (OPL) 652, Y1. 8, 2000"
     },
     {
         "title": "Comparison of experimental and theoretical texture development in alpha-uranium",
@@ -596,7 +600,7 @@
     {
         "title": "Computer simulation of pencil glide in bcc metals",
         "pub_year": "1987",
-        "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 1987"
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 1987"
     },
     {
         "title": "Computer simulation of recrystallization in non-uniformly deformed metals",
@@ -676,7 +680,7 @@
     {
         "title": "Crystal plasticity analysis of constitutive behavior of 5754 aluminum sheet",
         "pub_year": "2016",
-        "citation": "AIP Conference Proceedings 1769 (1), 160007, 2016"
+        "citation": "Minh-Son Pham, Anthony D. Rollett, Adam Abel Creuziger, Mark Iadicola …, 2016"
     },
     {
         "title": "Crystal plasticity analysis of constitutive behavior of 5754 aluminum sheet deformed along bi-linear strain paths",
@@ -716,7 +720,7 @@
     {
         "title": "Crystallographic distribution of internal interfaces in spinel polycrystals",
         "pub_year": "2004",
-        "citation": "Materials Science Forum 467, 783-788, 2004"
+        "citation": "Materials science forum 467, 783-788, 2004"
     },
     {
         "title": "Crystallographic texture change during grain growth",
@@ -785,7 +789,7 @@
     {
         "title": "Data analytics using canonical correlation analysis and Monte Carlo simulation",
         "pub_year": "2017",
-        "citation": "NPJ Computational Materials 3 (1), 26, 2017"
+        "citation": "npj Computational Materials 3 (1), 26, 2017"
     },
     {
         "title": "Deep Learning Approaches for Time-resolved Laser Absorptance Prediction in Additive Manufacturing",
@@ -840,7 +844,7 @@
     {
         "title": "Design and performance characterization of an additively manufactured primary heat exchanger for sCO2 Waste Heat Recovery Cycles",
         "pub_year": "2018",
-        "citation": "Proceedings of the 6th International Symposium on Supercritical CO2 Power …, 2018"
+        "citation": "The 6th International Supercritical CO2 Power Cycles Symposium, 2018"
     },
     {
         "title": "Design and techno economic optimization of an additively manufactured compact heat exchanger for high temperature and high pressure applications",
@@ -855,7 +859,7 @@
     {
         "title": "Design of radiation tolerant materials via interface engineering",
         "pub_year": "2013",
-        "citation": "Advanced materials 25 (48), 6975-6979, 2013"
+        "citation": "Wiley Blackwell, 2013"
     },
     {
         "title": "Determination of a mean orientation in electron backscatter diffraction measurements",
@@ -990,7 +994,7 @@
     {
         "title": "Effect of microstructure on the elasto-viscoplastic deformation of dual phase titanium structures",
         "pub_year": "2018",
-        "citation": "Computational Mechanics 61 (1-2), 55-70, 2018"
+        "citation": "Computational Mechanics 61, 55-70, 2018"
     },
     {
         "title": "Effect of non-linear interface kinetics on coarsening phenomena",
@@ -1015,7 +1019,7 @@
     {
         "title": "Elastoplastic transition in a metastable β-Titanium alloy, Timetal-18–An in-situ synchrotron X-ray diffraction study",
         "pub_year": "2021",
-        "citation": "International journal of plasticity 139, 102947, 2021"
+        "citation": "International Journal of Plasticity 139, 102947, 2021"
     },
     {
         "title": "Electron Backscatter Diffraction(EBSD) Measured Boundary Characteristics of Cu/Nb Nanolamellar Composites Fabricated by Accumulative Roll Bonding(ARB)",
@@ -1025,7 +1029,7 @@
     {
         "title": "Electron backscatter diffraction measured boundary characteristics of Cu/Nb nanolamellar composites fabricated",
         "pub_year": "2012",
-        "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2012"
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 2012"
     },
     {
         "title": "Electron channeling contrast imaging characterization and crystal plasticity modelling of dislocation activity in Ti21S BCC material",
@@ -1115,10 +1119,10 @@
     {
         "title": "Exploring the fabrication limits of thin-wall structures in a laser powder bed fusion process",
         "pub_year": "2020",
-        "citation": "The International Journal of Advanced Manufacturing Technology 110 (1-2 …, 2020"
+        "citation": "The International Journal of Advanced Manufacturing Technology 110 (1), 191-207, 2020"
     },
     {
-        "title": "Extension of the mechanical threshold stress model to static and dynamic strain aging: Application to AA5754-O",
+        "title": "Extension of the mechanical threshold stress model to static and dynamic strain aging: application to AA5754-O",
         "pub_year": "2017",
         "citation": "Metallurgical and Materials Transactions A 48, 5591-5607, 2017"
     },
@@ -1186,11 +1190,6 @@
         "title": "Final Progress Report on DE-SC0019096: Probing Fundamental Mechanisms of Plastic Deformation with High Energy X-rays",
         "pub_year": "2023",
         "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2023"
-    },
-    {
-        "title": "Finite Element Simulation of Pre-Heating Effect on Melt Pool Size during Micro-Plasma Transferred Arc Deposition Process",
-        "pub_year": "2018",
-        "citation": ""
     },
     {
         "title": "Finite element 3D mesh generation from experimental microstructures",
@@ -1427,6 +1426,11 @@
         "citation": "Materials Research Letters 9 (10), 429-436, 2021"
     },
     {
+        "title": "High-Temperature Oxidation Behavior of Wrought and Additive Manufactured Alloys in Direct-Fired Supercritical CO2 Power Cycle Environments",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024"
+    },
+    {
         "title": "High-energy x-ray diffraction microscopy in materials science",
         "pub_year": "2020",
         "citation": "Annual Review of Materials Research 50, 395-436, 2020"
@@ -1444,6 +1448,11 @@
     {
         "title": "ICAA International Committee Members",
         "citation": ""
+    },
+    {
+        "title": "ICAA13 Pittsburgh",
+        "pub_year": "2016",
+        "citation": "ICAA13 Pittsburgh, 2016"
     },
     {
         "title": "IF steel recrystallization: nucleation stage linked to internal misorientation parameters",
@@ -1511,7 +1520,7 @@
     {
         "title": "In-Situ Investigation of Grain Boundary Mobility and Character in Aluminum Alloys in the Presence of a Stored Energy Driving Force",
         "pub_year": "2004",
-        "citation": "MRS Online Proceedings Library (OPL) 819, 2004"
+        "citation": "MRS Online Proceedings Library (OPL) 819, N6. 5, 2004"
     },
     {
         "title": "In-plane anisotropy of as-rolled copper sheet",
@@ -1550,8 +1559,8 @@
     },
     {
         "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
-        "pub_year": "2023",
-        "citation": "arXiv e-prints, arXiv: 2310.05289, 2023"
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing, 104057, 2024"
     },
     {
         "title": "Influence of ion beam mixing on the growth of high temperature oxide superconducting thin film",
@@ -1647,7 +1656,7 @@
     {
         "title": "Large scale statistics for computational verification of grain growth simulations with experiments",
         "pub_year": "2002",
-        "citation": "MRS Online Proceedings Library (OPL) 731, 2002"
+        "citation": "MRS Online Proceedings Library (OPL) 731, W6. 10, 2002"
     },
     {
         "title": "Large-strain Bauschinger effects in fcc metals and alloys",
@@ -1713,14 +1722,14 @@
         "citation": "Journal of Synchrotron Radiation 30 (4), 2023"
     },
     {
+        "title": "Materials Processing and Texture",
+        "pub_year": "2008",
+        "citation": "John Wiley & Sons, 2008"
+    },
+    {
         "title": "Materials dependence of deformation texture development in various deformation modes",
         "pub_year": "1987",
         "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States); Illinois …, 1987"
-    },
-    {
-        "title": "Materials processing and texture",
-        "pub_year": "2008",
-        "citation": "John Wiley & Sons, 2008"
     },
     {
         "title": "Measurement and analysis of porosity in Al-10Si-1Mg components additively manufactured by selective laser melting",
@@ -1800,7 +1809,7 @@
     {
         "title": "Microstructural Effects on Void Nucleation in Single-Phase Copper Polycrystals",
         "pub_year": "2015",
-        "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2015"
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 2015"
     },
     {
         "title": "Microstructural anisotropy and its influence on the internal stress field within grains: experimental confrontation with full-field crystal plasticity models",
@@ -2043,24 +2052,24 @@
         "citation": "Cang Zhao, Bo Shi, Shuailei Chen, Tao Sun, Brian Simonds, Anthony Rollett, 2022"
     },
     {
+        "title": "Monte Carlo simulation for abnormal grain growth during nucleation",
+        "pub_year": "2002",
+        "citation": "Materials Science Forum 408 (1), 413-418, 2002"
+    },
+    {
         "title": "Monte Carlo simulation of elongated recrystallized grains in steels",
         "pub_year": "2005",
         "citation": "Computational materials science 34 (3), 264-273, 2005"
     },
     {
-        "title": "Monte Carlo simulation of recrystallization and grain growth in steels: preliminary results",
+        "title": "Monte Carlo simulation of recrystallization and gram growth in steels: Preliminary results",
         "pub_year": "2001",
-        "citation": ""
+        "citation": "Microstructure Modeling and Prediction During Thermomechanical Processing, 57-66, 2001"
     },
     {
         "title": "Monte Carlo simulations and experimental observations of templated grain growth in thin platinum films",
         "pub_year": "2007",
         "citation": "Acta materialia 55 (18), 6159-6169, 2007"
-    },
-    {
-        "title": "Monte carlo simulation for abnormal grain growth during nucleation",
-        "pub_year": "2002",
-        "citation": "Materials Science Forum 408 (1), 413-418, 2002"
     },
     {
         "title": "Monte carlo simulation for recrystallization in IF steels, combined with OIM microstructure",
@@ -2101,16 +2110,12 @@
         "citation": "Ceramic Engineering and Science Proceedings 31 (5), 143, 2010"
     },
     {
-        "title": "NNSA Advanced Photon Source Sector Opportunities Workshop Workshop Summary",
+        "title": "NNSA Advanced Photon Source Sector Opportunities Workshop (Workshop Summary)",
         "pub_year": "2022",
         "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2022"
     },
     {
         "title": "Nanocrystalline Grain Growth due to Non-Linear Interface Kinetics",
-        "citation": ""
-    },
-    {
-        "title": "Navigation Bar",
         "citation": ""
     },
     {
@@ -2351,11 +2356,6 @@
         "citation": "Annu. Rev. Condens. Matter Phys. 5 (1), 317-346, 2014"
     },
     {
-        "title": "Post-processing to Modify the a Phase Micro-Texture and beta Phase Grain Morphology in Ti-6Al-4V Fabricated by Powder Bed Electron Beam Melting (vol 50, pg 3429, 2019)",
-        "pub_year": "2019",
-        "citation": "METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND MATERIALS …, 2019"
-    },
-    {
         "title": "Post-processing to Modify the α Phase Micro-Texture and β Phase Grain Morphology in Ti-6Al-4V Fabricated by Powder Bed Electron Beam Melting",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions A 50, 3429-3439, 2019"
@@ -2388,17 +2388,12 @@
     {
         "title": "Predictive Science Panel Meeting Summary Report, Los Alamos National Laboratory, March 16, 2017",
         "pub_year": "2017",
-        "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2017"
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 2017"
     },
     {
         "title": "Preliminary simulation for competing behaviors between recrystallization and transformation in dual phase steels",
         "pub_year": "2007",
         "citation": "Materials Science Forum 558, 1145-1150, 2007"
-    },
-    {
-        "title": "Proceedings of the 13th International Conference on Aluminum Alloys: ICAA 13; Held: June 3-7, 2012 at Carnegie Mellon University, Pittsburgh, PA",
-        "pub_year": "2012",
-        "citation": "Wiley, 2012"
     },
     {
         "title": "Proceedings of the 6th International Conference on Recrystallization and Grain Growth (ReX&GG 2016)",
@@ -2413,7 +2408,7 @@
     {
         "title": "Properties of Thin Films of Yba2Cu3O7 Prepared by Coevaporation of Y, Cu and Baf2",
         "pub_year": "1989",
-        "citation": "MRS Online Proceedings Library (OPL) 169, 1989"
+        "citation": "MRS Online Proceedings Library (OPL) 169, 695, 1989"
     },
     {
         "title": "Properties of superconducting YBa sub 2 Cu sub 3 O sub 7 minus. delta. thin films made at high deposition rates",
@@ -2497,8 +2492,8 @@
     },
     {
         "title": "Quantitative measurement of the development of recrystallization texture in OFE copper",
-        "pub_year": "1970",
-        "citation": "Textures and Microstructures 14, 1970"
+        "pub_year": "1991",
+        "citation": "Texture, Stress, and Microstructure 14, 635-640, 1991"
     },
     {
         "title": "Real time observation of binder jetting printing process using high-speed X-ray imaging",
@@ -2550,6 +2545,11 @@
         "citation": "Materials science forum 550, 515-520, 2007"
     },
     {
+        "title": "Recrystallization textures",
+        "pub_year": "2017",
+        "citation": "Recrystallization and related annealing phenomena, 431-468, 2017"
+    },
+    {
         "title": "Recrystallized Grain Size in Single Phase Materials",
         "pub_year": "2012",
         "citation": "Materials Science Forum 715, 361-366, 2012"
@@ -2565,7 +2565,7 @@
         "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2005"
     },
     {
-        "title": "Relating the kinetics of grain-boundary complexion transitions and abnormal grain growth: a Monte Carlo time-temperature-transformation approach",
+        "title": "Relating the kinetics of grain-boundary complexion transitions and abnormal grain growth: A Monte Carlo time-temperature-transformation approach",
         "pub_year": "2022",
         "citation": "Acta Materialia 239, 118262, 2022"
     },
@@ -2678,7 +2678,7 @@
         "citation": "Materials Science and Technology 2020, 2020"
     },
     {
-        "title": "Simulation study of hatch spacing and layer thickness effects on microstructure in laser powder bed fusion additive manufacturing using a texture-aware solidification potts model",
+        "title": "Simulation study of hatch spacing and layer thickness effects on microstructure in laser powder bed fusion additive manufacturing using a texture-aware solidification Potts model",
         "pub_year": "2021",
         "citation": "Journal of Materials Engineering and Performance 30 (9), 7007-7018, 2021"
     },
@@ -2744,7 +2744,7 @@
     {
         "title": "Statistics of high purity nickel microstructure from high energy X-ray diffraction microscopy",
         "pub_year": "2010",
-        "citation": "Comp. Mater. Cont. 14 (3); 2009), 2010"
+        "citation": "Computers, Materials, & Continua 14 (3), 209-220, 2010"
     },
     {
         "title": "Stored energy driven abnormal grain growth in Fe-1Si",
@@ -2860,9 +2860,9 @@
         "citation": "Minerals, Metals and Materials Society/AIME, 420 Commonwealth Dr., P. O. Box …, 2011"
     },
     {
-        "title": "Systematic and Predictive Trends to Chromium Poisoning in Solid Oxide Fuel Cell Cathodes",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4731923, 2023"
+        "title": "Systematic and predictive trends to chromium poisoning in solid oxide fuel cell cathodes",
+        "pub_year": "2024",
+        "citation": "Journal of Power Sources 603, 234390, 2024"
     },
     {
         "title": "Systems and methods for providing high temperature and high pressure heat exchangers using additive manufacturing",
@@ -2876,6 +2876,18 @@
     },
     {
         "title": "TM Pollock and AS Argon",
+        "citation": ""
+    },
+    {
+        "title": "Tag: 곡률",
+        "citation": ""
+    },
+    {
+        "title": "Tag: 멱법칙",
+        "citation": ""
+    },
+    {
+        "title": "Tag: 스캔 전략",
         "citation": ""
     },
     {
@@ -2924,12 +2936,12 @@
     {
         "title": "Texture Measurement and Analysis",
         "pub_year": "2010",
-        "citation": "Metals Process Simulation, 92-99, 2010"
+        "citation": ""
     },
     {
         "title": "Texture and Resistivity of Cu and Dilute Cu Alloy Films",
         "pub_year": "2002",
-        "citation": "MRS Online Proceedings Library (OPL) 721, J3. 1, 2002"
+        "citation": "MRS Online Proceedings Library 721, 1-9, 2002"
     },
     {
         "title": "Texture and anisotropy of Ti-22 Al-23 Nb foil",
@@ -3048,7 +3060,7 @@
     {
         "title": "The Influence of Tte Substrate Surface on the Nucleation and Growth of Superconducting Thin Films",
         "pub_year": "1989",
-        "citation": "MRS Online Proceedings Library (OPL) 169, 1989"
+        "citation": "MRS Online Proceedings Library (OPL) 169, 1157, 1989"
     },
     {
         "title": "The Population of Twin Related Boundaries in High Purity Nickel as Measured with Near‐Field High Energy X‐Ray Diffraction Microscopy",
@@ -3157,7 +3169,7 @@
     {
         "title": "The interplay between vapour, liquid, and solid phases in laser powder bed fusion",
         "pub_year": "2022",
-        "citation": "Nature Communications 13 (1), 2959, 2022"
+        "citation": "Nature communications 13 (1), 2959, 2022"
     },
     {
         "title": "The microstructure and texture of torsion-reverse torsion experiments",
@@ -3230,7 +3242,7 @@
     {
         "title": "Thermodynamics-guided alloy and process design for additive manufacturing",
         "pub_year": "2022",
-        "citation": "Nature Communications 13 (1), 4361, 2022"
+        "citation": "Nature communications 13 (1), 4361, 2022"
     },
     {
         "title": "Thin strip casting of low carbon steel",
@@ -3315,7 +3327,7 @@
     {
         "title": "Toward enabling spatial control of Ti-6Al-4V solidification microstructure in the electron beam melting process",
         "pub_year": "2015",
-        "citation": "2015 International Solid Freeform Fabrication Symposium, 2015"
+        "citation": "University of Texas at Austin, 2015"
     },
     {
         "title": "Towards an integrated materials characterization toolbox",
@@ -3460,11 +3472,6 @@
         "title": "XI Grain Growth Modelling and Simulation-Mesoseale Simulation of Grain Growth",
         "pub_year": "2004",
         "citation": "Materials Science Forum 467, 1057-1062, 2004"
-    },
-    {
-        "title": "YBa, Cu, O, THIN FILMS PREPARED BY EVAPORATION FROM YTTRIUM, COPPER AND BaF",
-        "pub_year": "2012",
-        "citation": "Science and Technology of Thin Film Superconductors, 121, 2012"
     },
     {
         "title": "YBa2Cu3O7 Thin Films Prepared by Evaporation from Yttrium, Copper and BaF2",

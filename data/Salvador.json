@@ -1,10 +1,5 @@
 [
     {
-        "title": " monitoring of the growth and characterization of  superlattices",
-        "pub_year": "2003",
-        "citation": "Journal of applied physics 94 (4), 2716-2724, 2003"
-    },
-    {
         "title": "A New Series of Layered Cuprates (ACuO2.5)2(ATiO3)m:  Dy2Ba2Ca2Cu2Ti4O17, m = 4",
         "pub_year": "1996",
         "citation": "Journal of the American Chemical Society 118 (37), 8951-8952, 1996"
@@ -27,12 +22,7 @@
     {
         "title": "A-Site Ordered, Perovskite-Like Manganites Grown by PLD or Laser-MBE: Their Growth, Structural and Physical Characterization",
         "pub_year": "1999",
-        "citation": "MRS Online Proceedings Library (OPL) 602, 1999"
-    },
-    {
-        "title": "ACS Applied Materials & Interfaces 4",
-        "pub_year": "2012",
-        "citation": ""
+        "citation": "MRS Online Proceedings Library (OPL) 602, 277, 1999"
     },
     {
         "title": "Advantages of ionic conductors over electronic conductors as infiltrates in solid oxide fuel cell cathodes",
@@ -57,7 +47,7 @@
     {
         "title": "Buried Charge at the TiO2/SrTiO3 (111) Interface and Its Effect on Photochemical Reactivity",
         "pub_year": "2017",
-        "citation": "ACS Applied Materials & Interfaces 9 (8), 7843-7851, 2017"
+        "citation": "ACS applied materials & interfaces 9 (8), 7843-7851, 2017"
     },
     {
         "title": "Cation disorder in Ga1212",
@@ -271,7 +261,7 @@
     {
         "title": "Enhanced photochemical activity of α-Fe₂O₃ films supported on SrTiO₃ substrates under visible light illumination",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "Chemical communications 48 (14), 2012"
     },
     {
         "title": "Epitaxial Phase Stability of SrMnO3–x Films on Polycrystalline Perovskite Substrates",
@@ -281,7 +271,7 @@
     {
         "title": "Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba0.6Sr0.4MnO3",
         "pub_year": "2024",
-        "citation": "ACS Applied Materials & Interfaces, 2024"
+        "citation": "ACS Applied Materials & Interfaces 16 (4), 4873-4885, 2024"
     },
     {
         "title": "Epitaxial growth of Cu (100) and Pt (100) thin films on perovskite substrates",
@@ -406,7 +396,7 @@
     {
         "title": "High Surface Area, Mesoporous Catalysts in Solid Oxide Fuel Cell Cathode",
         "pub_year": "2011",
-        "citation": "Electrochemical Society Meeting Abstracts 219, 700-700, 2011"
+        "citation": "ECS Meeting Abstracts, 700, 2011"
     },
     {
         "title": "High Throughput Simulation and Analysis of Heterogeneous SOFC Electrodes",
@@ -499,6 +489,11 @@
         "citation": "Applied Physics Letters 93 (15), 2008"
     },
     {
+        "title": "In situ monitoring of the growth and characterization of (PrMnO3) n (SrMnO3) n superlattices",
+        "pub_year": "2003",
+        "citation": "Journal of applied physics 94 (4), 2716-2724, 2003"
+    },
+    {
         "title": "In situ synchrotron X-ray studies of dense thin-film strontium-doped lanthanum manganite solid oxide fuel cell cathodes",
         "pub_year": "2008",
         "citation": "MRS Online Proceedings Library (OPL) 1126, 1126-S08-10, 2008"
@@ -556,7 +551,7 @@
     {
         "title": "Layered Cuprates",
         "pub_year": "1996",
-        "citation": "MRS Online Proceedings Library (OPL) 453, 1996"
+        "citation": "MRS Online Proceedings Library (OPL) 453, 311, 1996"
     },
     {
         "title": "Local Electronic Structure and Surface Chemistry of Solid Oxide Fuel Cell Cathodes",
@@ -567,6 +562,11 @@
         "title": "Local heating-induced plastic deformation in resistive switching devices",
         "pub_year": "2011",
         "citation": "Journal of Applied Physics 110 (5), 2011"
+    },
+    {
+        "title": "MAGNETISM AND SUPERCONDUCTIVITY-Growth and magnetoresistive properties of (LaMnO3) m (SrMnO3) n superlattices",
+        "pub_year": "1999",
+        "citation": "Applied Physics Letters 75 (17), 2638-2640, 1999"
     },
     {
         "title": "Machine learning in catalysis",
@@ -630,7 +630,7 @@
     {
         "title": "Molecular Beam Epitaxial Growth and Dielectric Characterization of Ba0. 6Sr0. 4TiO3 Films",
         "pub_year": "2006",
-        "citation": "MRS Online Proceedings Library (OPL) 966, 2006"
+        "citation": "MRS Online Proceedings Library (OPL) 966, 0966-T07-23, 2006"
     },
     {
         "title": "Monte Carlo simulations and experimental observations of templated grain growth in thin platinum films",
@@ -640,7 +640,7 @@
     {
         "title": "Multidomain simulations of coated ferroelectrics exhibiting spatially selective photocatalytic activity with high internal quantum efficiencies",
         "pub_year": "2016",
-        "citation": "Journal of Materials Chemistry A 4 (41), 16085-16093, 2016"
+        "citation": "Journal of materials chemistry A 4 (41), 16085-16093, 2016"
     },
     {
         "title": "Nano-photoelectrochemical cell arrays with spatially isolated oxidation and reduction channels",
@@ -765,7 +765,7 @@
     {
         "title": "Spatial selectivity of photodeposition reactions on polar surfaces of centrosymmetric ferroelastic γ-WO 3",
         "pub_year": "2017",
-        "citation": "Journal of Materials Chemistry A 5 (18), 8261-8266, 2017"
+        "citation": "Journal of materials chemistry A 5 (18), 8261-8266, 2017"
     },
     {
         "title": "Spatially selective photochemical activity on surfaces of ferroelastics with local polarization",
@@ -780,7 +780,7 @@
     {
         "title": "Stability and Structural Characterization of Epitaxial NdNiO3 Films Grown by Pulsed Laser Deposition",
         "pub_year": "2000",
-        "citation": "MRS Online Proceedings Library 658, 3271-3276, 2000"
+        "citation": "MRS Online Proceedings Library 658 (1), 327, 2000"
     },
     {
         "title": "Stabilization of YMnO3 in a perovskite structure as a thin film",
@@ -845,7 +845,7 @@
     {
         "title": "Synthesis, structures, and physical properties of yttrium-doped strontium manganese oxide films",
         "pub_year": "2002",
-        "citation": "MRS Online Proceedings Library (OPL) 718, 2002"
+        "citation": "MRS Online Proceedings Library (OPL) 718, D9. 4, 2002"
     },
     {
         "title": "Synthetic and Mechanistic Studies on 2, 3-Dihydrobenzo [b][1, 4]-oxaselenines Formation from Selenocyanates",
@@ -853,9 +853,9 @@
         "citation": "Synthesis 52 (11), 1643-1658, 2020"
     },
     {
-        "title": "Systematic and Predictive Trends to Chromium Poisoning in Solid Oxide Fuel Cell Cathodes",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4731923, 2023"
+        "title": "Systematic and predictive trends to chromium poisoning in solid oxide fuel cell cathodes",
+        "pub_year": "2024",
+        "citation": "Journal of Power Sources 603, 234390, 2024"
     },
     {
         "title": "THEV FILM SYNTHESIS OF COPPER-BASED PEROVSKITES HAVING TWO-DIMENSIONAL CATION ORDER:(L* 9 tl Qa i) 2 CuO 2. 6t J m (AECuO 2), SUPERLATTICES PA SALVADOR*^, TD. DCAN* B. MERCEY …",
@@ -863,7 +863,7 @@
         "citation": "Solid-state Chemistry of Inorganic Materials II: Symposium Held November 30 …, 1999"
     },
     {
-        "title": "THIN FILM SYNTHESIS OF COPPER-BASED PEROVSKITES HAVING TWO-DIMENSIONAL CATION ORDER:(La0. 8Bao. 2CuO2. 6+ x) m (AECuO2), SUPERLATTICES PA SALVADORa, b, TD. DOANa, B. MERCEYa …",
+        "title": "THIN FILM SYNTHESIS OF COPPER-BASED PEROVSKITES HAVING TWO-DIMENSIONAL CATION ORDER:(La0. 8Ba0. 2CuO2. 6±x) m (AECuO2) n SUPERLATTICES PA SALVADORa, b, TD. DOANa, B. MERCEYª …",
         "pub_year": "1998",
         "citation": "Solid-state Chemistry of Inorganic Materials, 285, 1998"
     },
@@ -920,7 +920,7 @@
     {
         "title": "Thin Film Synthesis of Copper-Based Perovskites Having Two-Dimensional Cation Order:(La0. 8Ba0. 2CuO2. 6±x)(AECuO2) n Superlattices",
         "pub_year": "1998",
-        "citation": "MRS Online Proceedings Library (OPL) 547, 1998"
+        "citation": "MRS Online Proceedings Library (OPL) 547, 285, 1998"
     },
     {
         "title": "Thin Film Synthesis of Metastable Perovskites: YMnO~ 3",

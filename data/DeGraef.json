@@ -16,7 +16,7 @@
     {
         "title": "2. Lorentz microscopy: theoretical basis and image simulations",
         "pub_year": "2001",
-        "citation": "Experimental Methods in the Physical Sciences 36, 27-67, 2001"
+        "citation": "Experimental methods in the physical sciences 36, 27-67, 2001"
     },
     {
         "title": "2012 Index IEEE Magnetics Letters Vol. 3",
@@ -29,7 +29,7 @@
     {
         "title": "3D materials image segmentation by 2D propagation: A graph-cut approach considering homomorphism",
         "pub_year": "2013",
-        "citation": "IEEE Transactions on Image Processing 22 (12), 5282-5293, 2013"
+        "citation": "IEEE transactions on image processing 22 (12), 5282-5293, 2013"
     },
     {
         "title": "3D reconstruction of the magnetic vector potential using model based iterative reconstruction",
@@ -102,7 +102,7 @@
         "citation": "IEEE Transactions on Image Processing 22 (11), 4532-4544, 2013"
     },
     {
-        "title": "A modern 3-D view of an “Old” pearlite colony",
+        "title": "A modern 3-D view of an “old” pearlite colony",
         "pub_year": "2006",
         "citation": "Jom 58, 25-28, 2006"
     },
@@ -326,11 +326,6 @@
         "citation": "Computational Imaging XI 8657, 106-114, 2013"
     },
     {
-        "title": "C-axis orientation determination of α-titanium using computational polarized light microscopy",
-        "pub_year": "2020",
-        "citation": "Materials Characterization 167, 110503, 2020"
-    },
-    {
         "title": "Can EBSD patterns be used for determination of grain boundary inclination?",
         "pub_year": "2015",
         "citation": "Microscopy and Microanalysis 21 (S3), 2039-2040, 2015"
@@ -375,7 +370,7 @@
         "citation": "Microscopy and Microanalysis 21 (S3), 1619-1620, 2015"
     },
     {
-        "title": "Comparison of Magnetic Domain Wall Images using Lorentz Microscopy and Magnetic Force Microscopy",
+        "title": "Comparison of magnetic domain wall images using lorentz microscopy and magnetic force microscopy",
         "pub_year": "2013",
         "citation": "Microscopy and Microanalysis 19 (S2), 790-791, 2013"
     },
@@ -573,7 +568,7 @@
         "citation": "Microscopy and Microanalysis 24 (S1), 2202-2203, 2018"
     },
     {
-        "title": "Displacement Mapping During In-Situ Straining in the SEM",
+        "title": "Displacement Mapping During In-situ Straining in the SEM",
         "pub_year": "1999",
         "citation": "Microscopy and Microanalysis 5 (S2), 334-335, 1999"
     },
@@ -585,6 +580,11 @@
     {
         "title": "Dynamic Sampling of Images Based on Neighborhood Variance",
         "citation": "Available at SSRN 4529831, 0"
+    },
+    {
+        "title": "Dynamic sampling for scanned microscopy modalities",
+        "pub_year": "2024",
+        "citation": "Materials Characterization, 113865, 2024"
     },
     {
         "title": "Dynamic symmetry breaking in chiral magnetic systems",
@@ -635,6 +635,11 @@
         "title": "EMsoft Electron Backscattered Diffraction (EBSD) Master Pattern Dataset for Magnesium (Mg)",
         "pub_year": "2016",
         "citation": "Materials Data Facility, 2016"
+    },
+    {
+        "title": "EMsoft-org/EMsoft: EMsoft Release 5.0. 0",
+        "pub_year": "2019",
+        "citation": "Version v5. 0.0. Oct, 2019"
     },
     {
         "title": "EMsoft: open source software for electron diffraction/image simulations",
@@ -741,7 +746,7 @@
         "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2016"
     },
     {
-        "title": "Fine granular area linked to very high cycle fatigue in martensitic and bainitic steels: Characterization by means of EBSD-dictionary indexing",
+        "title": "Fine granular area linked to very high cycle fatigue in martensitic and bainitic steels: characterization by means of EBSD-dictionary indexing",
         "pub_year": "2021",
         "citation": "Scripta Materialia 194, 113644, 2021"
     },
@@ -843,7 +848,7 @@
     {
         "title": "HRTEM Characterization of 6H-15R Polytype Boundaries in Silicon Carbide Grown by Physical Vapor Transport",
         "pub_year": "1996",
-        "citation": "MRS Online Proceedings Library (OPL) 442, 1996"
+        "citation": "MRS Online Proceedings Library (OPL) 442, 655, 1996"
     },
     {
         "title": "Heteroepitaxy of rare-earth hexa-aluminates on sapphire",
@@ -947,7 +952,7 @@
     {
         "title": "In situ lorentz TEM magnetization study of a Ni–Mn–Ga ferromagnetic shape memory alloy",
         "pub_year": "2011",
-        "citation": "Acta Materialia 59 (12), 4895-4906, 2011"
+        "citation": "Acta materialia 59 (12), 4895-4906, 2011"
     },
     {
         "title": "In-Situ and Ex-Situ Surface Displacement Measurements",
@@ -1116,7 +1121,7 @@
     {
         "title": "Lorentz Microscopy and Electron Holography of Nanocrystalline Magnetic Materials",
         "pub_year": "1999",
-        "citation": "MRS Online Proceedings Library (OPL) 577, 1999"
+        "citation": "MRS Online Proceedings Library (OPL) 577, 519, 1999"
     },
     {
         "title": "Lorentz TEM Characterization of Al-Cu-Ge-Mn Alloys",
@@ -1399,10 +1404,6 @@
         "citation": ""
     },
     {
-        "title": "NUMERICAL SIMULATIONS OF THE LATTICE STABILITY OF O-PHASE HUME-ROTHERY\" ALLOYS",
-        "citation": ""
-    },
-    {
         "title": "Nanoscale Skyrmions in a Nonchiral Metallic Multiferroic: Ni2MnGa",
         "pub_year": "2016",
         "citation": "Nano letters 16 (7), 4141-4148, 2016"
@@ -1440,7 +1441,7 @@
     {
         "title": "Numerical Simulations of the Lattice Stability of β-Phase Hume-Rothery “ALLOYS”",
         "pub_year": "1988",
-        "citation": "MRS Online Proceedings Library (OPL) 141, 1988"
+        "citation": "MRS Online Proceedings Library (OPL) 141, 189, 1988"
     },
     {
         "title": "Observation of dipolar ferromagnetism by TEM techniques",
@@ -1759,7 +1760,7 @@
     },
     {
         "title": "Shape Descriptors for the Quantification of Microstructures",
-        "pub_year": "2016",
+        "pub_year": "2015",
         "citation": ""
     },
     {
@@ -1809,7 +1810,7 @@
     {
         "title": "Stabilization of chiral Bloch skyrmions due to interfacial DMI and asymmetric vertical Bloch line evolution.",
         "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
+        "citation": "APS March Meeting Abstracts 2023, A54. 010, 2023"
     },
     {
         "title": "Stabilization of coupled Dzyaloshinskii domain walls in fully compensated synthetic anti-ferromagnets",
@@ -1817,14 +1818,14 @@
         "citation": "AIP Advances 10 (1), 2020"
     },
     {
-        "title": "Statistical Methods for Materials Science: The Data Science of Microstructure Characterization",
-        "pub_year": "2019",
-        "citation": "CRC Press, 2019"
-    },
-    {
         "title": "Statistical estimation and clustering of group-invariant orientation parameters",
         "pub_year": "2015",
         "citation": "2015 18th International Conference on Information Fusion (Fusion), 719-726, 2015"
+    },
+    {
+        "title": "Statistical methods for materials science: the data science of microstructure characterization",
+        "pub_year": "2019",
+        "citation": "CRC Press, 2019"
     },
     {
         "title": "Strain contrast at crack tips for in-situ transmission electron microscopy straining experiments",
@@ -1914,7 +1915,7 @@
     {
         "title": "TEM study of twinning and magnetic domains in Terfenol-D",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 360, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 360, 189, 1994"
     },
     {
         "title": "TIMBIR: A method for time-space reconstruction from interlaced views",
@@ -2183,6 +2184,11 @@
         "title": "Zone axis STEM defect imaging based on electron Kossel patterns",
         "pub_year": "2012",
         "citation": "Microscopy and Microanalysis 18 (S2), 710-711, 2012"
+    },
+    {
+        "title": "c-Axis orientation determination of α-titanium using computational polarized light microscopy",
+        "pub_year": "2020",
+        "citation": "Materials Characterization 167, 110503, 2020"
     },
     {
         "title": "材料结构——晶体学, 衍射和对称性引论",

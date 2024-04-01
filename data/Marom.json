@@ -1,10 +1,5 @@
 [
     {
-        "title": "3D electron diffraction reveals the chiral nature of the malaria pigment crystal hemozoin",
-        "pub_year": "2022",
-        "citation": "bioRxiv, 2022.09. 15.507960, 2022"
-    },
-    {
         "title": "3D electron diffraction structure determination of terrylene, a promising candidate for intermolecular singlet fission",
         "pub_year": "2021",
         "citation": "ChemPhysChem 22 (15), 1631-1637, 2021"
@@ -100,9 +95,19 @@
         "citation": "Physical Review B 91, 241115, 2015"
     },
     {
+        "title": "Correction to Accurate Ionization Potentials and Electron Affinities of Acceptor Molecules IV: Electron-Propagator Methods",
+        "pub_year": "2017",
+        "citation": "Journal of Chemical Theory and Computation 13 (1), 389-391, 2017"
+    },
+    {
+        "title": "Correction to “First-Principles Assessment of CdTe as a Tunnel Barrier at the α-Sn/InSb Interface”",
+        "pub_year": "2023",
+        "citation": "ACS Applied Materials & Interfaces 15 (25), 31100-31101, 2023"
+    },
+    {
         "title": "Crystal structure evaluation: calculating relative stabilities and other criteria: general discussion",
         "pub_year": "2018",
-        "citation": "Faraday Discussions 211, 325-381, 2018"
+        "citation": "Faraday discussions 211, 325-381, 2018"
     },
     {
         "title": "Crystal structure prediction of energetic materials and a twisted arene with Genarris and GAtor",
@@ -175,6 +180,11 @@
         "citation": "Physical Review B 84 (24), 245115, 2011"
     },
     {
+        "title": "Electronic structure of the InSb-CdTe-αSn interface: using CdTe as a barrier",
+        "pub_year": "2023",
+        "citation": "APS March Meeting Abstracts 2023, G65. 008, 2023"
+    },
+    {
         "title": "Erratum: When to trust photoelectron spectra from Kohn-Sham eigenvalues: The case of organic semiconductors [Phys. Rev. B 79, 201205 (2009)]",
         "pub_year": "2010",
         "citation": "Physical Review B 82 (12), 129903, 2010"
@@ -201,7 +211,7 @@
     {
         "title": "First-Principles Assessment of CdTe as a Tunnel Barrier at the α-Sn/InSb Interface",
         "pub_year": "2023",
-        "citation": "ACS applied materials & interfaces 15 (12), 16288-16298, 2023"
+        "citation": "ACS Applied Materials & Interfaces 15 (12), 16288-16298, 2023"
     },
     {
         "title": "First-principles feasibility assessment of a topological insulator at the InAs/GaSb interface",
@@ -251,7 +261,7 @@
     {
         "title": "Machine learning the Hubbard U parameter in DFT+U using Bayesian optimization",
         "pub_year": "2020",
-        "citation": "npj computational materials 6 (1), 180, 2020"
+        "citation": "npj Computational Materials 6 (1), 180, 2020"
     },
     {
         "title": "Many‐body dispersion interactions in molecular crystal polymorphism",
@@ -284,7 +294,7 @@
         "citation": "Physical Review Materials 7 (6), 066201, 2023"
     },
     {
-        "title": "Performance of Dispersion-Inclusive Density Functional Theory Methods for Energetic Materials",
+        "title": "Performance of dispersion-inclusive density functional theory methods for energetic materials",
         "pub_year": "2022",
         "citation": "Journal of Chemical Theory and Computation 18 (7), 4456-4471, 2022"
     },
@@ -292,6 +302,11 @@
         "title": "Phenylated acene derivatives as candidates for intermolecular singlet fission",
         "pub_year": "2019",
         "citation": "The Journal of Physical Chemistry C 123 (10), 5890-5899, 2019"
+    },
+    {
+        "title": "Polar Crystal Habit and 3D Electron Diffraction Reveal the Malaria Pigment Hemozoin as a Selective Mixture of Centrosymmetric and Chiral Stereoisomers",
+        "pub_year": "2022",
+        "citation": ""
     },
     {
         "title": "Pyrene-stabilized acenes as intermolecular singlet fission candidates: importance of exciton wave-function convergence",
@@ -336,7 +351,7 @@
     {
         "title": "Structure Prediction of Epitaxial Organic Interfaces with Ogre, Demonstrated for Tetracyanoquinodimethane (TCNQ) on Tetrathiafulvalene (TTF)",
         "pub_year": "2023",
-        "citation": "The Journal of Physical Chemistry C, 2023"
+        "citation": "The Journal of Physical Chemistry C 127 (21), 10398-10410, 2023"
     },
     {
         "title": "Structure Selection Based on High Vertical Electron Affinity for  Clusters",
@@ -356,7 +371,7 @@
     {
         "title": "Structure searching methods: general discussion",
         "pub_year": "2018",
-        "citation": "Faraday Discussions 211, 133-180, 2018"
+        "citation": "Faraday discussions 211, 133-180, 2018"
     },
     {
         "title": "The malaria pigment hemozoin comprises at most four different isomer units in two crystalline models: chiral as based on a biochemical hypothesis or centrosymmetric made of …",
@@ -376,7 +391,7 @@
     {
         "title": "True molecular conformation and structure determination by three-dimensional electron diffraction of PAH by-products potentially useful for electronic applications",
         "pub_year": "2023",
-        "citation": "IUCrJ 10 (1), 2023"
+        "citation": "IUCrJ 10 (1), 131-142, 2023"
     },
     {
         "title": "When to trust photoelectron spectra from Kohn-Sham eigenvalues: The case of organic semiconductors",

@@ -261,6 +261,11 @@
         "citation": "IEEE Journal of Photovoltaics 5 (2), 676-682, 2014"
     },
     {
+        "title": "Applications of the Clifford torus to material textures",
+        "pub_year": "2024",
+        "citation": "Journal of Applied Crystallography 57 (3), 2024"
+    },
+    {
         "title": "Archival Storage of Three-Dimensional Data",
         "pub_year": "2010",
         "citation": "Minerals, Metals and Materials Society/AIME, 420 Commonwealth Dr., P. O. Box …, 2010"
@@ -711,6 +716,11 @@
         "citation": "Ultramicroscopy 187, 98-106, 2018"
     },
     {
+        "title": "Energy-weighted dynamical scattering simulations of electron diffraction modalities in the scanning electron microscope (vol 187, pg 98, 2018)",
+        "pub_year": "2018",
+        "citation": "ULTRAMICROSCOPY 188, 101-101, 2018"
+    },
+    {
         "title": "Epitaxial Phase Stability of SrMnO3–x Films on Polycrystalline Perovskite Substrates",
         "pub_year": "2021",
         "citation": "Crystal Growth & Design 21 (8), 4547-4555, 2021"
@@ -839,11 +849,6 @@
         "title": "H5ebsd: An archival data format for electron back-scatter diffraction data sets",
         "pub_year": "2014",
         "citation": "Integrating Materials and Manufacturing Innovation 3, 44-55, 2014"
-    },
-    {
-        "title": "HETEROEPITAXY OF RARE-EARTH HEXA-ALUMINATES ON SAPPHIRE (VOL 9, PG 410, 1994)",
-        "pub_year": "1994",
-        "citation": "JOURNAL OF MATERIALS RESEARCH 9 (5), 1328-1328, 1994"
     },
     {
         "title": "HRTEM Characterization of 6H-15R Polytype Boundaries in Silicon Carbide Grown by Physical Vapor Transport",

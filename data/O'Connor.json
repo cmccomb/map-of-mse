@@ -7,7 +7,7 @@
     {
         "title": "A hybrid smoothed-particle hydrodynamics model of oxide skins on molten aluminum",
         "pub_year": "2024",
-        "citation": "Applied Mathematical Modelling, 2024"
+        "citation": "Applied Mathematical Modelling 130, 310-326, 2024"
     },
     {
         "title": "A reversible strain-induced electrical conductivity in cup-stacked carbon nanotube",
@@ -138,6 +138,11 @@
         "title": "How the Microscopic Dynamics of Different Polymer Architectures Drive Nonlinear Extensional Flows",
         "pub_year": "2020",
         "citation": "Bulletin of the American Physical Society 65, 2020"
+    },
+    {
+        "title": "Measuring topological constraint relaxation in ring-linear polymer blends",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.15560, 2024"
     },
     {
         "title": "Mesoscale models for fluids and solids in LAMMPS.",

@@ -156,6 +156,11 @@
         "citation": "Metallurgical and materials transactions A 37, 19-25, 2006"
     },
     {
+        "title": "A model of strain hardening for Stage IV based on lattice curvature induced dislocations and grain fragmentation",
+        "pub_year": "2024",
+        "citation": "Journal of Materials Research and Technology, 2024"
+    },
+    {
         "title": "A multi-scale, multi-physics modeling framework to predict spatial variation of properties in additive-manufactured metals",
         "pub_year": "2019",
         "citation": "Modelling and Simulation in Materials Science and Engineering 27 (2), 025009, 2019"
@@ -1426,7 +1431,7 @@
         "citation": "Materials Research Letters 9 (10), 429-436, 2021"
     },
     {
-        "title": "High-Temperature Oxidation Behavior of Wrought and Additive Manufactured Alloys in Direct-Fired Supercritical CO2 Power Cycle Environments",
+        "title": "High-Temperature Oxidation Behavior of Wrought and Additive Manufactured Ni-based Alloys in Direct-Fired Supercritical CO2 Power Cycle Environments",
         "pub_year": "2024",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024"
     },
@@ -1720,6 +1725,11 @@
         "title": "Mapping nanocrystal orientations via scanning Laue diffraction microscopy for multi-peak Bragg coherent diffraction imaging",
         "pub_year": "2023",
         "citation": "Journal of Synchrotron Radiation 30 (4), 2023"
+    },
+    {
+        "title": "Martensite decomposition during rapid heating of Ti-6Al-4V studied via in situ synchrotron X-ray diffraction",
+        "pub_year": "2024",
+        "citation": "Communications Materials 5 (1), 58, 2024"
     },
     {
         "title": "Materials Processing and Texture",
@@ -2823,7 +2833,8 @@
     },
     {
         "title": "Subgrain Texture Evolution during Biaxial Deformation in Interstitial Free and Dual Phase Steels",
-        "citation": "Electron Backscattered Diffraction Analysis of Steels, 989-998, 0"
+        "pub_year": "2009",
+        "citation": "Electron Backscattered Diffraction Analysis of Steels, 989-998, 2009"
     },
     {
         "title": "Supplementary Materials: Economics of Additive Manufactured Heat Exchangers for Concentrating Solar Power",

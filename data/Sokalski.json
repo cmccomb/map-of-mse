@@ -2,290 +2,406 @@
     {
         "title": "2014 IEEE International Electron Devices Meeting",
         "pub_year": "2014",
-        "citation": "IEEE, 2014"
+        "citation": "IEEE, 2014",
+        "num_citations": 5,
+        "author_pub_id": "NmnYW7cAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Annealing effect and under/capping layer study on Co/Ni multilayer thin films for domain wall motion",
         "pub_year": "2013",
-        "citation": "Journal of Applied Physics 113 (17), 2013"
+        "citation": "Journal of Applied Physics 113 (17), 2013",
+        "num_citations": 14,
+        "author_pub_id": "NmnYW7cAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Characterization of oxide materials for exchange decoupling in perpendicular thin film media",
         "pub_year": "2010",
-        "citation": "IEEE transactions on magnetics 46 (6), 2260-2263, 2010"
+        "citation": "IEEE transactions on magnetics 46 (6), 2260-2263, 2010",
+        "num_citations": 23,
+        "author_pub_id": "NmnYW7cAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Characterizing Dzyaloshinskii Domain Walls in Asymmetric [Pt/Co/Ni/Ir]N Multi-Layers using Lorentz TEM",
         "pub_year": "2018",
-        "citation": "Microscopy and Microanalysis 24 (S1), 948-949, 2018"
+        "citation": "Microscopy and Microanalysis 24 (S1), 948-949, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Characterizing an effective magnetic field during asymmetric creep motion of Dzyaloshinskii domain walls",
         "pub_year": "2024",
-        "citation": "Journal of Physics: Condensed Matter, 2024"
+        "citation": "Journal of Physics: Condensed Matter 36 (30), 30LT01, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Control of Texture and Morphology of Thin Films for Magnetic Recording Applications",
         "pub_year": "2012",
-        "citation": "AIP Conference Proceedings, 2012"
+        "citation": "AIP Conference Proceedings, 2012",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Deterministically switching the Bloch chirality of domain walls and skyrmions: the Dzyaloshinskii astroid",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2109.04499, 2021"
+        "citation": "arXiv preprint arXiv:2109.04499, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Direct observation of topological charge impacting skyrmion bubble stability in Pt/Ni/Co asymmetric superlattices",
         "pub_year": "2021",
-        "citation": "APL Materials 9 (8), 2021"
+        "citation": "APL Materials 9 (8), 2021",
+        "num_citations": 3,
+        "author_pub_id": "NmnYW7cAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Disentangling factors governing Dzyaloshinskii domain-wall creep in Co/Ni thin films using  seed layers",
         "pub_year": "2018",
-        "citation": "Physical Review B 98 (18), 184410, 2018"
+        "citation": "Physical Review B 98 (18), 184410, 2018",
+        "num_citations": 26,
+        "author_pub_id": "NmnYW7cAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Dispersive elastic properties of Dzyaloshinskii domain walls",
         "pub_year": "2017",
-        "citation": "APS March Meeting Abstracts 2017, R47. 003, 2017"
+        "citation": "APS March Meeting Abstracts 2017, R47. 003, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Dispersive stiffness of Dzyaloshinskii domain walls",
         "pub_year": "2017",
-        "citation": "Physical review letters 119 (2), 027203, 2017"
+        "citation": "Physical review letters 119 (2), 027203, 2017",
+        "num_citations": 62,
+        "author_pub_id": "NmnYW7cAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Dynamic symmetry breaking in chiral magnetic systems",
         "pub_year": "2021",
-        "citation": "Advanced Materials 33 (39), 2101524, 2021"
+        "citation": "Advanced Materials 33 (39), 2101524, 2021",
+        "num_citations": 11,
+        "author_pub_id": "NmnYW7cAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Energetic molding of chiral magnetic bubbles",
         "pub_year": "2016",
-        "citation": "Physical review B 94 (6), 060401, 2016"
+        "citation": "Physical review B 94 (6), 060401, 2016",
+        "num_citations": 60,
+        "author_pub_id": "NmnYW7cAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Energetic molding of skyrmion-like magnetic bubbles",
         "pub_year": "2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "NmnYW7cAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Enhancement of thermal conductance at metal-dielectric interfaces using subnanometer metal adhesion layers",
         "pub_year": "2016",
-        "citation": "Physical Review Applied 5 (1), 014009, 2016"
+        "citation": "Physical Review Applied 5 (1), 014009, 2016",
+        "num_citations": 68,
+        "author_pub_id": "NmnYW7cAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Examining Domain Wall Skyrmions and Domain Wall Substructures in a Pt/Co/Ni/Ir Multilayer System",
         "pub_year": "2021",
-        "citation": "APS March Meeting Abstracts 2021, U71. 160, 2021"
+        "citation": "APS March Meeting Abstracts 2021, U71. 160, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Experimental demonstration of four-terminal magnetic logic device with separate read-and write-paths",
         "pub_year": "2014",
-        "citation": "2014 IEEE International Electron Devices Meeting, 33.1. 1-33.1. 4, 2014"
+        "citation": "2014 IEEE International Electron Devices Meeting, 33.1. 1-33.1. 4, 2014",
+        "num_citations": 44,
+        "author_pub_id": "NmnYW7cAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Experimental modeling of intergranular exchange coupling for perpendicular thin film media",
         "pub_year": "2009",
-        "citation": "Applied Physics Letters 95 (10), 2009"
+        "citation": "Applied Physics Letters 95 (10), 2009",
+        "num_citations": 38,
+        "author_pub_id": "NmnYW7cAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Experimental observation of magnetic domain wall skyrmions",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2004.07888, 2020"
+        "citation": "arXiv preprint arXiv:2004.07888, 2020",
+        "num_citations": 3,
+        "author_pub_id": "NmnYW7cAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Fabrication and recording of bit patterned media prepared by rotary stage electron beam lithography",
         "pub_year": "2011",
-        "citation": "IEEE transactions on magnetics 47 (10), 2656-2659, 2011"
+        "citation": "IEEE transactions on magnetics 47 (10), 2656-2659, 2011",
+        "num_citations": 10,
+        "author_pub_id": "NmnYW7cAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Fabrication of thin films for a small alternating gradient field magnetometer for biomedical magnetic sensing applications",
         "pub_year": "2011",
-        "citation": "Journal of Applied Physics 109 (7), 2011"
+        "citation": "Journal of Applied Physics 109 (7), 2011",
+        "num_citations": 1,
+        "author_pub_id": "NmnYW7cAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Formation of Field-Free Skyrmion Arrays in Pt/Co/Ni/Ir-based Multilayer Thin Films",
         "pub_year": "2021",
-        "citation": "APS March Meeting Abstracts 2021, V36. 002, 2021"
+        "citation": "APS March Meeting Abstracts 2021, V36. 002, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Formation of zero-field skyrmion arrays in asymmetric superlattices",
         "pub_year": "2020",
-        "citation": "Applied Physics Letters 117 (11), 2020"
+        "citation": "Applied Physics Letters 117 (11), 2020",
+        "num_citations": 14,
+        "author_pub_id": "NmnYW7cAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Higher-order perpendicular magnetic anisotropy and interfacial damping of Co/Ni multilayers",
         "pub_year": "2020",
-        "citation": "Physical Review B 102 (17), 174421, 2020"
+        "citation": "Physical Review B 102 (17), 174421, 2020",
+        "num_citations": 15,
+        "author_pub_id": "NmnYW7cAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "In Pursuit of Antiskyrmions and the Anisotropic Dzyaloshinskii-Moriya Interaction: Structural and Magnetic Characterization of Uniaxial Pt/Co-based C2v Thin Films",
         "pub_year": "2021",
-        "citation": "APS March Meeting Abstracts 2021, A40. 008, 2021"
+        "citation": "APS March Meeting Abstracts 2021, A40. 008, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Increased boron content for wider process tolerance in perpendicular MTJs",
         "pub_year": "2017",
-        "citation": "AIP Advances 7 (5), 2017"
+        "citation": "AIP Advances 7 (5), 2017",
+        "num_citations": 4,
+        "author_pub_id": "NmnYW7cAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Increased perpendicular TMR in FeCoB/MgO/FeCoB magnetic tunnel junctions by seedlayer modifications",
         "pub_year": "2013",
-        "citation": "IEEE transactions on magnetics 49 (7), 4383-4385, 2013"
+        "citation": "IEEE transactions on magnetics 49 (7), 4383-4385, 2013",
+        "num_citations": 16,
+        "author_pub_id": "NmnYW7cAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Key points in the determination of the interfacial Dzyaloshinskii–Moriya interaction from asymmetric bubble domain expansion",
         "pub_year": "2022",
-        "citation": "IEEE Transactions on Magnetics 58 (12), 1-16, 2022"
+        "citation": "IEEE Transactions on Magnetics 58 (12), 1-16, 2022",
+        "num_citations": 9,
+        "author_pub_id": "NmnYW7cAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Limitations of the macrospin approximation of materials with inhomogeneous perpendicular anisotropy",
         "pub_year": "2020",
-        "citation": "Journal of Applied Physics 128 (7), 2020"
+        "citation": "Journal of Applied Physics 128 (7), 2020",
+        "num_citations": 7,
+        "author_pub_id": "NmnYW7cAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Lorentz TEM Image Simulations of Dzyaloshinskii Domain Walls Under an In-Plane Magnetic Field",
         "pub_year": "2017",
-        "citation": "Microscopy and Microanalysis 23 (S1), 1734-1735, 2017"
+        "citation": "Microscopy and Microanalysis 23 (S1), 1734-1735, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Lorentz TEM Imaging of Topological Magnetic Features in Asymmetric [Pt/(Co/Ni)M/Ir]N based Multi-Layers",
         "pub_year": "2019",
-        "citation": "Microscopy and Microanalysis 25 (S2), 24-25, 2019"
+        "citation": "Microscopy and Microanalysis 25 (S2), 24-25, 2019",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Lorentz TEM investigation of chiral spin textures and Néel Skyrmions in asymmetric  multi-layer thin films",
         "pub_year": "2019",
-        "citation": "Physical Review Materials 3 (6), 064409, 2019"
+        "citation": "Physical Review Materials 3 (6), 064409, 2019",
+        "num_citations": 23,
+        "author_pub_id": "NmnYW7cAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Magnetic Materials 2200611 Magnetocapacitance Response in Ex Situ Combustion Derived BaTiO3–Ferrite Magnetodielectric Composite",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Magnetic Nanohorns for Measurement of the Interfacial Dzyaloshinskii–Moriya Interaction: A Micromagnetic Study",
         "pub_year": "2021",
-        "citation": "IEEE Transactions on Magnetics 58 (2), 1-3, 2021"
+        "citation": "IEEE Transactions on Magnetics 58 (2), 1-3, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Magnetic anisotropy and stacking faults in Co and Co84Pt16 epitaxially grown thin films",
         "pub_year": "2011",
-        "citation": "Journal of Applied Physics 110 (9), 2011"
+        "citation": "Journal of Applied Physics 110 (9), 2011",
+        "num_citations": 22,
+        "author_pub_id": "NmnYW7cAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Magnetic domain wall skyrmions",
         "pub_year": "2019",
-        "citation": "Physical Review B 99 (18), 184412, 2019"
+        "citation": "Physical Review B 99 (18), 184412, 2019",
+        "num_citations": 67,
+        "author_pub_id": "NmnYW7cAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Magnetic domain wall substructures in Pt/Co/Ni/Ir multi-layers",
         "pub_year": "2021",
-        "citation": "Journal of Applied Physics 130 (15), 2021"
+        "citation": "Journal of Applied Physics 130 (15), 2021",
+        "num_citations": 9,
+        "author_pub_id": "NmnYW7cAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Magnetic imaging of Dzyaloshinskii domain walls in Co/Ni based asymmetric superlattices (Conference Presentation)",
         "pub_year": "2018",
-        "citation": "Spintronics XI 10732, 107323E, 2018"
+        "citation": "Spintronics XI 10732, 107323E, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Magnetization dynamics and damping behavior of Co/Ni multilayers with a graded Ta capping layer",
         "pub_year": "2017",
-        "citation": "Journal of Applied Physics 121 (16), 2017"
+        "citation": "Journal of Applied Physics 121 (16), 2017",
+        "num_citations": 7,
+        "author_pub_id": "NmnYW7cAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Media Noise Mechanisms in Perpendicular Magnetic Recording: Intergranular Exchange Coupling, Interface Anisotropy, and Stacking Faults",
         "pub_year": "2011",
-        "citation": "Carnegie Mellon University, 2011"
+        "citation": "Carnegie Mellon University, 2011",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Naturally oxidized FeCo as a magnetic coupling layer for electrically isolated read/write paths in mLogic",
         "pub_year": "2013",
-        "citation": "IEEE Transactions on Magnetics 49 (7), 4351-4354, 2013"
+        "citation": "IEEE Transactions on Magnetics 49 (7), 4351-4354, 2013",
+        "num_citations": 22,
+        "author_pub_id": "NmnYW7cAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Noise mechanisms in small grain size perpendicular thin film media",
         "pub_year": "2010",
-        "citation": "IEEE transactions on magnetics 47 (1), 74-80, 2010"
+        "citation": "IEEE transactions on magnetics 47 (1), 74-80, 2010",
+        "num_citations": 22,
+        "author_pub_id": "NmnYW7cAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Nonvolatile magnetic logic device",
         "pub_year": "2016",
-        "citation": "US Patent 9,300,301, 2016"
+        "citation": "US Patent 9,300,301, 2016",
+        "num_citations": 25,
+        "author_pub_id": "NmnYW7cAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Optimization of Ta thickness for perpendicular magnetic tunnel junction applications in the MgO-FeCoB-Ta system",
         "pub_year": "2012",
-        "citation": "Applied Physics Letters 101 (7), 2012"
+        "citation": "Applied Physics Letters 101 (7), 2012",
+        "num_citations": 74,
+        "author_pub_id": "NmnYW7cAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Simulation of a proposed near-field-to-far-field antenna measurement system",
         "pub_year": "2021",
-        "citation": "Journal of Applied Physics 130 (15), 153903, 2021"
+        "citation": "Journal of Applied Physics 130 (15), 153903, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Simultaneous control of interlayer exchange coupling and the interfacial Dzyaloshinskii–Moriya interaction in Ru-based synthetic antiferromagnets",
         "pub_year": "2018",
-        "citation": "IEEE Magnetics Letters 10, 1-4, 2018"
+        "citation": "IEEE Magnetics Letters 10, 1-4, 2018",
+        "num_citations": 10,
+        "author_pub_id": "NmnYW7cAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Stabilization of chiral Bloch skyrmions due to interfacial DMI and asymmetric vertical Bloch line evolution.",
         "pub_year": "2023",
-        "citation": "APS March Meeting Abstracts 2023, A54. 010, 2023"
+        "citation": "APS March Meeting Abstracts 2023, A54. 010, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Stabilization of coupled Dzyaloshinskii domain walls in fully compensated synthetic anti-ferromagnets",
         "pub_year": "2020",
-        "citation": "AIP Advances 10 (1), 2020"
+        "citation": "AIP Advances 10 (1), 2020",
+        "num_citations": 5,
+        "author_pub_id": "NmnYW7cAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Structure–Property Correlations in CoFe–SiO2 Nanogranular Films Utilizing x-Ray Photoelectron Spectroscopy  and Small-Angle Scattering Techniques",
         "pub_year": "2014",
-        "citation": "Journal of electronic materials 43, 142-150, 2014"
+        "citation": "Journal of electronic materials 43, 142-150, 2014",
+        "num_citations": 6,
+        "author_pub_id": "NmnYW7cAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Stucture & property evolution of thin film soft magnetic nanocomposites in the CoFe(B)-SiOx system",
         "pub_year": "2015",
-        "citation": "2015 IEEE International Magnetics Conference (INTERMAG), 1-1, 2015"
+        "citation": "2015 IEEE International Magnetics Conference (INTERMAG), 1-1, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "The interfacial Dzyaloshinskii-Moriya interaction and spin-orbit torque driven domain wall motion in Co/Ni multi-layers with a Ptx (Ir, Au) 1− x seedlayer",
         "pub_year": "2019",
-        "citation": "AIP Advances 9 (3), 2019"
+        "citation": "AIP Advances 9 (3), 2019",
+        "num_citations": 5,
+        "author_pub_id": "NmnYW7cAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Thickness and interface-dependent crystallization of CoFeB alloy thin films",
         "pub_year": "2015",
-        "citation": "IEEE Transactions on Magnetics 51 (11), 1-3, 2015"
+        "citation": "IEEE Transactions on Magnetics 51 (11), 1-3, 2015",
+        "num_citations": 20,
+        "author_pub_id": "NmnYW7cAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Thin film effects in the crystallization of CoFeB and CoFeB-based alloys",
         "pub_year": "2015",
-        "citation": "2015 IEEE International Magnetics Conference (INTERMAG), 1-1, 2015"
+        "citation": "2015 IEEE International Magnetics Conference (INTERMAG), 1-1, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Towards hexagonal  systems with anisotropic DMI: Characterization of epitaxial Co/Pt multilayer films",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.10249, 2021"
+        "citation": "arXiv preprint arXiv:2106.10249, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Towards hexagonal  systems with anisotropic Dzyaloshinkii-Moriya interaction: Characterization of epitaxial  multilayer films",
         "pub_year": "2021",
-        "citation": "Physical Review Materials 5 (10), L101401, 2021"
+        "citation": "Physical Review Materials 5 (10), L101401, 2021",
+        "num_citations": 3,
+        "author_pub_id": "NmnYW7cAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Towards hexagonal C2v systems with anisotropic DMI: Characterization of epitaxial Co(10.0)/Pt(110) multilayer films",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.10249, 2021"
+        "citation": "arXiv preprint arXiv:2106.10249, 2021",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "UFG to NC FePd by Combined Reaction Transformation Mode of Severely Plastically Deformed Disordered FePd",
         "pub_year": "2006",
-        "citation": "MRS Online Proceedings Library (OPL) 980, 0980-II05-18, 2006"
+        "citation": "MRS Online Proceedings Library (OPL) 980, 0980-II05-18, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "mLogic: All spin logic device and circuits",
         "pub_year": "2015",
-        "citation": "2015 Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 1-2, 2015"
+        "citation": "2015 Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 1-2, 2015",
+        "num_citations": 7,
+        "author_pub_id": "NmnYW7cAAAAJ:UebtZRa9Y70C"
     }
 ]

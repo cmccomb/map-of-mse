@@ -2,2197 +2,3084 @@
     {
         "title": "10. Modelling Microstructure and Mechanical Properties of High Strength Steels During Hot Rolling in an ESP Plant",
         "pub_year": "2016",
-        "citation": "Proceedings of the 6th International Conference on Recrystallization and …, 2016"
+        "citation": "Proceedings of the 6th International Conference on Recrystallization and …, 2016",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:FsLZdJ3BAzkC"
     },
     {
         "title": "15213-3890, USA acurrent affiliation: RJ Lee Group, 350 Hochberg Rd., Monroeville, PA 15146, USA bcurrent affiliation: Materials Engineering Division, Lawrence Livermore …",
         "pub_year": "2015",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Ic1VZgkJnDsC"
     },
     {
         "title": "20II-O-07 Structure Sensitivity of Photochemical Reactions on Oxide Surfaces",
         "pub_year": "2003",
-        "citation": "日本セラミックス協会秋季シンポジウム講演予稿集 16, 281, 2003"
+        "citation": "日本セラミックス協会秋季シンポジウム講演予稿集 16, 281, 2003",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:lmc2jWPfTJgC"
     },
     {
         "title": "3D EBSD: Tomographic orientation microscopy in a FIB SEM",
-        "citation": "E-MRS 2010 Spring Meeting, 0"
+        "citation": "E-MRS 2010 Spring Meeting, 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "A MODEL FOR THE ORIGIN OF ANISOTROPIC GRAIN BOUNDARY CHARACTER DISTRIBUTIONS IN POLYCRYSTALL1NE MATERIALS",
         "pub_year": "2008",
-        "citation": "Applications of Texture Analysis: Ceramic Transactions 92, 343, 2008"
+        "citation": "Applications of Texture Analysis: Ceramic Transactions 92, 343, 2008",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:_B80troHkn4C"
     },
     {
         "title": "A Scanning Tunneling Microscopy Study of the Reduced Tio2 (110) Surface",
         "pub_year": "1990",
-        "citation": "MRS Online Proceedings Library (OPL) 209, 611, 1990"
+        "citation": "MRS Online Proceedings Library (OPL) 209, 611, 1990",
+        "num_citations": 5,
+        "author_pub_id": "eLe4eJEAAAAJ:u-coK7KVo8oC"
     },
     {
         "title": "A microscopic evaluation of the surface structure of OMVPE deposited α-GaN epilayers",
         "pub_year": "1995",
-        "citation": "MRS Online Proceedings Library (OPL) 395, 381, 1995"
-    },
-    {
-        "title": "A microscopic evaluation of the surface structure of OMVPE deposited α-GaN epilayers",
-        "pub_year": "1995",
-        "citation": "MRS Online Proceedings Library (OPL) 395, 381, 1995"
+        "citation": "MRS Online Proceedings Library (OPL) 395, 381, 1995",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "A scanning probe microscopy study of the (001) surfaces of V2O5 and V6O13",
         "pub_year": "1996",
-        "citation": "Surface science 367 (1), 87-95, 1996"
+        "citation": "Surface science 367 (1), 87-95, 1996",
+        "num_citations": 68,
+        "author_pub_id": "eLe4eJEAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "A scanning tunneling microscopy and spectroscopy study of the TiO2− x (110) surface",
         "pub_year": "1992",
-        "citation": "Surface science 278 (1-2), 146-156, 1992"
+        "citation": "Surface science 278 (1-2), 146-156, 1992",
+        "num_citations": 109,
+        "author_pub_id": "eLe4eJEAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "A scanning tunneling microscopy study of single crystal ZnO and TiO2 surfaces. Discussion",
         "pub_year": "1991",
-        "citation": "NIST Special publication, 447-454, 1991"
+        "citation": "NIST Special publication, 447-454, 1991",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:DJbcl8HfkQkC"
     },
     {
         "title": "Abnormal grain growth in the Potts model incorporating grain boundary complexion transitions that increase the mobility of individual boundaries",
         "pub_year": "2015",
-        "citation": "Acta Materialia 96, 390-398, 2015"
+        "citation": "Acta Materialia 96, 390-398, 2015",
+        "num_citations": 58,
+        "author_pub_id": "eLe4eJEAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Advanced Tomographic Tools for Reconstruction and Analysis of 3D-EBSD Datasets",
-        "citation": "RMS Electron Back Scatter Diffraction Conference 2011, 0"
+        "citation": "RMS Electron Back Scatter Diffraction Conference 2011, 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:6ZxmRoH8BuwC"
     },
     {
         "title": "Advanced crystallographic & topological analysis tools for tomographic characterization of interfaces and deformation structures obtained via 3D-EBSD",
         "pub_year": "2011",
-        "citation": "Fachbeiratsitzung 2011, MPIE, 2011"
+        "citation": "Fachbeiratsitzung 2011, MPIE, 2011",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:fFSKOagxvKUC"
     },
     {
         "title": "Advanced methods and tools for reconstruction and analysis of grain boundaries from 3D-EBSD data sets",
         "pub_year": "2012",
-        "citation": "Materials Science Forum 702, 475-478, 2012"
+        "citation": "Materials Science Forum 702, 475-478, 2012",
+        "num_citations": 24,
+        "author_pub_id": "eLe4eJEAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "An atomic force microscopy study of super-dislocation/micropipe complexes on the 6H-SiC (0 0 0 1) growth surface",
         "pub_year": "1997",
-        "citation": "Journal of crystal growth 181 (4), 351-362, 1997"
+        "citation": "Journal of crystal growth 181 (4), 351-362, 1997",
+        "num_citations": 62,
+        "author_pub_id": "eLe4eJEAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "An atomic force microscopy study of the morphological evolution of the MoO3 (010) surface during reduction reactions",
         "pub_year": "1996",
-        "citation": "Journal of Catalysis 163 (1), 12-17, 1996"
+        "citation": "Journal of Catalysis 163 (1), 12-17, 1996",
+        "num_citations": 57,
+        "author_pub_id": "eLe4eJEAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Anisotropic grain boundary area and energy distributions in tungsten",
         "pub_year": "2022",
-        "citation": "Scripta Materialia 209, 114384, 2022"
+        "citation": "Scripta Materialia 209, 114384, 2022",
+        "num_citations": 11,
+        "author_pub_id": "eLe4eJEAAAAJ:BmWJbWwHJAwC"
     },
     {
         "title": "Anisotropic phenomena at interfaces in bismuth–saturated copper",
         "pub_year": "2004",
-        "citation": "Scripta materialia 50 (5), 565-569, 2004"
+        "citation": "Scripta materialia 50 (5), 565-569, 2004",
+        "num_citations": 21,
+        "author_pub_id": "eLe4eJEAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Anisotropic photochemical reactivity of bulk TiO2 crystals",
         "pub_year": "1998",
-        "citation": "The Journal of Physical Chemistry B 102 (38), 7323-7327, 1998"
+        "citation": "The Journal of Physical Chemistry B 102 (38), 7323-7327, 1998",
+        "num_citations": 161,
+        "author_pub_id": "eLe4eJEAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Annealing twin development during recrystallization and grain growth in pure nickel",
         "pub_year": "2014",
-        "citation": "Materials Science and Engineering: A 597, 295-303, 2014"
+        "citation": "Materials Science and Engineering: A 597, 295-303, 2014",
+        "num_citations": 219,
+        "author_pub_id": "eLe4eJEAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Anti-thermal grain growth in SrTiO3: Coupled reduction of the grain boundary energy and grain growth rate constant",
         "pub_year": "2018",
-        "citation": "Acta Materialia 149, 11-18, 2018"
+        "citation": "Acta Materialia 149, 11-18, 2018",
+        "num_citations": 31,
+        "author_pub_id": "eLe4eJEAAAAJ:SGW5VrABaM0C"
     },
     {
         "title": "Application of Electron Backscattered Diffraction (EBSD) and Atomic Force Microscopy (AFM) to Determine Texture, Microtexture, and Grain Boundary Energies in Ceramics",
         "pub_year": "1999",
-        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 1999"
+        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 1999",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:9Nmd_mFXekcC"
     },
     {
         "title": "Atomistic simulations of grain boundary energies in austenitic steel",
         "pub_year": "2019",
-        "citation": "Journal of materials science 54, 5570-5583, 2019"
+        "citation": "Journal of materials science 54, 5570-5583, 2019",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:CYCckWUYoCcC"
     },
     {
         "title": "Atomistic simulations of grain boundary energies in tungsten",
         "pub_year": "2017",
-        "citation": "Materials Letters 186, 116-118, 2017"
+        "citation": "Materials Letters 186, 116-118, 2017",
+        "num_citations": 24,
+        "author_pub_id": "eLe4eJEAAAAJ:ALROH1vI_8AC"
     },
     {
         "title": "Brightness degradation in electroluminescent ZnS: Cu",
         "pub_year": "1999",
-        "citation": "Solid State Ionics 123 (1-4), 19-24, 1999"
+        "citation": "Solid State Ionics 123 (1-4), 19-24, 1999",
+        "num_citations": 30,
+        "author_pub_id": "eLe4eJEAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Buried Charge at the TiO2/SrTiO3 (111) Interface and Its Effect on Photochemical Reactivity",
         "pub_year": "2017",
-        "citation": "ACS applied materials & interfaces 9 (8), 7843-7851, 2017"
+        "citation": "ACS applied materials & interfaces 9 (8), 7843-7851, 2017",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:MAUkC_7iAq8C"
     },
     {
         "title": "COLOR CENTER FORMATION AND ELECTRONIC CONDUCTIVITY IN THE MULTIVALENT BETA''-ALUMINAS",
         "pub_year": "1986",
-        "citation": "JOURNAL OF THE ELECTROCHEMICAL SOCIETY 133 (8), C344-C344, 1986"
+        "citation": "JOURNAL OF THE ELECTROCHEMICAL SOCIETY 133 (8), C344-C344, 1986",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:LhH-TYMQEocC"
     },
     {
         "title": "CRYSTAL CHEMICAL MODELING OF THE Li ION DISTRIBUTION IN Lian204 C. Lane Rohrer Alcoa Technical Center Aluminum Company of America, Alcoa Center, PA 15069",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "Calcium Phosphate Bioceramics with Tailored Crystallographic Texture for Controlling Cell Adhesion",
         "pub_year": "2006",
-        "citation": "MATERIALS RESEARCH SOCIETY SYMPOSIUM PROCEEDINGS 925, 7, 2006"
+        "citation": "MATERIALS RESEARCH SOCIETY SYMPOSIUM PROCEEDINGS 925, 7, 2006",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:G1UMdFYMoxkC"
     },
     {
         "title": "Calcium phosphate bioceramics with tailored crystallographic texture for controlling cell adhesion",
         "pub_year": "2006",
-        "citation": "MRS Online Proceedings Library (OPL) 925, 0925-BB02-07, 2006"
+        "citation": "MRS Online Proceedings Library (OPL) 925, 0925-BB02-07, 2006",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Capillarity vector reconstruction of the relative energies of [0001] tilt boundaries in alumina",
         "pub_year": "2001",
-        "citation": "Proceedings of the First Joint International Conference on Grain Growth, Eds …, 2001"
+        "citation": "Proceedings of the First Joint International Conference on Grain Growth, Eds …, 2001",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:_5tno0g5mFcC"
     },
     {
         "title": "Ceramic Transactions, Volume 65: Role of Ceramics in Advanced Electrochemical Systems",
         "pub_year": "1996",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:_FM0Bhl9EiAC"
     },
     {
         "title": "Ceramic transactions: Role of ceramics in advanced electrochemical systems. Volume 65",
         "pub_year": "1996",
-        "citation": "American Ceramic Society, Westerville, OH (United States), 1996"
+        "citation": "American Ceramic Society, Westerville, OH (United States), 1996",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "Challenges in ceramic science: a report from the workshop on emerging research areas in ceramic science",
         "pub_year": "2012",
-        "citation": "Journal of the American Ceramic Society 95 (12), 3699-3712, 2012"
+        "citation": "Journal of the American Ceramic Society 95 (12), 3699-3712, 2012",
+        "num_citations": 76,
+        "author_pub_id": "eLe4eJEAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Changes in the Distribution of Interfaces in PMN-35 mol% PT as a Function of Time",
         "pub_year": "2022",
-        "citation": "International Journal of Materials Research 96 (2), 207-210, 2022"
+        "citation": "International Journal of Materials Research 96 (2), 207-210, 2022",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Changes in the five-parameter grain boundary character distribution in α-brass brought about by iterative thermomechanical processing",
         "pub_year": "2006",
-        "citation": "Acta materialia 54 (17), 4489-4502, 2006"
+        "citation": "Acta materialia 54 (17), 4489-4502, 2006",
+        "num_citations": 126,
+        "author_pub_id": "eLe4eJEAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Changes in the grain boundary character and energy distributions resulting from a complexion transition in Ca-doped yttria",
         "pub_year": "2012",
-        "citation": "Metallurgical and Materials Transactions A 43, 3532-3538, 2012"
+        "citation": "Metallurgical and Materials Transactions A 43, 3532-3538, 2012",
+        "num_citations": 43,
+        "author_pub_id": "eLe4eJEAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Characterization of the grain‐boundary character and energy distributions of yttria using automated serial sectioning and EBSD in the FIB",
         "pub_year": "2009",
-        "citation": "Journal of the American Ceramic Society 92 (7), 1580-1585, 2009"
+        "citation": "Journal of the American Ceramic Society 92 (7), 1580-1585, 2009",
+        "num_citations": 120,
+        "author_pub_id": "eLe4eJEAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Click here to view linked References",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Coarsening of faceted crystals",
         "pub_year": "2002",
-        "citation": "Journal of the American Ceramic Society 85 (3), 675-682, 2002"
+        "citation": "Journal of the American Ceramic Society 85 (3), 675-682, 2002",
+        "num_citations": 65,
+        "author_pub_id": "eLe4eJEAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Combinatorial substrate epitaxy investigation of polytypic growth of AEMnO3 (AE = Ca, Sr)",
         "pub_year": "2020",
-        "citation": "Journal of the American Ceramic Society 103 (3), 2225-2234, 2020"
+        "citation": "Journal of the American Ceramic Society 103 (3), 2225-2234, 2020",
+        "num_citations": 5,
+        "author_pub_id": "eLe4eJEAAAAJ:SAZ1SQo2q1kC"
     },
     {
         "title": "Combinatorial substrate epitaxy: A high-throughput method for determining phase and orientation relationships and its application to BiFeO3/TiO2 heterostructures",
         "pub_year": "2012",
-        "citation": "Acta materialia 60 (19), 6486-6493, 2012"
+        "citation": "Acta materialia 60 (19), 6486-6493, 2012",
+        "num_citations": 60,
+        "author_pub_id": "eLe4eJEAAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "Combinatorial substrate epitaxy: a new approach to growth of complex metastable compounds",
         "pub_year": "2013",
-        "citation": "CrystEngComm 15 (27), 5434-5441, 2013"
+        "citation": "CrystEngComm 15 (27), 5434-5441, 2013",
+        "num_citations": 28,
+        "author_pub_id": "eLe4eJEAAAAJ:sSrBHYA8nusC"
+    },
+    {
+        "title": "Comparing Molecular Dynamics Simulations of Grain Growth with Experimental Data",
+        "citation": "Available at SSRN 4827552, 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Y0-TYkg6YM4C"
     },
     {
         "title": "Comparing calculated and measured grain boundary energies in nickel",
         "pub_year": "2010",
-        "citation": "Acta Materialia 58 (15), 5063-5069, 2010"
+        "citation": "Acta Materialia 58 (15), 5063-5069, 2010",
+        "num_citations": 126,
+        "author_pub_id": "eLe4eJEAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Comparing calculated and measured grain boundary energies in nickel.",
         "pub_year": "2010",
-        "citation": "Acta Materialia, 2010"
+        "citation": "Acta Materialia, 2010",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Comparison of grain size distributions in a Ni-based superalloy in three and two dimensions using the Saltykov method",
         "pub_year": "2012",
-        "citation": "Scripta Materialia 66 (8), 554-557, 2012"
+        "citation": "Scripta Materialia 66 (8), 554-557, 2012",
+        "num_citations": 48,
+        "author_pub_id": "eLe4eJEAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Comparison of simulated and measured grain volume changes during grain growth",
         "pub_year": "2022",
-        "citation": "Physical Review Materials 6 (3), 033402, 2022"
+        "citation": "Physical Review Materials 6 (3), 033402, 2022",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:wLxue7F8ec0C"
     },
     {
         "title": "Competitive Growth of Scrutinyite (α-PbO2) and Rutile Polymorphs of SnO2 on All Orientations of Columbite CoNb2O6 Substrates",
         "pub_year": "2017",
-        "citation": "Crystal Growth & Design 17 (7), 3929-3939, 2017"
+        "citation": "Crystal Growth & Design 17 (7), 3929-3939, 2017",
+        "num_citations": 28,
+        "author_pub_id": "eLe4eJEAAAAJ:mKu_rENv82IC"
     },
     {
         "title": "Complexion Time-Temperature-Transformation (TTT) Diagrams: Opportunities and Challenges",
         "pub_year": "2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:hSRAE-fF4OAC"
     },
     {
         "title": "Complexion time-temperature-transformation (TTT) diagrams: Opportunities and challenges",
         "pub_year": "2016",
-        "citation": "Current Opinion in Solid State and Materials Science 20 (5), 316-323, 2016"
+        "citation": "Current Opinion in Solid State and Materials Science 20 (5), 316-323, 2016",
+        "num_citations": 45,
+        "author_pub_id": "eLe4eJEAAAAJ:2tRrZ1ZAMYUC"
     },
     {
         "title": "Composition Dependence of the Photochemical reduction of Ag by Ba1−xSrxTiO3",
         "pub_year": "2010",
-        "citation": "Chemistry of Materials 22 (11), 3527-3534, 2010"
+        "citation": "Chemistry of Materials 22 (11), 3527-3534, 2010",
+        "num_citations": 85,
+        "author_pub_id": "eLe4eJEAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Computational model of domain-specific reactivity on coated ferroelectric photocatalysts",
         "pub_year": "2016",
-        "citation": "The Journal of Physical Chemistry C 120 (23), 12673-12684, 2016"
+        "citation": "The Journal of Physical Chemistry C 120 (23), 12673-12684, 2016",
+        "num_citations": 17,
+        "author_pub_id": "eLe4eJEAAAAJ:sJsF-0ZLhtgC"
     },
     {
         "title": "Computationally guided epitaxial synthesis of (Sr/Ba) MnO3 films on (Sr/Ba) TiO3 substrates",
         "pub_year": "2023",
-        "citation": "Computational Materials Science 229, 112415, 2023"
+        "citation": "Computational Materials Science 229, 112415, 2023",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:6VlyvFCUEfcC"
     },
     {
         "title": "Consistent representations of and conversions between 3D rotations",
         "pub_year": "2015",
-        "citation": "Modelling and Simulation in Materials Science and Engineering 23 (8), 083501, 2015"
+        "citation": "Modelling and Simulation in Materials Science and Engineering 23 (8), 083501, 2015",
+        "num_citations": 85,
+        "author_pub_id": "eLe4eJEAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "Controlling the Relative Areas of Photocathodic and Photoanodic Terraces on the SrTiO3(111) Surface",
         "pub_year": "2016",
-        "citation": "Chemistry of Materials 28 (14), 5155-5162, 2016"
+        "citation": "Chemistry of Materials 28 (14), 5155-5162, 2016",
+        "num_citations": 36,
+        "author_pub_id": "eLe4eJEAAAAJ:wMgC3FpKEyYC"
     },
     {
         "title": "Controlling the termination and photochemical reactivity of the SrTiO 3 (110) surface",
         "pub_year": "2017",
-        "citation": "Physical Chemistry Chemical Physics 19 (11), 7910-7918, 2017"
+        "citation": "Physical Chemistry Chemical Physics 19 (11), 7910-7918, 2017",
+        "num_citations": 12,
+        "author_pub_id": "eLe4eJEAAAAJ:HGTzPopzzJcC"
     },
     {
         "title": "Conversion of Diaspore to Corundum: A New α‐Alumina Transformation Sequence",
         "pub_year": "1997",
-        "citation": "Journal of the American Ceramic Society 80 (10), 2677-2680, 1997"
+        "citation": "Journal of the American Ceramic Society 80 (10), 2677-2680, 1997",
+        "num_citations": 46,
+        "author_pub_id": "eLe4eJEAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Copper crystals on the (11 0) sapphire plane: orientation relationships, triple line ridges and interface shape equilibrium",
         "pub_year": "2013",
-        "citation": "Journal of Materials Science 48 (7), 3013-3026, 2013"
+        "citation": "Journal of Materials Science 48 (7), 3013-3026, 2013",
+        "num_citations": 21,
+        "author_pub_id": "eLe4eJEAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Correction-Orientation Dependence of Photoactivity on Rutile",
         "pub_year": "1999",
-        "citation": "Journal of the American Ceramic Society-Including Communications of the Amer …, 1999"
+        "citation": "Journal of the American Ceramic Society-Including Communications of the Amer …, 1999",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "Crystal chemical modeling of the Li ion distribution in Li {sub x} Mn {sub 2} O {sub 4}",
         "pub_year": "1996",
-        "citation": "American Ceramic Society, Westerville, OH (United States), 1996"
+        "citation": "American Ceramic Society, Westerville, OH (United States), 1996",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:HIFyuExEbWQC"
     },
     {
         "title": "Crystallographic characteristics of grain boundaries in dense yttria‐stabilized zirconia",
         "pub_year": "2011",
-        "citation": "International Journal of Applied Ceramic Technology 8 (5), 1218-1228, 2011"
+        "citation": "International Journal of Applied Ceramic Technology 8 (5), 1218-1228, 2011",
+        "num_citations": 34,
+        "author_pub_id": "eLe4eJEAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Crystallographic distribution of grain boundaries in magnesium oxide",
         "pub_year": "2001",
-        "citation": "Proceedings of the first joint international conference on grain growth …, 2001"
+        "citation": "Proceedings of the first joint international conference on grain growth …, 2001",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:uc_IGeMz5qoC"
     },
     {
         "title": "Crystallographic distribution of internal interfaces in spinel polycrystals",
         "pub_year": "2004",
-        "citation": "Materials science forum 467, 783-788, 2004"
+        "citation": "Materials science forum 467, 783-788, 2004",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Crystallographic distribution of low angle grain boundary planes in magnesium oxide",
         "pub_year": "2002",
-        "citation": "Materials Science Forum 408 (2), 1705-1710, 2002"
+        "citation": "Materials Science Forum 408 (2), 1705-1710, 2002",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Crystallographic texture in pulsed laser deposited hydroxyapatite bioceramic coatings",
         "pub_year": "2007",
-        "citation": "Acta materialia 55 (1), 131-139, 2007"
+        "citation": "Acta materialia 55 (1), 131-139, 2007",
+        "num_citations": 61,
+        "author_pub_id": "eLe4eJEAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Crystallography of Interfaces and Grain Size Distributions in Sr‐Doped LaMnO3",
         "pub_year": "2014",
-        "citation": "Journal of the American Ceramic Society 97 (8), 2623-2630, 2014"
+        "citation": "Journal of the American Ceramic Society 97 (8), 2623-2630, 2014",
+        "num_citations": 11,
+        "author_pub_id": "eLe4eJEAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "D., Ta’asan, S., and Wu, CT (1999a). Extracting grain boundary energy from triple junction measurement",
-        "citation": "Interface Science 7, 321-338, 0"
+        "citation": "Interface Science 7, 321-338, 0",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:L_l9e5I586QC"
     },
     {
         "title": "Defect Formation in Ag (1)-, Pb (I1)-, Sn (I1)-, and Bi (111)-@”-Aluminas",
         "pub_year": "1989",
-        "citation": "Chemistry of Materials 1 (4), 438-444, 1989"
+        "citation": "Chemistry of Materials 1 (4), 438-444, 1989",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:kF1pexMAQbMC"
     },
     {
         "title": "Defect formation in Pb (II) Beta ″alumina",
         "pub_year": "1988",
-        "citation": "Solid State Ionics 26 (2), 154, 1988"
+        "citation": "Solid State Ionics 26 (2), 154, 1988",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:anf4URPfarAC"
     },
     {
         "title": "Defect formation in silver (I), lead (II), tin (II) and bismuth (III). beta.\"-aluminas",
         "pub_year": "1989",
-        "citation": "Chemistry of Materials 1 (4), 438-444, 1989"
+        "citation": "Chemistry of Materials 1 (4), 438-444, 1989",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "Deriving grain boundary character distributions and relative grain boundary energies from three-dimensional EBSD data",
         "pub_year": "2010",
-        "citation": "Materials Science and Technology 26 (6), 661-669, 2010"
+        "citation": "Materials Science and Technology 26 (6), 661-669, 2010",
+        "num_citations": 110,
+        "author_pub_id": "eLe4eJEAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Detection of Optically Excited States in Wide‐Band‐Gap Semiconductors with Tunneling Spectroscopy",
         "pub_year": "1990",
-        "citation": "Journal of the American Ceramic Society 73 (11), 3257-3263, 1990"
+        "citation": "Journal of the American Ceramic Society 73 (11), 3257-3263, 1990",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "Determination of the five parameter grain boundary character distribution of nanocrystalline alpha-zirconium thin films using transmission electron microscopy",
         "pub_year": "2017",
-        "citation": "Acta Materialia 130, 164-176, 2017"
+        "citation": "Acta Materialia 130, 164-176, 2017",
+        "num_citations": 27,
+        "author_pub_id": "eLe4eJEAAAAJ:QyXJ3EUuO1IC"
     },
     {
         "title": "Determining crystal habits from observations of planar sections",
         "pub_year": "2002",
-        "citation": "Journal of the American Ceramic Society 85 (11), 2799-2804, 2002"
+        "citation": "Journal of the American Ceramic Society 85 (11), 2799-2804, 2002",
+        "num_citations": 44,
+        "author_pub_id": "eLe4eJEAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Determining grain boundary energies from triple junction geometries without discretizing the five-parameter space",
         "pub_year": "2019",
-        "citation": "Acta Materialia 166, 126-134, 2019"
+        "citation": "Acta Materialia 166, 126-134, 2019",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:UmS_249rOGwC"
     },
     {
         "title": "Determining relative grain boundary energies from measurements of thermal groove geometry",
         "pub_year": "1999",
-        "citation": "ICOTOM 12: 12 th International Conference on Textures of Materials, 1690-1695, 1999"
+        "citation": "ICOTOM 12: 12 th International Conference on Textures of Materials, 1690-1695, 1999",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:HtEfBTGE9r8C"
     },
     {
         "title": "Determining structure/reactivity relationships for oxide surfaces using SPM.",
         "pub_year": "1998",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 216, U92-U93, 1998"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 216, U92-U93, 1998",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:XvxMoLDsR5gC"
     },
     {
         "title": "Determining surface energy anisotropy from measurements of thermal groove geometry",
         "pub_year": "1999",
-        "citation": "ICOTOM 12: 12 th International Conference on Textures of Materials, 1637-1642, 1999"
+        "citation": "ICOTOM 12: 12 th International Conference on Textures of Materials, 1637-1642, 1999",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:OcBU2YAGkTUC"
     },
     {
         "title": "Direct measurement of local properties of interfaces with scanning tunneling microscopy",
         "pub_year": "1992",
-        "citation": "Acta metallurgica et materialia 40, S161-S171, 1992"
+        "citation": "Acta metallurgica et materialia 40, S161-S171, 1992",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Distribution and energies of grain boundaries in magnesia as a function of five degrees of freedom",
         "pub_year": "2002",
-        "citation": "Journal of the American Ceramic Society 85 (12), 3081-3083, 2002"
+        "citation": "Journal of the American Ceramic Society 85 (12), 3081-3083, 2002",
+        "num_citations": 92,
+        "author_pub_id": "eLe4eJEAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Distribution of Grain Boundaries in SrTiO3 as a Function of Five Macroscopic Parameters",
         "pub_year": "2004",
-        "citation": "Journal of the American Ceramic Society 87 (4), 670-676, 2004"
+        "citation": "Journal of the American Ceramic Society 87 (4), 670-676, 2004",
+        "num_citations": 117,
+        "author_pub_id": "eLe4eJEAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Distribution of Grain Boundary Planes and Misorientations in Magnesium Oxide",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:OTTXONDVkokC"
     },
     {
         "title": "Distribution of grain boundaries in aluminum as a function of five macroscopic parameters",
         "pub_year": "2004",
-        "citation": "Acta Materialia 52 (12), 3649-3655, 2004"
+        "citation": "Acta Materialia 52 (12), 3649-3655, 2004",
+        "num_citations": 245,
+        "author_pub_id": "eLe4eJEAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Distribution of grain boundaries in magnesia as a function of five macroscopic parameters",
         "pub_year": "2003",
-        "citation": "Acta materialia 51 (13), 3663-3674, 2003"
+        "citation": "Acta materialia 51 (13), 3663-3674, 2003",
+        "num_citations": 259,
+        "author_pub_id": "eLe4eJEAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Distribution of grain boundary planes at coincident site lattice misorientations",
         "pub_year": "2004",
-        "citation": "MRS Online Proceedings Library 819, N7. 2.1-N7. 2.11, 2004"
+        "citation": "MRS Online Proceedings Library 819, N7. 2.1-N7. 2.11, 2004",
+        "num_citations": 17,
+        "author_pub_id": "eLe4eJEAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Distribution of misorientations and grain boundary planes in grain boundary engineered brass",
         "pub_year": "2005",
-        "citation": "Materials science and technology 21 (11), 1287-1292, 2005"
+        "citation": "Materials science and technology 21 (11), 1287-1292, 2005",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Distributions of grain boundary normals in the laboratory reference frame",
         "pub_year": "2016",
-        "citation": "Metallurgical and Materials Transactions A 47, 2591-2595, 2016"
+        "citation": "Metallurgical and Materials Transactions A 47, 2591-2595, 2016",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:AHdEip9mkN0C"
     },
     {
         "title": "Does the reconstructive mechanism of phase transformations exist?",
         "pub_year": "1998",
-        "citation": "Scripta materialia 38 (4), 675-680, 1998"
+        "citation": "Scripta materialia 38 (4), 675-680, 1998",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:Z5m8FVwuT1cC"
     },
     {
         "title": "Dynamic Sampling of Images Based on Neighborhood Variance",
-        "citation": "Available at SSRN 4529831, 0"
+        "citation": "Available at SSRN 4529831, 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Azgs6IHzeyYC"
     },
     {
         "title": "Dynamic sampling for scanned microscopy modalities",
         "pub_year": "2024",
-        "citation": "Materials Characterization, 113865, 2024"
+        "citation": "Materials Characterization 211, 113865, 2024",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:tz746QTLzJkC"
     },
     {
         "title": "EBSD-Electron Back-Scatter Diffraction",
         "pub_year": "2016",
-        "citation": "Solar Energy Materials & Solar Cells 151, 66-80, 2016"
+        "citation": "Solar Energy Materials & Solar Cells 151, 66-80, 2016",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:KaMxkj08jr0C"
     },
     {
         "title": "Effect of Crystal and Domain Orientation on the Visible-Light Photochemical Reduction of Ag on BiFeO3",
         "pub_year": "2011",
-        "citation": "ACS applied materials & interfaces 3 (5), 1562-1567, 2011"
+        "citation": "ACS applied materials & interfaces 3 (5), 1562-1567, 2011",
+        "num_citations": 72,
+        "author_pub_id": "eLe4eJEAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Effect of anisotropic grain boundary properties on grain boundary plane distributions during grain growth",
         "pub_year": "2005",
-        "citation": "Scripta materialia 53 (3), 351-355, 2005"
+        "citation": "Scripta materialia 53 (3), 351-355, 2005",
+        "num_citations": 97,
+        "author_pub_id": "eLe4eJEAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Effect of anisotropic interfacial energy on grain boundary distributions during grain growth",
         "pub_year": "2004",
-        "citation": "Materials Science Forum 467, 733-738, 2004"
+        "citation": "Materials Science Forum 467, 733-738, 2004",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Effect of densification mechanism on the Σ2 grain boundary plane distribution in WC–Co composites",
         "pub_year": "2013",
-        "citation": "Materials letters 92, 86-89, 2013"
+        "citation": "Materials letters 92, 86-89, 2013",
+        "num_citations": 16,
+        "author_pub_id": "eLe4eJEAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "Effect of downscaling nano-copper interconnects on the microstructure revealed by high resolution TEM-orientation-mapping",
         "pub_year": "2012",
-        "citation": "Nanotechnology 23 (13), 135702, 2012"
+        "citation": "Nanotechnology 23 (13), 135702, 2012",
+        "num_citations": 49,
+        "author_pub_id": "eLe4eJEAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Effect of ferrite-to-austenite phase transformation path on the interface crystallographic character distributions in a duplex stainless steel",
         "pub_year": "2018",
-        "citation": "Acta Materialia 145, 196-209, 2018"
+        "citation": "Acta Materialia 145, 196-209, 2018",
+        "num_citations": 101,
+        "author_pub_id": "eLe4eJEAAAAJ:raTqNPD5sRQC"
     },
     {
         "title": "Effect of manganese on the grain boundary network of lath martensite in precipitation hardenable stainless steels",
         "pub_year": "2021",
-        "citation": "Journal of Alloys and Compounds 886, 161333, 2021"
+        "citation": "Journal of Alloys and Compounds 886, 161333, 2021",
+        "num_citations": 11,
+        "author_pub_id": "eLe4eJEAAAAJ:TaaCk18tZOkC"
     },
     {
         "title": "Effect of plastic deformation on the Σ2 grain boundary plane distribution in WC–Co cemented carbides",
         "pub_year": "2014",
-        "citation": "International Journal of Refractory Metals and Hard Materials 47, 38-43, 2014"
+        "citation": "International Journal of Refractory Metals and Hard Materials 47, 38-43, 2014",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:uJ-U7cs_P_0C"
     },
     {
         "title": "Effect of segregating impurities on the grain‐boundary character distribution of magnesium oxide",
         "pub_year": "2009",
-        "citation": "Journal of the American Ceramic Society 92 (12), 3044-3051, 2009"
+        "citation": "Journal of the American Ceramic Society 92 (12), 3044-3051, 2009",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Effects of Grain Growth on the {111}/{111} Near Singular Boundaries in High Purity Aluminum",
         "pub_year": "2024",
-        "citation": "ACTA METALLURGICA SINICA 60 (1), 80-94, 2024"
+        "citation": "ACTA METALLURGICA SINICA 60 (1), 80-94, 2024",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:9NZAP19TdFAC"
     },
     {
         "title": "Electrical conductivity in Pb (II)-and Na (I)-Pb (II)-β ″-alumina",
         "pub_year": "1990",
-        "citation": "Journal of Solid State Chemistry 85 (2), 299-314, 1990"
+        "citation": "Journal of Solid State Chemistry 85 (2), 299-314, 1990",
+        "num_citations": 21,
+        "author_pub_id": "eLe4eJEAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Electrical properties of individual zinc oxide grain boundaries determined by spatially resolved tunneling spectroscopy",
         "pub_year": "1990",
-        "citation": "Journal of the American Ceramic Society 73 (10), 3026-3032, 1990"
+        "citation": "Journal of the American Ceramic Society 73 (10), 3026-3032, 1990",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Electronic conductivity in Pb (II)-β ″-alumina",
         "pub_year": "1988",
-        "citation": "Solid State Ionics 28, 1142-1145, 1988"
+        "citation": "Solid State Ionics 28, 1142-1145, 1988",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "Energy Barriers for the Morphological Evolution and Coarsening of Faceted Crystals",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "Energy dissipation by grain boundary replacement during grain growth",
         "pub_year": "2023",
-        "citation": "Scripta Materialia 230, 115405, 2023"
+        "citation": "Scripta Materialia 230, 115405, 2023",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:QsKbpXNoaWkC"
     },
     {
         "title": "Enhanced Photochemical Reactivity at the Ferroelectric Phase Transition in Ba1−xSrxTiO3",
         "pub_year": "2010",
-        "citation": "Journal of the American Ceramic Society 93 (12), 4129-4134, 2010"
+        "citation": "Journal of the American Ceramic Society 93 (12), 4129-4134, 2010",
+        "num_citations": 37,
+        "author_pub_id": "eLe4eJEAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Enhanced ionic conductivity in electroceramics by nanoscale enrichment of grain boundaries with high solute concentration",
         "pub_year": "2017",
-        "citation": "Nanoscale 9 (44), 17293-17302, 2017"
+        "citation": "Nanoscale 9 (44), 17293-17302, 2017",
+        "num_citations": 50,
+        "author_pub_id": "eLe4eJEAAAAJ:YsrPvlHIBpEC"
     },
     {
         "title": "Enhanced photochemical activity of α-Fe 2 O 3 films supported on SrTiO 3 substrates under visible light illumination",
         "pub_year": "2012",
-        "citation": "Chemical Communications 48 (14), 2012"
+        "citation": "Chemical Communications 48 (14), 2012",
+        "num_citations": 37,
+        "author_pub_id": "eLe4eJEAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Enhanced photochemical activity of α-Fe₂O₃ films supported on SrTiO₃ substrates under visible light illumination",
         "pub_year": "2012",
-        "citation": "Chemical communications 48 (14), 2012"
+        "citation": "Chemical communications 48 (14), 2012",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:-yGd096yOn8C"
     },
     {
         "title": "Epitaxial Phase Stability of SrMnO3–x Films on Polycrystalline Perovskite Substrates",
         "pub_year": "2021",
-        "citation": "Crystal Growth & Design 21 (8), 4547-4555, 2021"
+        "citation": "Crystal Growth & Design 21 (8), 4547-4555, 2021",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:_AeoHAGD03cC"
     },
     {
         "title": "Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba0.6Sr0.4MnO3",
         "pub_year": "2024",
-        "citation": "ACS Applied Materials & Interfaces 16 (4), 4873-4885, 2024"
+        "citation": "ACS Applied Materials & Interfaces 16 (4), 4873-4885, 2024",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:rCNdntzdTkkC"
     },
     {
         "title": "Equilibrium crystal shape of Bi-saturated Cu crystals at 1223 K",
         "pub_year": "2005",
-        "citation": "Acta materialia 53 (15), 4057-4064, 2005"
+        "citation": "Acta materialia 53 (15), 4057-4064, 2005",
+        "num_citations": 40,
+        "author_pub_id": "eLe4eJEAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Eutaxial growth of hematite Fe2O3 films on perovskite SrTiO3 polycrystalline substrates",
         "pub_year": "2013",
-        "citation": "Thin Solid Films 548, 220-224, 2013"
+        "citation": "Thin Solid Films 548, 220-224, 2013",
+        "num_citations": 19,
+        "author_pub_id": "eLe4eJEAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Evaluating anisotropic surface energies using the capillarity vector reconstruction method",
         "pub_year": "2001",
-        "citation": "Interface Science 9, 35-42, 2001"
+        "citation": "Interface Science 9, 35-42, 2001",
+        "num_citations": 27,
+        "author_pub_id": "eLe4eJEAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Evolution of microstructure and mechanical properties in 2205 duplex stainless steels during additive manufacturing and heat treatment",
         "pub_year": "2022",
-        "citation": "Materials Science and Engineering: A 835, 142695, 2022"
+        "citation": "Materials Science and Engineering: A 835, 142695, 2022",
+        "num_citations": 64,
+        "author_pub_id": "eLe4eJEAAAAJ:dAp6zn-oMfAC"
     },
     {
         "title": "Evolution of microstructure in pure nickel during processing for grain boundary engineering",
         "pub_year": "2013",
-        "citation": "Materials Science Forum 753, 97-100, 2013"
+        "citation": "Materials Science Forum 753, 97-100, 2013",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "Evolution of the Grain Boundary Character Distribution in Strontium Titanate during Grain Growth",
         "pub_year": "2008",
-        "citation": "Applications of Texture Analysis, 335, 2008"
+        "citation": "Applications of Texture Analysis, 335, 2008",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Evolution of the annealing twin density during δ-supersolvus grain growth in the nickel-based superalloy Inconel™ 718",
         "pub_year": "2015",
-        "citation": "Metals 6 (1), 5, 2015"
+        "citation": "Metals 6 (1), 5, 2015",
+        "num_citations": 46,
+        "author_pub_id": "eLe4eJEAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "Expanding the frontier-Grand challenges in ceramic science",
         "pub_year": "2013",
-        "citation": "AMERICAN CERAMIC SOCIETY BULLETIN 92 (6), 29-31, 2013"
+        "citation": "AMERICAN CERAMIC SOCIETY BULLETIN 92 (6), 29-31, 2013",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:S16KYo8Pm5AC"
     },
     {
         "title": "Expanding time–temperature-transformation (TTT) diagrams to interfaces: A new approach for grain boundary engineering",
         "pub_year": "2016",
-        "citation": "Acta Materialia 106, 78-86, 2016"
+        "citation": "Acta Materialia 106, 78-86, 2016",
+        "num_citations": 62,
+        "author_pub_id": "eLe4eJEAAAAJ:FAceZFleit8C"
     },
     {
         "title": "Experimental and Simulated Scanning Tunneling Microscopy of the Cleaved Rb1/3WO3 (0001) Surface",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 332, 501, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 332, 501, 1994",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:sNmaIFBj_lkC"
     },
     {
         "title": "Experimental and simulated tunneling spectra of the polar ZnO surfaces",
         "pub_year": "1994",
-        "citation": "Surface science 318 (3), 379-394, 1994"
+        "citation": "Surface science 318 (3), 379-394, 1994",
+        "num_citations": 36,
+        "author_pub_id": "eLe4eJEAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Experimental evidence for the development of bimodal grain size distributions by the nucleation‐limited coarsening mechanism",
         "pub_year": "2007",
-        "citation": "Journal of the American Ceramic Society 90 (1), 211-216, 2007"
+        "citation": "Journal of the American Ceramic Society 90 (1), 211-216, 2007",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Experimental method for determining surface energy anisotropy and its application to magnesia",
         "pub_year": "2000",
-        "citation": "Journal of the American Ceramic Society 83 (5), 1226-1232, 2000"
+        "citation": "Journal of the American Ceramic Society 83 (5), 1226-1232, 2000",
+        "num_citations": 47,
+        "author_pub_id": "eLe4eJEAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Extracting grain boundary and surface energy from measurement of triple junction geometry",
         "pub_year": "1999",
-        "citation": "Interface Science 7, 321-337, 1999"
+        "citation": "Interface Science 7, 321-337, 1999",
+        "num_citations": 96,
+        "author_pub_id": "eLe4eJEAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Extraction of grain boundary energies from triple junction geometry",
         "pub_year": "1999",
-        "citation": "Microscopy and Microanalysis 5 (S2), 230-231, 1999"
+        "citation": "Microscopy and Microanalysis 5 (S2), 230-231, 1999",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:-uzm3Y7AvW0C"
     },
     {
         "title": "Ferroelastic domains improve photochemical reactivity: a comparative study of monoclinic and tetragonal (Bi 1− 0.5 x Na 0.5 x)(V 1− x Mo x) O 4 ceramics",
         "pub_year": "2016",
-        "citation": "Journal of Materials Chemistry A 4 (8), 2951-2959, 2016"
+        "citation": "Journal of Materials Chemistry A 4 (8), 2951-2959, 2016",
+        "num_citations": 20,
+        "author_pub_id": "eLe4eJEAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Ferroelastic domains improve photochemical reactivity: a comparative study of monoclinic and tetragonal (Bi₁₋ ₀. ₅ₓNa₀. ₅ₓ)(V₁₋ ₓMoₓ) O₄ ceramics",
         "pub_year": "2016",
-        "citation": "Journal of materials chemistry A 4 (8), 2016"
+        "citation": "Journal of materials chemistry A 4 (8), 2016",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:C33y2ycGS3YC"
     },
     {
         "title": "Ferroelectric‐Enhanced Photocatalysis with TiO2/BiFeO3",
         "pub_year": "2014",
-        "citation": "Energy Technology 2014: Carbon Dioxide Management and Other Technologies, 15-24, 2014"
+        "citation": "Energy Technology 2014: Carbon Dioxide Management and Other Technologies, 15-24, 2014",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:artPoR2Yc-kC"
     },
     {
         "title": "Five-parameter crystallographic characteristics of the interfaces formed during ferrite to austenite transformation in a duplex stainless steel",
         "pub_year": "2018",
-        "citation": "Philosophical Magazine 98 (14), 1284-1306, 2018"
+        "citation": "Philosophical Magazine 98 (14), 1284-1306, 2018",
+        "num_citations": 19,
+        "author_pub_id": "eLe4eJEAAAAJ:2l5NCbZemmgC"
     },
     {
         "title": "Five-parameter grain boundary analysis of a titanium alloy before and after low-temperature annealing",
         "pub_year": "2008",
-        "citation": "Scripta Materialia 58 (3), 183-186, 2008"
+        "citation": "Scripta Materialia 58 (3), 183-186, 2008",
+        "num_citations": 87,
+        "author_pub_id": "eLe4eJEAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Five-parameter grain boundary character distribution in Fe-1% Si",
         "pub_year": "2004",
-        "citation": "Materials Science Forum 467, 727-732, 2004"
+        "citation": "Materials Science Forum 467, 727-732, 2004",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Five-parameter grain boundary characterisation of randomly textured AZ31 Mg alloy",
         "pub_year": "2020",
-        "citation": "Philosophical Magazine 100 (4), 456-466, 2020"
+        "citation": "Philosophical Magazine 100 (4), 456-466, 2020",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:MIg0yeAD4ggC"
     },
     {
         "title": "Five-parameter grain boundary distribution in grain boundary engineered brass",
         "pub_year": "2005",
-        "citation": "Scripta materialia 52 (7), 633-637, 2005"
+        "citation": "Scripta materialia 52 (7), 633-637, 2005",
+        "num_citations": 119,
+        "author_pub_id": "eLe4eJEAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Five-parameter grain boundary distribution of commercially grain boundary engineered nickel and copper",
         "pub_year": "2008",
-        "citation": "Acta materialia 56 (10), 2363-2373, 2008"
+        "citation": "Acta materialia 56 (10), 2363-2373, 2008",
+        "num_citations": 190,
+        "author_pub_id": "eLe4eJEAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Five-parameter intervariant boundary characterization of martensite in commercially pure titanium",
         "pub_year": "2018",
-        "citation": "Acta Materialia 154, 147-160, 2018"
+        "citation": "Acta Materialia 154, 147-160, 2018",
+        "num_citations": 84,
+        "author_pub_id": "eLe4eJEAAAAJ:QUX0mv85b1cC"
     },
     {
         "title": "Five‐parameter grain boundary analysis by 3D EBSD of an ultra fine grained CuZr Alloy processed by equal channel angular pressing",
         "pub_year": "2011",
-        "citation": "Advanced Engineering Materials 13 (4), 237-244, 2011"
+        "citation": "Advanced Engineering Materials 13 (4), 237-244, 2011",
+        "num_citations": 55,
+        "author_pub_id": "eLe4eJEAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Focused ion beam and scanning electron microscopy for 3D materials characterization",
         "pub_year": "2014",
-        "citation": "MRS Bulletin 39 (4), 361-365, 2014"
+        "citation": "MRS Bulletin 39 (4), 361-365, 2014",
+        "num_citations": 44,
+        "author_pub_id": "eLe4eJEAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Formation of annealing twins during recrystallization and grain growth in 304L austenitic stainless steel",
         "pub_year": "2013",
-        "citation": "Materials Science Forum 753, 113-116, 2013"
+        "citation": "Materials Science Forum 753, 113-116, 2013",
+        "num_citations": 78,
+        "author_pub_id": "eLe4eJEAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Formation of macrodefects in SiC physical vapor transport growth",
         "pub_year": "1999",
-        "citation": "Journal of Electronic Materials 28 (7), 1030, 1999"
+        "citation": "Journal of Electronic Materials 28 (7), 1030, 1999",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:mlAyqtXpCwEC"
     },
     {
         "title": "Formation of thermal decomposition cavities in physical vapor transport of silicon carbide",
         "pub_year": "2000",
-        "citation": "Journal of Electronic Materials 29, 347-352, 2000"
+        "citation": "Journal of Electronic Materials 29, 347-352, 2000",
+        "num_citations": 42,
+        "author_pub_id": "eLe4eJEAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Full field modelling of recrystallization in superalloys thanks to level-set method",
         "pub_year": "2014",
-        "citation": "Eurosuperalloys 2014, 2014"
+        "citation": "Eurosuperalloys 2014, 2014",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:UuEBAcK4md4C"
     },
     {
         "title": "GRAIN BOUNDARY PLANE DISTRIBUTIONS IN THE COLD–ROLLED AND ANNEALED FERRITIC STAINLESS STEEL",
         "pub_year": "2010",
-        "citation": "Acta Metall Sin 46 (4), 404-410, 2010"
+        "citation": "Acta Metall Sin 46 (4), 404-410, 2010",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:uVUOdF_882EC"
     },
     {
         "title": "Geometric and crystallographic characterization of WC surfaces and grain boundaries in WC-Co composites",
         "pub_year": "2004",
-        "citation": "Interface Science 12, 19-27, 2004"
+        "citation": "Interface Science 12, 19-27, 2004",
+        "num_citations": 78,
+        "author_pub_id": "eLe4eJEAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Grain Boundary Characteristics in Polycrystalline Materials",
         "pub_year": "2019",
-        "citation": "Statistical Methods for Materials Science, 147-162, 2019"
+        "citation": "Statistical Methods for Materials Science, 147-162, 2019",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:BJrgspguQaEC"
     },
     {
         "title": "Grain Boundary Complexion Transitions. In DR Clarke (Ed.), Annual Review of Materials Research",
         "pub_year": "2020",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:X0DADzN9RKwC"
     },
     {
         "title": "Grain Boundary Property Determination through Measurement of Triple Junction Geometry and Crystallography",
         "pub_year": "2006",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:kJDgFkosVoMC"
     },
     {
         "title": "Grain boundary character distribution in an additively manufactured austenitic stainless steel",
         "pub_year": "2021",
-        "citation": "Scripta Materialia 192, 115-119, 2021"
+        "citation": "Scripta Materialia 192, 115-119, 2021",
+        "num_citations": 52,
+        "author_pub_id": "eLe4eJEAAAAJ:hvmnpdAuIbkC"
     },
     {
         "title": "Grain boundary character distribution in electroplated nanotwinned copper",
         "pub_year": "2017",
-        "citation": "Journal of Materials Science 52, 4070-4085, 2017"
+        "citation": "Journal of Materials Science 52, 4070-4085, 2017",
+        "num_citations": 24,
+        "author_pub_id": "eLe4eJEAAAAJ:q-HalDI95KYC"
     },
     {
         "title": "Grain boundary character distribution of nanocrystalline Cu thin films using stereological analysis of transmission electron microscope orientation maps",
         "pub_year": "2013",
-        "citation": "Microscopy and Microanalysis 19 (1), 111-119, 2013"
+        "citation": "Microscopy and Microanalysis 19 (1), 111-119, 2013",
+        "num_citations": 56,
+        "author_pub_id": "eLe4eJEAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Grain boundary characterization of nanocrystalline cu from the stereological analysis of transmission electron microscope orientation maps",
         "pub_year": "2011",
-        "citation": "Microscopy and Microanalysis 17 (S2), 1416-1417, 2011"
+        "citation": "Microscopy and Microanalysis 17 (S2), 1416-1417, 2011",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Grain boundary complexion transitions",
         "pub_year": "2020",
-        "citation": "Annual Review of Materials Research 50, 465-492, 2020"
+        "citation": "Annual Review of Materials Research 50, 465-492, 2020",
+        "num_citations": 133,
+        "author_pub_id": "eLe4eJEAAAAJ:CNPyR2KL9-0C"
     },
     {
         "title": "Grain boundary complexions",
         "pub_year": "2014",
-        "citation": "Acta Materialia 62, 1-48, 2014"
+        "citation": "Acta Materialia 62, 1-48, 2014",
+        "num_citations": 816,
+        "author_pub_id": "eLe4eJEAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Grain boundary complexions-current status and future directions",
         "pub_year": "2016",
-        "citation": "Current Opinion in Solid State & Materials Science 20 (5), IV-V, 2016"
+        "citation": "Current Opinion in Solid State & Materials Science 20 (5), IV-V, 2016",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:DBa1UEJaJKAC"
     },
     {
         "title": "Grain boundary curvatures in polycrystalline SrTiO3: Dependence on grain size, topology, and crystallography",
         "pub_year": "2019",
-        "citation": "Journal of the American Ceramic Society 102 (11), 7003-7014, 2019"
+        "citation": "Journal of the American Ceramic Society 102 (11), 7003-7014, 2019",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:__bU50VfleQC"
     },
     {
         "title": "Grain boundary energies in body-centered cubic metals",
         "pub_year": "2015",
-        "citation": "Acta Materialia 88, 346-354, 2015"
+        "citation": "Acta Materialia 88, 346-354, 2015",
+        "num_citations": 243,
+        "author_pub_id": "eLe4eJEAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Grain boundary energies in body-centered cubic metals",
         "pub_year": "2015",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:WwIwg2wKZ0QC"
     },
     {
         "title": "Grain boundary energies in yttria‐stabilized zirconia",
         "pub_year": "2022",
-        "citation": "Journal of the American Ceramic Society 105 (4), 2925-2931, 2022"
+        "citation": "Journal of the American Ceramic Society 105 (4), 2925-2931, 2022",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:c59VksA5Vz4C"
     },
     {
         "title": "Grain boundary energy and grain growth in Al films: Comparison of experiments and simulations",
         "pub_year": "2006",
-        "citation": "Scripta materialia 54 (6), 1059-1063, 2006"
+        "citation": "Scripta materialia 54 (6), 1059-1063, 2006",
+        "num_citations": 86,
+        "author_pub_id": "eLe4eJEAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Grain boundary energy and grain growth in highly-textured Al films and foils: experiment and simulation",
         "pub_year": "2005",
-        "citation": "Materials Science Forum 495, 1255-1260, 2005"
+        "citation": "Materials Science Forum 495, 1255-1260, 2005",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Grain boundary energy anisotropy: a review",
         "pub_year": "2011",
-        "citation": "Journal of materials science 46, 5881-5895, 2011"
+        "citation": "Journal of materials science 46, 5881-5895, 2011",
+        "num_citations": 485,
+        "author_pub_id": "eLe4eJEAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Grain boundary energy function for α iron",
         "pub_year": "2021",
-        "citation": "Materialia 19, 101186, 2021"
+        "citation": "Materialia 19, 101186, 2021",
+        "num_citations": 22,
+        "author_pub_id": "eLe4eJEAAAAJ:hGdtkIFZdKAC"
     },
     {
         "title": "Grain boundary inter-connections in polycrystalline aluminum with random orientation",
         "pub_year": "2018",
-        "citation": "Materials Characterization 144, 411-423, 2018"
+        "citation": "Materials Characterization 144, 411-423, 2018",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:PkcyUWeTMh0C"
     },
     {
         "title": "Grain boundary inter-connections of∑ 5 boundaries in a high purity iron with a uniform microstructure",
         "pub_year": "2019",
-        "citation": "Scripta Materialia 170, 62-66, 2019"
+        "citation": "Scripta Materialia 170, 62-66, 2019",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:1tZ8xJnm2c8C"
     },
     {
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
-        "citation": "Acta Materialia 264, 119541, 2024"
+        "citation": "Acta Materialia 264, 119541, 2024",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:EaFouW7jFu4C"
     },
     {
         "title": "Grain boundary migration in polycrystals",
         "pub_year": "2023",
-        "citation": "Annual Review of Materials Research 53, 347-369, 2023"
+        "citation": "Annual Review of Materials Research 53, 347-369, 2023",
+        "num_citations": 12,
+        "author_pub_id": "eLe4eJEAAAAJ:DXE8ND7PrJAC"
     },
     {
         "title": "Grain boundary plane distributions in 304 steel annealed at high temperature after a parallel processing of multiple forging and direct rolling",
         "pub_year": "2012",
-        "citation": "金属学报 48 (8), 895-906, 2012"
+        "citation": "金属学报 48 (8), 895-906, 2012",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:4hFrxpcac9AC"
     },
     {
         "title": "Grain boundary plane distributions in a cold rolled and annealed high purity iron",
         "pub_year": "2016",
-        "citation": "Materials Characterization 122, 6-13, 2016"
+        "citation": "Materials Characterization 122, 6-13, 2016",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:ubry08Y2EpUC"
     },
     {
         "title": "Grain boundary plane distributions in a hot rolled 5A06 aluminum alloy",
         "pub_year": "2014",
-        "citation": "Advanced Engineering Materials 16 (9), 1105-1110, 2014"
+        "citation": "Advanced Engineering Materials 16 (9), 1105-1110, 2014",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Grain boundary plane distributions in aluminas evolving by normal and abnormal grain growth and displaying different complexions",
         "pub_year": "2010",
-        "citation": "International journal of materials research 101 (1), 50-56, 2010"
+        "citation": "International journal of materials research 101 (1), 50-56, 2010",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Grain boundary plane distributions in modified 316 LN steel exposed at elevated and cryogenic temperatures",
         "pub_year": "2007",
-        "citation": "Journal of materials science 42, 9543-9547, 2007"
+        "citation": "Journal of materials science 42, 9543-9547, 2007",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Grain boundary planes: New dimensions in the grain boundary character distribution",
         "pub_year": "2006",
-        "citation": "Scripta materialia 54 (6), 1005-1009, 2006"
+        "citation": "Scripta materialia 54 (6), 1005-1009, 2006",
+        "num_citations": 91,
+        "author_pub_id": "eLe4eJEAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Grain boundary property determination through measurement of triple junction geometry and crystallography",
         "pub_year": "2001",
-        "citation": "Int. Conf. on Grain Growth and Recrystallization, Aachen, Germany, 165-176, 2001"
+        "citation": "Int. Conf. on Grain Growth and Recrystallization, Aachen, Germany, 165-176, 2001",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Grain boundary segregation in oxide ceramics",
         "pub_year": "2003",
-        "citation": "Journal of the European Ceramic Society 23 (15), 2841-2848, 2003"
+        "citation": "Journal of the European Ceramic Society 23 (15), 2841-2848, 2003",
+        "num_citations": 86,
+        "author_pub_id": "eLe4eJEAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Grain boundary velocity and curvature are not correlated in Ni polycrystals",
         "pub_year": "2021",
-        "citation": "Science 374 (6564), 189-193, 2021"
+        "citation": "Science 374 (6564), 189-193, 2021",
+        "num_citations": 71,
+        "author_pub_id": "eLe4eJEAAAAJ:lYAcb2jw7qUC"
     },
     {
         "title": "Grain size dependence of the twin length fraction in nanocrystalline Cu thin films via transmission electron microscopy based orientation mapping",
         "pub_year": "2015",
-        "citation": "Journal of Materials Research 30 (4), 528-537, 2015"
+        "citation": "Journal of Materials Research 30 (4), 528-537, 2015",
+        "num_citations": 17,
+        "author_pub_id": "eLe4eJEAAAAJ:URolC5Kub84C"
     },
     {
         "title": "Grain-boundary character distribution and correlations with electrical and optoelectronic properties of CuInSe2 thin films",
         "pub_year": "2016",
-        "citation": "Acta Materialia 118, 244-252, 2016"
+        "citation": "Acta Materialia 118, 244-252, 2016",
+        "num_citations": 32,
+        "author_pub_id": "eLe4eJEAAAAJ:otzGkya1bYkC"
     },
     {
         "title": "Growth and orientation relationships of Ni and Cu films annealed on slightly miscut (11 02) r-sapphire substrates",
         "pub_year": "2019",
-        "citation": "Journal of Crystal Growth 508, 24-33, 2019"
+        "citation": "Journal of Crystal Growth 508, 24-33, 2019",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:silx2ntsSuwC"
     },
     {
         "title": "Growth morphologies of heteroepitaxial rutile films on sapphire substrates",
         "pub_year": "1997",
-        "citation": "Journal of crystal growth 174 (1-4), 424-433, 1997"
+        "citation": "Journal of crystal growth 174 (1-4), 424-433, 1997",
+        "num_citations": 27,
+        "author_pub_id": "eLe4eJEAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Growth of Ca2MnO4 Ruddlesden-Popper structured thin films using combinatorial substrate epitaxy",
         "pub_year": "2014",
-        "citation": "Journal of Applied Physics 116 (24), 2014"
+        "citation": "Journal of Applied Physics 116 (24), 2014",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Habit planes of twins in a deformed Mg alloy determined from three-dimensional microstructure analysis",
         "pub_year": "2020",
-        "citation": "Materials Characterization 159, 110014, 2020"
+        "citation": "Materials Characterization 159, 110014, 2020",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:c1e4I3QdEKYC"
     },
     {
         "title": "Habits of grains in dense polycrystalline solids",
         "pub_year": "2004",
-        "citation": "Journal of the American Ceramic Society 87 (4), 724-726, 2004"
+        "citation": "Journal of the American Ceramic Society 87 (4), 724-726, 2004",
+        "num_citations": 87,
+        "author_pub_id": "eLe4eJEAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Heat affected zone microstructures and their influence on toughness in two microalloyed HSLA steels",
         "pub_year": "2015",
-        "citation": "Acta Materialia 97, 380-391, 2015"
+        "citation": "Acta Materialia 97, 380-391, 2015",
+        "num_citations": 90,
+        "author_pub_id": "eLe4eJEAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Heteroepitaxial growth of TiO2 films by ion-beam sputter deposition",
         "pub_year": "1996",
-        "citation": "Journal of crystal growth 166 (1-4), 779-785, 1996"
+        "citation": "Journal of crystal growth 166 (1-4), 779-785, 1996",
+        "num_citations": 53,
+        "author_pub_id": "eLe4eJEAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Heterostructured (Ba, Sr) TiO3/TiO2 core/shell photocatalysts: influence of processing and structure on hydrogen production",
         "pub_year": "2013",
-        "citation": "international journal of hydrogen energy 38 (17), 6948-6959, 2013"
+        "citation": "international journal of hydrogen energy 38 (17), 6948-6959, 2013",
+        "num_citations": 52,
+        "author_pub_id": "eLe4eJEAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Heterostructured Ceramic Powders for Photocatalytic Hydrogen Production: Nanostructured TiO2 Shells Surrounding Microcrystalline (Ba,Sr)TiO3 Cores",
         "pub_year": "2012",
-        "citation": "Journal of the American Ceramic Society 95 (4), 1414-1420, 2012"
+        "citation": "Journal of the American Ceramic Society 95 (4), 1414-1420, 2012",
+        "num_citations": 82,
+        "author_pub_id": "eLe4eJEAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Heterostructured Powders for Photocatalytic Hydrogen Production: Nanostructured TiO2 Shells surrounding Microcrystalline (Ba, Sr) TiO3 Cores",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "High visible-light photochemical activity of titania decorated on single-wall carbon nanotube aerogels",
         "pub_year": "2016",
-        "citation": "RSC advances 6 (27), 22285-22294, 2016"
+        "citation": "RSC advances 6 (27), 22285-22294, 2016",
+        "num_citations": 42,
+        "author_pub_id": "eLe4eJEAAAAJ:Bg7qf7VwUHIC"
     },
     {
         "title": "High-Throughput Study of Trivalent Doped SrTiO3 for Photocatalytic Overall Water Splitting",
         "pub_year": "2021",
-        "citation": "Electrochemical Society Meeting Abstracts 240, 1307-1307, 2021"
+        "citation": "Electrochemical Society Meeting Abstracts 240, 1307-1307, 2021",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:37UQlXuwjP4C"
     },
     {
         "title": "High-throughput measurement of the influence of pH on hydrogen production from BaTiO3/TiO2 core/shell photocatalysts",
         "pub_year": "2020",
-        "citation": "Applied Catalysis B: Environmental 269, 118750, 2020"
+        "citation": "Applied Catalysis B: Environmental 269, 118750, 2020",
+        "num_citations": 25,
+        "author_pub_id": "eLe4eJEAAAAJ:EsEWqaRxkBgC"
     },
     {
         "title": "Hydration of selected divalent. beta. double prime-aluminas",
-        "citation": "Chemistry of Materials;(USA) 3 (2), 0"
+        "citation": "Chemistry of Materials;(USA) 3 (2), 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:WJVC3Jt7v1AC"
     },
     {
         "title": "Hydration of selected divalent. beta.''-aluminas",
         "pub_year": "1991",
-        "citation": "Chemistry of Materials 3 (2), 325-332, 1991"
+        "citation": "Chemistry of Materials 3 (2), 325-332, 1991",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "IONIC-CONDUCTIVITY AND POTENTIOMETRIC MEASUREMENTS ON THE HIGH-TC SUPERCONDUCTOR-BA2YCU3O7-DELTA",
         "pub_year": "1987",
-        "citation": "JOURNAL OF THE ELECTROCHEMICAL SOCIETY 134 (11), C623-C623, 1987"
+        "citation": "JOURNAL OF THE ELECTROCHEMICAL SOCIETY 134 (11), C623-C623, 1987",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:tuHXwOkdijsC"
     },
     {
         "title": "Identification of prismatic slip bands in 4H SiC boules grown by physical vapor transport",
         "pub_year": "2000",
-        "citation": "Journal of electronic materials 29 (7), L5-L8, 2000"
+        "citation": "Journal of electronic materials 29 (7), L5-L8, 2000",
+        "num_citations": 41,
+        "author_pub_id": "eLe4eJEAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Imaging surface/crystallographic shear plane intersections on the Mo 18O 52(100) surface using scanning tunneling microscopy",
         "pub_year": "1993",
-        "citation": "Surface Science Letters 292 (3), A611-A611, 1993"
+        "citation": "Surface Science Letters 292 (3), A611-A611, 1993",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:H_jBuBxbQIAC"
     },
     {
         "title": "Imaging surface/crystallographic shear plane intersections on the Mo18O52 (100) surface using scanning tunneling microscopy",
         "pub_year": "1993",
-        "citation": "Surface science 292 (3), 261-266, 1993"
+        "citation": "Surface science 292 (3), 261-266, 1993",
+        "num_citations": 38,
+        "author_pub_id": "eLe4eJEAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Imaging the Atomic-Scale Structure of Molybdenum and Vanadium Oxides by Scanning Tunneling Microscopy",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 332, 507, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 332, 507, 1994",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:ZzlSgRqYykMC"
     },
     {
         "title": "Importance of interfacial step alignment in hetero-epitaxy and orientation relationships: the case of Ag equilibrated on Ni substrates. Part 2 experiments",
         "pub_year": "2015",
-        "citation": "Journal of Materials Science 50, 5276-5285, 2015"
+        "citation": "Journal of Materials Science 50, 5276-5285, 2015",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:zLWjf1WUPmwC"
     },
     {
         "title": "Importance of outliers: A three-dimensional study of coarsening in -phase iron",
         "pub_year": "2019",
-        "citation": "Physical Review Materials 3 (6), 063611, 2019"
+        "citation": "Physical Review Materials 3 (6), 063611, 2019",
+        "num_citations": 17,
+        "author_pub_id": "eLe4eJEAAAAJ:2ywjKiB__4kC"
     },
     {
         "title": "Influence of Dipolar Fields on the Photochemical Reactivity of Thin Titania Films on BaTiO3 Substrates",
         "pub_year": "2006",
-        "citation": "Journal of the American Ceramic Society 89 (9), 2943-2945, 2006"
+        "citation": "Journal of the American Ceramic Society 89 (9), 2943-2945, 2006",
+        "num_citations": 50,
+        "author_pub_id": "eLe4eJEAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Influence of Microstructure on Residual Thermal Stresses in TiCxN1-x and Alpha-Al2O3 Coatings on WC-Co Tool Inserts",
         "pub_year": "2009",
-        "citation": "na, 2009"
+        "citation": "na, 2009",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:9pM33mqn1YgC"
     },
     {
         "title": "Influence of Y and La additions on grain growth and the grain‐boundary character distribution of alumina",
         "pub_year": "2014",
-        "citation": "Journal of the American Ceramic Society 97 (2), 622-630, 2014"
+        "citation": "Journal of the American Ceramic Society 97 (2), 622-630, 2014",
+        "num_citations": 39,
+        "author_pub_id": "eLe4eJEAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Influence of diaspore seeding and chloride concentration on the transformation of “Diasporic” precursors to corundum",
         "pub_year": "2001",
-        "citation": "Journal of the American Ceramic Society 84 (8), 1896-1902, 2001"
+        "citation": "Journal of the American Ceramic Society 84 (8), 1896-1902, 2001",
+        "num_citations": 31,
+        "author_pub_id": "eLe4eJEAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Influence of grain boundary energy on the nucleation of complexion transitions",
         "pub_year": "2014",
-        "citation": "Scripta Materialia 88, 1-4, 2014"
+        "citation": "Scripta Materialia 88, 1-4, 2014",
+        "num_citations": 42,
+        "author_pub_id": "eLe4eJEAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Influence of interface anisotropy on grain growth and coarsening",
         "pub_year": "2005",
-        "citation": "Annu. Rev. Mater. Res. 35, 99-126, 2005"
+        "citation": "Annu. Rev. Mater. Res. 35, 99-126, 2005",
+        "num_citations": 109,
+        "author_pub_id": "eLe4eJEAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Influence of interface energies on solute partitioning mechanisms in doped aluminas",
         "pub_year": "2010",
-        "citation": "Acta Materialia 58 (15), 5097-5108, 2010"
+        "citation": "Acta Materialia 58 (15), 5097-5108, 2010",
+        "num_citations": 50,
+        "author_pub_id": "eLe4eJEAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Influence of orientation and ferroelectric domains on the photochemical reactivity of La2Ti2O7",
         "pub_year": "2021",
-        "citation": "Journal of the European Ceramic Society 41 (1), 319-325, 2021"
+        "citation": "Journal of the European Ceramic Society 41 (1), 319-325, 2021",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:8dzOF9BpDQoC"
     },
     {
         "title": "Influence of pH and Surface Orientation on the Photochemical Reactivity of SrTiO3",
         "pub_year": "2020",
-        "citation": "ACS applied materials & interfaces 12 (20), 23617-23626, 2020"
+        "citation": "ACS applied materials & interfaces 12 (20), 23617-23626, 2020",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:AzKEL7Gb_04C"
     },
     {
         "title": "Influence of particle size and shape on the rate of hydrogen produced by Al‐doped SrTiO3 photocatalysts",
         "pub_year": "2022",
-        "citation": "Journal of the American Ceramic Society 105 (8), 5336-5346, 2022"
+        "citation": "Journal of the American Ceramic Society 105 (8), 5336-5346, 2022",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:naSTrk-c4S8C"
     },
     {
         "title": "Influence of step structure on preferred orientation relationships of Ag deposited on Ni (111)",
         "pub_year": "2020",
-        "citation": "Acta Materialia 200, 287-296, 2020"
+        "citation": "Acta Materialia 200, 287-296, 2020",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:Zh0EY9V9P6UC"
     },
     {
         "title": "Influence of surface orientation on the photochemical reactivity of CaTiO3",
         "pub_year": "2020",
-        "citation": "Journal of the American Ceramic Society 103 (8), 4498-4506, 2020"
+        "citation": "Journal of the American Ceramic Society 103 (8), 4498-4506, 2020",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:NxmKEeNBbOMC"
     },
     {
         "title": "Influence of the Magnitude of Ferroelectric Domain Polarization on the Photochemical Reactivity of BaTiO3",
         "pub_year": "2018",
-        "citation": "ACS applied materials & interfaces 10 (48), 41450-41457, 2018"
+        "citation": "ACS applied materials & interfaces 10 (48), 41450-41457, 2018",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:aIdbFUkbNIkC"
     },
     {
         "title": "Influence of the molten SrCl2 treatment on the surface structure and photochemical reactivities of SrTiO3",
         "pub_year": "2023",
-        "citation": "Applied Surface Science 638, 158111, 2023"
+        "citation": "Applied Surface Science 638, 158111, 2023",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:xm0LlTxljI0C"
     },
     {
         "title": "Inhibition of Sintering and Surface Area Loss in Phosphate Modified α-Al2O3 Derived from α-AlOOH",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:g3aElNc5_aQC"
     },
     {
         "title": "Inhibition of sintering and surface area loss in phosphorus‐doped corundum derived from diaspore",
         "pub_year": "2002",
-        "citation": "Journal of the American Ceramic Society 85 (9), 2325-2330, 2002"
+        "citation": "Journal of the American Ceramic Society 85 (9), 2325-2330, 2002",
+        "num_citations": 17,
+        "author_pub_id": "eLe4eJEAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Interface character distributions in WC–Co composites",
         "pub_year": "2008",
-        "citation": "Journal of the American Ceramic Society 91 (3), 996-1001, 2008"
+        "citation": "Journal of the American Ceramic Society 91 (3), 996-1001, 2008",
+        "num_citations": 93,
+        "author_pub_id": "eLe4eJEAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "LOCAL ATOMIC-STRUCTURE OF DEFECTS ON OXIDE SURFACES",
         "pub_year": "1991",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 202, 207-PHYS, 1991"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 202, 207-PHYS, 1991",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:BwyfMAYsbu0C"
     },
     {
         "title": "LOCAL STRUCTURAL-ANALYSIS OF REDUCED TIO2 (110) AND TIO2 (001) SURFACES BY SCANNING TUNNELING MICROSCOPY-SPECTROSCOPY",
         "pub_year": "1991",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 202, 171-COLL, 1991"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 202, 171-COLL, 1991",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "MORPHOLOGICAL EVOLUTION OF THE HYDROGEN REDUCED M003-x (010) SURFACE DURING REOXIDATION",
         "pub_year": "1996",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:OP4eGU-M3BUC"
     },
     {
         "title": "Measurement of the five-parameter grain boundary distribution from planar sections",
         "pub_year": "2009",
-        "citation": "Electron backscatter diffraction in materials science, 215-229, 2009"
+        "citation": "Electron backscatter diffraction in materials science, 215-229, 2009",
+        "num_citations": 20,
+        "author_pub_id": "eLe4eJEAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Measuring and interpreting the structure of grain‐boundary networks",
         "pub_year": "2011",
-        "citation": "Journal of the American Ceramic Society 94 (3), 633-646, 2011"
+        "citation": "Journal of the American Ceramic Society 94 (3), 633-646, 2011",
+        "num_citations": 117,
+        "author_pub_id": "eLe4eJEAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Measuring relative grain-boundary energies in block-copolymer microstructures",
         "pub_year": "2012",
-        "citation": "Physical review letters 108 (10), 107801, 2012"
+        "citation": "Physical review letters 108 (10), 107801, 2012",
+        "num_citations": 17,
+        "author_pub_id": "eLe4eJEAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Measuring the Five-Parameter Grain-Boundary Distribution from Observations of Planar Sections",
         "pub_year": "2004",
-        "citation": "Minerals, Metals and Materials Society, ASM International, 2004"
+        "citation": "Minerals, Metals and Materials Society, ASM International, 2004",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:a3BOlSfXSfwC"
     },
     {
         "title": "Measuring the five parameter grain boundary character distribution from three-dimensional orientation maps",
         "pub_year": "2008",
-        "citation": "Microscopy and Microanalysis 14 (S2), 978-979, 2008"
+        "citation": "Microscopy and Microanalysis 14 (S2), 978-979, 2008",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:_Ybze24A_UAC"
     },
     {
         "title": "Measuring the five-parameter grain-boundary distribution from observations of planar sections",
         "pub_year": "2004",
-        "citation": "Metallurgical and Materials Transactions A 35, 1981-1989, 2004"
+        "citation": "Metallurgical and Materials Transactions A 35, 1981-1989, 2004",
+        "num_citations": 257,
+        "author_pub_id": "eLe4eJEAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Measuring the influence of grain‐boundary misorientation on thermal groove geometry in ceramic polycrystals",
         "pub_year": "1999",
-        "citation": "Journal of the American Ceramic Society 82 (6), 1529-1536, 1999"
+        "citation": "Journal of the American Ceramic Society 82 (6), 1529-1536, 1999",
+        "num_citations": 158,
+        "author_pub_id": "eLe4eJEAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Mechanism for the development of anisotropic grain boundary character distributions during normal grain growth",
         "pub_year": "2009",
-        "citation": "Acta Materialia 57 (1), 1-7, 2009"
+        "citation": "Acta Materialia 57 (1), 1-7, 2009",
+        "num_citations": 121,
+        "author_pub_id": "eLe4eJEAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Mesoscale simulation of the evolution of the grain boundary character distribution",
         "pub_year": "2004",
-        "citation": "Materials Science Forum 467, 1063-1068, 2004"
+        "citation": "Materials Science Forum 467, 1063-1068, 2004",
+        "num_citations": 28,
+        "author_pub_id": "eLe4eJEAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Metastable monoclinic [110] layered perovskite Dy 2 Ti 2 O 7 thin films for ferroelectric applications",
         "pub_year": "2019",
-        "citation": "RSC advances 9 (35), 19895-19904, 2019"
+        "citation": "RSC advances 9 (35), 19895-19904, 2019",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:RJOyoaXV5v8C"
     },
     {
         "title": "Micro-and Macrostructures",
         "pub_year": "2005",
-        "citation": "Elsevier, 2005"
+        "citation": "Elsevier, 2005",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:ziOE8S1-AIUC"
     },
     {
         "title": "Microstructural characterization of hard ceramics",
         "pub_year": "2014",
-        "citation": "Carnegie Mellon University, 2014"
+        "citation": "Carnegie Mellon University, 2014",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:0izLItjtcgwC"
     },
     {
         "title": "Microstructure and Phase Equilibria-Influence of Diaspore Seeding and Chloride Concentration on the Transformation of\" Diasporic\" Precursors to Corundum",
         "pub_year": "2001",
-        "citation": "Journal of the American Ceramic Society-Including Communications of the Amer …, 2001"
+        "citation": "Journal of the American Ceramic Society-Including Communications of the Amer …, 2001",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:lvd772isFD0C"
     },
     {
         "title": "Microstructure design of lead-free piezoelectric ceramics",
         "pub_year": "2013",
-        "citation": "Journal of the European Ceramic Society 33 (2), 313-326, 2013"
+        "citation": "Journal of the European Ceramic Society 33 (2), 313-326, 2013",
+        "num_citations": 24,
+        "author_pub_id": "eLe4eJEAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Microstructure evolution of 316L stainless steel during solid-state additive friction stir deposition",
         "pub_year": "2022",
-        "citation": "Philosophical Magazine 102 (7), 618-633, 2022"
+        "citation": "Philosophical Magazine 102 (7), 618-633, 2022",
+        "num_citations": 30,
+        "author_pub_id": "eLe4eJEAAAAJ:pQTOvowfQioC"
     },
     {
         "title": "Microstucture and macrostructure",
         "pub_year": "2023",
-        "citation": "Elsevier, 2023"
+        "citation": "Elsevier, 2023",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Dip1O2bNi0gC"
     },
     {
         "title": "Microtexture and hardness of CVD deposited α-Al2O3 and TiCxN1− x coatings",
         "pub_year": "2009",
-        "citation": "International Journal of Refractory Metals and Hard Materials 27 (2), 458-464, 2009"
+        "citation": "International Journal of Refractory Metals and Hard Materials 27 (2), 458-464, 2009",
+        "num_citations": 20,
+        "author_pub_id": "eLe4eJEAAAAJ:tHtfpZlB6tUC"
     },
     {
         "title": "Misorientation dependence of the grain boundary energy in magnesia",
         "pub_year": "2000",
-        "citation": "Interface Science 8, 131-140, 2000"
+        "citation": "Interface Science 8, 131-140, 2000",
+        "num_citations": 58,
+        "author_pub_id": "eLe4eJEAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Misorientation texture development during grain growth. Part I: Simulation and experiment",
         "pub_year": "2009",
-        "citation": "Acta Materialia 57 (20), 6102-6112, 2009"
+        "citation": "Acta Materialia 57 (20), 6102-6112, 2009",
+        "num_citations": 103,
+        "author_pub_id": "eLe4eJEAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Misorientation texture development during grain growth. Part II: Theory",
         "pub_year": "2010",
-        "citation": "Acta Materialia 58 (1), 14-19, 2010"
+        "citation": "Acta Materialia 58 (1), 14-19, 2010",
+        "num_citations": 39,
+        "author_pub_id": "eLe4eJEAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Modeling the influence of orientation texture on the strength of WC–Co composites",
         "pub_year": "2007",
-        "citation": "Journal of the American Ceramic Society 90 (1), 199-204, 2007"
+        "citation": "Journal of the American Ceramic Society 90 (1), 199-204, 2007",
+        "num_citations": 32,
+        "author_pub_id": "eLe4eJEAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Modeling the interface area aspect ratio of carbide grains in WC–Co composites",
         "pub_year": "2014",
-        "citation": "International Journal of Refractory Metals and Hard Materials 44, 7-11, 2014"
+        "citation": "International Journal of Refractory Metals and Hard Materials 44, 7-11, 2014",
+        "num_citations": 13,
+        "author_pub_id": "eLe4eJEAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Modeling the relationship between microstructural features and the strength of WC–Co composites",
         "pub_year": "2006",
-        "citation": "International Journal of Refractory Metals and Hard Materials 24 (1-2), 89-100, 2006"
+        "citation": "International Journal of Refractory Metals and Hard Materials 24 (1-2), 89-100, 2006",
+        "num_citations": 86,
+        "author_pub_id": "eLe4eJEAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Monte Carlo simulations of Mg (Al) O solid solutions based on crystal chemical rules",
         "pub_year": "1994",
-        "citation": "Chemistry of materials 6 (4), 501-507, 1994"
+        "citation": "Chemistry of materials 6 (4), 501-507, 1994",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Multidomain simulations of coated ferroelectrics exhibiting spatially selective photocatalytic activity with high internal quantum efficiencies",
         "pub_year": "2016",
-        "citation": "Journal of materials chemistry A 4 (41), 16085-16093, 2016"
+        "citation": "Journal of materials chemistry A 4 (41), 16085-16093, 2016",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "Nano-photoelectrochemical cell arrays with spatially isolated oxidation and reduction channels",
         "pub_year": "2017",
-        "citation": "ACS nano 11 (2), 2150-2159, 2017"
+        "citation": "ACS nano 11 (2), 2150-2159, 2017",
+        "num_citations": 24,
+        "author_pub_id": "eLe4eJEAAAAJ:jE2MZjpN3IcC"
     },
     {
         "title": "New insights into the character of austenite-ferrite boundaries in an additively manufactured duplex stainless steel",
         "pub_year": "2024",
-        "citation": "Scripta Materialia 245, 116049, 2024"
+        "citation": "Scripta Materialia 245, 116049, 2024",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:cBPnxVikjH8C"
     },
     {
         "title": "New insights into the interface characteristics of a duplex stainless steel subjected to accelerated ferrite-to-austenite transformation",
         "pub_year": "2020",
-        "citation": "Journal of materials science 55, 5322-5339, 2020"
+        "citation": "Journal of materials science 55, 5322-5339, 2020",
+        "num_citations": 20,
+        "author_pub_id": "eLe4eJEAAAAJ:unp9ATQDT5gC"
     },
     {
         "title": "Nucleation Energy Barriers for Volume‐Conserving Shape Changes of Crystals with Nonequilibrium Morphologies",
         "pub_year": "2001",
-        "citation": "Journal of the American Ceramic Society 84 (9), 2099-2104, 2001"
+        "citation": "Journal of the American Ceramic Society 84 (9), 2099-2104, 2001",
+        "num_citations": 68,
+        "author_pub_id": "eLe4eJEAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Nucleation barrier for volume‐conserving shape changes of faceted crystals",
         "pub_year": "2000",
-        "citation": "Journal of the American Ceramic Society 83 (1), 214-16, 2000"
+        "citation": "Journal of the American Ceramic Society 83 (1), 214-16, 2000",
+        "num_citations": 183,
+        "author_pub_id": "eLe4eJEAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Nucleation of dislocations during physical vapor transport growth of silicon carbide",
         "pub_year": "2000",
-        "citation": "Materials Science Forum 338, 2000"
+        "citation": "Materials Science Forum 338, 2000",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:gKiMpY-AVTkC"
     },
     {
         "title": "Observation of annealing twin nucleation at triple lines in nickel during grain growth",
         "pub_year": "2015",
-        "citation": "Acta Materialia 99, 63-68, 2015"
+        "citation": "Acta Materialia 99, 63-68, 2015",
+        "num_citations": 84,
+        "author_pub_id": "eLe4eJEAAAAJ:35r97b3x0nAC"
     },
     {
         "title": "Observations of unexpected grain boundary migration in SrTiO3",
         "pub_year": "2023",
-        "citation": "Scripta Materialia 222, 115055, 2023"
+        "citation": "Scripta Materialia 222, 115055, 2023",
+        "num_citations": 16,
+        "author_pub_id": "eLe4eJEAAAAJ:pYKElYtJMmwC"
     },
     {
         "title": "On the crystallographic characteristics of nanobainitic steel",
         "pub_year": "2017",
-        "citation": "Acta Materialia 127, 426-437, 2017"
+        "citation": "Acta Materialia 127, 426-437, 2017",
+        "num_citations": 64,
+        "author_pub_id": "eLe4eJEAAAAJ:Dem6FJhTUoYC"
     },
     {
         "title": "On the fcc to hcp transformation in a Co-Ru alloy: Variant selection and intervariant boundary character",
         "pub_year": "2024",
-        "citation": "Scripta Materialia 248, 116127, 2024"
+        "citation": "Scripta Materialia 248, 116127, 2024",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:In6cVmBjs0IC"
     },
     {
         "title": "On the grain boundary network characteristics in a dual phase steel",
         "pub_year": "2021",
-        "citation": "Journal of Materials Science 56, 19674-19686, 2021"
+        "citation": "Journal of Materials Science 56, 19674-19686, 2021",
+        "num_citations": 4,
+        "author_pub_id": "eLe4eJEAAAAJ:nqdriD65xNoC"
     },
     {
         "title": "On the grain boundary network characteristics in a martensitic Ti–6Al–4V alloy",
         "pub_year": "2020",
-        "citation": "Journal of Materials Science 55 (31), 15299-15321, 2020"
+        "citation": "Journal of Materials Science 55 (31), 15299-15321, 2020",
+        "num_citations": 36,
+        "author_pub_id": "eLe4eJEAAAAJ:KWzIFqRkAKkC"
     },
     {
         "title": "On Σ9 grain boundary plane orientation",
         "pub_year": "2022",
-        "citation": "Materialia 25, 101540, 2022"
+        "citation": "Materialia 25, 101540, 2022",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:ymY9cBF3mdcC"
     },
     {
         "title": "Open‐core screw dislocations in GaN epilayers observed by scanning force microscopy and high‐resolution transmission electron microscopy",
         "pub_year": "1995",
-        "citation": "Applied physics letters 67 (16), 2284-2286, 1995"
+        "citation": "Applied physics letters 67 (16), 2284-2286, 1995",
+        "num_citations": 286,
+        "author_pub_id": "eLe4eJEAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Orientation Dependence of Photochemical Reactions on TiO2 Surfaces",
         "pub_year": "1998",
-        "citation": "The Journal of Physical Chemistry B 102 (17), 3216-3226, 1998"
+        "citation": "The Journal of Physical Chemistry B 102 (17), 3216-3226, 1998",
+        "num_citations": 235,
+        "author_pub_id": "eLe4eJEAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Orientation Dependence of the Photochemical Reactivity of BaTi4O9",
         "pub_year": "2002",
-        "citation": "MRS Online Proceedings Library (OPL) 755, DD7. 6, 2002"
+        "citation": "MRS Online Proceedings Library (OPL) 755, DD7. 6, 2002",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Orientation Dependence of the Photochemical Reactivity of BaTi~ 4O~ 9",
         "pub_year": "2003",
-        "citation": "MATERIALS RESEARCH SOCIETY SYMPOSIUM PROCEEDINGS 755, 315-320, 2003"
+        "citation": "MATERIALS RESEARCH SOCIETY SYMPOSIUM PROCEEDINGS 755, 315-320, 2003",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:RtRctb2lSbAC"
     },
     {
         "title": "Orientation and Phase Relationships between Titania Films and Polycrystalline BaTiO3 Substrates as Determined by Electron Backscatter Diffraction Mapping",
         "pub_year": "2010",
-        "citation": "Journal of the American Ceramic Society 93 (9), 2530-2533, 2010"
+        "citation": "Journal of the American Ceramic Society 93 (9), 2530-2533, 2010",
+        "num_citations": 36,
+        "author_pub_id": "eLe4eJEAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Orientation dependence of photochemical reactions on TiO2 thin film surfaces.",
         "pub_year": "1998",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 216, U747-U747, 1998"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 216, U747-U747, 1998",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Orientation dependence of photochemical reduction reactions on SrTiO3 surfaces",
         "pub_year": "2002",
-        "citation": "MRS Online Proceedings Library (OPL) 751, Z2. 4, 2002"
+        "citation": "MRS Online Proceedings Library (OPL) 751, Z2. 4, 2002",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Orientation distribution of Σ3 grain boundary planes in Ni before and after grain boundary engineering",
         "pub_year": "2007",
-        "citation": "Materials Science Forum 558, 641-647, 2007"
+        "citation": "Materials Science Forum 558, 641-647, 2007",
+        "num_citations": 12,
+        "author_pub_id": "eLe4eJEAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Orientation relationships of copper crystals on c-plane sapphire",
         "pub_year": "2011",
-        "citation": "Acta Materialia 59 (13), 5320-5331, 2011"
+        "citation": "Acta Materialia 59 (13), 5320-5331, 2011",
+        "num_citations": 55,
+        "author_pub_id": "eLe4eJEAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Orientation relationships of copper crystals on sapphire (1 0 1 0) m-plane and (1 0 1 2) r-plane substrates",
         "pub_year": "2015",
-        "citation": "Journal of Crystal Growth 418, 57-63, 2015"
+        "citation": "Journal of Crystal Growth 418, 57-63, 2015",
+        "num_citations": 11,
+        "author_pub_id": "eLe4eJEAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "Origin of domain structure in hexagonal silicon carbide boules grown by the physical vapor transport method",
         "pub_year": "2000",
-        "citation": "Journal of crystal growth 220 (3), 308-315, 2000"
+        "citation": "Journal of crystal growth 220 (3), 308-315, 2000",
+        "num_citations": 61,
+        "author_pub_id": "eLe4eJEAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Origin of threading dislocation arrays in SiC boules grown by PVT",
         "pub_year": "2000",
-        "citation": "Materials Science Forum 338 (1), 477-480, 2000"
+        "citation": "Materials Science Forum 338 (1), 477-480, 2000",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Oxides 3.2. 1.1 CHAPTER OXIDES 3.2",
         "pub_year": "1998",
-        "citation": "Procedures in Scanning Probe Microscopies 1, 204, 1998"
+        "citation": "Procedures in Scanning Probe Microscopies 1, 204, 1998",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:W2uZP3ddy8sC"
     },
     {
         "title": "PART 1-III Grain Growth and Related Properties-Orientation Distribution of S3 Grain Boundary Planes in Ni before and after Grain Boundary Engineering",
         "pub_year": "2007",
-        "citation": "Materials Science Forum 558559, 641-648, 2007"
+        "citation": "Materials Science Forum 558559, 641-648, 2007",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:4fGpz3EwCPoC"
     },
     {
         "title": "PART 2-IV Grain Boundary/Interface Structure and Microstructure Development-Three-Dimensional Microstructure Reconstruction Using FIB-OIM",
         "pub_year": "2007",
-        "citation": "Materials Science Forum 558559, 915-920, 2007"
+        "citation": "Materials Science Forum 558559, 915-920, 2007",
+        "num_citations": 5,
+        "author_pub_id": "eLe4eJEAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "Photocatalyst/carbon nanotube aerogel composites",
         "pub_year": "2019",
-        "citation": "US Patent 10,493,432, 2019"
+        "citation": "US Patent 10,493,432, 2019",
+        "num_citations": 4,
+        "author_pub_id": "eLe4eJEAAAAJ:jSAVyFp_754C"
     },
     {
         "title": "Photocatalysts with internal electric fields",
         "pub_year": "2014",
-        "citation": "Nanoscale 6 (1), 24-42, 2014"
+        "citation": "Nanoscale 6 (1), 24-42, 2014",
+        "num_citations": 736,
+        "author_pub_id": "eLe4eJEAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Photochemical Reactivity of Titania Films on BaTiO3 Substrates: Influence of Titania Phase and Orientation",
         "pub_year": "2010",
-        "citation": "Chemistry of Materials 22 (21), 5831-5837, 2010"
+        "citation": "Chemistry of Materials 22 (21), 5831-5837, 2010",
+        "num_citations": 144,
+        "author_pub_id": "eLe4eJEAAAAJ:cK4Rrx0J3m0C"
     },
     {
         "title": "Photochemical behavior of TiO2/BiFeO3 heterostructures",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:cWzG1nlazyYC"
     },
     {
         "title": "Photochemical reduction and oxidation reactions on barium titanate surfaces",
         "pub_year": "2000",
-        "citation": "MRS Online Proceedings Library 654 (1), 741, 2000"
+        "citation": "MRS Online Proceedings Library 654 (1), 741, 2000",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Physics of SiC processing",
         "pub_year": "2000",
-        "citation": "Materials science forum 338 (2), 831-838, 2000"
+        "citation": "Materials science forum 338 (2), 831-838, 2000",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:orDZ08hpP44C"
     },
     {
         "title": "Piezotronic modulations in electro-and photochemical catalysis",
         "pub_year": "2018",
-        "citation": "Mrs Bulletin 43 (12), 946-951, 2018"
+        "citation": "Mrs Bulletin 43 (12), 946-951, 2018",
+        "num_citations": 54,
+        "author_pub_id": "eLe4eJEAAAAJ:SIv7DqKytYAC"
     },
     {
         "title": "Plastic deformation and residual stresses in SiC boules grown by PVT",
         "pub_year": "2000",
-        "citation": "Materials Science Forum 338, I/, 2000"
+        "citation": "Materials Science Forum 338, I/, 2000",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Polar Domains at the Surface of Centrosymmetric BiVO4",
         "pub_year": "2014",
-        "citation": "Chemistry of Materials 26 (9), 2774-2776, 2014"
+        "citation": "Chemistry of Materials 26 (9), 2774-2776, 2014",
+        "num_citations": 45,
+        "author_pub_id": "eLe4eJEAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Predicting Microstructural-Level Residual Stresses and Crack Paths in Ceramics",
         "pub_year": "1999",
-        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 1999"
+        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 1999",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:PVjk1bu6vJQC"
     },
     {
         "title": "Predicting microstructural-level residual stresses and crack paths in ceramics",
         "pub_year": "1999",
-        "citation": "ICOTOM 12: 12 th International Conference on Textures of Materials, 1507-1512, 1999"
+        "citation": "ICOTOM 12: 12 th International Conference on Textures of Materials, 1507-1512, 1999",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:uWiczbcajpAC"
     },
     {
         "title": "Preferential orientation relationships in Ca2MnO4 Ruddlesden-Popper thin films",
         "pub_year": "2015",
-        "citation": "Journal of Applied Physics 118 (4), 2015"
+        "citation": "Journal of Applied Physics 118 (4), 2015",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "Probing the surface chemistry of polycrystalline ZnO with scanning tunneling microscopy and tunneling spectroscopy",
         "pub_year": "1991",
-        "citation": "Journal of Vacuum Science & Technology B: Microelectronics and Nanometer …, 1991"
+        "citation": "Journal of Vacuum Science & Technology B: Microelectronics and Nanometer …, 1991",
+        "num_citations": 28,
+        "author_pub_id": "eLe4eJEAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Proceedings of the 6th International Conference on Recrystallization and Grain Growth (ReX&GG 2016)",
         "pub_year": "2016",
-        "citation": "Springer, 2016"
+        "citation": "Springer, 2016",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:j7_hQOaDUrUC"
     },
     {
         "title": "Pulsed laser deposition of Sr2FeMoO6 thin films grown on spark plasma sintered Sr2MgWO6 substrates",
         "pub_year": "2017",
-        "citation": "Journal of Physics D: Applied Physics 50 (23), 235301, 2017"
+        "citation": "Journal of Physics D: Applied Physics 50 (23), 235301, 2017",
+        "num_citations": 14,
+        "author_pub_id": "eLe4eJEAAAAJ:RoXSNcbkSzsC"
     },
     {
         "title": "Quantitative differences in the Y grain boundary excess at boundaries delimiting large and small grains in Y doped Al2O3",
         "pub_year": "2018",
-        "citation": "Journal of the European Ceramic Society 38 (4), 1829-1835, 2018"
+        "citation": "Journal of the European Ceramic Society 38 (4), 1829-1835, 2018",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:mUJArPsKIAAC"
     },
     {
         "title": "Reconstruction and Simplification of Multiple-Region Models from Planar Sections",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "Reconstruction and simplification of high-quality multiple-region models from planar sections",
         "pub_year": "2009",
-        "citation": "Engineering with Computers 25, 221-235, 2009"
+        "citation": "Engineering with Computers 25, 221-235, 2009",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Recrystallization and Related Annealing Phenomena",
         "pub_year": "2017",
-        "citation": ""
+        "citation": "",
+        "num_citations": 12221,
+        "author_pub_id": "eLe4eJEAAAAJ:HJSXoJQnj-YC"
     },
     {
         "title": "Recrystallization textures",
         "pub_year": "2017",
-        "citation": "Recrystallization and related annealing phenomena, 431-468, 2017"
+        "citation": "Recrystallization and related annealing phenomena, 431-468, 2017",
+        "num_citations": 46,
+        "author_pub_id": "eLe4eJEAAAAJ:7H_jS4BsgvYC"
     },
     {
         "title": "Relative grain boundary area and energy distributions in nickel",
         "pub_year": "2009",
-        "citation": "Acta Materialia 57 (14), 4304-4311, 2009"
+        "citation": "Acta Materialia 57 (14), 4304-4311, 2009",
+        "num_citations": 217,
+        "author_pub_id": "eLe4eJEAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Relative grain boundary energies from triple junction geometry: limitations to assuming the Herring condition in nanocrystalline thin films",
         "pub_year": "2023",
-        "citation": "Acta Materialia 242, 118476, 2023"
+        "citation": "Acta Materialia 242, 118476, 2023",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:Og1tA8FjbJAC"
     },
     {
         "title": "Residual‐stress predictions in polycrystalline alumina",
         "pub_year": "2001",
-        "citation": "Journal of the American Ceramic Society 84 (12), 2947-2954, 2001"
+        "citation": "Journal of the American Ceramic Society 84 (12), 2947-2954, 2001",
+        "num_citations": 138,
+        "author_pub_id": "eLe4eJEAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Role of ceramics in advanced electrochemical systems",
         "pub_year": "1996",
-        "citation": "(No Title), 1996"
+        "citation": "(No Title), 1996",
+        "num_citations": 5,
+        "author_pub_id": "eLe4eJEAAAAJ:wSy_KLzO7YEC"
     },
     {
         "title": "Role of inclination dependent anisotropy on boundary populations during two-dimensional grain growth",
         "pub_year": "2012",
-        "citation": "Materials Science Forum 715, 697-702, 2012"
+        "citation": "Materials Science Forum 715, 697-702, 2012",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Ug5p-4gJ2f0C"
     },
     {
         "title": "SCANNING TUNNELING MICROSCOPY STUDY OF SINGLE CRYSTAL ZnO AND TiO 2 SURFACES",
         "pub_year": "1990",
-        "citation": "Chemistry of Electronic Ceramic Materials. Proc. Int. Conf. Chemistry of …, 1990"
+        "citation": "Chemistry of Electronic Ceramic Materials. Proc. Int. Conf. Chemistry of …, 1990",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Aul-kAQHnToC"
     },
     {
         "title": "Scanning Tunneling-Microscopy and Crystal Chemical Models of the Naoszwos (001) Surface",
         "pub_year": "1994",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:yFnVuubrUp4C"
     },
     {
         "title": "Scanning probe microscopy of cleaved molybdates: α-MoO3 (010), Mo18O52 (100), Mo8O23 (010), and η-Mo4O11 (100)",
         "pub_year": "1996",
-        "citation": "Journal of Solid State Chemistry 124 (1), 104-115, 1996"
+        "citation": "Journal of Solid State Chemistry 124 (1), 104-115, 1996",
+        "num_citations": 101,
+        "author_pub_id": "eLe4eJEAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Scanning probe microscopy of cleaved molybdates:{alpha} MoO {sub 3}(010), Mo {sub 18} O {sub 52}(100), Mo {sub 8} O {sub 23}(010), and {eta}-Mo {sub 4} O {sub 11}(100)",
         "pub_year": "1996",
-        "citation": "Journal of Solid State Chemistry 124 (1), 1996"
+        "citation": "Journal of Solid State Chemistry 124 (1), 1996",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:-DxkuPiZhfEC"
     },
     {
         "title": "Scanning tunneling microscopy and crystal chemical models of the Na0. 82WO3 (001) surface",
         "pub_year": "1994",
-        "citation": "Journal of Solid State Chemistry 109 (2), 359-371, 1994"
+        "citation": "Journal of Solid State Chemistry 109 (2), 359-371, 1994",
+        "num_citations": 19,
+        "author_pub_id": "eLe4eJEAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "SciAI for Grain Mapping with Electron Backscatter Diffraction: Leveraging Physics-Based Constraints and Uncertainty Propagation",
         "pub_year": "2021",
-        "citation": "APS March Meeting Abstracts 2021, F60. 004, 2021"
+        "citation": "APS March Meeting Abstracts 2021, F60. 004, 2021",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:SxCCDk4iOpsC"
     },
     {
         "title": "Segregation of calcium to magnesium oxide grain boundaries",
         "pub_year": "2004",
-        "citation": "Materials Science Forum 467, 789-794, 2004"
+        "citation": "Materials Science Forum 467, 789-794, 2004",
+        "num_citations": 5,
+        "author_pub_id": "eLe4eJEAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Segregation-induced ordered superstructures at general grain boundaries in a nickel-bismuth alloy",
         "pub_year": "2017",
-        "citation": "Science 358 (6359), 97-101, 2017"
+        "citation": "Science 358 (6359), 97-101, 2017",
+        "num_citations": 156,
+        "author_pub_id": "eLe4eJEAAAAJ:-nhnvRiOwuoC"
     },
     {
         "title": "Shape Change Kinetics of Faceted Crystals",
         "pub_year": "2001",
-        "citation": "Microgravity Materials Science Conference 2000 1, 2001"
+        "citation": "Microgravity Materials Science Conference 2000 1, 2001",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Shape Evolution of SrTiO",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:r_AWSJRzSzQC"
     },
     {
         "title": "Shape Evolution of SrTiO3 Crystals During Coarsening in a Titania‐Rich Liquid",
         "pub_year": "2005",
-        "citation": "Journal of the American Ceramic Society 88 (4), 993-996, 2005"
+        "citation": "Journal of the American Ceramic Society 88 (4), 993-996, 2005",
+        "num_citations": 20,
+        "author_pub_id": "eLe4eJEAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Silicon Carbide and Related Materials--1999: ICSCRM'99. II",
         "pub_year": "1999",
-        "citation": "Materials Science Forum(Switzerland) 338, 854, 1999"
+        "citation": "Materials Science Forum(Switzerland) 338, 854, 1999",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "Silicon Carbide and Related Materials-1999",
         "pub_year": "2000",
-        "citation": "Trans Tech Publications Ltd, 2000"
+        "citation": "Trans Tech Publications Ltd, 2000",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Sparse data structure and algorithm for the phase field method",
         "pub_year": "2006",
-        "citation": "Modelling and simulation in materials science and engineering 14 (7), 1189, 2006"
+        "citation": "Modelling and simulation in materials science and engineering 14 (7), 1189, 2006",
+        "num_citations": 112,
+        "author_pub_id": "eLe4eJEAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Spatial selectivity of photodeposition reactions on polar surfaces of centrosymmetric ferroelastic γ-WO 3",
         "pub_year": "2017",
-        "citation": "Journal of materials chemistry A 5 (18), 8261-8266, 2017"
+        "citation": "Journal of materials chemistry A 5 (18), 8261-8266, 2017",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:PyEswDtIyv0C"
     },
     {
         "title": "Spatial separation of photochemical oxidation and reduction reactions on the surface of ferroelectric BaTiO3",
         "pub_year": "2001",
-        "citation": "The Journal of Physical Chemistry B 105 (35), 8275-8277, 2001"
+        "citation": "The Journal of Physical Chemistry B 105 (35), 8275-8277, 2001",
+        "num_citations": 270,
+        "author_pub_id": "eLe4eJEAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Spatially selective photochemical activity on surfaces of ferroelastics with local polarization",
         "pub_year": "2017",
-        "citation": "Semiconductor Science and Technology 32 (10), 103001, 2017"
+        "citation": "Semiconductor Science and Technology 32 (10), 103001, 2017",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:w0F2JDEymm0C"
     },
     {
         "title": "Spatially selective photochemical reduction of silver on the surface of ferroelectric barium titanate",
         "pub_year": "2001",
-        "citation": "Chemistry of materials 13 (2), 241-242, 2001"
+        "citation": "Chemistry of materials 13 (2), 241-242, 2001",
+        "num_citations": 227,
+        "author_pub_id": "eLe4eJEAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Spatially selective visible light photocatalytic activity of TiO 2/BiFeO 3 heterostructures",
         "pub_year": "2011",
-        "citation": "Journal of Materials Chemistry 21 (12), 4168-4174, 2011"
+        "citation": "Journal of Materials Chemistry 21 (12), 4168-4174, 2011",
+        "num_citations": 154,
+        "author_pub_id": "eLe4eJEAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Static softening in a Ni-30Fe austenitic model alloy after hot deformation: microstructure and texture evolution",
         "pub_year": "2017",
-        "citation": "Metallurgical and Materials Transactions A 48, 855-867, 2017"
+        "citation": "Metallurgical and Materials Transactions A 48, 855-867, 2017",
+        "num_citations": 13,
+        "author_pub_id": "eLe4eJEAAAAJ:SjuI4pbJlxcC"
     },
     {
         "title": "Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions",
         "pub_year": "2022",
-        "citation": "Acta Materialia 222, 117459, 2022"
+        "citation": "Acta Materialia 222, 117459, 2022",
+        "num_citations": 16,
+        "author_pub_id": "eLe4eJEAAAAJ:c_xDhezhKKUC"
     },
     {
         "title": "Stereological Recovery of Five-Parameter Grain Boundary Character Distributions from EBSD Maps",
         "pub_year": "2005",
-        "citation": "Microscopy and Microanalysis 11 (S02), 1660-1661, 2005"
+        "citation": "Microscopy and Microanalysis 11 (S02), 1660-1661, 2005",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Stress hot spots in viscoplastic deformation of polycrystals",
         "pub_year": "2010",
-        "citation": "Modelling and Simulation in Materials Science and Engineering 18 (7), 074005, 2010"
+        "citation": "Modelling and Simulation in Materials Science and Engineering 18 (7), 074005, 2010",
+        "num_citations": 88,
+        "author_pub_id": "eLe4eJEAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Structural characterization of SiC crystals grown by physical vapor transport",
         "pub_year": "1998",
-        "citation": "Materials Science Forum 264, 1998"
+        "citation": "Materials Science Forum 264, 1998",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Structural defects and their relationship to nucleation of GaN thin films",
         "pub_year": "1996",
-        "citation": "MRS Online Proceedings Library (OPL) 423, 475, 1996"
+        "citation": "MRS Online Proceedings Library (OPL) 423, 475, 1996",
+        "num_citations": 110,
+        "author_pub_id": "eLe4eJEAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Structure Se nsitivity of Photochemical Oxidation and Reduction Reactions on SrTiO3 Surfaces",
         "pub_year": "2003",
-        "citation": "Journal of the American Ceramic Society 86 (7), 1182-1189, 2003"
+        "citation": "Journal of the American Ceramic Society 86 (7), 1182-1189, 2003",
+        "num_citations": 85,
+        "author_pub_id": "eLe4eJEAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Structure Sensitivity of Photochemical Reactions on Oxide Surfaces",
         "pub_year": "2003",
-        "citation": "Preprints of Annual Meeting of The Ceramic Society of Japan Preprints of …, 2003"
+        "citation": "Preprints of Annual Meeting of The Ceramic Society of Japan Preprints of …, 2003",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:CaZNVDsoPx4C"
     },
     {
         "title": "Structure and Bonding in Crystalline Materials: A Textbook for Materials Science and Engineering Students",
         "pub_year": "1998",
-        "citation": "JOURNAL OF MATERIALS EDUCATION 20, 135-150, 1998"
+        "citation": "JOURNAL OF MATERIALS EDUCATION 20, 135-150, 1998",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:9c2xU6iGI7YC"
     },
     {
         "title": "Structure and bonding in crystalline materials",
         "pub_year": "2001",
-        "citation": "Cambridge University Press, 2001"
+        "citation": "Cambridge University Press, 2001",
+        "num_citations": 399,
+        "author_pub_id": "eLe4eJEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Structure and properties of Sn (II)-. beta. double prime-alumina",
-        "citation": "Chemistry of Materials;(USA) 2 (4), 0"
+        "citation": "Chemistry of Materials;(USA) 2 (4), 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:5MTHONV0fEkC"
     },
     {
         "title": "Structure and properties of Sn (II)-beta-alumina.(Reannouncement with new availability information). Technical report No. 32 June 1989-June 1991",
         "pub_year": "1991",
-        "citation": "Pennsylvania Univ., Philadelphia, PA (United States). Dept. of Materials …, 1991"
+        "citation": "Pennsylvania Univ., Philadelphia, PA (United States). Dept. of Materials …, 1991",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:yqoGN6RLRZoC"
     },
     {
         "title": "Structure and properties of tin (II)-. beta.''-alumina",
         "pub_year": "1990",
-        "citation": "Chemistry of Materials 2 (4), 395-403, 1990"
+        "citation": "Chemistry of Materials 2 (4), 395-403, 1990",
+        "num_citations": 7,
+        "author_pub_id": "eLe4eJEAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Structure of the reduced TiO2 (110) surface determined by scanning tunneling microscopy",
         "pub_year": "1990",
-        "citation": "Science 250 (4985), 1239-1241, 1990"
+        "citation": "Science 250 (4985), 1239-1241, 1990",
+        "num_citations": 170,
+        "author_pub_id": "eLe4eJEAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Structure, Hydration, and Defect Formation in Selected Divalent [beta Double Prime]-aluminas",
         "pub_year": "1989",
-        "citation": "Graduate School of Arts and Sciences, University of Pennsylvania, 1989"
+        "citation": "Graduate School of Arts and Sciences, University of Pennsylvania, 1989",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:KNjnJ3z-R6IC"
     },
     {
         "title": "Structure, hydration, and defect formation in selected divalent beta''-aluminas.",
         "pub_year": "1990",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:-95Q15plzcUC"
     },
     {
         "title": "Supporting information for: Enhanced Ionic Conductivity in Electroceramics by Nanoscale Enrichment of Grain Boundaries with High Solute Concentration",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:T_ojBgVMvoEC"
     },
     {
         "title": "Surface Energy Anisotropy of SrTiO [sub3] at 1400ºC in Air.",
         "pub_year": "2003",
-        "citation": "Journal of the American Ceramic Society 86 (11), 2003"
+        "citation": "Journal of the American Ceramic Society 86 (11), 2003",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:QoJ_w57xiyAC"
     },
     {
         "title": "Surface Energy Anisotropy of SrTiO3 at 1400°C in Air",
         "pub_year": "2003",
-        "citation": "Journal of the American Ceramic Society 86 (11), 1933-1939, 2003"
+        "citation": "Journal of the American Ceramic Society 86 (11), 1933-1939, 2003",
+        "num_citations": 115,
+        "author_pub_id": "eLe4eJEAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Surface defects in GaN and Al {sub x} Ga {sub 1-x} N epilayers deposited on sapphire by organometallic vapor phase epitaxy",
         "pub_year": "1998",
-        "citation": "Materials Science Forum 264, 1998"
+        "citation": "Materials Science Forum 264, 1998",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:GFxP56DSvIMC"
     },
     {
         "title": "Surface engineering along the close-packed direction of SrTiO3",
         "pub_year": "2001",
-        "citation": "Journal of crystal growth 225 (2-4), 178-182, 2001"
+        "citation": "Journal of crystal growth 225 (2-4), 178-182, 2001",
+        "num_citations": 34,
+        "author_pub_id": "eLe4eJEAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Symposium on Characterization and Representation of Material Microstructures in 3D-Measuring the Five-Parameter Grain-Boundary Distribution from Observations of Planar Sections",
         "pub_year": "2004",
-        "citation": "Metallurgical and Materials Transactions-Series A 35 (7), 1981-1990, 2004"
+        "citation": "Metallurgical and Materials Transactions-Series A 35 (7), 1981-1990, 2004",
+        "num_citations": 4,
+        "author_pub_id": "eLe4eJEAAAAJ:GtLg2Ama23sC"
     },
     {
         "title": "Synthesis and Structure of an Ion‐Exchanged SrTiO3 Photocatalyst with Improved Reactivity for Hydrogen Evolution",
         "pub_year": "2023",
-        "citation": "Advanced Materials Interfaces 10 (10), 2202476, 2023"
+        "citation": "Advanced Materials Interfaces 10 (10), 2202476, 2023",
+        "num_citations": 4,
+        "author_pub_id": "eLe4eJEAAAAJ:lg2tdxc6qMwC"
     },
     {
         "title": "Synthesis of di-and trivalent β ″-aluminas by ion exchange",
         "pub_year": "1986",
-        "citation": "Journal of Solid State Chemistry 65 (2), 231-240, 1986"
+        "citation": "Journal of Solid State Chemistry 65 (2), 231-240, 1986",
+        "num_citations": 72,
+        "author_pub_id": "eLe4eJEAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Synthesizing Annealing Twins in Three-Dimensional Voxel-Based Microstructures",
         "pub_year": "2012",
-        "citation": "Materials Science Forum 715, 549-549, 2012"
+        "citation": "Materials Science Forum 715, 549-549, 2012",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:mNrWkgRL2YcC"
     },
     {
         "title": "THE ATOMIC LEVEL STRUCTURE OF ALKALI TUNGSTEN BRONZE SURFACES DETERMINED BY SCANNING TUNNELING MICROSCOPY",
         "pub_year": "1992",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 203, 750-INOR, 1992"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 203, 750-INOR, 1992",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "THE ATOMIC-SCALE CHARACTERIZATION OF DEFECTS ON CLEAVED VANADIUM AND MOLYBDENUM OXIDE SURFACES USING STM GREGORY S. ROHRER AND RICHARD L. SMITH",
         "pub_year": "1995",
-        "citation": "Structure and Properties of Interfaces in Ceramics: Volume 357, 79, 1995"
+        "citation": "Structure and Properties of Interfaces in Ceramics: Volume 357, 79, 1995",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:L24QuVWYgZ0C"
     },
     {
         "title": "THE CORRELATION BETWEEN GRAIN BOUNDARY CHARACTER AND TNTERGRANULAR CORROSION SUSCEPTIBILITY OF 2124 ALUMINUM ALLOY",
         "pub_year": "2008",
-        "citation": "Applications of texture analysis, 261, 2008"
+        "citation": "Applications of texture analysis, 261, 2008",
+        "num_citations": 21,
+        "author_pub_id": "eLe4eJEAAAAJ:eO3_k5sD8BwC"
     },
     {
         "title": "THE RELATIONSHIP BETWEEN MICROPIPES AND SCREW DISLOCATIONS IN PVT GROWN бН-SiC",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "THE ROLE OF THE BOUNDARY PLANE IN GRAIN BOUNDARY ENGINEERING",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:KbBQZpvPDL4C"
     },
     {
         "title": "Tail departure of log-normal grain size distributions in synthetic three-dimensional microstructures",
         "pub_year": "2012",
-        "citation": "Metallurgical and Materials Transactions A 43, 2810-2822, 2012"
+        "citation": "Metallurgical and Materials Transactions A 43, 2810-2822, 2012",
+        "num_citations": 42,
+        "author_pub_id": "eLe4eJEAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Termination layer variations on the cleaved Rb13WO3 (0001) surface determined by scanning tunneling microscopy",
         "pub_year": "1993",
-        "citation": "Surface science 291 (3), 395-401, 1993"
+        "citation": "Surface science 291 (3), 395-401, 1993",
+        "num_citations": 26,
+        "author_pub_id": "eLe4eJEAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Termination layer variations on the cleaved Rb{3}/{3}WO 3(0001) surface determined by scanning tunneling microscopy",
         "pub_year": "1993",
-        "citation": "Surface Science Letters 291 (3), A577-A577, 1993"
+        "citation": "Surface Science Letters 291 (3), A577-A577, 1993",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:M7yex6snE4oC"
     },
     {
         "title": "Texture and Grain Boundary Network Evolution of Laser Powder Bed Fusion Processed Pure Ni During Post-printing Annealing",
         "pub_year": "2022",
-        "citation": "Metallurgical and Materials Transactions A 53 (10), 3749-3758, 2022"
+        "citation": "Metallurgical and Materials Transactions A 53 (10), 3749-3758, 2022",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:N4u4nq0IxgcC"
     },
     {
         "title": "Textures and grain boundary character distributions in a cold rolled and annealed Pb–Ca based alloy",
         "pub_year": "2010",
-        "citation": "Materials Science and Engineering: A 527 (16-17), 3695-3706, 2010"
+        "citation": "Materials Science and Engineering: A 527 (16-17), 3695-3706, 2010",
+        "num_citations": 43,
+        "author_pub_id": "eLe4eJEAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "The Influence of Surface Termination and Domain Structure on the Photochemical Reactivity of SrTiO3 and BaTiO3",
         "pub_year": "2001",
-        "citation": "Microscopy and Microanalysis 7 (S2), 1062-1063, 2001"
+        "citation": "Microscopy and Microanalysis 7 (S2), 1062-1063, 2001",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:XoXfffV-tXoC"
     },
     {
         "title": "The Influence of the Dipolar Field Effect on the Photochemical Reactivity of Sr",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:IRz6iEL74y4C"
     },
     {
         "title": "The Influence of the Dipolar Field Effect on the Photochemical Reactivity of Sr2Nb2O7 and BaTiO3 Microcrystals",
         "pub_year": "2008",
-        "citation": "Topics in catalysis 49, 18-23, 2008"
+        "citation": "Topics in catalysis 49, 18-23, 2008",
+        "num_citations": 75,
+        "author_pub_id": "eLe4eJEAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "The Inter-Connections of∑ 3 and∑ 9 Boundaries and Their Evolution During Grain Growth in Grain Boundary Engineered High Purity Copper",
-        "citation": "Available at SSRN 4116171, 0"
+        "citation": "Available at SSRN 4116171, 0",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:yY3RG6sOEgwC"
     },
     {
         "title": "The Morphology of Rutile (100),(101), and (001) Surfaces: Single Crystals, Homoepitaxial Films, And Heteroepitaxial Films",
         "pub_year": "1998",
-        "citation": "CERAMIC TRANSACTIONS 86, 233-244, 1998"
+        "citation": "CERAMIC TRANSACTIONS 86, 233-244, 1998",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:F9fV5C73w3QC"
     },
     {
         "title": "The Orientation Dependence of the Photochemical Activity of α‐Fe2O3",
         "pub_year": "2016",
-        "citation": "Journal of the American Ceramic Society 99 (7), 2428-2435, 2016"
+        "citation": "Journal of the American Ceramic Society 99 (7), 2428-2435, 2016",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:F1b5ZUV5XREC"
     },
     {
         "title": "The Partial Oxidation of Methanol by MoO3 (010) Surfaces with Controlled Defect Distributions",
         "pub_year": "1997",
-        "citation": "MRS Online Proceedings Library (OPL) 497, 53, 1997"
+        "citation": "MRS Online Proceedings Library (OPL) 497, 53, 1997",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "The Protonation of MoO3during the Partial Oxidation of Alcohols",
         "pub_year": "1998",
-        "citation": "Journal of Catalysis 173 (1), 219-228, 1998"
+        "citation": "Journal of Catalysis 173 (1), 219-228, 1998",
+        "num_citations": 60,
+        "author_pub_id": "eLe4eJEAAAAJ:blknAaTinKkC"
     },
     {
         "title": "The Structure Sensitivity of HxMoO3Precipitation on MoO3 (010) during Reactions with Methanol",
         "pub_year": "1999",
-        "citation": "Journal of Catalysis 184 (1), 49-58, 1999"
+        "citation": "Journal of Catalysis 184 (1), 49-58, 1999",
+        "num_citations": 20,
+        "author_pub_id": "eLe4eJEAAAAJ:eflP2zaiRacC"
     },
     {
         "title": "The Synthesis of an Interstratified Layered Oxide from Exfoliated Precursors",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 371, 187, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 371, 187, 1994",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:0KyAp5RtaNEC"
     },
     {
         "title": "The anisotropy of metal oxide surface properties",
         "pub_year": "2001",
-        "citation": "Oxide Surfaces, 485-513, 2001"
+        "citation": "Oxide Surfaces, 485-513, 2001",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "The annealing twin density evolution during grain growth in inconel 718",
         "pub_year": "2014",
-        "citation": "Eurosuperalloys 2014, 2014"
+        "citation": "Eurosuperalloys 2014, 2014",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:QsaTk4IG4EwC"
     },
     {
         "title": "The atomic-scale characterization of defects on cleaved vanadium and molybdenum oxide surfaces using STM",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 357, 79, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 357, 79, 1994",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "The distribution of grain boundary planes in interstitial free steel",
         "pub_year": "2013",
-        "citation": "Metallurgical and Materials Transactions A 44, 115-124, 2013"
+        "citation": "Metallurgical and Materials Transactions A 44, 115-124, 2013",
+        "num_citations": 80,
+        "author_pub_id": "eLe4eJEAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "The distribution of grain boundary planes in polycrystals",
         "pub_year": "2007",
-        "citation": "Jom 59, 38-42, 2007"
+        "citation": "Jom 59, 38-42, 2007",
+        "num_citations": 30,
+        "author_pub_id": "eLe4eJEAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "The distribution of internal interfaces in polycrystals",
         "pub_year": "2021",
-        "citation": "International Journal of Materials Research 95 (4), 197-214, 2021"
+        "citation": "International Journal of Materials Research 95 (4), 197-214, 2021",
+        "num_citations": 298,
+        "author_pub_id": "eLe4eJEAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "The distribution of intervariant crystallographic planes in a lath martensite using five macroscopic parameters",
         "pub_year": "2014",
-        "citation": "Acta materialia 63, 86-98, 2014"
+        "citation": "Acta materialia 63, 86-98, 2014",
+        "num_citations": 104,
+        "author_pub_id": "eLe4eJEAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "The effect of pH on the photochemical reactivity of BaTiO3",
         "pub_year": "2018",
-        "citation": "Surface Science 675, 83-90, 2018"
+        "citation": "Surface Science 675, 83-90, 2018",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:rTD5ala9j4wC"
     },
     {
         "title": "The effect of thermal history on the ionic conductivity of Pb (II)-β ″-alumina",
         "pub_year": "1988",
-        "citation": "Solid State Ionics 28, 354-357, 1988"
+        "citation": "Solid State Ionics 28, 354-357, 1988",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "The equilibrium crystal shape of strontium titanate and its relationship to the grain boundary plane distribution",
         "pub_year": "2015",
-        "citation": "Acta Materialia 82, 32-40, 2015"
+        "citation": "Acta Materialia 82, 32-40, 2015",
+        "num_citations": 61,
+        "author_pub_id": "eLe4eJEAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "The facet structure and photochemical reactivity of arbitrarily oriented strontium titanate surfaces",
         "pub_year": "2019",
-        "citation": "Advanced Materials Interfaces 6 (16), 1900731, 2019"
+        "citation": "Advanced Materials Interfaces 6 (16), 1900731, 2019",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:0aBXIfxlw9sC"
     },
     {
         "title": "The five parameter grain boundary character distribution of polycrystalline silicon",
         "pub_year": "2014",
-        "citation": "Journal of materials science 49, 4938-4945, 2014"
+        "citation": "Journal of materials science 49, 4938-4945, 2014",
+        "num_citations": 92,
+        "author_pub_id": "eLe4eJEAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "The five parameter grain boundary character distribution of α-Ti determined from three-dimensional orientation data",
         "pub_year": "2016",
-        "citation": "Acta Materialia 111, 22-30, 2016"
+        "citation": "Acta Materialia 111, 22-30, 2016",
+        "num_citations": 68,
+        "author_pub_id": "eLe4eJEAAAAJ:LgRImbQfgY4C"
     },
     {
         "title": "The five-parameter grain boundary character and energy distributions of a fully austenitic high-manganese steel using three dimensional data",
         "pub_year": "2014",
-        "citation": "Acta materialia 70, 281-289, 2014"
+        "citation": "Acta materialia 70, 281-289, 2014",
+        "num_citations": 77,
+        "author_pub_id": "eLe4eJEAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "The five-parameter grain boundary character distribution of nanocrystalline tungsten",
         "pub_year": "2013",
-        "citation": "Scripta Materialia 69 (5), 413-416, 2013"
+        "citation": "Scripta Materialia 69 (5), 413-416, 2013",
+        "num_citations": 39,
+        "author_pub_id": "eLe4eJEAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "The five-parameter grain boundary curvature distribution in an austenitic and ferritic steel",
         "pub_year": "2017",
-        "citation": "Acta Materialia 123, 136-145, 2017"
+        "citation": "Acta Materialia 123, 136-145, 2017",
+        "num_citations": 45,
+        "author_pub_id": "eLe4eJEAAAAJ:jgBuDB5drN8C"
     },
     {
         "title": "The formation of super-dislocation/micropipe complexes in 6H-SiC",
         "pub_year": "1998",
-        "citation": "Materials Science Forum 264, 1998"
+        "citation": "Materials Science Forum 264, 1998",
+        "num_citations": 4,
+        "author_pub_id": "eLe4eJEAAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "The geometric and electronic structure of the ZnO (0001) surface",
         "pub_year": "1991",
-        "citation": "Surface science 247 (1), L195-L200, 1991"
+        "citation": "Surface science 247 (1), L195-L200, 1991",
+        "num_citations": 33,
+        "author_pub_id": "eLe4eJEAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "The grain boundary character distribution of highly twinned nanocrystalline thin film aluminum compared to bulk microcrystalline aluminum",
         "pub_year": "2017",
-        "citation": "Journal of Materials Science 52 (16), 9819-9833, 2017"
+        "citation": "Journal of Materials Science 52 (16), 9819-9833, 2017",
+        "num_citations": 27,
+        "author_pub_id": "eLe4eJEAAAAJ:U_HPUtbDl20C"
     },
     {
         "title": "The grain boundary stiffness and its impact on equilibrium shapes and boundary migration: analysis of the Σ5, 7, 9, and 11 boundaries in Ni",
         "pub_year": "2021",
-        "citation": "Acta Materialia 218, 117220, 2021"
+        "citation": "Acta Materialia 218, 117220, 2021",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:jtI9f0ekYq0C"
     },
     {
         "title": "The influence of parent austenite characteristics on the intervariant boundary network in a lath martensitic steel",
         "pub_year": "2022",
-        "citation": "Journal of Materials Science 57 (19), 8904-8923, 2022"
+        "citation": "Journal of Materials Science 57 (19), 8904-8923, 2022",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:BOlwja0KXvYC"
     },
     {
         "title": "The influence of processing and texture on the grain boundary character distribution of an austenitic Ni30Fe alloy",
         "pub_year": "2023",
-        "citation": "Materials Characterization 197, 112708, 2023"
+        "citation": "Materials Characterization 197, 112708, 2023",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:Vr2j17o0sqMC"
     },
     {
         "title": "The influence of residual thermal stresses on the mechanical properties of multilayer α-Al 2 O 3/TiC x N1À x coatings on WC/Co cutting tools",
         "pub_year": "2013",
-        "citation": "Surf Coat Technol 215, 119-26, 2013"
+        "citation": "Surf Coat Technol 215, 119-26, 2013",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:qE4H1tSSYIIC"
     },
     {
         "title": "The influence of residual thermal stresses on the mechanical properties of multilayer α-Al2O3/TiCxN1− x coatings on WC/Co cutting tools",
         "pub_year": "2013",
-        "citation": "Surface and Coatings Technology 215, 119-126, 2013"
+        "citation": "Surface and Coatings Technology 215, 119-126, 2013",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "The influence of singular surfaces and morphological changes on coarsening",
         "pub_year": "2022",
-        "citation": "International Journal of Materials Research 96 (2), 191-196, 2022"
+        "citation": "International Journal of Materials Research 96 (2), 191-196, 2022",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "The influence of surface and grain boundary tangent plane anisotropy on thermal groove geometry in magnesia",
         "pub_year": "1998",
-        "citation": "ICGG-3: Third International Conference on Grain Growth, 359-364, 1998"
+        "citation": "ICGG-3: Third International Conference on Grain Growth, 359-364, 1998",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:nZcligLrVowC"
     },
     {
         "title": "The influence of γ-fibre texture on the grain boundary character distribution of an IF-steel",
         "pub_year": "2023",
-        "citation": "Scripta Materialia 222, 115042, 2023"
+        "citation": "Scripta Materialia 222, 115042, 2023",
+        "num_citations": 6,
+        "author_pub_id": "eLe4eJEAAAAJ:PQEM9vzQD9gC"
     },
     {
         "title": "The inter-connections of∑ 3 boundaries in pure iron",
         "pub_year": "2017",
-        "citation": "Scripta Materialia 128, 18-22, 2017"
+        "citation": "Scripta Materialia 128, 18-22, 2017",
+        "num_citations": 16,
+        "author_pub_id": "eLe4eJEAAAAJ:1lhNe0rCu4AC"
     },
     {
         "title": "The morphological evolution of the MoO3 (010) surface during reactions in methanol–air mixtures",
         "pub_year": "1998",
-        "citation": "Journal of Catalysis 180 (2), 270-278, 1998"
+        "citation": "Journal of Catalysis 180 (2), 270-278, 1998",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "The most frequent interfaces in olivine aggregates: the GBCD and its importance for grain boundary related processes",
         "pub_year": "2015",
-        "citation": "Contributions to Mineralogy and Petrology 170, 1-17, 2015"
+        "citation": "Contributions to Mineralogy and Petrology 170, 1-17, 2015",
+        "num_citations": 34,
+        "author_pub_id": "eLe4eJEAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "The observation of oxygen disorder on the V2O5 (001) surface using scanning tunneling microscopy",
         "pub_year": "1995",
-        "citation": "Surface science 322 (1-3), 293-300, 1995"
+        "citation": "Surface science 322 (1-3), 293-300, 1995",
+        "num_citations": 63,
+        "author_pub_id": "eLe4eJEAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "The orientation dependence of the photochemical reactivity of BiVO 4",
         "pub_year": "2015",
-        "citation": "Journal of Materials Chemistry A 3 (5), 2370-2377, 2015"
+        "citation": "Journal of Materials Chemistry A 3 (5), 2370-2377, 2015",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "The orientation dependence of the photochemical reactivity of BiVO₄",
         "pub_year": "2015",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:z6xuaG2dYH0C"
     },
     {
         "title": "The orientation distributions of lines, surfaces, and interfaces around three‐phase boundaries in solid oxide fuel cell cathodes",
         "pub_year": "2011",
-        "citation": "Journal of the American Ceramic Society 94 (11), 4045-4051, 2011"
+        "citation": "Journal of the American Ceramic Society 94 (11), 4045-4051, 2011",
+        "num_citations": 28,
+        "author_pub_id": "eLe4eJEAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "The origin of photochemical anisotropy in SrTiO3",
         "pub_year": "2007",
-        "citation": "Topics in Catalysis 44, 529-533, 2007"
+        "citation": "Topics in Catalysis 44, 529-533, 2007",
+        "num_citations": 90,
+        "author_pub_id": "eLe4eJEAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "The preparation of tip and sample surfaces for scanning probe experiments",
         "pub_year": "1993",
-        "citation": "Scanning Probe Microscopy and Spectroscopy. Theory, Techniques and Applications, 1993"
+        "citation": "Scanning Probe Microscopy and Spectroscopy. Theory, Techniques and Applications, 1993",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:s85pQhAUCrAC"
     },
     {
         "title": "The reactivity of selected divalent β ″-aluminas with water",
         "pub_year": "1988",
-        "citation": "Materials Research Bulletin 23 (12), 1747-1755, 1988"
+        "citation": "Materials Research Bulletin 23 (12), 1747-1755, 1988",
+        "num_citations": 10,
+        "author_pub_id": "eLe4eJEAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "The relationship between grain boundary energy, grain boundary complexion transitions, and grain size in Ca-doped Yttria",
         "pub_year": "2013",
-        "citation": "Materials Science Forum 753, 87-92, 2013"
+        "citation": "Materials Science Forum 753, 87-92, 2013",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "The relationship between micropipes and screw dislocations in pvt grown 6H-SiC",
         "pub_year": "1996",
-        "citation": "MRS Online Proceedings Library (OPL) 423, 539, 1996"
+        "citation": "MRS Online Proceedings Library (OPL) 423, 539, 1996",
+        "num_citations": 18,
+        "author_pub_id": "eLe4eJEAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "The relative energies of normally and abnormally growing grain boundaries in alumina displaying different complexions",
         "pub_year": "2010",
-        "citation": "Journal of the American Ceramic Society 93 (6), 1796-1802, 2010"
+        "citation": "Journal of the American Ceramic Society 93 (6), 1796-1802, 2010",
+        "num_citations": 89,
+        "author_pub_id": "eLe4eJEAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "The relative free energies of grain boundaries in magnesia as a function of five macroscopic parameters",
         "pub_year": "2003",
-        "citation": "Acta materialia 51 (13), 3675-3686, 2003"
+        "citation": "Acta materialia 51 (13), 3675-3686, 2003",
+        "num_citations": 195,
+        "author_pub_id": "eLe4eJEAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "The relative grain boundary area and energy distributions in a ferritic steel determined from three-dimensional electron backscatter diffraction maps",
         "pub_year": "2013",
-        "citation": "Acta materialia 61 (4), 1404-1412, 2013"
+        "citation": "Acta materialia 61 (4), 1404-1412, 2013",
+        "num_citations": 145,
+        "author_pub_id": "eLe4eJEAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "The role of ceramic and glass science research in meeting societal challenges: Report from an NSF‐sponsored workshop",
         "pub_year": "2017",
-        "citation": "Journal of the American Ceramic Society 100 (5), 1777-1803, 2017"
+        "citation": "Journal of the American Ceramic Society 100 (5), 1777-1803, 2017",
+        "num_citations": 29,
+        "author_pub_id": "eLe4eJEAAAAJ:NDuN12AVoxsC"
     },
     {
         "title": "The role of grain boundary energy in grain boundary complexion transitions",
         "pub_year": "2016",
-        "citation": "Current Opinion in Solid State and Materials Science 20 (5), 231-239, 2016"
+        "citation": "Current Opinion in Solid State and Materials Science 20 (5), 231-239, 2016",
+        "num_citations": 75,
+        "author_pub_id": "eLe4eJEAAAAJ:Ak0FvsSvgGUC"
     },
     {
         "title": "The role of parent austenite grain size on the variant selection and intervariant boundary network in a lath martensitic steel",
         "pub_year": "2024",
-        "citation": "Materials Science and Engineering: A 889, 145793, 2024"
+        "citation": "Materials Science and Engineering: A 889, 145793, 2024",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:x21FZCSn4ZoC"
     },
     {
         "title": "The role of phase transformation mechanism on the grain boundary network in a commercially pure titanium",
         "pub_year": "2020",
-        "citation": "Materials Characterization 169, 110640, 2020"
+        "citation": "Materials Characterization 169, 110640, 2020",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:RuPIJ_LgqDgC"
     },
     {
         "title": "The role of texture and twin nucleation during grain growth in fcc nickel",
         "pub_year": "2014",
-        "citation": "The 17th International Conference on Textures of Materials (ICOTOM 17), 2014"
+        "citation": "The 17th International Conference on Textures of Materials (ICOTOM 17), 2014",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:Xl6nMSl579sC"
     },
     {
         "title": "The role of thermomechanical processing routes on the grain boundary network of martensite in Ti–6Al–4V",
         "pub_year": "2021",
-        "citation": "Materials Science and Engineering: A 822, 141665, 2021"
+        "citation": "Materials Science and Engineering: A 822, 141665, 2021",
+        "num_citations": 9,
+        "author_pub_id": "eLe4eJEAAAAJ:LK8CI43ZvvMC"
     },
     {
         "title": "The role of thermomechanical routes on the distribution of grain boundary and interface plane orientations in transformed microstructures",
         "pub_year": "2017",
-        "citation": "Metallurgical and Materials Transactions A 48, 2781-2790, 2017"
+        "citation": "Metallurgical and Materials Transactions A 48, 2781-2790, 2017",
+        "num_citations": 24,
+        "author_pub_id": "eLe4eJEAAAAJ:buQ7SEKw-1sC"
     },
     {
         "title": "The structural evolution of Lely seeds during the initial stages of SiC sublimation growth",
         "pub_year": "1997",
-        "citation": "MRS Online Proceedings Library (OPL) 483, 295, 1997"
+        "citation": "MRS Online Proceedings Library (OPL) 483, 295, 1997",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "The structural evolution of seed surfaces during the initial stages of physical vapor transport SiC growth",
         "pub_year": "1998",
-        "citation": "Materials Science Forum 264, 1998"
+        "citation": "Materials Science Forum 264, 1998",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "The temperature dependence of the relative grain‐boundary energy of yttria‐doped alumina",
         "pub_year": "2017",
-        "citation": "Journal of the American Ceramic Society 100 (2), 783-791, 2017"
+        "citation": "Journal of the American Ceramic Society 100 (2), 783-791, 2017",
+        "num_citations": 32,
+        "author_pub_id": "eLe4eJEAAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "Thermal decomposition cavities in physical vapor transport grown SiC",
         "pub_year": "2000",
-        "citation": "Materials Science Forum 338, 2000"
+        "citation": "Materials Science Forum 338, 2000",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Thermo-mechanical factors influencing annealing twin development in nickel during recrystallization",
         "pub_year": "2015",
-        "citation": "Journal of Materials Science 50, 5191-5203, 2015"
+        "citation": "Journal of Materials Science 50, 5191-5203, 2015",
+        "num_citations": 60,
+        "author_pub_id": "eLe4eJEAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "These volumes contain written versions of papers which were presented at the International Conference on Silicon Carbide and Related Materials 1999 (ICSCRM’99), held October 10 …",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Three dimensional analysis of grain curvature and crystallography",
         "pub_year": "2010",
-        "citation": "Minerals, Metals and Materials Society/AIME, 420 Commonwealth Dr., P. O. Box …, 2010"
+        "citation": "Minerals, Metals and Materials Society/AIME, 420 Commonwealth Dr., P. O. Box …, 2010",
+        "num_citations": 2,
+        "author_pub_id": "eLe4eJEAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Three-dimensional FIB-OIM of ceramic materials",
         "pub_year": "2008",
-        "citation": "Applications of Texture Analysis, 117-124, 2008"
+        "citation": "Applications of Texture Analysis, 117-124, 2008",
+        "num_citations": 11,
+        "author_pub_id": "eLe4eJEAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Three-dimensional characteristics of the grain boundary networks",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:oi2SiIJ9l4AC"
     },
     {
         "title": "Three-dimensional characteristics of the grain boundary networks of conventional and grain boundary engineered 316L stainless steel",
         "pub_year": "2017",
-        "citation": "Materials Characterization 133, 60-69, 2017"
+        "citation": "Materials Characterization 133, 60-69, 2017",
+        "num_citations": 11,
+        "author_pub_id": "eLe4eJEAAAAJ:F2UWTTQJPOcC"
     },
     {
         "title": "Three-dimensional characterization of microstructure by electron back-scatter diffraction",
         "pub_year": "2007",
-        "citation": "Annu. Rev. Mater. Res. 37, 627-658, 2007"
+        "citation": "Annu. Rev. Mater. Res. 37, 627-658, 2007",
+        "num_citations": 181,
+        "author_pub_id": "eLe4eJEAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Three-dimensional digital approximations of grain boundary networks in polycrystals",
         "pub_year": "2014",
-        "citation": "Modelling and Simulation in Materials Science and Engineering 22 (2), 025017, 2014"
+        "citation": "Modelling and Simulation in Materials Science and Engineering 22 (2), 025017, 2014",
+        "num_citations": 15,
+        "author_pub_id": "eLe4eJEAAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "Three-dimensional geometrical and topological characteristics of grains in conventional and grain boundary engineered 316L stainless steel",
         "pub_year": "2018",
-        "citation": "Micron 109, 58-70, 2018"
+        "citation": "Micron 109, 58-70, 2018",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:pS0ncopqnHgC"
     },
     {
         "title": "Three-dimensional microstructure reconstruction using FIB-OIM",
         "pub_year": "2007",
-        "citation": "Materials Science Forum 558, 915-920, 2007"
+        "citation": "Materials Science Forum 558, 915-920, 2007",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Three-dimensional observations of grain volume changes during annealing of polycrystalline Ni",
         "pub_year": "2019",
-        "citation": "Acta Materialia 167, 40-50, 2019"
+        "citation": "Acta Materialia 167, 40-50, 2019",
+        "num_citations": 34,
+        "author_pub_id": "eLe4eJEAAAAJ:DyXnQzXoVgIC"
     },
     {
         "title": "Three-dimensional study of twin boundaries in conventional and grain boundary-engineered 316L stainless steels",
         "pub_year": "2018",
-        "citation": "Journal of Materials Research 33 (12), 1742-1754, 2018"
+        "citation": "Journal of Materials Research 33 (12), 1742-1754, 2018",
+        "num_citations": 3,
+        "author_pub_id": "eLe4eJEAAAAJ:mWEH9CqjF64C"
     },
     {
         "title": "Topological characteristics of plane sections of polycrystals",
         "pub_year": "2010",
-        "citation": "Acta Materialia 58 (10), 3805-3814, 2010"
+        "citation": "Acta Materialia 58 (10), 3805-3814, 2010",
+        "num_citations": 31,
+        "author_pub_id": "eLe4eJEAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Towards an integrated materials characterization toolbox",
         "pub_year": "2011",
-        "citation": "Journal of Materials Research 26 (11), 1341-1383, 2011"
+        "citation": "Journal of Materials Research 26 (11), 1341-1383, 2011",
+        "num_citations": 107,
+        "author_pub_id": "eLe4eJEAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Tunneling spectroscopic analysis of optically active wide band‐gap semiconductors",
         "pub_year": "1991",
-        "citation": "Journal of Vacuum Science & Technology B: Microelectronics and Nanometer …, 1991"
+        "citation": "Journal of Vacuum Science & Technology B: Microelectronics and Nanometer …, 1991",
+        "num_citations": 35,
+        "author_pub_id": "eLe4eJEAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Tutorial: Consistent Representations of and Conversions Between 3D Rotations",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:_tF6a-HnqWAC"
     },
     {
         "title": "Understanding materials microstructure and behavior at the mesoscale",
         "pub_year": "2015",
-        "citation": "MRS Bulletin 40 (11), 951-960, 2015"
+        "citation": "MRS Bulletin 40 (11), 951-960, 2015",
+        "num_citations": 23,
+        "author_pub_id": "eLe4eJEAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Universal function for grain boundary energies in bcc metals",
         "pub_year": "2024",
-        "citation": "Scripta Materialia 240, 115821, 2024"
+        "citation": "Scripta Materialia 240, 115821, 2024",
+        "num_citations": 4,
+        "author_pub_id": "eLe4eJEAAAAJ:7Frjd3zlGBUC"
     },
     {
         "title": "Using Three-Dimensional Electron Backscatter Diffraction Data to Measure Grain Boundary Properties in Metals and Ceramics",
         "pub_year": "2018",
-        "citation": "Microscopy and Microanalysis 24 (S1), 810-811, 2018"
+        "citation": "Microscopy and Microanalysis 24 (S1), 810-811, 2018",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:rbm3iO8VlycC"
     },
     {
         "title": "Validating computed grain boundary energies in fcc metals using the grain boundary character distribution",
         "pub_year": "2011",
-        "citation": "Acta materialia 59 (13), 5250-5256, 2011"
+        "citation": "Acta materialia 59 (13), 5250-5256, 2011",
+        "num_citations": 87,
+        "author_pub_id": "eLe4eJEAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Variant selection and intervariant crystallographic planes distribution in martensite in a Ti–6Al–4V alloy",
         "pub_year": "2014",
-        "citation": "Acta materialia 80, 478-489, 2014"
+        "citation": "Acta materialia 80, 478-489, 2014",
+        "num_citations": 236,
+        "author_pub_id": "eLe4eJEAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Variation of Σ3 and Coherent Σ3 Boundary Fraction with Thickness in Nanometric Cu Films",
         "pub_year": "2013",
-        "citation": "Microscopy and Microanalysis 19 (S2), 1774-1775, 2013"
+        "citation": "Microscopy and Microanalysis 19 (S2), 1774-1775, 2013",
+        "num_citations": 1,
+        "author_pub_id": "eLe4eJEAAAAJ:ML0RJ9NH7IQC"
     },
     {
         "title": "Visible light photochemical activity of heterostructured PbTiO 3–TiO 2 core–shell particles",
         "pub_year": "2012",
-        "citation": "Catalysis Science & Technology 2 (9), 1945-1952, 2012"
+        "citation": "Catalysis Science & Technology 2 (9), 1945-1952, 2012",
+        "num_citations": 107,
+        "author_pub_id": "eLe4eJEAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Visible-Light Photochemical Activity of Heterostructured Core–Shell Materials Composed of Selected Ternary Titanates and Ferrites Coated by TiO2",
         "pub_year": "2013",
-        "citation": "ACS Applied Materials & Interfaces 5 (11), 5064-5071, 2013"
+        "citation": "ACS Applied Materials & Interfaces 5 (11), 5064-5071, 2013",
+        "num_citations": 54,
+        "author_pub_id": "eLe4eJEAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Why recrystallization generates more annealing twins in nickel than grain growth?",
         "pub_year": "2016",
-        "citation": "6th International Conference on Recrystallization and Grain Growth …, 2016"
+        "citation": "6th International Conference on Recrystallization and Grain Growth …, 2016",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:OBSaB-F7qqsC"
     },
     {
         "title": "XI Grain Growth Modelling and Simulation-Mesoscale Simulation of the Evolution of the Grain Boundary Character Distribution",
         "pub_year": "2004",
-        "citation": "Materials Science Forum 467, 1063-1068, 2004"
+        "citation": "Materials Science Forum 467, 1063-1068, 2004",
+        "num_citations": 8,
+        "author_pub_id": "eLe4eJEAAAAJ:g5Ck-dwhA_QC"
     },
     {
         "title": "“Introduction to Grains, Phases, and Interfaces—an Interpretation of Microstructure,” Trans. AIME, 1948, vol. 175, pp. 15–51, by C.S. Smith",
         "pub_year": "2010",
-        "citation": "Metallurgical and Materials Transactions B 41, 457-494, 2010"
+        "citation": "Metallurgical and Materials Transactions B 41, 457-494, 2010",
+        "num_citations": 67,
+        "author_pub_id": "eLe4eJEAAAAJ:Wq2b2clWBLsC"
     },
     {
         "title": "林 INTERFACE SCIENCE 7,321-338 (1999)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "eLe4eJEAAAAJ:1Ye0OR6EYb4C"
     }
 ]

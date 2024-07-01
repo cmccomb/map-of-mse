@@ -2,174 +2,244 @@
     {
         "title": "A minimal information set to enable verifiable theoretical battery research",
         "pub_year": "2021",
-        "citation": "ACS Energy Letters 6 (11), 3831-3835, 2021"
+        "citation": "ACS Energy Letters 6 (11), 3831-3835, 2021",
+        "num_citations": 30,
+        "author_pub_id": "CSHe53oAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "A-Site Cation in Inorganic A3Sb2I9 Perovskite Influences Structural Dimensionality, Exciton Binding Energy, and Solar Cell Performance",
         "pub_year": "2018",
-        "citation": "Chemistry of Materials 30 (11), 3734-3742, 2018"
+        "citation": "Chemistry of Materials 30 (11), 3734-3742, 2018",
+        "num_citations": 145,
+        "author_pub_id": "CSHe53oAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "AutoMat: Accelerated Computational Electrochemical systems Discovery",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2011.04426, 2020"
+        "citation": "arXiv preprint arXiv:2011.04426, 2020",
+        "num_citations": 2,
+        "author_pub_id": "CSHe53oAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "AutoMat: Automated materials discovery for electrochemical systems",
         "pub_year": "2022",
-        "citation": "MRS Bulletin 47 (10), 1036-1044, 2022"
+        "citation": "MRS Bulletin 47 (10), 1036-1044, 2022",
+        "num_citations": 7,
+        "author_pub_id": "CSHe53oAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Bayesim: A tool for adaptive grid model fitting with Bayesian inference",
         "pub_year": "2019",
-        "citation": "Computer Physics Communications 239, 161-165, 2019"
+        "citation": "Computer Physics Communications 239, 161-165, 2019",
+        "num_citations": 13,
+        "author_pub_id": "CSHe53oAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Charge-carrier lifetime measurements in early-stage photovoltaic materials: intuition, uncertainties, and opportunities",
         "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1805.05832, 2018"
+        "citation": "arXiv preprint arXiv:1805.05832, 2018",
+        "num_citations": 9,
+        "author_pub_id": "CSHe53oAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Chemellia: An Ecosystem for Atomistic Scientific Machine Learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.12010, 2023"
+        "citation": "arXiv preprint arXiv:2305.12010, 2023",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Computational frameworks to enable accelerated development of defect-tolerant photovoltaic materials",
         "pub_year": "2019",
-        "citation": "Massachusetts Institute of Technology, 2019"
+        "citation": "Massachusetts Institute of Technology, 2019",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Crystalline Silicon PV Optimization of Al Fire-Through Contacts for AlOX–SiNX Rear Passivated Bifacial p-PERC........... D. Ourinson, T. Fellmeth, S. Tepner, T. Javaid, M …",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Design of Defect-Tolerant Materials for Photovoltaic Applications",
         "pub_year": "2022",
-        "citation": "APS March Meeting Abstracts 2022, M67. 006, 2022"
+        "citation": "APS March Meeting Abstracts 2022, M67. 006, 2022",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Economically sustainable scaling of photovoltaics to meet climate targets",
         "pub_year": "2016",
-        "citation": "Energy & Environmental Science 9 (6), 2122-2129, 2016"
+        "citation": "Energy & Environmental Science 9 (6), 2122-2129, 2016",
+        "num_citations": 126,
+        "author_pub_id": "CSHe53oAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Enhanced Electrochemical Activity Volcanoes in Flat-Band Twisted Trilayer Graphene",
         "pub_year": "2023",
-        "citation": "Electrochemical Society Meeting Abstracts 244, 2913-2913, 2023"
+        "citation": "Electrochemical Society Meeting Abstracts 244, 2913-2913, 2023",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Generalization of graph-based active learning relaxation strategies across materials",
         "pub_year": "2024",
-        "citation": "Machine Learning: Science and Technology 5 (2), 025018, 2024"
+        "citation": "Machine Learning: Science and Technology 5 (2), 025018, 2024",
+        "num_citations": 1,
+        "author_pub_id": "CSHe53oAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "High tolerance to iron contamination in lead halide perovskite solar cells",
         "pub_year": "2017",
-        "citation": "ACS nano 11 (7), 7101-7109, 2017"
+        "citation": "ACS nano 11 (7), 7101-7109, 2017",
+        "num_citations": 101,
+        "author_pub_id": "CSHe53oAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "How much physics is in a current–voltage curve? Inferring defect properties from photovoltaic device measurements",
         "pub_year": "2020",
-        "citation": "IEEE Journal of Photovoltaics 10 (6), 1532-1537, 2020"
+        "citation": "IEEE Journal of Photovoltaics 10 (6), 1532-1537, 2020",
+        "num_citations": 6,
+        "author_pub_id": "CSHe53oAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Investigation of Bismuth Triiodide (BiI3) for Photovoltaic Applications",
         "pub_year": "2015",
-        "citation": "The journal of physical chemistry letters 6 (21), 4297-4302, 2015"
+        "citation": "The journal of physical chemistry letters 6 (21), 4297-4302, 2015",
+        "num_citations": 234,
+        "author_pub_id": "CSHe53oAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Marcus–Hush–Chidsey kinetics at electrode–electrolyte interfaces",
         "pub_year": "2020",
-        "citation": "The Journal of Chemical Physics 153 (13), 2020"
+        "citation": "The Journal of Chemical Physics 153 (13), 2020",
+        "num_citations": 31,
+        "author_pub_id": "CSHe53oAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Methylammonium bismuth iodide as a lead‐free, stable hybrid organic–inorganic solar absorber",
         "pub_year": "2016",
-        "citation": "Chemistry–A European Journal 22 (8), 2605-2610, 2016"
+        "citation": "Chemistry–A European Journal 22 (8), 2605-2610, 2016",
+        "num_citations": 352,
+        "author_pub_id": "CSHe53oAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Non-equilibrium Electrochemical Phase Diagrams with Automatic Differentiation",
         "pub_year": "2022",
-        "citation": "APS March Meeting Abstracts 2022, Y49. 009, 2022"
+        "citation": "APS March Meeting Abstracts 2022, Y49. 009, 2022",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Nonequilibrium Electrochemical Phase Maps: Beyond Butler–Volmer Kinetics",
         "pub_year": "2023",
-        "citation": "The Journal of Physical Chemistry Letters 14 (35), 7802-7807, 2023"
+        "citation": "The Journal of Physical Chemistry Letters 14 (35), 7802-7807, 2023",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Optoelectric devices fabricated with defect tolerant semiconductors",
         "pub_year": "2016",
-        "citation": "US Patent App. 15/089,443, 2016"
+        "citation": "US Patent App. 15/089,443, 2016",
+        "num_citations": 4,
+        "author_pub_id": "CSHe53oAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Perovskite-inspired photovoltaic materials: toward best practices in materials characterization and calculations",
         "pub_year": "2017",
-        "citation": "Chemistry of Materials 29 (5), 1964-1988, 2017"
+        "citation": "Chemistry of Materials 29 (5), 1964-1988, 2017",
+        "num_citations": 146,
+        "author_pub_id": "CSHe53oAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Quantitative Metrics for Defect Tolerance in Semiconductors",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Rapid photovoltaic device characterization through Bayesian parameter estimation",
         "pub_year": "2017",
-        "citation": "Joule 1 (4), 843-856, 2017"
+        "citation": "Joule 1 (4), 843-856, 2017",
+        "num_citations": 67,
+        "author_pub_id": "CSHe53oAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Research data supporting\" Strongly Enhanced Photovoltaic Performance and Defect Physics of Air-Stable Bismuth Oxyiodide (BiOI)\"",
         "pub_year": "2017",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Score-based generative models for molecule generation",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2203.04698, 2022"
+        "citation": "arXiv preprint arXiv:2203.04698, 2022",
+        "num_citations": 15,
+        "author_pub_id": "CSHe53oAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Searching for “defect-tolerant” photovoltaic materials: combined theoretical and experimental screening",
         "pub_year": "2017",
-        "citation": "Chemistry of Materials 29 (11), 4667-4674, 2017"
+        "citation": "Chemistry of Materials 29 (11), 4667-4674, 2017",
+        "num_citations": 349,
+        "author_pub_id": "CSHe53oAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Segmentation and tracking of marine cellular clouds observed by geostationary satellites",
         "pub_year": "2016",
-        "citation": "International Journal of Remote Sensing 37 (5), 1055-1068, 2016"
+        "citation": "International Journal of Remote Sensing 37 (5), 1055-1068, 2016",
+        "num_citations": 7,
+        "author_pub_id": "CSHe53oAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Semiconductor parameter extraction via current-voltage characterization and Bayesian inference methods",
         "pub_year": "2018",
-        "citation": "2018 IEEE 7th World Conference on Photovoltaic Energy Conversion (WCPEC)(A …, 2018"
+        "citation": "2018 IEEE 7th World Conference on Photovoltaic Energy Conversion (WCPEC)(A …, 2018",
+        "num_citations": 2,
+        "author_pub_id": "CSHe53oAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Solvent-engineering method to deposit compact bismuth-based thin films: mechanism and application to photovoltaics",
         "pub_year": "2018",
-        "citation": "Chemistry of Materials 30 (2), 336-343, 2018"
+        "citation": "Chemistry of Materials 30 (2), 336-343, 2018",
+        "num_citations": 109,
+        "author_pub_id": "CSHe53oAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Strongly enhanced photovoltaic performance and defect physics of air‐stable bismuth oxyiodide (BiOI)",
         "pub_year": "2017",
-        "citation": "Advanced Materials 29 (36), 1702176, 2017"
+        "citation": "Advanced Materials 29 (36), 1702176, 2017",
+        "num_citations": 172,
+        "author_pub_id": "CSHe53oAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Structural and chemical features giving rise to defect tolerance of binary semiconductors",
         "pub_year": "2018",
-        "citation": "Chemistry of Materials 30 (16), 5583-5592, 2018"
+        "citation": "Chemistry of Materials 30 (16), 5583-5592, 2018",
+        "num_citations": 41,
+        "author_pub_id": "CSHe53oAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Temperature-and intensity-dependent photovoltaic measurements to identify dominant recombination pathways",
         "pub_year": "2016",
-        "citation": "2016 IEEE 43rd Photovoltaic Specialists Conference (PVSC), 1997-2001, 2016"
+        "citation": "2016 IEEE 43rd Photovoltaic Specialists Conference (PVSC), 1997-2001, 2016",
+        "num_citations": 2,
+        "author_pub_id": "CSHe53oAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Twisto-electrochemical activity volcanoes in Trilayer Graphene",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.00028, 2023"
+        "citation": "arXiv preprint arXiv:2306.00028, 2023",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Using Bayesian parameter estimation to learn more from data without black boxes",
         "pub_year": "2024",
-        "citation": "Nature Reviews Physics, 1-3, 2024"
+        "citation": "Nature Reviews Physics, 1-3, 2024",
+        "num_citations": 1,
+        "author_pub_id": "CSHe53oAAAAJ:7PzlFSSx8tAC"
     }
 ]

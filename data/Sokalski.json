@@ -1,12 +1,5 @@
 [
     {
-        "title": "2014 IEEE International Electron Devices Meeting",
-        "pub_year": "2014",
-        "citation": "IEEE, 2014",
-        "num_citations": 5,
-        "author_pub_id": "NmnYW7cAAAAJ:7PzlFSSx8tAC"
-    },
-    {
         "title": "Annealing effect and under/capping layer study on Co/Ni multilayer thin films for domain wall motion",
         "pub_year": "2013",
         "citation": "Journal of Applied Physics 113 (17), 2013",
@@ -52,14 +45,14 @@
         "title": "Direct observation of topological charge impacting skyrmion bubble stability in Pt/Ni/Co asymmetric superlattices",
         "pub_year": "2021",
         "citation": "APL Materials 9 (8), 2021",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "NmnYW7cAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Disentangling factors governing Dzyaloshinskii domain-wall creep in Co/Ni thin films using  seed layers",
         "pub_year": "2018",
         "citation": "Physical Review B 98 (18), 184410, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "NmnYW7cAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -73,7 +66,7 @@
         "title": "Dispersive stiffness of Dzyaloshinskii domain walls",
         "pub_year": "2017",
         "citation": "Physical review letters 119 (2), 027203, 2017",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "NmnYW7cAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -87,7 +80,7 @@
         "title": "Energetic molding of chiral magnetic bubbles",
         "pub_year": "2016",
         "citation": "Physical review B 94 (6), 060401, 2016",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "NmnYW7cAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -101,7 +94,7 @@
         "title": "Enhancement of thermal conductance at metal-dielectric interfaces using subnanometer metal adhesion layers",
         "pub_year": "2016",
         "citation": "Physical Review Applied 5 (1), 014009, 2016",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "NmnYW7cAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -115,7 +108,7 @@
         "title": "Experimental demonstration of four-terminal magnetic logic device with separate read-and write-paths",
         "pub_year": "2014",
         "citation": "2014 IEEE International Electron Devices Meeting, 33.1. 1-33.1. 4, 2014",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "NmnYW7cAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -247,14 +240,14 @@
         "title": "Magnetic domain wall skyrmions",
         "pub_year": "2019",
         "citation": "Physical Review B 99 (18), 184412, 2019",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "NmnYW7cAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Magnetic domain wall substructures in Pt/Co/Ni/Ir multi-layers",
         "pub_year": "2021",
         "citation": "Journal of Applied Physics 130 (15), 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "NmnYW7cAAAAJ:k_IJM867U9cC"
     },
     {
@@ -305,6 +298,13 @@
         "citation": "Applied Physics Letters 101 (7), 2012",
         "num_citations": 74,
         "author_pub_id": "NmnYW7cAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Proceedings of the 2014 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA",
+        "pub_year": "2014",
+        "citation": "IEEE, 2014",
+        "num_citations": 8,
+        "author_pub_id": "NmnYW7cAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Simulation of a proposed near-field-to-far-field antenna measurement system",

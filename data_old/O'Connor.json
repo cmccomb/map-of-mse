@@ -2,7 +2,7 @@
     {
         "title": "A Reactive Bead–Spring Model for Associative Polymer Melts In and Out of Equilibrium",
         "pub_year": "2024",
-        "citation": "Macromolecules, 2024",
+        "citation": "Macromolecules 57 (4), 1403-1413, 2024",
         "num_citations": 0,
         "author_pub_id": "asQ8ccIAAAAJ:lSLTfruPkqcC"
     },
@@ -24,7 +24,7 @@
         "title": "AIREBO-M: A reactive model for hydrocarbons at extreme pressures",
         "pub_year": "2015",
         "citation": "The Journal of chemical physics 142 (2), 2015",
-        "num_citations": 280,
+        "num_citations": 284,
         "author_pub_id": "asQ8ccIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Extensional Rheology of Neat and Contaminated Ring Polymer Melts",
         "pub_year": "2019",
         "citation": "APS March Meeting Abstracts 2019, K55. 011, 2019",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "asQ8ccIAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -255,14 +255,14 @@
         "title": "Molecular models for creep in oriented polyethylene fibers",
         "pub_year": "2020",
         "citation": "The Journal of Chemical Physics 153 (14), 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "asQ8ccIAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Molecular origins of anisotropic shock propagation in crystalline and amorphous polyethylene",
         "pub_year": "2018",
         "citation": "Physical Review Materials 2 (3), 035601, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "asQ8ccIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -273,7 +273,7 @@
         "author_pub_id": "asQ8ccIAAAAJ:NaGl4SEjCO4C"
     },
     {
-        "title": "Nonlinear elongation flows in associating polymer melts: From homogeneous to heterogeneous flow",
+        "title": "Nonlinear elongation flows in associating polymer melts: from homogeneous to heterogeneous flow",
         "pub_year": "2022",
         "citation": "Physical Review X 12 (2), 021024, 2022",
         "num_citations": 12,
@@ -311,7 +311,7 @@
         "title": "Relating chain conformations to extensional stress in entangled polymer melts",
         "pub_year": "2018",
         "citation": "Physical review letters 121 (4), 047801, 2018",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "asQ8ccIAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -346,7 +346,7 @@
         "title": "Shock-wave propagation and reflection in semicrystalline polyethylene: A molecular-level investigation",
         "pub_year": "2017",
         "citation": "Physical Review Materials 1 (4), 043606, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "asQ8ccIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -366,7 +366,7 @@
     {
         "title": "Smoother Surfaces Enhance Diffusion of Nanorods in Entangled Polymer Melts",
         "pub_year": "2024",
-        "citation": "Macromolecules, 2024",
+        "citation": "Macromolecules 57 (5), 2482-2489, 2024",
         "num_citations": 1,
         "author_pub_id": "asQ8ccIAAAAJ:35N4QoGY0k4C"
     },
@@ -388,7 +388,7 @@
         "title": "Stress relaxation in highly oriented melts of entangled polymers",
         "pub_year": "2019",
         "citation": "Macromolecules 52 (22), 8540-8550, 2019",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "asQ8ccIAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -402,7 +402,7 @@
         "title": "Superstretchable elastomer from cross-linked ring polymers",
         "pub_year": "2022",
         "citation": "Physical Review Letters 128 (23), 237801, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "asQ8ccIAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -444,7 +444,7 @@
         "title": "Topological linking drives anomalous thickening of ring polymers in weak extensional flows",
         "pub_year": "2020",
         "citation": "Physical review letters 124 (2), 027801, 2020",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "asQ8ccIAAAAJ:4DMP91E08xMC"
     },
     {
@@ -455,10 +455,10 @@
         "author_pub_id": "asQ8ccIAAAAJ:QIV2ME_5wuYC"
     },
     {
-        "title": "Unexpected Slow Relaxation Dynamics in Pure Ring Polymers Arise from Intermolecular Interactions",
+        "title": "Unexpected slow relaxation dynamics in pure ring polymers arise from intermolecular interactions",
         "pub_year": "2023",
         "citation": "ACS Polymers Au 3 (4), 307-317, 2023",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "asQ8ccIAAAAJ:YFjsv_pBGBYC"
     },
     {

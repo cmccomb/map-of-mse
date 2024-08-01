@@ -10,7 +10,7 @@
         "title": "A review of steel processing considerations for oxide cleanliness",
         "pub_year": "2020",
         "citation": "Metallurgical and Materials Transactions B 51, 2437-2452, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "MFLMm8YAAAAJ:hMod-77fHWUC"
     },
     {
@@ -24,7 +24,7 @@
         "title": "A study of microstructure and cracking behavior of H13 tool steel produced by laser powder bed fusion using single-tracks, multi-track pads, and 3D cubes",
         "pub_year": "2020",
         "citation": "Journal of Materials Processing Technology 286, 116802, 2020",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "MFLMm8YAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -55,25 +55,25 @@
         "author_pub_id": "MFLMm8YAAAAJ:Y0pCki6q_DkC"
     },
     {
-        "title": "Automated Classification and Analysis of Non-metallic Inclusion Data Sets",
+        "title": "Automated Quadrat Analysis Technique for Particle Dispersion Quantification in Oxide Dispersion Strengthened Alloys",
+        "pub_year": "2018",
+        "citation": "Microscopy and Microanalysis 24 (S1), 592-593, 2018",
+        "num_citations": 0,
+        "author_pub_id": "MFLMm8YAAAAJ:mB3voiENLucC"
+    },
+    {
+        "title": "Automated classification and analysis of non-metallic inclusion data sets",
         "pub_year": "2018",
         "citation": "Metallurgical and Materials Transactions B 49, 1568-1579, 2018",
         "num_citations": 11,
         "author_pub_id": "MFLMm8YAAAAJ:hC7cP41nSMkC"
     },
     {
-        "title": "Automated Detection of Non-metallic Inclusion Clusters in Aluminum-deoxidized Steel",
+        "title": "Automated detection of non-metallic inclusion clusters in aluminum-deoxidized steel",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions B 52, 3970-3985, 2021",
         "num_citations": 5,
         "author_pub_id": "MFLMm8YAAAAJ:NaGl4SEjCO4C"
-    },
-    {
-        "title": "Automated Quadrat Analysis Technique for Particle Dispersion Quantification in Oxide Dispersion Strengthened Alloys",
-        "pub_year": "2018",
-        "citation": "Microscopy and Microanalysis 24 (S1), 592-593, 2018",
-        "num_citations": 0,
-        "author_pub_id": "MFLMm8YAAAAJ:mB3voiENLucC"
     },
     {
         "title": "CHEMICAL COMPOSITION AND COOLING RATE EFFECT ON MICROSTRUCTURE EVOLUTION IN AHSS GRADES",
@@ -86,7 +86,7 @@
         "title": "Calcium Modification of Inclusions via Slag/Metal Reactions",
         "pub_year": "2020",
         "citation": "Metallurgical and Materials Transactions B 51, 529-542, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "MFLMm8YAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -114,14 +114,14 @@
         "title": "Defects and anomalies in powder bed fusion metal additive manufacturing",
         "pub_year": "2022",
         "citation": "Current Opinion in Solid State and Materials Science 26 (2), 100974, 2022",
-        "num_citations": 243,
+        "num_citations": 251,
         "author_pub_id": "MFLMm8YAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Demonstration and Analysis of Conditions to Obtain a High Strength Inconel 625 to Stainless Steel 304L Interface by Directed Energy Deposition",
         "pub_year": "2024",
         "citation": "Metallurgical and Materials Transactions A, 1-14, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "MFLMm8YAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -211,7 +211,7 @@
         "title": "Effects of small additions of copper and copper+ nickel on the oxidation behavior of iron",
         "pub_year": "2008",
         "citation": "Metallurgical and Materials Transactions B 39, 725-737, 2008",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "MFLMm8YAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -246,7 +246,7 @@
         "title": "Evolution of non-metallic inclusions during heat treatment",
         "pub_year": "2020",
         "citation": "Metallurgical Research & Technology 117 (4), 408, 2020",
-        "num_citations": 2,
+        "num_citations": 9,
         "author_pub_id": "MFLMm8YAAAAJ:blknAaTinKkC"
     },
     {
@@ -267,15 +267,8 @@
         "title": "High temperature oxidation behaviors of steels at initial stages in air",
         "pub_year": "2024",
         "citation": "Corrosion Science 229, 111838, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "MFLMm8YAAAAJ:rO6llkc54NcC"
-    },
-    {
-        "title": "In Situ Observation of Reaction Fronts During the Initial Stages of Iron Surface Oxidation at 1150° C",
-        "pub_year": "2020",
-        "citation": "Oxidation of Metals 93 (5), 449-463, 2020",
-        "num_citations": 4,
-        "author_pub_id": "MFLMm8YAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "In SituObservation of MgO Inclusions in Liquid Iron-Aluminum Alloys",
@@ -283,6 +276,13 @@
         "citation": "Metallurgical and Materials Transactions B 47, 3375-3383, 2016",
         "num_citations": 16,
         "author_pub_id": "MFLMm8YAAAAJ:roLk4NBRz8UC"
+    },
+    {
+        "title": "In situ observation of reaction fronts during the initial stages of iron surface oxidation at 1150° C",
+        "pub_year": "2020",
+        "citation": "Oxidation of Metals 93 (5), 449-463, 2020",
+        "num_citations": 5,
+        "author_pub_id": "MFLMm8YAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "In-situ observation and formation mechanism of iron surface oxidation in the initial stages at 1150 C",
@@ -348,7 +348,7 @@
         "title": "Melt pool geometry and microstructure of Ti6Al4V with B additions processed by selective laser melting additive manufacturing",
         "pub_year": "2019",
         "citation": "Materials & design 183, 108126, 2019",
-        "num_citations": 72,
+        "num_citations": 71,
         "author_pub_id": "MFLMm8YAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -376,13 +376,13 @@
         "title": "On the extension of the Gurson-type porous plasticity models for prediction of ductile fracture under shear-dominated conditions",
         "pub_year": "2014",
         "citation": "International Journal of Solids and Structures 51 (18), 3273-3291, 2014",
-        "num_citations": 134,
+        "num_citations": 137,
         "author_pub_id": "MFLMm8YAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Oxide scales properties of equimolar AlFeCoNi during oxidation at 1000° C",
         "pub_year": "2024",
-        "citation": "Materials Characterization, 113996, 2024",
+        "citation": "Materials Characterization 212, 113996, 2024",
         "num_citations": 0,
         "author_pub_id": "MFLMm8YAAAAJ:u_35RYKgDlwC"
     },
@@ -397,7 +397,7 @@
         "title": "Precipitation behavior of titanium nitride on a primary inclusion particle during solidification of bearing steel",
         "pub_year": "2017",
         "citation": "Journal of Iron and Steel Research International 24 (7), 685-690, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "MFLMm8YAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -408,10 +408,10 @@
         "author_pub_id": "MFLMm8YAAAAJ:HoB7MX3m0LUC"
     },
     {
-        "title": "Prediction of Inclusion Types From BSE Images: RF vs. CNN",
+        "title": "Prediction of inclusion types from BSE images: RF vs. CNN",
         "pub_year": "2021",
         "citation": "Frontiers in Materials 8, 754089, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "MFLMm8YAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -439,7 +439,7 @@
         "title": "Reduction of CaO and MgO slag components by Al in liquid Fe",
         "pub_year": "2018",
         "citation": "Metallurgical and Materials Transactions B 49, 1665-1674, 2018",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "MFLMm8YAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -474,7 +474,7 @@
         "title": "The columnar-to-equiaxed transition in melt pools during laser powder bed fusion of M2 steel",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions A 52 (9), 4206-4221, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "MFLMm8YAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -495,7 +495,7 @@
         "title": "UHCSDB: ultrahigh carbon steel micrograph database: tools for exploring large heterogeneous microstructure datasets",
         "pub_year": "2017",
         "citation": "Integrating Materials and Manufacturing Innovation 6, 197-205, 2017",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "MFLMm8YAAAAJ:5nxA0vEk-isC"
     },
     {

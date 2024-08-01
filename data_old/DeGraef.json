@@ -6,24 +6,17 @@
         "author_pub_id": "ZTnog9YAAAAJ:j7_hQOaDUrUC"
     },
     {
-        "title": "1st International Conference on 3D Materials Science, 2012: Conference Proceedings",
-        "pub_year": "2016",
-        "citation": "Springer, 2016",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:w1MjKQ0l0TYC"
-    },
-    {
         "title": "1st International Conference on 3D Materials Science, 2012: July 8-12, 2012, Seven Springs Mountain Resort, Seven Springs, Pennsylvania, USA, Conference Proceedings",
         "pub_year": "2013",
         "citation": "John Wiley & Sons, 2013",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "ZTnog9YAAAAJ:4xDN1ZYqzskC"
     },
     {
         "title": "2. Lorentz microscopy: theoretical basis and image simulations",
         "pub_year": "2001",
         "citation": "Experimental methods in the physical sciences 36, 27-67, 2001",
-        "num_citations": 58,
+        "num_citations": 56,
         "author_pub_id": "ZTnog9YAAAAJ:43bX7VzcjpAC"
     },
     {
@@ -49,21 +42,21 @@
         "title": "3D reconstruction of the magnetic vector potential using model based iterative reconstruction",
         "pub_year": "2017",
         "citation": "Ultramicroscopy 182, 131-144, 2017",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "ZTnog9YAAAAJ:BzfGm06jWhQC"
     },
     {
         "title": "4D model-based iterative reconstruction from interlaced views",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Acoustics, Speech and Signal …, 2015",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "ZTnog9YAAAAJ:DUooU5lO8OsC"
     },
     {
         "title": "A Markov random field approach for microstructure synthesis",
         "pub_year": "2016",
         "citation": "Modelling and Simulation in Materials Science and Engineering 24 (3), 035015, 2016",
-        "num_citations": 50,
+        "num_citations": 46,
         "author_pub_id": "ZTnog9YAAAAJ:lYAcb2jw7qUC"
     },
     {
@@ -88,24 +81,17 @@
         "author_pub_id": "ZTnog9YAAAAJ:SGW5VrABaM0C"
     },
     {
-        "title": "A Statistical Dictionary Approach to Automated Orientation Determination from Precession Electron Diffraction Patterns",
-        "pub_year": "2015",
-        "citation": "Microscopy and Microanalysis 21 (S3), 1247-1248, 2015",
-        "num_citations": 2,
-        "author_pub_id": "ZTnog9YAAAAJ:yFnVuubrUp4C"
-    },
-    {
         "title": "A dictionary approach to EBSD indexing",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1502.07436, 2015",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ZTnog9YAAAAJ:JWITY9-sCbMC"
     },
     {
         "title": "A dictionary approach to electron backscatter diffraction indexing",
         "pub_year": "2015",
         "citation": "Microscopy and Microanalysis 21 (3), 739-752, 2015",
-        "num_citations": 160,
+        "num_citations": 157,
         "author_pub_id": "ZTnog9YAAAAJ:0izLItjtcgwC"
     },
     {
@@ -126,7 +112,7 @@
         "title": "A method for measuring microstructural-scale strains using a scanning electron microscope: Applications to γ-titanium aluminides",
         "pub_year": "2003",
         "citation": "Metallurgical and Materials Transactions A 34, 2301-2313, 2003",
-        "num_citations": 58,
+        "num_citations": 57,
         "author_pub_id": "ZTnog9YAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -140,21 +126,21 @@
         "title": "A model based iterative reconstruction algorithm for high angle annular dark field-scanning transmission electron microscope (HAADF-STEM) tomography",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Image Processing 22 (11), 4532-4544, 2013",
-        "num_citations": 84,
+        "num_citations": 83,
         "author_pub_id": "ZTnog9YAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "A modern 3-D view of an “old” pearlite colony",
         "pub_year": "2006",
         "citation": "Jom 58, 25-28, 2006",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "ZTnog9YAAAAJ:mB3voiENLucC"
     },
     {
         "title": "A new method of constructing a grid in the space of 3D rotations and its applications to texture analysis",
         "pub_year": "2014",
         "citation": "Modelling and Simulation in Materials Science and Engineering 22 (7), 075013, 2014",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "ZTnog9YAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -168,14 +154,14 @@
         "title": "A new potential model for the description of lattice stability in β-phase “alloys”",
         "pub_year": "1988",
         "citation": "Scripta metallurgica 22 (9), 1531-1535, 1988",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ZTnog9YAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "A new symmetrized solution for phase retrieval using the transport of intensity equation",
         "pub_year": "2002",
         "citation": "Micron 33 (5), 411-416, 2002",
-        "num_citations": 201,
+        "num_citations": 202,
         "author_pub_id": "ZTnog9YAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -189,14 +175,14 @@
         "title": "A phantom-based forward projection approach in support of model-based iterative reconstructions for HAADF-STEM tomography",
         "pub_year": "2016",
         "citation": "Ultramicroscopy 160, 7-17, 2016",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "ZTnog9YAAAAJ:bKqednn6t2AC"
     },
     {
         "title": "A quantitative description of the morphological aspects of materials structures suitable for quantitative comparisons of 3D microstructures",
         "pub_year": "2012",
         "citation": "Modelling and Simulation in Materials Science and Engineering 21 (1), 015003, 2012",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "ZTnog9YAAAAJ:tzM49s52ZIMC"
     },
     {
@@ -210,14 +196,21 @@
         "title": "A spherical harmonic transform approach to the indexing of electron back-scattered diffraction patterns",
         "pub_year": "2019",
         "citation": "Ultramicroscopy 207, 112841, 2019",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "ZTnog9YAAAAJ:-uzm3Y7AvW0C"
+    },
+    {
+        "title": "A statistical dictionary approach to automated orientation determination from precession electron diffraction patterns",
+        "pub_year": "2015",
+        "citation": "Microscopy and Microanalysis 21 (S3), 1247-1248, 2015",
+        "num_citations": 1,
+        "author_pub_id": "ZTnog9YAAAAJ:yFnVuubrUp4C"
     },
     {
         "title": "A unified Markov random field/marked point process image model and its application to computational materials",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Image Processing (ICIP), 6101-6105, 2014",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "ZTnog9YAAAAJ:LO7wyVUgiFcC"
     },
     {
@@ -258,7 +251,7 @@
         "title": "Absorption corrections for a four-quadrant SuperX EDS detector",
         "pub_year": "2014",
         "citation": "Microscopy and Microanalysis 20 (S3), 100-101, 2014",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "ZTnog9YAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -276,17 +269,17 @@
         "author_pub_id": "ZTnog9YAAAAJ:zA6iFVUQeVQC"
     },
     {
-        "title": "Advances in surface science",
+        "title": "Advances in Surface Science",
         "pub_year": "2001",
         "citation": "Elsevier, 2001",
-        "num_citations": 13,
+        "num_citations": 2,
         "author_pub_id": "ZTnog9YAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Advances in the automated segmentation of 3-D microstructures",
         "pub_year": "2009",
         "citation": "Microscopy and Microanalysis 15 (S2), 606-607, 2009",
-        "num_citations": 7,
+        "num_citations": 5,
         "author_pub_id": "ZTnog9YAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -307,7 +300,7 @@
         "title": "Anti-phase boundaries and magnetic domain structures in Ni2MnGa-type Heusler alloys",
         "pub_year": "2007",
         "citation": "Acta Materialia 55 (8), 2621-2636, 2007",
-        "num_citations": 89,
+        "num_citations": 92,
         "author_pub_id": "ZTnog9YAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -321,7 +314,7 @@
         "title": "Application and further development of advanced image processing algorithms for automated analysis of serial section image data",
         "pub_year": "2008",
         "citation": "Modelling and Simulation in Materials Science and Engineering 17 (2), 025002, 2008",
-        "num_citations": 75,
+        "num_citations": 73,
         "author_pub_id": "ZTnog9YAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -349,27 +342,27 @@
         "title": "Application of joint histogram and mutual information to registration and data fusion problems in serial sectioning microstructure studies",
         "pub_year": "2009",
         "citation": "Scripta Materialia 60 (6), 381-384, 2009",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "ZTnog9YAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Applications of Forward Modeling to Refinement of Grain Orientations",
         "pub_year": "2017",
         "citation": "Microscopy and Microanalysis 23 (S1), 594-595, 2017",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "ZTnog9YAAAAJ:jU7OWUQzBzMC"
     },
     {
         "title": "Applications of electron channeling contrast imaging for the rapid characterization of extended defects in III–V/Si heterostructures",
         "pub_year": "2014",
         "citation": "IEEE Journal of Photovoltaics 5 (2), 676-682, 2014",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "ZTnog9YAAAAJ:_FM0Bhl9EiAC"
     },
     {
         "title": "Applications of the Clifford torus to material textures",
         "pub_year": "2024",
-        "citation": "Applied Crystallography 57 (3), 2024",
+        "citation": "Journal of Applied Crystallography 57 (3), 2024",
         "num_citations": 0,
         "author_pub_id": "ZTnog9YAAAAJ:eAUscmXIlQ8C"
     },
@@ -398,7 +391,7 @@
         "title": "Austenite grain refinement during load-biased thermal cycling of a Ni49. 9Ti50. 1 shape memory alloy",
         "pub_year": "2015",
         "citation": "Acta Materialia 91, 318-329, 2015",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "ZTnog9YAAAAJ:umqufdRvDiIC"
     },
     {
@@ -426,7 +419,7 @@
         "title": "Automated dictionary-based indexing of electron channeling patterns",
         "pub_year": "2015",
         "citation": "Microscopy and Microanalysis 21 (S3), 2041-2042, 2015",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "ZTnog9YAAAAJ:3htObqc8RwsC"
     },
     {
@@ -437,24 +430,17 @@
         "author_pub_id": "ZTnog9YAAAAJ:eMMeJKvmdy0C"
     },
     {
-        "title": "Bayesian Methods for Image Segmentation (Preprint)",
-        "pub_year": "2011",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:_xSYboBqXhAC"
-    },
-    {
         "title": "Bayesian methods for image segmentation",
         "pub_year": "2011",
         "citation": "Jom 63 (7), 55, 2011",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "ZTnog9YAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Bayesian tomographic reconstruction for high angle annular dark field (HAADF) scanning transmission electron microscopy (STEM)",
         "pub_year": "2012",
         "citation": "2012 IEEE Statistical Signal Processing Workshop (SSP), 680-683, 2012",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "ZTnog9YAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -468,14 +454,14 @@
         "title": "Can EBSD patterns be used for determination of grain boundary inclination?",
         "pub_year": "2015",
         "citation": "Microscopy and Microanalysis 21 (S3), 2039-2040, 2015",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "ZTnog9YAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Changes in stacking sequence of β′ 1 martensite plates interacting with particles",
         "pub_year": "1990",
         "citation": "Scripta Metallurgica et Materialia 24 (6), 1163-1166, 1990",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "ZTnog9YAAAAJ:maZDTaKrznsC"
     },
     {
@@ -537,7 +523,7 @@
         "title": "Competitive Growth of Scrutinyite (α-PbO2) and Rutile Polymorphs of SnO2 on All Orientations of Columbite CoNb2O6 Substrates",
         "pub_year": "2017",
         "citation": "Crystal Growth & Design 17 (7), 3929-3939, 2017",
-        "num_citations": 28,
+        "num_citations": 26,
         "author_pub_id": "ZTnog9YAAAAJ:MpfHP-DdYjUC"
     },
     {
@@ -558,7 +544,7 @@
         "title": "Consistent representations of and conversions between 3D rotations",
         "pub_year": "2015",
         "citation": "Modelling and Simulation in Materials Science and Engineering 23 (8), 083501, 2015",
-        "num_citations": 85,
+        "num_citations": 84,
         "author_pub_id": "ZTnog9YAAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -668,21 +654,21 @@
         "title": "Demagnetization factors for cylindrical shells and related shapes",
         "pub_year": "2009",
         "citation": "Journal of Magnetism and Magnetic Materials 321 (9), 1306-1315, 2009",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "ZTnog9YAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Demagnetization factors for elliptic cylinders",
         "pub_year": "2005",
         "citation": "Journal of Physics D: Applied Physics 38 (18), 3333, 2005",
-        "num_citations": 174,
+        "num_citations": 175,
         "author_pub_id": "ZTnog9YAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Demagnetization factors of the general ellipsoid: An alternative to the Maxwell approach",
         "pub_year": "2006",
         "citation": "Philosophical Magazine 86 (16), 2451-2466, 2006",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "ZTnog9YAAAAJ:TQgYirikUcIC"
     },
     {
@@ -710,7 +696,7 @@
         "title": "Determination of sample surface topography using electron back-scatter diffraction patterns",
         "pub_year": "2016",
         "citation": "Scripta Materialia 120, 23-26, 2016",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "ZTnog9YAAAAJ:nVrZBo8bIpAC"
     },
     {
@@ -738,14 +724,14 @@
         "title": "Development of bayesian segmentation techniques for automated segmentation of titanium alloy images",
         "pub_year": "2008",
         "citation": "Microscopy and Microanalysis 14 (S2), 602-603, 2008",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ZTnog9YAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Dictionary indexing of electron back-scatter diffraction patterns: a hands-on tutorial",
         "pub_year": "2019",
         "citation": "Integrating Materials and Manufacturing Innovation 8, 226-246, 2019",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "ZTnog9YAAAAJ:z6xuaG2dYH0C"
     },
     {
@@ -773,14 +759,14 @@
         "title": "Direct observation of topological charge impacting skyrmion bubble stability in Pt/Ni/Co asymmetric superlattices",
         "pub_year": "2021",
         "citation": "APL Materials 9 (8), 2021",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "ZTnog9YAAAAJ:I8rxH6phXEkC"
     },
     {
         "title": "Discrimination of dynamically and post‐dynamically recrystallized grains based on EBSD data: application to Inconel 718",
         "pub_year": "2019",
         "citation": "Journal of Microscopy 273 (2), 135-147, 2019",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "ZTnog9YAAAAJ:8Xgff_V0N9gC"
     },
     {
@@ -848,8 +834,8 @@
     {
         "title": "Dynamical electron backscatter diffraction patterns. Part I: Pattern simulations",
         "pub_year": "2013",
-        "citation": "Microscopy and Microanalysis 19 (5), 1255-1265, 2013",
-        "num_citations": 154,
+        "citation": "Microscopy and microanalysis 19 (5), 1255-1265, 2013",
+        "num_citations": 153,
         "author_pub_id": "ZTnog9YAAAAJ:Z5m8FVwuT1cC"
     },
     {
@@ -905,21 +891,21 @@
         "title": "EMsoft-org/EMsoft: EMsoft Release 5.0. 0",
         "pub_year": "2019",
         "citation": "Version v5. 0.0. Oct, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "ZTnog9YAAAAJ:IHkkN1K1AlAC"
     },
     {
         "title": "EMsoft: open source software for electron diffraction/image simulations",
         "pub_year": "2017",
         "citation": "Microscopy and Microanalysis 23 (S1), 212-213, 2017",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "ZTnog9YAAAAJ:CB2v5VPnA5kC"
     },
     {
         "title": "Effect of annealing on magnetic exchange coupling in CoPt/Co bilayer thin films",
         "pub_year": "2000",
         "citation": "Journal of Applied Physics 87 (9), 6140-6142, 2000",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "ZTnog9YAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -939,7 +925,7 @@
     {
         "title": "Electron Microsc",
         "citation": "Proc. Int. Congr. Electron Microsc 2, 313, 0",
-        "num_citations": 5,
+        "num_citations": 2,
         "author_pub_id": "ZTnog9YAAAAJ:Nufq_to8ts0C"
     },
     {
@@ -953,7 +939,7 @@
         "title": "Electron channeling contrast imaging of anti-phase boundaries in coherently strained La0. 7Sr0. 3MnO3 thin films on (110)-oriented SrTiO3",
         "pub_year": "2015",
         "citation": "Applied Physics Letters 107 (4), 2015",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "ZTnog9YAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -974,7 +960,7 @@
         "title": "Electron-optical phase shift of magnetic nanoparticles II. Polyhedral particles",
         "pub_year": "2003",
         "citation": "Philosophical Magazine 83 (9), 1143-1161, 2003",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "ZTnog9YAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -988,7 +974,7 @@
         "title": "Energy filtered Lorentz microscopy",
         "pub_year": "1997",
         "citation": "Ultramicroscopy 67 (1-4), 113-131, 1997",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "ZTnog9YAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1006,13 +992,6 @@
         "author_pub_id": "ZTnog9YAAAAJ:QyXJ3EUuO1IC"
     },
     {
-        "title": "Energy-weighted dynamical scattering simulations of electron diffraction modalities in the scanning electron microscope (vol 187, pg 98, 2018)",
-        "pub_year": "2018",
-        "citation": "ULTRAMICROSCOPY 188, 101-101, 2018",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:u_mOZUIutIEC"
-    },
-    {
         "title": "Epitaxial Phase Stability of SrMnO3–x Films on Polycrystalline Perovskite Substrates",
         "pub_year": "2021",
         "citation": "Crystal Growth & Design 21 (8), 4547-4555, 2021",
@@ -1023,7 +1002,7 @@
         "title": "Error analysis of the crystal orientations obtained by the dictionary approach to EBSD indexing",
         "pub_year": "2017",
         "citation": "Ultramicroscopy 181, 17-26, 2017",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "ZTnog9YAAAAJ:v1_lew4L6wgC"
     },
     {
@@ -1044,14 +1023,14 @@
         "title": "Extracting grain orientations from EBSD patterns of polycrystalline materials using convolutional neural networks",
         "pub_year": "2018",
         "citation": "Microscopy and Microanalysis 24 (5), 497-502, 2018",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "ZTnog9YAAAAJ:aIdbFUkbNIkC"
     },
     {
         "title": "Fatigue of Extruded Steel/Nial Composites",
         "pub_year": "1992",
         "citation": "MRS Online Proceedings Library 273, 177-182, 1992",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "ZTnog9YAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -1072,7 +1051,7 @@
         "title": "Forces between a permanent magnet and a soft magnetic plate",
         "pub_year": "2012",
         "citation": "IEEE Magnetics Letters 3, 2012",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "ZTnog9YAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -1107,15 +1086,8 @@
         "title": "Future prospects for defect and strain analysis in the SEM via electron channeling",
         "pub_year": "2012",
         "citation": "Microscopy Today 20 (2), 12-16, 2012",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "ZTnog9YAAAAJ:dTyEYWd-f8wC"
-    },
-    {
-        "title": "GPU-Based Defect Image Simulations using the Scattering Matrix Formalism",
-        "pub_year": "2015",
-        "citation": "Microscopy and Microanalysis 21 (S3), 2213-2214, 2015",
-        "num_citations": 2,
-        "author_pub_id": "ZTnog9YAAAAJ:a3BOlSfXSfwC"
     },
     {
         "title": "GPU-accelerated matrix exponentiation for 5-D STEM-DCI simulations",
@@ -1123,6 +1095,13 @@
         "citation": "Microscopy and Microanalysis 24 (S1), 222-223, 2018",
         "num_citations": 3,
         "author_pub_id": "ZTnog9YAAAAJ:eO3_k5sD8BwC"
+    },
+    {
+        "title": "GPU-based defect image simulations using the scattering matrix formalism",
+        "pub_year": "2015",
+        "citation": "Microscopy and Microanalysis 21 (S3), 2213-2214, 2015",
+        "num_citations": 1,
+        "author_pub_id": "ZTnog9YAAAAJ:a3BOlSfXSfwC"
     },
     {
         "title": "General magnetostatic shape–shape interaction forces and torques",
@@ -1135,7 +1114,7 @@
         "title": "General magnetostatic shape–shape interactions",
         "pub_year": "2005",
         "citation": "Journal of Magnetism and Magnetic Materials 285 (1-2), L1-L10, 2005",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "ZTnog9YAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -1149,7 +1128,7 @@
         "title": "Gorsky-Bragg-Williams approach to the study of long-period superlattice phases in binary alloys",
         "pub_year": "1989",
         "citation": "Physical Review B 39 (1), 381, 1989",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ZTnog9YAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1184,14 +1163,14 @@
         "title": "Growth and characterization of (111) and (001) oriented MgO films on (001) GaAs",
         "pub_year": "1993",
         "citation": "Journal of applied physics 73 (7), 3276-3283, 1993",
-        "num_citations": 115,
+        "num_citations": 114,
         "author_pub_id": "ZTnog9YAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "H5ebsd: An archival data format for electron back-scatter diffraction data sets",
         "pub_year": "2014",
         "citation": "Integrating Materials and Manufacturing Innovation 3, 44-55, 2014",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ZTnog9YAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -1199,7 +1178,7 @@
         "pub_year": "1994",
         "citation": "JOURNAL OF MATERIALS RESEARCH 9 (5), 1328-1328, 1994",
         "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:nOiSByfp82kC"
+        "author_pub_id": "ZTnog9YAAAAJ:GHsHDPAyICYC"
     },
     {
         "title": "HRTEM Characterization of 6H-15R Polytype Boundaries in Silicon Carbide Grown by Physical Vapor Transport",
@@ -1219,21 +1198,21 @@
         "title": "Hierarchical domain structures and in situ domain migration in the antiferroelectric ceramic PLSnZT",
         "pub_year": "1993",
         "citation": "Journal of applied physics 73 (11), 7261-7267, 1993",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "ZTnog9YAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "High resolution electron microscopic study of the X‐phase in Cu Al and Cu Al Zn alloys",
         "pub_year": "1988",
         "citation": "Physica status solidi (a) 107 (2), 597-609, 1988",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "ZTnog9YAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "High resolution low kV EBSD of heavily deformed and nanocrystalline Aluminium by dictionary-based indexing",
         "pub_year": "2018",
         "citation": "Scientific reports 8 (1), 10991, 2018",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "ZTnog9YAAAAJ:5bg8sr1QxYwC"
     },
     {
@@ -1351,7 +1330,7 @@
         "title": "In situ lorentz TEM magnetization study of a Ni–Mn–Ga ferromagnetic shape memory alloy",
         "pub_year": "2011",
         "citation": "Acta materialia 59 (12), 4895-4906, 2011",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "ZTnog9YAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -1378,7 +1357,7 @@
         "title": "In-situ Lorentz TEM cooling study of magnetic domain configurations in Ni/sub 2/MnGa",
         "pub_year": "2001",
         "citation": "IEEE transactions on magnetics 37 (4), 2663-2665, 2001",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "ZTnog9YAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1476,7 +1455,7 @@
         "title": "Interactive grain image segmentation using graph cut algorithms",
         "pub_year": "2013",
         "citation": "Computational Imaging XI 8657, 115-126, 2013",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ZTnog9YAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -1497,7 +1476,7 @@
         "title": "Introduction and comparison of new EBSD post-processing methodologies",
         "pub_year": "2015",
         "citation": "Ultramicroscopy 159, 81-94, 2015",
-        "num_citations": 200,
+        "num_citations": 198,
         "author_pub_id": "ZTnog9YAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -1525,7 +1504,7 @@
         "title": "Iterative reconstruction of the magnetization and charge density using vector field electron tomography",
         "pub_year": "2016",
         "citation": "Microscopy and Microanalysis 22 (S3), 1686-1687, 2016",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "ZTnog9YAAAAJ:BJbdYPG6LGMC"
     },
     {
@@ -1562,13 +1541,6 @@
         "citation": "Journal of Applied Physics 128 (7), 2020",
         "num_citations": 7,
         "author_pub_id": "ZTnog9YAAAAJ:eI34FqJmdUoC"
-    },
-    {
-        "title": "Local Strain Development and Property Variability in B2 Intermetallics",
-        "pub_year": "2005",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Long period superlattice phases in Cu-Al-Zn alloys",
@@ -1630,7 +1602,7 @@
         "title": "Lorentz microscopy observations of a nanocrystalline Fe/sub 44/Co/sub 44/Zr/sub 7/B/sub 4/Cu/sub 1/alloy",
         "pub_year": "2001",
         "citation": "IEEE transactions on magnetics 37 (4), 2343-2346, 2001",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "ZTnog9YAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -1719,21 +1691,21 @@
         "title": "Magnetic domain wall skyrmions",
         "pub_year": "2019",
         "citation": "Physical Review B 99 (18), 184412, 2019",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "ZTnog9YAAAAJ:-6RzNnnwWf8C"
     },
     {
         "title": "Magnetic domain wall substructures in Pt/Co/Ni/Ir multi-layers",
         "pub_year": "2021",
         "citation": "Journal of Applied Physics 130 (15), 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "ZTnog9YAAAAJ:Vno172sVVMwC"
     },
     {
         "title": "Magnetic imaging and its applications to materials",
         "pub_year": "2000",
         "citation": "Academic Press, 2000",
-        "num_citations": 100,
+        "num_citations": 103,
         "author_pub_id": "ZTnog9YAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1768,22 +1740,15 @@
         "title": "Magnetic properties of carbon‐coated, ferromagnetic nanoparticles produced by a carbon‐arc method",
         "pub_year": "1994",
         "citation": "Journal of Applied Physics 75 (10), 5882-5884, 1994",
-        "num_citations": 112,
+        "num_citations": 107,
         "author_pub_id": "ZTnog9YAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Magnetostatics of the uniformly polarized torus",
         "pub_year": "2009",
         "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2009",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ZTnog9YAAAAJ:GnPB-g6toBAC"
-    },
-    {
-        "title": "Managing the Mosaic of Microstructure",
-        "pub_year": "2019",
-        "citation": "AFRL-AFOSR-VA-TR-2019-0099, 2019",
-        "num_citations": 1,
-        "author_pub_id": "ZTnog9YAAAAJ:37UQlXuwjP4C"
     },
     {
         "title": "Many-beam dynamical scattering simulations for scanning and transmission electron microscopy modalities for 2D and 3D quasicrystals",
@@ -1800,7 +1765,7 @@
         "author_pub_id": "ZTnog9YAAAAJ:6yz0xqPARnAC"
     },
     {
-        "title": "Markov Random Field based microstructure reconstruction using the principal image moments",
+        "title": "Markov random field based microstructure reconstruction using the principal image moments",
         "pub_year": "2021",
         "citation": "Materials Characterization 178, 111281, 2021",
         "num_citations": 20,
@@ -1816,15 +1781,15 @@
     {
         "title": "Materials data science: current status and future outlook",
         "pub_year": "2015",
-        "citation": "Annual Review of Materials Research 45, 171-193, 2015",
-        "num_citations": 277,
+        "citation": "Annual Review of Materials Research 45 (1), 171-193, 2015",
+        "num_citations": 273,
         "author_pub_id": "ZTnog9YAAAAJ:OTTXONDVkokC"
     },
     {
         "title": "Materials discovery: Understanding polycrystals from large-scale electron patterns",
         "pub_year": "2016",
         "citation": "2016 IEEE International Conference on Big Data (Big Data), 2261-2269, 2016",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "ZTnog9YAAAAJ:buQ7SEKw-1sC"
     },
     {
@@ -1859,7 +1824,7 @@
         "title": "Metastable extension of the fluorite phase field in Y2O3 ZrO2 and its effect on grain growth",
         "pub_year": "1994",
         "citation": "Acta metallurgica et materialia 42 (6), 1829-1846, 1994",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "ZTnog9YAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1872,7 +1837,7 @@
         "title": "Microstructural characterization of α‐GaN films grown on sapphire by organometallic vapor phase epitaxy",
         "pub_year": "1995",
         "citation": "Applied physics letters 66 (10), 1252-1254, 1995",
-        "num_citations": 382,
+        "num_citations": 376,
         "author_pub_id": "ZTnog9YAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1886,7 +1851,7 @@
         "title": "Microstructural tomography of a Ni70Cr20Al10 superalloy using focused ion beam microscopy",
         "pub_year": "2009",
         "citation": "Ultramicroscopy 109 (10), 1229-1235, 2009",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "ZTnog9YAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -1924,13 +1889,6 @@
         "author_pub_id": "ZTnog9YAAAAJ:qsWQJNntlusC"
     },
     {
-        "title": "Model Based Iterative Reconstruction for Bright Field Electron Tomography (Postprint)",
-        "pub_year": "2013",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:XvxMoLDsR5gC"
-    },
-    {
         "title": "Model based iterative reconstruction for bright field electron tomography",
         "pub_year": "2013",
         "citation": "Computational Imaging XI 8657, 75-86, 2013",
@@ -1938,31 +1896,31 @@
         "author_pub_id": "ZTnog9YAAAAJ:-7ulzOJl1JYC"
     },
     {
-        "title": "Model-based Iterative Reconstruction for Low-dose Electron Tomography",
-        "pub_year": "2014",
-        "citation": "Microscopy and Microanalysis 20 (S3), 802-803, 2014",
-        "num_citations": 4,
-        "author_pub_id": "ZTnog9YAAAAJ:Ri6SYOTghG4C"
-    },
-    {
         "title": "Model-based iterative reconstruction for bright-field electron tomography",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Computational Imaging 1 (1), 1-15, 2014",
-        "num_citations": 52,
+        "num_citations": 51,
         "author_pub_id": "ZTnog9YAAAAJ:j8SEvjWlNXcC"
+    },
+    {
+        "title": "Model-based iterative reconstruction for low-dose electron tomography",
+        "pub_year": "2014",
+        "citation": "Microscopy and Microanalysis 20 (S3), 802-803, 2014",
+        "num_citations": 3,
+        "author_pub_id": "ZTnog9YAAAAJ:Ri6SYOTghG4C"
     },
     {
         "title": "Model-based iterative reconstruction of magnetization using vector field electron tomography",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Computational Imaging 4 (3), 432-446, 2018",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "ZTnog9YAAAAJ:VN7nJs4JPk0C"
     },
     {
         "title": "Modeling dynamical electron scattering with Bethe potentials and the scattering matrix",
         "pub_year": "2016",
         "citation": "Ultramicroscopy 160, 35-43, 2016",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "ZTnog9YAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -1986,17 +1944,24 @@
         "author_pub_id": "ZTnog9YAAAAJ:2KloaMYe4IUC"
     },
     {
+        "title": "NUMERICAL SIMULATIONS OF THE LATTICE STABILITY OF 6-PHASE HUME-ROTHERY “ALLOYS",
+        "pub_year": "1989",
+        "citation": "Atomic Scale Calculations in Materials Science: Symposium Held November 28 …, 1989",
+        "num_citations": 0,
+        "author_pub_id": "ZTnog9YAAAAJ:_IsBomjs8bsC"
+    },
+    {
         "title": "Nanoscale Skyrmions in a Nonchiral Metallic Multiferroic: Ni2MnGa",
         "pub_year": "2016",
         "citation": "Nano letters 16 (7), 4141-4148, 2016",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "ZTnog9YAAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "Nanoscale structure of the magnetic induction at monopole defects in artificial spin-ice lattices",
         "pub_year": "2011",
-        "citation": "Physical Review B 83 (17), 174431, 2011",
-        "num_citations": 129,
+        "citation": "Physical Review B—Condensed Matter and Materials Physics 83 (17), 174431, 2011",
+        "num_citations": 127,
         "author_pub_id": "ZTnog9YAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -2010,7 +1975,7 @@
         "title": "Nucleation of misfit and threading dislocations during epitaxial growth of GaSb on GaAs (001) substrates",
         "pub_year": "1997",
         "citation": "Journal of applied physics 81 (11), 7268-7272, 1997",
-        "num_citations": 73,
+        "num_citations": 70,
         "author_pub_id": "ZTnog9YAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -2024,7 +1989,7 @@
         "title": "Nucleation of threading dislocations in sublimation grown silicon carbide",
         "pub_year": "2002",
         "citation": "Journal of applied physics 91 (3), 1143-1148, 2002",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "ZTnog9YAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2066,28 +2031,28 @@
         "title": "On the computation of the demagnetization tensor for particles of arbitrary shape",
         "pub_year": "2004",
         "citation": "Journal of Magnetism and Magnetic Materials 272, E1197-E1199, 2004",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "ZTnog9YAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "On the computation of the demagnetization tensor for uniformly magnetized particles of arbitrary shape. Part I: Analytical approach",
         "pub_year": "2004",
         "citation": "Journal of magnetism and magnetic materials 271 (1), 9-26, 2004",
-        "num_citations": 99,
+        "num_citations": 98,
         "author_pub_id": "ZTnog9YAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "On the computation of the demagnetization tensor for uniformly magnetized particles of arbitrary shape. Part II: Numerical approach",
         "pub_year": "2004",
         "citation": "Journal of magnetism and magnetic materials 271 (1), 27-38, 2004",
-        "num_citations": 45,
+        "num_citations": 43,
         "author_pub_id": "ZTnog9YAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "On the computation of the magnetic phase shift for magnetic nano-particles of arbitrary shape using a spherical projection model",
         "pub_year": "2013",
         "citation": "Ultramicroscopy 129, 36-41, 2013",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "ZTnog9YAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -2108,7 +2073,7 @@
         "title": "On the magnetostatic interactions between nanoparticles of arbitrary shape",
         "pub_year": "2004",
         "citation": "Journal of Magnetism and Magnetic Materials 278 (1-2), 270-284, 2004",
-        "num_citations": 146,
+        "num_citations": 145,
         "author_pub_id": "ZTnog9YAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -2122,7 +2087,7 @@
         "title": "On the use of 2-D moment invariants for the automated classification of particle shapes",
         "pub_year": "2008",
         "citation": "Acta Materialia 56 (3), 427-437, 2008",
-        "num_citations": 100,
+        "num_citations": 99,
         "author_pub_id": "ZTnog9YAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -2136,7 +2101,7 @@
         "title": "On the use of moment invariants for the automated analysis of 3D particle shapes",
         "pub_year": "2008",
         "citation": "Modelling and Simulation in Materials Science and Engineering 16 (4), 045008, 2008",
-        "num_citations": 60,
+        "num_citations": 58,
         "author_pub_id": "ZTnog9YAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -2164,7 +2129,7 @@
         "title": "Orientation sampling for dictionary-based diffraction pattern indexing methods",
         "pub_year": "2016",
         "citation": "Modelling and Simulation in Materials Science and Engineering 24 (8), 085013, 2016",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "ZTnog9YAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -2199,7 +2164,7 @@
         "title": "Parameter estimation in spherical symmetry groups",
         "pub_year": "2015",
         "citation": "IEEE Signal Processing Letters 22 (8), 1152-1155, 2015",
-        "num_citations": 27,
+        "num_citations": 25,
         "author_pub_id": "ZTnog9YAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -2213,7 +2178,7 @@
         "title": "Parametric simulation of electron backscatter diffraction patterns through generative models",
         "pub_year": "2023",
         "citation": "npj Computational Materials 9 (1), 199, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ZTnog9YAAAAJ:oldoQiaHq2UC"
     },
     {
@@ -2227,7 +2192,7 @@
         "title": "Performance of dynamically simulated reference patterns for cross-correlation electron backscatter diffraction",
         "pub_year": "2016",
         "citation": "Microscopy and Microanalysis 22 (4), 789-802, 2016",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "ZTnog9YAAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -2255,7 +2220,7 @@
         "title": "Phase diagram for magnetic nano-rings",
         "pub_year": "2006",
         "citation": "Journal of magnetism and magnetic materials 301 (1), 131-146, 2006",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "ZTnog9YAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -2269,8 +2234,15 @@
         "title": "Phase discrimination between δ and η phases in the new nickel-based superalloy VDM Alloy 780 using EBSD",
         "pub_year": "2021",
         "citation": "Materials Characterization 176, 111105, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ZTnog9YAAAAJ:In6cVmBjs0IC"
+    },
+    {
+        "title": "Phase transformations during stabilisation of Cu-Zn-Al martensite M De Graef, D Broddin, J Van Humbeeck and L Delaey",
+        "pub_year": "1988",
+        "citation": "Phase Transformations' 87 404, 86, 1988",
+        "num_citations": 0,
+        "author_pub_id": "ZTnog9YAAAAJ:2Q0AJrNhS-QC"
     },
     {
         "title": "Plug-and-play image reconstruction meets stochastic variance-reduced gradient methods",
@@ -2297,7 +2269,7 @@
         "title": "Precipitate shape fitting and reconstruction by means of 3D Zernike functions",
         "pub_year": "2011",
         "citation": "Modelling and Simulation in Materials Science and Engineering 20 (1), 015003, 2011",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "ZTnog9YAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -2315,6 +2287,13 @@
         "author_pub_id": "ZTnog9YAAAAJ:z_wVstp3MssC"
     },
     {
+        "title": "Proceedings of the 1st International Conference on 3D Materials Science: Held July 8-12, 2012, Seven Springs Mountain Resort, Seven Springs, Pennsylvania, USA",
+        "pub_year": "2016",
+        "citation": "Springer, 2016",
+        "num_citations": 2,
+        "author_pub_id": "ZTnog9YAAAAJ:E8ajGqO0XoUC"
+    },
+    {
         "title": "Quantification of rafting of γ′ precipitates in Ni-based superalloys",
         "pub_year": "2016",
         "citation": "Acta Materialia 103, 322-333, 2016",
@@ -2325,7 +2304,7 @@
         "title": "Quantifying the abnormal strain state in ferroelastic materials: A moment invariant approach",
         "pub_year": "2015",
         "citation": "Acta Materialia 94, 172-180, 2015",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "ZTnog9YAAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -2367,14 +2346,14 @@
         "title": "Rapid misfit dislocation characterization in heteroepitaxial III-V/Si thin films by electron channeling contrast imaging",
         "pub_year": "2014",
         "citation": "Applied Physics Letters 104 (23), 2014",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "ZTnog9YAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "Recent Progress in Lorentz Transmission Electron Microscopy-Applications to Multi-Ferroic Materials",
         "pub_year": "2009",
         "citation": "European Symposium on Martensitic Transformations, 01002, 2009",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "ZTnog9YAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -2402,7 +2381,7 @@
         "title": "Reconstruction of Laser-Induced Surface Topography from Electron Backscatter Diffraction Patterns",
         "pub_year": "2017",
         "citation": "Microscopy and Microanalysis 23 (4), 730-740, 2017",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "ZTnog9YAAAAJ:PYBJJbyH-FwC"
     },
     {
@@ -2420,9 +2399,9 @@
         "author_pub_id": "ZTnog9YAAAAJ:AYInfyleIOsC"
     },
     {
-        "title": "Representation and reconstruction of three-dimensional microstructures in ni-based superalloys",
+        "title": "Representation and Reconstruction of Three-dimensional Microstructires in Ni-Based Superalloys",
         "pub_year": "2010",
-        "citation": "DTIC Document, Tech. Rep, 2010",
+        "citation": "Carnegie Mellon University, 2010",
         "num_citations": 3,
         "author_pub_id": "ZTnog9YAAAAJ:bFI3QPDXJZMC"
     },
@@ -2479,15 +2458,8 @@
         "title": "Separation of electrostatic and magnetic phase shifts using a modified transport-of-intensity equation",
         "pub_year": "2014",
         "citation": "Ultramicroscopy 139, 5-12, 2014",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "ZTnog9YAAAAJ:MLfJN-KU85MC"
-    },
-    {
-        "title": "Shape Descriptors for the Quantification of Microstructures",
-        "pub_year": "2015",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:U4n9YNQMCAIC"
     },
     {
         "title": "Shape priors for MAP segmentation of alloy micrographs using graph cuts",
@@ -2548,7 +2520,7 @@
         "title": "Spherical indexing of overlap EBSD patterns for orientation-related phases–Application to titanium",
         "pub_year": "2020",
         "citation": "Acta Materialia 188, 579-590, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ZTnog9YAAAAJ:X0DADzN9RKwC"
     },
     {
@@ -2569,7 +2541,7 @@
         "title": "Statistical estimation and clustering of group-invariant orientation parameters",
         "pub_year": "2015",
         "citation": "2015 18th International Conference on Information Fusion (Fusion), 719-726, 2015",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "ZTnog9YAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -2639,7 +2611,7 @@
         "title": "Structure of materials: An introduction to crystallography, diffraction, and symmetry",
         "pub_year": "2007",
         "citation": "Cambridge University Press, 2007",
-        "num_citations": 730,
+        "num_citations": 733,
         "author_pub_id": "ZTnog9YAAAAJ:f2IySw72cVMC"
     },
     {
@@ -2660,7 +2632,7 @@
         "title": "Superparamagnetism in carbon-coated Co particles produced by the Kratschmer carbon arc process",
         "pub_year": "1994",
         "citation": "Physical Review B 49 (16), 11358, 1994",
-        "num_citations": 341,
+        "num_citations": 342,
         "author_pub_id": "ZTnog9YAAAAJ:kJDgFkosVoMC"
     },
     {
@@ -2681,7 +2653,7 @@
         "title": "Systematic row and zone axis STEM defect image simulations",
         "pub_year": "2011",
         "citation": "Philosophical Magazine 91 (16), 2081-2101, 2011",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "ZTnog9YAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -2723,7 +2695,7 @@
         "title": "Temperature‐mediated phase selection during growth of GaN on (111) A and (1̄1̄1̄) B GaAs substrates",
         "pub_year": "1995",
         "citation": "Applied physics letters 67 (25), 3759-3761, 1995",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "ZTnog9YAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -2750,21 +2722,21 @@
         "title": "The effect of cracks on the superconducting transport current in thin films: The analogy with two-dimensional elasticity and plasticity",
         "pub_year": "1993",
         "citation": "Journal of materials research 8 (7), 1515-1532, 1993",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ZTnog9YAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "The effect of field cooling and field orientation on the martensitic phase transformation in a  single crystal",
         "pub_year": "2000",
         "citation": "Journal of Applied Physics 87 (9), 5777-5779, 2000",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "ZTnog9YAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "The equivalent ellipsoid of a magnetized body",
         "pub_year": "2006",
         "citation": "Journal of Physics D: Applied Physics 39 (5), 891, 2006",
-        "num_citations": 146,
+        "num_citations": 144,
         "author_pub_id": "ZTnog9YAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -2799,14 +2771,14 @@
         "title": "The long-period antiphase-boundary-modulated structures in Cu3+ xAl1− x",
         "pub_year": "1989",
         "citation": "Philosophical Magazine A 59 (5), 979-998, 1989",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "ZTnog9YAAAAJ:hC7cP41nSMkC"
     },
     {
-        "title": "The stabilization of step-quenched copper-zinc-aluminium martensite. Part IV: Changes in the microstructure",
+        "title": "The stabilization of step-quenched copper-zinc-aluminium martensite. Part IV: changes in the microstructure",
         "pub_year": "1985",
         "citation": "Scripta metallurgica 19 (5), 643-646, 1985",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "ZTnog9YAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -2827,7 +2799,7 @@
         "title": "The three-dimensional morphology of growing dendrites",
         "pub_year": "2015",
         "citation": "Scientific reports 5 (1), 11824, 2015",
-        "num_citations": 134,
+        "num_citations": 129,
         "author_pub_id": "ZTnog9YAAAAJ:IUKN3-7HHlwC"
     },
     {
@@ -2848,14 +2820,14 @@
         "title": "Theory of dynamical electron channeling contrast images of near-surface crystal defects",
         "pub_year": "2014",
         "citation": "Ultramicroscopy 146, 71-78, 2014",
-        "num_citations": 54,
+        "num_citations": 53,
         "author_pub_id": "ZTnog9YAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Three-dimensional analysis of secondary γ′ precipitates in René-88 DT and UMF-20 superalloys",
         "pub_year": "2009",
         "citation": "Acta Materialia 57 (20), 6251-6267, 2009",
-        "num_citations": 88,
+        "num_citations": 86,
         "author_pub_id": "ZTnog9YAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -2869,14 +2841,14 @@
         "title": "Three-dimensional texture visualization approaches: applications to nickel and titanium alloys",
         "pub_year": "2017",
         "citation": "Journal of Applied Crystallography 50 (5), 1267-1279, 2017",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "ZTnog9YAAAAJ:XUvXOeBm_78C"
     },
     {
         "title": "Three-dimensional texture visualization approaches: theoretical analysis and examples",
         "pub_year": "2017",
         "citation": "Journal of Applied Crystallography 50 (2), 430-440, 2017",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "ZTnog9YAAAAJ:1lhNe0rCu4AC"
     },
     {
@@ -2908,18 +2880,18 @@
         "author_pub_id": "ZTnog9YAAAAJ:J-pR_7NvFogC"
     },
     {
-        "title": "Towards a Uniform Model for Lattice Defect Image Simulations",
-        "pub_year": "2014",
-        "citation": "Microscopy and Microanalysis 20 (S3), 1022-1023, 2014",
-        "num_citations": 1,
-        "author_pub_id": "ZTnog9YAAAAJ:bz8QjSJIRt4C"
-    },
-    {
         "title": "Towards a quantitative comparison between experimental and synthetic grain structures",
         "pub_year": "2016",
         "citation": "Acta Materialia 111, 242-252, 2016",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "ZTnog9YAAAAJ:lvd772isFD0C"
+    },
+    {
+        "title": "Towards a uniform model for lattice defect image simulations",
+        "pub_year": "2014",
+        "citation": "Microscopy and Microanalysis 20 (S3), 1022-1023, 2014",
+        "num_citations": 0,
+        "author_pub_id": "ZTnog9YAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "Towards hexagonal  systems with anisotropic DMI: Characterization of epitaxial Co(10.0)/Pt(110) multilayer films",
@@ -2960,20 +2932,14 @@
         "title": "Transmission scanning electron microscopy: Defect observations and image simulations",
         "pub_year": "2018",
         "citation": "Ultramicroscopy 186, 49-61, 2018",
-        "num_citations": 53,
+        "num_citations": 49,
         "author_pub_id": "ZTnog9YAAAAJ:rHJHxKgnXwkC"
     },
     {
-        "title": "Tutorial: Consistent Representations of and Conversions Between 3D Rotations",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ZTnog9YAAAAJ:a2necdfpwlEC"
-    },
-    {
-        "title": "Twin related domain networks in rené 88dt",
+        "title": "Twin related domain networks in René 88DT",
         "pub_year": "2020",
         "citation": "Materials Characterization 165, 110365, 2020",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ZTnog9YAAAAJ:pQTOvowfQioC"
     },
     {
@@ -2987,7 +2953,7 @@
         "title": "Two beam toy model for dislocation contrast in ECCI",
         "pub_year": "2019",
         "citation": "Microscopy and Microanalysis 25 (S2), 1968-1969, 2019",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ZTnog9YAAAAJ:CNPyR2KL9-0C"
     },
     {
@@ -3050,7 +3016,7 @@
         "title": "Vector field electron tomography of magnetic materials: Theoretical development",
         "pub_year": "2008",
         "citation": "Ultramicroscopy 108 (6), 503-513, 2008",
-        "num_citations": 86,
+        "num_citations": 84,
         "author_pub_id": "ZTnog9YAAAAJ:k_IJM867U9cC"
     },
     {

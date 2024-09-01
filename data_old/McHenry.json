@@ -17,7 +17,7 @@
         "title": "Ab initio theoretical study of magnetization and phase stability of the  and  structures of  and  prototypes",
         "pub_year": "2008",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 78 (14), 144414, 2008",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "jtorb88AAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Alloy substituents for cost reduction in soft magnetic materials",
         "pub_year": "2015",
         "citation": "Journal of Materials Research 30 (8), 1072-1077, 2015",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "jtorb88AAAAJ:tVzLobxzA7YC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Amorphous and nanocrystalline materials for applications as soft magnets",
         "pub_year": "1999",
         "citation": "Progress in materials Science 44 (4), 291-433, 1999",
-        "num_citations": 2003,
+        "num_citations": 2012,
         "author_pub_id": "jtorb88AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Analysis of surface roughness and oxidation of FeNi-based metal amorphous nanocomposite alloys",
         "pub_year": "2022",
         "citation": "Journal of Alloys and Compounds 912, 165155, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "jtorb88AAAAJ:_elGeoH1qXkC"
     },
     {
@@ -124,6 +124,13 @@
         "citation": "IEEE transactions on magnetics 37 (4), 1299-1301, 2001",
         "num_citations": 63,
         "author_pub_id": "jtorb88AAAAJ:kNdYIx-mwKoC"
+    },
+    {
+        "title": "Axial Flux Motor",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/442,783, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jtorb88AAAAJ:vj8KeYadoLsC"
     },
     {
         "title": "Axial flux motor",
@@ -220,7 +227,7 @@
         "title": "Composition dependence of field induced anisotropy in ferromagnetic (Co, Fe) 89Zr7B4 and (Co, Fe) 88Zr7B4Cu1 amorphous and nanocrystalline ribbons",
         "pub_year": "2008",
         "citation": "Journal of Applied Physics 104 (11), 2008",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "jtorb88AAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -234,7 +241,7 @@
         "title": "Core Losses in Co-rich Inductors with Tunable Permeability",
         "pub_year": "2020",
         "citation": "TMS 2020 Annual Meeting & Exhibition, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "jtorb88AAAAJ:mSnHxa73OtAC"
     },
     {
@@ -297,14 +304,14 @@
         "title": "Crystallization behavior and high temperature magnetic phase transitions of Nb-substituted FeCoSiBCu nanocomposites",
         "pub_year": "2011",
         "citation": "Applied Physics Letters 99 (19), 2011",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jtorb88AAAAJ:g3aElNc5_aQC"
     },
     {
         "title": "Curie temperature engineering in high entropy alloys for magnetocaloric applications",
         "pub_year": "2016",
         "citation": "IEEE Magnetics Letters 7, 1-5, 2016",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "jtorb88AAAAJ:FOZckGct7WUC"
     },
     {
@@ -345,7 +352,7 @@
         "title": "Dependence of flux-creep activation energy upon current density in grain-aligned YBa 2 Cu 3 O 7− x",
         "pub_year": "1990",
         "citation": "Physical Review B 42 (4), 2639, 1990",
-        "num_citations": 611,
+        "num_citations": 610,
         "author_pub_id": "jtorb88AAAAJ:OP4eGU-M3BUC"
     },
     {
@@ -435,7 +442,7 @@
         "title": "Effect of Mo addition on structure and magnetocaloric effect in γ-FeNi nanocrystals",
         "pub_year": "2014",
         "citation": "Journal of electronic materials 43, 137-141, 2014",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "jtorb88AAAAJ:1DsIQWDZLl8C"
     },
     {
@@ -568,7 +575,7 @@
         "title": "Electronic structure, exchange interactions, and Curie temperature of FeCo",
         "pub_year": "1999",
         "citation": "Journal of applied physics 85 (8), 4833-4835, 1999",
-        "num_citations": 211,
+        "num_citations": 214,
         "author_pub_id": "jtorb88AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -624,7 +631,7 @@
         "title": "Evaluation of iron-cobalt/ferrite core-shell nanoparticles for cancer thermotherapy",
         "pub_year": "2008",
         "citation": "Journal of Applied Physics 103 (7), 2008",
-        "num_citations": 318,
+        "num_citations": 319,
         "author_pub_id": "jtorb88AAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -714,7 +721,7 @@
         "title": "Finite-element analysis modeling of high-frequency single-phase transformers enabled by metal amorphous nanocomposites and calculation of leakage inductance for different …",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Magnetics 55 (7), 1-11, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "jtorb88AAAAJ:K1TAGxA9IWwC"
     },
     {
@@ -777,7 +784,7 @@
         "title": "Flux switching permanent magnet motor with metal amorphous nanocomposite soft magnetic material and rare earth free permanent magnets",
         "pub_year": "2021",
         "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 3866-3872, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "jtorb88AAAAJ:LQnPjgHbprEC"
     },
     {
@@ -811,7 +818,7 @@
         "title": "Giant induced magnetic anisotropy in strain annealed Co-based nanocomposite alloys",
         "pub_year": "2012",
         "citation": "Applied Physics Letters 101 (10), 2012",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "jtorb88AAAAJ:48xauSegjOkC"
     },
     {
@@ -902,7 +909,7 @@
         "title": "High-temperature first-order-reversal-curve (FORC) study of magnetic nanoparticle based nanocomposite materials",
         "pub_year": "2017",
         "citation": "MRS Advances 2, 2669-2674, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "jtorb88AAAAJ:5bGIVMdsOr0C"
     },
     {
@@ -1131,7 +1138,7 @@
         "title": "M-type barium hexaferrite synthesis and characterization for phase shifter applications",
         "pub_year": "2011",
         "citation": "Journal of Applied Physics 109 (7), 2011",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "jtorb88AAAAJ:W5xh706n7nkC"
     },
     {
@@ -1298,7 +1305,7 @@
         "title": "Magnetic metal or metal carbide nanoparticles and a process for forming same",
         "pub_year": "1995",
         "citation": "US Patent 5,456,986, 1995",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "jtorb88AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1340,14 +1347,14 @@
         "title": "Magnetic nanoparticles and magnetocrystalline anisotropy",
         "pub_year": "1997",
         "citation": "Nanostructured Materials 9 (1-8), 291-300, 1997",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "jtorb88AAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Magnetic ordering: some structural aspects",
         "pub_year": "2000",
         "citation": "Phase Transformations and Evolution in Materials, 121-137, 2000",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "jtorb88AAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -1466,14 +1473,14 @@
         "title": "Magnetic properties of ordered and disordered spinel‐phase ferrimagnets",
         "pub_year": "1999",
         "citation": "Journal of the American Ceramic Society 82 (12), 3342-3346, 1999",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "jtorb88AAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Magnetic properties of polydisperse and monodisperse NiZn ferrite nanoparticles interpreted in a surface structure model",
         "pub_year": "2005",
         "citation": "Journal of applied physics 97 (10), 2005",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "jtorb88AAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -1529,7 +1536,7 @@
         "title": "Magnetism and quasicrystals",
         "pub_year": "1991",
         "citation": "Handbook of Magnetic Materials 6, 453-510, 1991",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jtorb88AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -1648,7 +1655,7 @@
         "title": "Microstructural and magnetic observations of compacted FeCoV nanoparticles",
         "pub_year": "2000",
         "citation": "IEEE transactions on magnetics 36 (5), 3024-3025, 2000",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "jtorb88AAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -1725,7 +1732,7 @@
         "title": "Multiphase resistivity model for magnetic nanocomposites developed for high frequency, high power transformation",
         "pub_year": "2014",
         "citation": "Journal of electronic materials 43, 96-108, 2014",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "jtorb88AAAAJ:O0nohqN1r9EC"
     },
     {
@@ -1739,14 +1746,14 @@
         "title": "Mössbauer analysis of compositional tuning of magnetic exchange interactions in high entropy alloys",
         "pub_year": "2019",
         "citation": "AIP Advances 9 (3), 2019",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "jtorb88AAAAJ:L_YvGb4hwdAC"
     },
     {
         "title": "Nano-scale materials development for future magnetic applications",
         "pub_year": "2000",
         "citation": "Acta materialia 48 (1), 223-238, 2000",
-        "num_citations": 565,
+        "num_citations": 567,
         "author_pub_id": "jtorb88AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1919,7 +1926,7 @@
         "title": "Parameterised local spin density exchange-correlation energies and potentials for electronic structure calculations I. Zero temperature formalism",
         "pub_year": "1991",
         "citation": "Computer Physics Communications 66 (2-3), 383-391, 1991",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "jtorb88AAAAJ:_xSYboBqXhAC"
     },
     {
@@ -1933,7 +1940,7 @@
         "title": "Permeability engineered soft magnetics for power dense energy conversion",
         "pub_year": "2021",
         "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 5320-5326, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jtorb88AAAAJ:aWrUoCkCBaEC"
     },
     {
@@ -2149,7 +2156,7 @@
         "title": "Real-time monitoring of temperature rises of energized transformer cores with distributed optical fiber sensors",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Power Delivery 34 (4), 1588-1598, 2019",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "jtorb88AAAAJ:8ThBWkzwpf8C"
     },
     {
@@ -2267,7 +2274,7 @@
         "title": "Soft magnetic materials in high-frequency, high-power conversion applications",
         "pub_year": "2012",
         "citation": "Jom 64, 772-781, 2012",
-        "num_citations": 194,
+        "num_citations": 196,
         "author_pub_id": "jtorb88AAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -2323,14 +2330,14 @@
         "title": "Stress induced anisotropy in Co-rich magnetic nanocomposites for inductive applications",
         "pub_year": "2016",
         "citation": "Journal of Materials Research 31 (20), 3089-3107, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "jtorb88AAAAJ:L3c5sqbRKa8C"
     },
     {
         "title": "Stress induced anisotropy in CoFeMn soft magnetic nanocomposites",
         "pub_year": "2015",
         "citation": "Journal of Applied Physics 117 (17), 2015",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "jtorb88AAAAJ:n35PH7pn8T4C"
     },
     {
@@ -2372,7 +2379,7 @@
         "title": "Structural and magnetic properties of NiZn and Zn ferrite thin films obtained by laser ablation deposition",
         "pub_year": "2005",
         "citation": "Journal of applied physics 97 (10), 2005",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "jtorb88AAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -2449,7 +2456,7 @@
         "title": "Structure and magnetic properties of  nanocrystalline alloys",
         "pub_year": "1998",
         "citation": "Journal of Applied Physics 84 (12), 6773-6777, 1998",
-        "num_citations": 611,
+        "num_citations": 615,
         "author_pub_id": "jtorb88AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -2512,7 +2519,7 @@
         "title": "Structure of materials: an introduction to crystallography, diffraction and symmetry",
         "pub_year": "2012",
         "citation": "Cambridge University Press, 2012",
-        "num_citations": 733,
+        "num_citations": 740,
         "author_pub_id": "jtorb88AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -2561,7 +2568,7 @@
         "title": "Surface oxidation and crystallization of FeNi-Based soft magnetic nanocrystalline and amorphous nanocomposite alloys",
         "pub_year": "2020",
         "citation": "Journal of Alloys and Compounds 834, 155038, 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "jtorb88AAAAJ:Eu_4uSHeUgAC"
     },
     {
@@ -2575,7 +2582,7 @@
         "title": "Synthesis and magnetic properties of single phase titanomagnetites",
         "pub_year": "2014",
         "citation": "Journal of applied physics 115 (17), 2014",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "jtorb88AAAAJ:2l5NCbZemmgC"
     },
     {
@@ -2589,7 +2596,7 @@
         "title": "Synthesis of ferrite and nickel ferrite nanoparticles using radio-frequency thermal plasma torch",
         "pub_year": "2002",
         "citation": "Journal of Applied Physics 91 (10), 7589-7591, 2002",
-        "num_citations": 237,
+        "num_citations": 239,
         "author_pub_id": "jtorb88AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -2680,14 +2687,14 @@
         "title": "Temperature-dependent giant magnetoimpedance effect in amorphous soft magnets",
         "pub_year": "2014",
         "citation": "Journal of electronic materials 43, 4576-4581, 2014",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "jtorb88AAAAJ:Xl6nMSl579sC"
     },
     {
         "title": "The Effects of Strain-Annealing on Tuning Permeability and Lowering Losses in Fe-Ni based Metal Amorphous Nanocomposites.",
         "pub_year": "2017",
         "citation": "JOM 69 (11), 2164–2170, 2017",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "jtorb88AAAAJ:sJRvXmEhuqoC"
     },
     {
@@ -2770,7 +2777,7 @@
         "title": "The kinetics of nanocrystallization and microstructural observations in FINEMET, NANOPERM and HITPERM nanocomposite magnetic materials",
         "pub_year": "2003",
         "citation": "Scripta Materialia 48 (7), 881-887, 2003",
-        "num_citations": 211,
+        "num_citations": 212,
         "author_pub_id": "jtorb88AAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2784,7 +2791,7 @@
         "title": "The role of compositional tuning of the distributed exchange on magnetocaloric properties of high-entropy alloys",
         "pub_year": "2017",
         "citation": "Jom 69 (11), 2125-2129, 2017",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "jtorb88AAAAJ:H4IpxOyCX80C"
     },
     {
@@ -2882,7 +2889,7 @@
         "title": "Thermomagnetic analysis of FeCoCrxNi alloys: Magnetic entropy of high-entropy alloys",
         "pub_year": "2013",
         "citation": "Journal of Applied Physics 113 (17), 2013",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "jtorb88AAAAJ:q-HalDI95KYC"
     },
     {
@@ -2959,7 +2966,7 @@
         "title": "Tunable anisotropy of co-based nanocomposites for magnetic field sensing and inductor applications",
         "pub_year": "2019",
         "citation": "US Patent 10,168,392, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jtorb88AAAAJ:47CO7rCGma4C"
     },
     {
@@ -2980,7 +2987,7 @@
         "title": "Two-current model of the composition dependence of resistivity in amorphous (Fe100− xCox) 89− yZr7B4Cuy alloys using a rigid-band assumption",
         "pub_year": "2012",
         "citation": "Journal of Applied Physics 112 (10), 2012",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "jtorb88AAAAJ:owLR8QvbtFgC"
     },
     {
@@ -3007,7 +3014,7 @@
         "title": "Virtual bound states elements and their effects on magnetic and electrical properties of Fe-Ni based metal amorphous nanocomposites",
         "pub_year": "2019",
         "citation": "Scripta Materialia 169, 9-13, 2019",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "jtorb88AAAAJ:oQdNcxnU9dAC"
     },
     {

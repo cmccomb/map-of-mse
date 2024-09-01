@@ -64,7 +64,7 @@
         "title": "3D in-situ stop action study of recrystallization in additively manufactured 316L stainless steel: Reconstruction optimization and observations",
         "pub_year": "2022",
         "citation": "IOP Conference Series: Materials Science and Engineering 1249 (1), 012054, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "K5ja68wAAAAJ:dMpQl7XwOw4C"
     },
     {
@@ -137,8 +137,8 @@
     },
     {
         "title": "A Scalable Compact Additively Manufactured Molten Salt to Supercritical Carbon Dioxide Heat Exchanger for Solar Thermal Application",
-        "pub_year": "2023",
-        "citation": "Journal of Solar Energy Engineering, 1-33, 2023",
+        "pub_year": "2024",
+        "citation": "Journal of Solar Energy Engineering 146 (1), 2024",
         "num_citations": 1,
         "author_pub_id": "K5ja68wAAAAJ:8JTMrWI6FdcC"
     },
@@ -153,14 +153,14 @@
         "title": "A comparison of texture results obtained using precession electron diffraction and neutron diffraction methods at diminishing length scales in ordered bimetallic nanolamellar …",
         "pub_year": "2012",
         "citation": "Scripta Materialia 67 (4), 336-339, 2012",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "K5ja68wAAAAJ:owLR8QvbtFgC"
     },
     {
         "title": "A comprehensive comparison of the analytical and numerical prediction of the thermal history and solidification microstructure of Inconel 718 products made by laser powder-bed …",
         "pub_year": "2017",
         "citation": "Engineering 3 (5), 685-694, 2017",
-        "num_citations": 252,
+        "num_citations": 256,
         "author_pub_id": "K5ja68wAAAAJ:0ngZmJvimKcC"
     },
     {
@@ -188,7 +188,7 @@
         "title": "A hybrid model for mesoscopic simulation of recrystallization",
         "pub_year": "2001",
         "citation": "Computational Materials Science 21 (1), 69-78, 2001",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "K5ja68wAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -223,7 +223,7 @@
         "title": "A multi-scale, multi-physics modeling framework to predict spatial variation of properties in additive-manufactured metals",
         "pub_year": "2019",
         "citation": "Modelling and Simulation in Materials Science and Engineering 27 (2), 025009, 2019",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "K5ja68wAAAAJ:eFf2swCANGcC"
     },
     {
@@ -265,7 +265,7 @@
         "title": "A review of the stages of work hardening",
         "pub_year": "1993",
         "citation": "Solid state phenomena 35, 1-18, 1993",
-        "num_citations": 208,
+        "num_citations": 211,
         "author_pub_id": "K5ja68wAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -286,7 +286,7 @@
         "title": "A theoretical prediction of twin variants in extruded AZ31 Mg alloys using the microstructure based crystal plasticity finite element method",
         "pub_year": "2012",
         "citation": "Materials Science and Engineering: A 538, 190-201, 2012",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "K5ja68wAAAAJ:bz8QjSJIRt4C"
     },
     {
@@ -446,7 +446,7 @@
         "title": "An additively-manufactured molten salt-to-supercritical carbon di-oxide primary heat exchanger for solar thermal power generation–Design and techno-economic performance",
         "pub_year": "2022",
         "citation": "Solar Energy 234, 152-169, 2022",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "K5ja68wAAAAJ:uEM9VtRl8xsC"
     },
     {
@@ -474,7 +474,7 @@
         "title": "An investigation of process parameter modifications on additively manufactured Inconel 718 parts",
         "pub_year": "2019",
         "citation": "Journal of Materials Engineering and Performance 28, 620-626, 2019",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "K5ja68wAAAAJ:cB__R-XWw9UC"
     },
     {
@@ -516,7 +516,7 @@
         "title": "Analyzing the effects of powder and post-processing on porosity and properties of electron beam melted Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Materials Research Letters 5 (7), 516-525, 2017",
-        "num_citations": 263,
+        "num_citations": 268,
         "author_pub_id": "K5ja68wAAAAJ:hHIA4WEVY-EC"
     },
     {
@@ -530,7 +530,7 @@
         "title": "Annealing twin development during recrystallization and grain growth in pure nickel",
         "pub_year": "2014",
         "citation": "Materials Science and Engineering: A 597, 295-303, 2014",
-        "num_citations": 221,
+        "num_citations": 225,
         "author_pub_id": "K5ja68wAAAAJ:ghEM2AJqZyQC"
     },
     {
@@ -599,7 +599,7 @@
         "title": "Austenite-ferrite interface crystallography dependence of sigma phase precipitation using the five-parameter characterization approach",
         "pub_year": "2017",
         "citation": "Materials Letters 196, 264-268, 2017",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "K5ja68wAAAAJ:8VtEwCQfWZkC"
     },
     {
@@ -690,7 +690,7 @@
         "title": "Calculation of grain boundary normals directly from 3D microstructure images",
         "pub_year": "2015",
         "citation": "Modelling and Simulation in Materials Science and Engineering 23 (3), 035005, 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "K5ja68wAAAAJ:lYAcb2jw7qUC"
     },
     {
@@ -725,7 +725,7 @@
         "title": "Characterization of metal additive manufacturing surfaces using synchrotron X-ray CT and micromechanical modeling",
         "pub_year": "2018",
         "citation": "Computational Mechanics 61, 575-580, 2018",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "K5ja68wAAAAJ:lK9BDNCuzFgC"
     },
     {
@@ -823,7 +823,7 @@
         "title": "Computer simulation of microstructure development in powder-bed additive manufacturing with crystallographic texture",
         "pub_year": "2021",
         "citation": "Modelling and Simulation in Materials Science and Engineering 29 (5), 055019, 2021",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "K5ja68wAAAAJ:BCdnXsLIVDwC"
     },
     {
@@ -837,7 +837,7 @@
         "title": "Computer simulation of recrystallization in non-uniformly deformed metals",
         "pub_year": "1989",
         "citation": "Acta Metallurgica 37 (2), 627-639, 1989",
-        "num_citations": 210,
+        "num_citations": 209,
         "author_pub_id": "K5ja68wAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -872,7 +872,7 @@
         "title": "Consistent representations of and conversions between 3D rotations",
         "pub_year": "2015",
         "citation": "Modelling and Simulation in Materials Science and Engineering 23 (8), 083501, 2015",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "K5ja68wAAAAJ:naSTrk-c4S8C"
     },
     {
@@ -928,13 +928,13 @@
         "title": "Critical instability at moving keyhole tip generates porosity in laser melting",
         "pub_year": "2020",
         "citation": "Science 370 (6520), 1080-1086, 2020",
-        "num_citations": 413,
+        "num_citations": 430,
         "author_pub_id": "K5ja68wAAAAJ:tgTmbKTkO1IC"
     },
     {
         "title": "Cryogenic properties of aluminum alloys and composites",
         "pub_year": "1989",
-        "citation": "A Collection of Papers Presented at the 13th Annual Conference on Composites …, 1989",
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States) 10 (LA …, 1989",
         "num_citations": 0,
         "author_pub_id": "K5ja68wAAAAJ:ZfRJV9d4-WMC"
     },
@@ -949,7 +949,7 @@
         "title": "Crystal plasticity analysis of constitutive behavior of 5754 aluminum sheet deformed along bi-linear strain paths",
         "pub_year": "2012",
         "citation": "International Journal of Solids and Structures 49 (25), 3507-3516, 2012",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "K5ja68wAAAAJ:MpfHP-DdYjUC"
     },
     {
@@ -1068,14 +1068,14 @@
         "title": "Current issues in recrystallization: A review",
         "pub_year": "1998",
         "citation": "Materials Today 1 (2), 14-15, 1998",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "K5ja68wAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "Current issues in recrystallization: a review",
         "pub_year": "1997",
         "citation": "Materials Science and Engineering: A 238 (2), 219-274, 1997",
-        "num_citations": 2726,
+        "num_citations": 2737,
         "author_pub_id": "K5ja68wAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1116,21 +1116,21 @@
         "title": "Defect structure process maps for laser powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 36, 101552, 2020",
-        "num_citations": 240,
+        "num_citations": 247,
         "author_pub_id": "K5ja68wAAAAJ:vD2iS2Kej30C"
     },
     {
         "title": "Defects and anomalies in powder bed fusion metal additive manufacturing",
         "pub_year": "2022",
         "citation": "Current Opinion in Solid State and Materials Science 26 (2), 100974, 2022",
-        "num_citations": 262,
+        "num_citations": 277,
         "author_pub_id": "K5ja68wAAAAJ:-vzq6BoH5oUC"
     },
     {
         "title": "Defects-dictated tensile properties of selective laser melted Ti-6Al-4V",
         "pub_year": "2018",
         "citation": "Materials & Design 158, 113-126, 2018",
-        "num_citations": 224,
+        "num_citations": 230,
         "author_pub_id": "K5ja68wAAAAJ:T8_be82Iz5gC"
     },
     {
@@ -1165,7 +1165,7 @@
         "title": "Design and performance characterization of an additively manufactured primary heat exchanger for sCO2 Waste Heat Recovery Cycles",
         "pub_year": "2018",
         "citation": "The 6th International Supercritical CO2 Power Cycles Symposium, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "K5ja68wAAAAJ:SWgZeABleR0C"
     },
     {
@@ -1186,14 +1186,14 @@
         "title": "Design of radiation tolerant materials via interface engineering",
         "pub_year": "2013",
         "citation": "Wiley Blackwell, 2013",
-        "num_citations": 369,
+        "num_citations": 375,
         "author_pub_id": "K5ja68wAAAAJ:CYCckWUYoCcC"
     },
     {
         "title": "Determination of a mean orientation in electron backscatter diffraction measurements",
         "pub_year": "2005",
         "citation": "Metallurgical and materials transactions A 36, 3427-3438, 2005",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "K5ja68wAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -1333,28 +1333,28 @@
         "title": "Effect of heat treatment on microstructural evolution and hardness homogeneity in laser powder bed fusion of alloy 718",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 35, 101282, 2020",
-        "num_citations": 56,
+        "num_citations": 61,
         "author_pub_id": "K5ja68wAAAAJ:yZoBfgUKqwcC"
     },
     {
         "title": "Effect of laser-matter interaction on molten pool flow and keyhole dynamics",
         "pub_year": "2019",
         "citation": "Physical Review Applied 11 (6), 064054, 2019",
-        "num_citations": 141,
+        "num_citations": 143,
         "author_pub_id": "K5ja68wAAAAJ:adHtZc2wMuEC"
     },
     {
         "title": "Effect of magnetic field applied during secondary annealing on texture and grain size of silicon steel",
         "pub_year": "2003",
         "citation": "Scripta Materialia 48 (9), 1343-1347, 2003",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "K5ja68wAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Effect of magnetic field during secondary annealing on texture and microstructure of nonoriented silicon steel",
         "pub_year": "2004",
         "citation": "Materials and Manufacturing Processes 19 (4), 611-617, 2004",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "K5ja68wAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -1431,7 +1431,7 @@
         "title": "Entrapped gas and process parameter-induced porosity formation in additively manufactured 17-4 PH stainless steel",
         "pub_year": "2021",
         "citation": "Journal of Materials Engineering and Performance 30, 5195-5202, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "K5ja68wAAAAJ:E8ajGqO0XoUC"
     },
     {
@@ -1445,14 +1445,14 @@
         "title": "Evaluating the effect of processing parameters on porosity in electron beam melted Ti-6Al-4V via synchrotron X-ray microtomography",
         "pub_year": "2016",
         "citation": "Jom 68, 765-771, 2016",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "K5ja68wAAAAJ:wUn16MOA3RoC"
     },
     {
         "title": "Evaluating the grain-scale deformation behavior of a single-phase FCC high entropy alloy using synchrotron high energy diffraction microscopy",
         "pub_year": "2021",
         "citation": "Acta Materialia 215, 117120, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "K5ja68wAAAAJ:8gBurD7jEYQC"
     },
     {
@@ -1501,7 +1501,7 @@
         "title": "Experimental demonstration of coupled multi-peak bragg coherent diffraction imaging with genetic algorithms",
         "pub_year": "2021",
         "citation": "Physical Review B 103 (21), 214103, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "K5ja68wAAAAJ:dFKc6_kCK1wC"
     },
     {
@@ -1536,7 +1536,7 @@
         "title": "Exploring the fabrication limits of thin-wall structures in a laser powder bed fusion process",
         "pub_year": "2020",
         "citation": "The International Journal of Advanced Manufacturing Technology 110 (1), 191-207, 2020",
-        "num_citations": 95,
+        "num_citations": 98,
         "author_pub_id": "K5ja68wAAAAJ:eAUscmXIlQ8C"
     },
     {
@@ -1606,7 +1606,7 @@
         "title": "Fast fourier transform-based modeling for the determination of micromechanical fields in polycrystals",
         "pub_year": "2011",
         "citation": "Jom 63, 13-18, 2011",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "K5ja68wAAAAJ:XD-gHx7UXLsC"
     },
     {
@@ -1627,14 +1627,14 @@
         "title": "Fatigue performance of laser powder bed fusion hydride-dehydride Ti-6Al-4V powder",
         "pub_year": "2022",
         "citation": "Additive Manufacturing 59, 103117, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "K5ja68wAAAAJ:ZYsTHYU9jrMC"
     },
     {
         "title": "Fatigue-based process window for laser beam powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "International Journal of Fatigue, 108428, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "K5ja68wAAAAJ:WHBERAHVdrEC"
     },
     {
@@ -1814,7 +1814,7 @@
         "title": "Grain boundary energies in body-centered cubic metals",
         "pub_year": "2015",
         "citation": "Acta Materialia 88, 346-354, 2015",
-        "num_citations": 253,
+        "num_citations": 256,
         "author_pub_id": "K5ja68wAAAAJ:_AeoHAGD03cC"
     },
     {
@@ -1842,7 +1842,7 @@
         "title": "Grain boundary mobility–a brief review",
         "pub_year": "2021",
         "citation": "International Journal of Materials Research 95 (4), 226-229, 2021",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "K5ja68wAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -1933,7 +1933,7 @@
         "title": "Habits of grains in dense polycrystalline solids",
         "pub_year": "2004",
         "citation": "Journal of the American Ceramic Society 87 (4), 724-726, 2004",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "K5ja68wAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -1954,7 +1954,7 @@
         "title": "High frequency beam oscillation keyhole dynamics in laser melting revealed by in-situ x-ray imaging",
         "pub_year": "2023",
         "citation": "Communications Materials 4 (1), 5, 2023",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "K5ja68wAAAAJ:tFzHCjejgA0C"
     },
     {
@@ -2092,7 +2092,7 @@
         "title": "In situ characterization of laser-generated melt pools using synchronized ultrasound and high-speed X-ray imaging",
         "pub_year": "2021",
         "citation": "The Journal of the Acoustical Society of America 150 (4), 2409-2420, 2021",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "K5ja68wAAAAJ:pxXbYLTb8EgC"
     },
     {
@@ -2169,7 +2169,7 @@
         "title": "Inference of highly time-resolved melt pool visual characteristics and spatially-dependent lack-of-fusion defects in laser powder bed fusion using acoustic and thermal emission …",
         "pub_year": "2024",
         "citation": "Additive Manufacturing 83, 104057, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "K5ja68wAAAAJ:v6PuF9mNY3oC"
     },
     {
@@ -2197,7 +2197,7 @@
         "title": "Influence of material constitutive models on thermomechanical behaviors in the laser powder bed fusion of Ti-6Al-4V",
         "pub_year": "2021",
         "citation": "Additive Manufacturing 37, 101680, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "K5ja68wAAAAJ:ZysSsiWj_g4C"
     },
     {
@@ -2229,7 +2229,7 @@
         "title": "Interface characteristics and precipitation during the austenite-to-ferrite transformation of a Ti-Mo microalloyed steel",
         "pub_year": "2022",
         "citation": "Journal of Alloys and Compounds 893, 162224, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "K5ja68wAAAAJ:TiIbgCYny7sC"
     },
     {
@@ -2243,7 +2243,7 @@
         "title": "Interpretable machine learning for texture-dependent constitutive models with automatic code generation for topological optimization",
         "pub_year": "2021",
         "citation": "Integrating Materials and Manufacturing Innovation 10, 373-392, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "K5ja68wAAAAJ:o9ULDYDKYbIC"
     },
     {
@@ -2278,7 +2278,7 @@
         "title": "Keyhole threshold and morphology in laser melting revealed by ultrahigh-speed x-ray imaging",
         "pub_year": "2019",
         "citation": "Science 363 (6429), 849-852, 2019",
-        "num_citations": 783,
+        "num_citations": 802,
         "author_pub_id": "K5ja68wAAAAJ:AFXcoJnoRH0C"
     },
     {
@@ -2319,7 +2319,7 @@
         "title": "Laser melting modes in metal powder bed fusion additive manufacturing",
         "pub_year": "2022",
         "citation": "Reviews of Modern Physics 94 (4), 045002, 2022",
-        "num_citations": 47,
+        "num_citations": 53,
         "author_pub_id": "K5ja68wAAAAJ:SgM-ki2adj0C"
     },
     {
@@ -2361,7 +2361,7 @@
         "title": "Location specific solidification microstructure control in electron beam melting of Ti-6Al-4V",
         "pub_year": "2018",
         "citation": "Additive Manufacturing 19, 160-166, 2018",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "K5ja68wAAAAJ:qsWQJNntlusC"
     },
     {
@@ -2387,21 +2387,21 @@
         "title": "Machine learning–aided real-time detection of keyhole pore generation in laser powder bed fusion",
         "pub_year": "2023",
         "citation": "Science 379 (6627), 89-94, 2023",
-        "num_citations": 99,
+        "num_citations": 110,
         "author_pub_id": "K5ja68wAAAAJ:qbqt7gslDFUC"
     },
     {
         "title": "Mapping nanocrystal orientations via scanning Laue diffraction microscopy for multi-peak Bragg coherent diffraction imaging",
         "pub_year": "2023",
         "citation": "Journal of Synchrotron Radiation 30 (4), 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "K5ja68wAAAAJ:JqN3CTdJtl0C"
     },
     {
         "title": "Martensite decomposition during rapid heating of Ti-6Al-4V studied via in situ synchrotron X-ray diffraction",
         "pub_year": "2024",
         "citation": "Communications Materials 5 (1), 58, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "K5ja68wAAAAJ:3WNXLiBY60kC"
     },
     {
@@ -2415,7 +2415,7 @@
         "title": "Materials dependence of deformation texture development in various deformation modes",
         "pub_year": "1987",
         "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States …, 1987",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "K5ja68wAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -2428,7 +2428,7 @@
     {
         "title": "Measurement and modeling of interface heat transfer coefficients",
         "pub_year": "1985",
-        "citation": "Presented at the Modeling and Control of Casting and Welding Processes …, 1985",
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 1985",
         "num_citations": 0,
         "author_pub_id": "K5ja68wAAAAJ:EYYDruWGBe4C"
     },
@@ -2569,14 +2569,14 @@
         "title": "Microstructural simulation of dynamic recrystallization",
         "pub_year": "1992",
         "citation": "Acta metallurgica et materialia 40 (1), 43-55, 1992",
-        "num_citations": 171,
+        "num_citations": 172,
         "author_pub_id": "K5ja68wAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Microstructural simulation of grain growth in two-phase polycrystalline materials",
         "pub_year": "2006",
         "citation": "Egypt. J. Solids 29 (1), 35-47, 2006",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "K5ja68wAAAAJ:zUl2_INMlC4C"
     },
     {
@@ -2604,14 +2604,14 @@
         "title": "Microstructure evolution during supersolvus heat treatment of a powder metallurgy nickel-base superalloy",
         "pub_year": "2012",
         "citation": "Metallurgical and Materials Transactions A 43, 1649-1661, 2012",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "K5ja68wAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Microstructure generation via generative adversarial network for heterogeneous, topologically complex 3D materials",
         "pub_year": "2021",
         "citation": "Jom 73, 90-102, 2021",
-        "num_citations": 82,
+        "num_citations": 86,
         "author_pub_id": "K5ja68wAAAAJ:It0W0vAlS5QC"
     },
     {
@@ -2744,7 +2744,7 @@
         "title": "Mobility of low-angle grain boundaries in pure metals",
         "pub_year": "2010",
         "citation": "Philosophical Magazine 90 (22), 3107-3128, 2010",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "K5ja68wAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -2958,7 +2958,7 @@
     {
         "title": "NNSA Advanced Photon Source Sector Opportunities Workshop (Workshop Summary)",
         "pub_year": "2022",
-        "citation": "Los Alamos National Lab.(LANL), Los Alamos, NM (United States), 2022",
+        "citation": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 2022",
         "num_citations": 0,
         "author_pub_id": "K5ja68wAAAAJ:FQ36aI_S1AEC"
     },
@@ -2986,7 +2986,7 @@
         "title": "Numerical modeling and experimental validation of thermal history and microstructure for additive manufacturing of an Inconel 718 product",
         "pub_year": "2018",
         "citation": "Progress in Additive Manufacturing 3, 15-32, 2018",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "K5ja68wAAAAJ:sgsej9ZJWHMC"
     },
     {
@@ -3007,7 +3007,7 @@
         "title": "Observation of annealing twin nucleation at triple lines in nickel during grain growth",
         "pub_year": "2015",
         "citation": "Acta Materialia 99, 63-68, 2015",
-        "num_citations": 86,
+        "num_citations": 89,
         "author_pub_id": "K5ja68wAAAAJ:BOlwja0KXvYC"
     },
     {
@@ -3021,7 +3021,7 @@
         "title": "On abnormal subgrain growth and the origin of recrystallization nuclei",
         "pub_year": "2003",
         "citation": "Acta Materialia 51 (9), 2701-2716, 2003",
-        "num_citations": 262,
+        "num_citations": 263,
         "author_pub_id": "K5ja68wAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -3035,21 +3035,21 @@
         "title": "On the character of host–island grain interfaces in Fe–1% Si alloy",
         "pub_year": "2007",
         "citation": "Scripta materialia 57 (1), 41-44, 2007",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "K5ja68wAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "On the crystallographic characteristics of nanobainitic steel",
         "pub_year": "2017",
         "citation": "Acta Materialia 127, 426-437, 2017",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "K5ja68wAAAAJ:3lUAU8Oskd0C"
     },
     {
         "title": "On the growth of abnormal grains",
         "pub_year": "1997",
         "citation": "Scripta materialia 36 (9), 1997",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "K5ja68wAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -3086,6 +3086,13 @@
         "citation": "Materials Science and Engineering: A 132, 1-11, 1991",
         "num_citations": 441,
         "author_pub_id": "K5ja68wAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Optical Microscopy on Machined Surfaces in Ti-6Al-4V Reveals Pore Statistics that Correlate with Fatigue",
+        "pub_year": "2024",
+        "citation": "IOP Conference Series: Materials Science and Engineering 1310 (1), 012008, 2024",
+        "num_citations": 0,
+        "author_pub_id": "K5ja68wAAAAJ:Dmoar05iI2YC"
     },
     {
         "title": "Optimal microstructural design for high thermal stability of pure FCC metals based on studying effect of twin boundaries character and network of grain boundaries",
@@ -3126,7 +3133,7 @@
         "title": "Overview of modeling and simulation of recrystallization",
         "pub_year": "1997",
         "citation": "Progress in materials science 42 (1-4), 79-99, 1997",
-        "num_citations": 169,
+        "num_citations": 170,
         "author_pub_id": "K5ja68wAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -3230,7 +3237,7 @@
         "title": "Physics-based and phenomenological plasticity models for thermomechanical simulation in laser powder bed fusion additive manufacturing: a comprehensive numerical comparison",
         "pub_year": "2021",
         "citation": "Materials & Design 204, 109658, 2021",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "K5ja68wAAAAJ:2Q0AJrNhS-QC"
     },
     {
@@ -3257,14 +3264,14 @@
         "title": "Plastic deformation in Al-alloy matrix-alumina particulate composites",
         "pub_year": "1991",
         "citation": "Scripta metallurgica et materialia 25 (1), 27-32, 1991",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "K5ja68wAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Plastic deformation mechanisms that explain hot-rolling textures in Nickel–Titanium",
         "pub_year": "2022",
         "citation": "International Journal of Plasticity 153, 103257, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "K5ja68wAAAAJ:o-PowTg_VKEC"
     },
     {
@@ -3291,14 +3298,14 @@
         "title": "Polycrystal plasticity: comparison between grain-scale observations of deformation and simulations",
         "pub_year": "2014",
         "citation": "Annu. Rev. Condens. Matter Phys. 5 (1), 317-346, 2014",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "K5ja68wAAAAJ:SAZ1SQo2q1kC"
     },
     {
         "title": "Post-processing to Modify the α Phase Micro-Texture and β Phase Grain Morphology in Ti-6Al-4V Fabricated by Powder Bed Electron Beam Melting",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions A 50, 3429-3439, 2019",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "K5ja68wAAAAJ:N6_Y7JlWxwsC"
     },
     {
@@ -3361,7 +3368,7 @@
         "title": "Process qualification of laser powder bed fusion based on processing-defect structure-fatigue properties in Ti-6Al-4V",
         "pub_year": "2023",
         "citation": "Journal of Materials Processing Technology 311, 117775, 2023",
-        "num_citations": 21,
+        "num_citations": 25,
         "author_pub_id": "K5ja68wAAAAJ:JdL-Xu2nR38C"
     },
     {
@@ -3445,7 +3452,7 @@
         "title": "Quantifying Equiaxed vs Epitaxial Solidification in Laser Melting of CMSX-4 Single Crystal Superalloy",
         "pub_year": "2023",
         "citation": "Metallurgical and Materials Transactions A 54 (3), 808-822, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "K5ja68wAAAAJ:Yw6v6SrDvuUC"
     },
     {
@@ -3487,14 +3494,14 @@
         "title": "Real time observation of binder jetting printing process using high-speed X-ray imaging",
         "pub_year": "2019",
         "citation": "Scientific reports 9 (1), 2499, 2019",
-        "num_citations": 160,
+        "num_citations": 162,
         "author_pub_id": "K5ja68wAAAAJ:4QKQTXcH0q8C"
     },
     {
         "title": "Real-time monitoring of laser powder bed fusion process using high-speed X-ray imaging and diffraction",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 3602, 2017",
-        "num_citations": 820,
+        "num_citations": 828,
         "author_pub_id": "K5ja68wAAAAJ:NtCmTCuxid4C"
     },
     {
@@ -3514,7 +3521,7 @@
         "title": "Recrystallization and Related Annealing Phenomena",
         "pub_year": "2018",
         "citation": "Elsevier, 2018",
-        "num_citations": 12332,
+        "num_citations": 12388,
         "author_pub_id": "K5ja68wAAAAJ:-jrNzM816MMC"
     },
     {
@@ -3694,7 +3701,7 @@
         "title": "Simulation and theory of abnormal grain growth—anisotropic grain boundary energies and mobilities",
         "pub_year": "1989",
         "citation": "Acta metallurgica 37 (4), 1227-1240, 1989",
-        "num_citations": 417,
+        "num_citations": 418,
         "author_pub_id": "K5ja68wAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -3722,7 +3729,7 @@
         "title": "Simulation of microstructural evolution in rod rolling of a medium C-Mn steel",
         "pub_year": "2003",
         "citation": "Materials Science Forum 426, 3789-3794, 2003",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "K5ja68wAAAAJ:olpn-zPbct0C"
     },
     {
@@ -3750,7 +3757,7 @@
         "title": "Simulation study of hatch spacing and layer thickness effects on microstructure in laser powder bed fusion additive manufacturing using a texture-aware solidification potts model",
         "pub_year": "2021",
         "citation": "Journal of Materials Engineering and Performance 30 (9), 7007-7018, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "K5ja68wAAAAJ:IyxfXMz2bNAC"
     },
     {
@@ -3785,7 +3792,7 @@
         "title": "Spectral methods for full-field micromechanical modelling of polycrystalline materials",
         "pub_year": "2020",
         "citation": "Computational Materials Science 173, 109336, 2020",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "K5ja68wAAAAJ:B2rIPIGFPLEC"
     },
     {
@@ -3833,7 +3840,7 @@
         "title": "Statistically representative three-dimensional microstructures based on orthogonal observation sections",
         "pub_year": "2004",
         "citation": "Metallurgical and Materials Transactions A 35, 1969-1979, 2004",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "K5ja68wAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -3882,7 +3889,7 @@
         "title": "Strength of nanoscale metallic multilayers",
         "pub_year": "2018",
         "citation": "Scripta Materialia 145, 132-136, 2018",
-        "num_citations": 71,
+        "num_citations": 77,
         "author_pub_id": "K5ja68wAAAAJ:as0KMg8qHbkC"
     },
     {
@@ -3910,7 +3917,7 @@
         "title": "Study of powder gas entrapment and its effects on porosity in 17-4 PH stainless steel parts fabricated in laser powder bed fusion",
         "pub_year": "2021",
         "citation": "JOM 73, 177-188, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "K5ja68wAAAAJ:GtqhT-R7ZnwC"
     },
     {
@@ -3931,7 +3938,7 @@
         "title": "Study of the printability, microstructures, and mechanical performances of laser powder bed fusion Built Haynes 230",
         "pub_year": "2022",
         "citation": "Metals 12 (8), 1380, 2022",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "K5ja68wAAAAJ:qSd0DAb9jMoC"
     },
     {
@@ -3986,7 +3993,7 @@
         "title": "Synchrotron-based X-ray microtomography characterization of the effect of processing variables on porosity formation in laser power-bed additive manufacturing of Ti-6Al-4V",
         "pub_year": "2017",
         "citation": "Jom 69, 479-484, 2017",
-        "num_citations": 326,
+        "num_citations": 332,
         "author_pub_id": "K5ja68wAAAAJ:XDrR66g3YHsC"
     },
     {
@@ -4007,7 +4014,7 @@
         "title": "Systematic and predictive trends to chromium poisoning in solid oxide fuel cell cathodes",
         "pub_year": "2024",
         "citation": "Journal of Power Sources 603, 234390, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "K5ja68wAAAAJ:DwWRdx-KAo4C"
     },
     {
@@ -4052,7 +4059,7 @@
         "title": "Tensile twin nucleation events coupled to neighboring slip observed in three dimensions",
         "pub_year": "2014",
         "citation": "Acta materialia 76, 213-220, 2014",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "K5ja68wAAAAJ:NxmKEeNBbOMC"
     },
     {
@@ -4086,7 +4093,7 @@
         "title": "Textural and microstructural gradient effects on the mechanical behavior of a tantalum plate",
         "pub_year": "1994",
         "citation": "Metallurgical and Materials Transactions A 25, 1025-1031, 1994",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "K5ja68wAAAAJ:4DMP91E08xMC"
     },
     {
@@ -4120,7 +4127,7 @@
         "title": "Texture and anisotropy of Ti-22Al-23Nb foil",
         "pub_year": "1998",
         "citation": "Materials Science and Engineering: A 257 (1), 77-86, 1998",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "K5ja68wAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -4260,15 +4267,8 @@
         "title": "The AFRL additive manufacturing modeling challenge: predicting micromechanical fields in AM IN625 using an FFT-based method with direct input from a 3D microstructural image",
         "pub_year": "2021",
         "citation": "Integrating Materials and Manufacturing Innovation 10 (2), 157-176, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "K5ja68wAAAAJ:Ul_CLA4dPeMC"
-    },
-    {
-        "title": "The Effect of Interlayer Delay on the Heat Accumulation, Microstructures, and Properties in Laser Hot Wire Directed Energy Deposition of Ti-6Al-4V Single-Wall",
-        "pub_year": "2024",
-        "citation": "Materials 17 (13), 3307, 2024",
-        "num_citations": 0,
-        "author_pub_id": "K5ja68wAAAAJ:zfsRRabFVBUC"
     },
     {
         "title": "The Heterophase Interface Character Distribution (HICD) of physical vapor-deposited and accumulative roll-bonded Cu-Nb multilayer composites",
@@ -4349,7 +4349,7 @@
         "title": "The distribution of internal interfaces in polycrystals",
         "pub_year": "2021",
         "citation": "International Journal of Materials Research 95 (4), 197-214, 2021",
-        "num_citations": 305,
+        "num_citations": 306,
         "author_pub_id": "K5ja68wAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -4365,6 +4365,13 @@
         "citation": "Modelling and Simulation in Materials Science and Engineering 23 (4), 045010, 2015",
         "num_citations": 20,
         "author_pub_id": "K5ja68wAAAAJ:pQTOvowfQioC"
+    },
+    {
+        "title": "The effect of interlayer delay on the heat accumulation, microstructures, and properties in laser hot wire directed energy deposition of Ti-6Al-4V single-wall",
+        "pub_year": "2024",
+        "citation": "Materials 17 (13), 3307, 2024",
+        "num_citations": 1,
+        "author_pub_id": "K5ja68wAAAAJ:zfsRRabFVBUC"
     },
     {
         "title": "The effect of mechanical working on the in-plane magnetic properties of Hiperco 50",
@@ -4391,7 +4398,7 @@
         "title": "The first-principles design of ductile refractory alloys",
         "pub_year": "2008",
         "citation": "Jom 60, 61-65, 2008",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "K5ja68wAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -4405,7 +4412,7 @@
         "title": "The heterophase interface character distribution of physical vapor-deposited and accumulative roll-bonded Cu–Nb multilayer composites",
         "pub_year": "2012",
         "citation": "Acta materialia 60 (4), 1747-1761, 2012",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "K5ja68wAAAAJ:6yz0xqPARnAC"
     },
     {
@@ -4440,14 +4447,14 @@
         "title": "The influence of γ-fibre texture on the grain boundary character distribution of an IF-steel",
         "pub_year": "2023",
         "citation": "Scripta Materialia 222, 115042, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "K5ja68wAAAAJ:mgoTDWlsYNUC"
     },
     {
         "title": "The interplay between vapour, liquid, and solid phases in laser powder bed fusion",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 2959, 2022",
-        "num_citations": 57,
+        "num_citations": 60,
         "author_pub_id": "K5ja68wAAAAJ:h1pkognVyKwC"
     },
     {
@@ -4475,7 +4482,7 @@
         "title": "The monte carlo method",
         "pub_year": "2004",
         "citation": "Continuum scale simulation of engineering materials: fundamentals …, 2004",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "K5ja68wAAAAJ:hMod-77fHWUC"
     },
     {
@@ -4536,7 +4543,7 @@
         "title": "Thermo-mechanical factors influencing annealing twin development in nickel during recrystallization",
         "pub_year": "2015",
         "citation": "Journal of Materials Science 50, 5191-5203, 2015",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "K5ja68wAAAAJ:jmjb1lOE9QIC"
     },
     {
@@ -4550,7 +4557,7 @@
         "title": "Thermodynamics-guided alloy and process design for additive manufacturing",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 4361, 2022",
-        "num_citations": 70,
+        "num_citations": 78,
         "author_pub_id": "K5ja68wAAAAJ:dhpJJ7xvgBgC"
     },
     {
@@ -4592,7 +4599,7 @@
         "title": "Three-dimensional characterization of microstructure by electron back-scatter diffraction",
         "pub_year": "2007",
         "citation": "Annu. Rev. Mater. Res. 37 (1), 627-658, 2007",
-        "num_citations": 179,
+        "num_citations": 181,
         "author_pub_id": "K5ja68wAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -4620,7 +4627,7 @@
         "title": "Three-dimensional microstructure reconstruction using FIB-OIM",
         "pub_year": "2007",
         "citation": "Materials Science Forum 558, 915-920, 2007",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "K5ja68wAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -4676,7 +4683,7 @@
         "title": "Towards an integrated materials characterization toolbox",
         "pub_year": "2011",
         "citation": "Journal of Materials Research 26 (11), 1341-1383, 2011",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "K5ja68wAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -4697,7 +4704,7 @@
         "title": "Transition between low and high angle grain boundaries",
         "pub_year": "2005",
         "citation": "Acta materialia 53 (10), 2901-2907, 2005",
-        "num_citations": 150,
+        "num_citations": 152,
         "author_pub_id": "K5ja68wAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -4725,7 +4732,7 @@
         "title": "Ultrafast X-ray imaging of laser–metal additive manufacturing processes",
         "pub_year": "2018",
         "citation": "Journal of synchrotron radiation 25 (5), 1467-1477, 2018",
-        "num_citations": 190,
+        "num_citations": 195,
         "author_pub_id": "K5ja68wAAAAJ:9LpHyFPp1DQC"
     },
     {
@@ -4739,14 +4746,14 @@
         "title": "Understanding materials microstructure and behavior at the mesoscale",
         "pub_year": "2015",
         "citation": "MRS Bulletin 40 (11), 951-960, 2015",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "K5ja68wAAAAJ:yY3RG6sOEgwC"
     },
     {
         "title": "Understanding process-microstructure-property relationships in laser powder bed fusion of non-spherical Ti-6Al-4V powder",
         "pub_year": "2023",
         "citation": "Materials Characterization 198, 112757, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "K5ja68wAAAAJ:e9bUPLv0EjcC"
     },
     {
@@ -4760,7 +4767,7 @@
         "title": "Understanding the role of geometry and interlayer cooling time on microstructure variations in LPBF Ti6Al4V through part-scale scan-resolved thermal modeling",
         "pub_year": "2024",
         "citation": "Additive Manufacturing Letters 9, 100197, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "K5ja68wAAAAJ:lPDSu1ZU3VAC"
     },
     {
@@ -4774,7 +4781,7 @@
         "title": "Use of non-spherical hydride-dehydride (HDH) powder in powder bed fusion additive manufacturing",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 34, 101188, 2020",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "K5ja68wAAAAJ:j8pvxH-kN2QC"
     },
     {
@@ -4795,7 +4802,7 @@
         "title": "Validating computed grain boundary energies in fcc metals using the grain boundary character distribution",
         "pub_year": "2011",
         "citation": "Acta materialia 59 (13), 5250-5256, 2011",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "K5ja68wAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -4809,21 +4816,21 @@
         "title": "Validation of micro-mechanical FFT-based simulations using High Energy Diffraction Microscopy on Ti-7Al",
         "pub_year": "2018",
         "citation": "Acta materialia 154, 273-283, 2018",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "K5ja68wAAAAJ:8uzoZH4hB9AC"
     },
     {
         "title": "Variant selection in laser powder bed fusion of non-spherical Ti-6Al-4V powder",
         "pub_year": "2023",
         "citation": "Journal of Materials Science & Technology 147, 56-67, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "K5ja68wAAAAJ:w0odbtu79TwC"
     },
     {
         "title": "Varied heat treatments and properties of laser powder bed printed Inconel 718",
         "pub_year": "2019",
         "citation": "Materials Science and Engineering: A 755, 170-180, 2019",
-        "num_citations": 116,
+        "num_citations": 119,
         "author_pub_id": "K5ja68wAAAAJ:i91s68tWr-MC"
     },
     {

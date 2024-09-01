@@ -19,13 +19,6 @@
         "author_pub_id": "0P7IAs8AAAAJ:DUooU5lO8OsC"
     },
     {
-        "title": "A Bridge to the Ph. D. for URM Students",
-        "pub_year": "2019",
-        "citation": "2019 CoNECD-The Collaborative Network for Engineering and Computing Diversity, 2019",
-        "num_citations": 1,
-        "author_pub_id": "0P7IAs8AAAAJ:7wO8s98CvbsC"
-    },
-    {
         "title": "A COMBINED-TECHNIQUES APPROACH TO ELUCIDATING CRYSTALLINE INTERFACE ATOMIC STRUCTURE EC DICKEY*, VP DRAVID*, SJ PENNYCOOK**, PD NELLIST**, DJ WALLIS",
         "pub_year": "1997",
         "citation": "Atomic Resolution Microscopy of Surfaces and Interfaces: Volume 466, 45, 1997",
@@ -45,6 +38,13 @@
         "citation": "245th ECS Meeting (May 26-30, 2024), 2024",
         "num_citations": 0,
         "author_pub_id": "0P7IAs8AAAAJ:LXmCCkuhhTsC"
+    },
+    {
+        "title": "A bridge to the Ph. D. for URM students",
+        "pub_year": "2019",
+        "citation": "2019 CoNECD-The Collaborative Network for Engineering and Computing Diversity, 2019",
+        "num_citations": 1,
+        "author_pub_id": "0P7IAs8AAAAJ:7wO8s98CvbsC"
     },
     {
         "title": "A combined experimental and theoretical approach to atomic structure and segregation at ceramic interfaces",
@@ -71,7 +71,7 @@
         "title": "A novel approach to sintering nanocrystalline barium titanate ceramics",
         "pub_year": "2005",
         "citation": "Journal of the American Ceramic Society 88 (11), 3008-3012, 2005",
-        "num_citations": 186,
+        "num_citations": 188,
         "author_pub_id": "0P7IAs8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -99,14 +99,14 @@
         "title": "A sentinel sensor network for hydrogen sensing",
         "pub_year": "2003",
         "citation": "Sensors 3 (3), 69-82, 2003",
-        "num_citations": 147,
+        "num_citations": 148,
         "author_pub_id": "0P7IAs8AAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "A study on the growth and structure of titania nanotubes",
         "pub_year": "2004",
         "citation": "Journal of materials research 19 (2), 417-422, 2004",
-        "num_citations": 303,
+        "num_citations": 308,
         "author_pub_id": "0P7IAs8AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -120,7 +120,7 @@
         "title": "Ab Initio Calculations of Pristine and Doped Zirconia Σ5 (310)/[001] Tilt Grain Boundaries",
         "pub_year": "2002",
         "citation": "Journal of the American Ceramic Society 85 (6), 1594-1600, 2002",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "0P7IAs8AAAAJ:TFP_iSt0sucC"
     },
     {
@@ -134,7 +134,7 @@
         "title": "Accuracy of Local Polarization Measurements by Scanning Transmission Electron Microscopy",
         "pub_year": "2022",
         "citation": "Microscopy and Microanalysis 28 (6), 2047-2058, 2022",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "0P7IAs8AAAAJ:kzcSZmkxUKAC"
     },
     {
@@ -245,7 +245,7 @@
         "title": "Atomic scale analysis of cubic zirconia grain boundaries",
         "pub_year": "1999",
         "citation": "MRS Online Proceedings Library (OPL) 589, 323, 1999",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "0P7IAs8AAAAJ:SpbeaW3--B0C"
     },
     {
@@ -259,14 +259,14 @@
         "title": "Atomic-resolution electron microscopy of nanoscale local structure in lead-based relaxor ferroelectrics",
         "pub_year": "2021",
         "citation": "Nature materials 20 (1), 62-67, 2021",
-        "num_citations": 126,
+        "num_citations": 128,
         "author_pub_id": "0P7IAs8AAAAJ:jFemdcug13IC"
     },
     {
         "title": "Atomic-scale polarization switching in wurtzite ferroelectrics",
         "pub_year": "2023",
         "citation": "Science 380 (6649), 1034-1038, 2023",
-        "num_citations": 31,
+        "num_citations": 39,
         "author_pub_id": "0P7IAs8AAAAJ:An6A6Jpfc1oC"
     },
     {
@@ -331,6 +331,13 @@
         "author_pub_id": "0P7IAs8AAAAJ:UebtZRa9Y70C"
     },
     {
+        "title": "Characterization of Mg-Alloyed Zinc Oxide Thin Films for Memory Devices via Transmission Electron Microscopy Analyses",
+        "pub_year": "2024",
+        "citation": "Microscopy and Microanalysis 30 (Supplement_1), 2024",
+        "num_citations": 0,
+        "author_pub_id": "0P7IAs8AAAAJ:sA9dB-pw3HoC"
+    },
+    {
         "title": "Characterization of Zn1− xMnxSe nanowires and nanoribbons with cation sublattice ordering",
         "pub_year": "2013",
         "citation": "Journal of crystal growth 375, 95-99, 2013",
@@ -348,7 +355,7 @@
         "title": "Chemical attachment of organic functional groups to single-walled carbon nanotube material",
         "pub_year": "1998",
         "citation": "Journal of Materials Research 13 (9), 2423-2431, 1998",
-        "num_citations": 506,
+        "num_citations": 508,
         "author_pub_id": "0P7IAs8AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -383,7 +390,7 @@
         "title": "Cold sintering: Current status and prospects",
         "pub_year": "2017",
         "citation": "Journal of Materials Research 32 (17), 3205-3218, 2017",
-        "num_citations": 253,
+        "num_citations": 255,
         "author_pub_id": "0P7IAs8AAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -446,7 +453,7 @@
         "title": "Continuous production of aligned carbon nanotubes: a step closer to commercial realization",
         "pub_year": "1999",
         "citation": "Chemical physics letters 303 (5-6), 467-474, 1999",
-        "num_citations": 1262,
+        "num_citations": 1263,
         "author_pub_id": "0P7IAs8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -467,7 +474,7 @@
         "title": "Crystallization and high-temperature structural stability of titanium oxide nanotube arrays",
         "pub_year": "2003",
         "citation": "Journal of Materials Research 18 (1), 156-165, 2003",
-        "num_citations": 907,
+        "num_citations": 906,
         "author_pub_id": "0P7IAs8AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -495,7 +502,7 @@
         "title": "Crystallographic characterization and indentation mechanical properties of LaB6-ZrB2 directionally solidified eutectics",
         "pub_year": "2004",
         "citation": "Journal of materials science 39, 5987-5994, 2004",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "0P7IAs8AAAAJ:k_IJM867U9cC"
     },
     {
@@ -509,7 +516,7 @@
         "title": "Crystallographic texture and orientation variants in Al2O3–Y3Al5O12 directionally solidified eutectic crystals",
         "pub_year": "2001",
         "citation": "Journal of crystal growth 233 (1-2), 187-195, 2001",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "0P7IAs8AAAAJ:4TOpqqG69KYC"
     },
     {
@@ -523,7 +530,7 @@
         "title": "Data‐driven glass/ceramic science research: Insights from the glass and ceramic and data science/informatics communities",
         "pub_year": "2019",
         "citation": "Journal of the American Ceramic Society 102 (11), 6385-6406, 2019",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "0P7IAs8AAAAJ:PYBJJbyH-FwC"
     },
     {
@@ -586,7 +593,7 @@
         "title": "Diameter Dependent Growth Rate and Interfacial Abruptness in Vapor–Liquid–Solid Si/Si1−xGex Heterostructure Nanowires",
         "pub_year": "2008",
         "citation": "Nano letters 8 (4), 1246-1252, 2008",
-        "num_citations": 210,
+        "num_citations": 211,
         "author_pub_id": "0P7IAs8AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -656,7 +663,7 @@
         "title": "Directionally solidified boride and carbide eutectic ceramics",
         "pub_year": "2016",
         "citation": "Journal of the American Ceramic Society 99 (6), 1837-1851, 2016",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "0P7IAs8AAAAJ:yqoGN6RLRZoC"
     },
     {
@@ -719,7 +726,7 @@
         "title": "Effect of Meso- and Micro-Porosity in Carbon Electrodes on Atomic Layer Deposition of Pseudocapacitive V2O5 for High Performance Supercapacitors",
         "pub_year": "2015",
         "citation": "Chemistry of Materials 27 (19), 6524-6534, 2015",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "0P7IAs8AAAAJ:IRz6iEL74y4C"
     },
     {
@@ -733,7 +740,7 @@
         "title": "Effect of SiO2 on Densification and Microstructure Development in Nd:YAG Transparent Ceramics",
         "pub_year": "2011",
         "citation": "Journal of the American Ceramic Society 94 (5), 1380-1387, 2011",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "0P7IAs8AAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -742,13 +749,6 @@
         "citation": "APL MATERIALS 12 (2), 2024",
         "num_citations": 1,
         "author_pub_id": "0P7IAs8AAAAJ:Hck25ST_3aIC"
-    },
-    {
-        "title": "Effect of boron concentration on local structure and spontaneous polarization in AlBN thin films",
-        "pub_year": "2024",
-        "citation": "APL Materials 12 (2), 2024",
-        "num_citations": 0,
-        "author_pub_id": "0P7IAs8AAAAJ:jSAVyFp_754C"
     },
     {
         "title": "Effect of boundary conditions on reduction during early stage flash sintering of YSZ",
@@ -768,7 +768,7 @@
         "title": "Effect of diborane on the microstructure of boron-doped silicon nanowires",
         "pub_year": "2005",
         "citation": "Journal of crystal growth 277 (1-4), 428-436, 2005",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "0P7IAs8AAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -824,7 +824,7 @@
         "title": "Electric conduction of thin-layer Ni-multilayer ceramic capacitors with core–shell structure BaTiO3",
         "pub_year": "2007",
         "citation": "Japanese journal of applied physics 46 (5R), 2984, 2007",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "0P7IAs8AAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -873,7 +873,7 @@
         "title": "Electrode defects in multilayer capacitors part II: finite element analysis of local field enhancement and leakage current in three‐dimensional microstructures",
         "pub_year": "2012",
         "citation": "Journal of the American Ceramic Society 95 (1), 264-268, 2012",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "0P7IAs8AAAAJ:KxtntwgDAa4C"
     },
     {
@@ -915,7 +915,7 @@
         "title": "Enhanced electrical and noise properties of nanocomposite vanadium oxide thin films by reactive pulsed-dc magnetron sputtering",
         "pub_year": "2012",
         "citation": "Applied Physics Letters 100 (26), 2012",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "0P7IAs8AAAAJ:p2g8aNsByqUC"
     },
     {
@@ -929,7 +929,7 @@
         "title": "Entropy-stabilized oxides",
         "pub_year": "2015",
         "citation": "Nature communications 6 (1), 8485, 2015",
-        "num_citations": 2071,
+        "num_citations": 2137,
         "author_pub_id": "0P7IAs8AAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -1024,14 +1024,14 @@
         "title": "Fermi level pinning in Co‐doped BaTiO3: Part I. DC and AC electrical conductivities and degradation behavior",
         "pub_year": "2022",
         "citation": "Journal of the American Ceramic Society 105 (1), 292-298, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "0P7IAs8AAAAJ:kWvqk_afx_IC"
     },
     {
         "title": "Fermi level pinning in Co‐doped BaTiO3: Part II. Defect chemistry models",
         "pub_year": "2021",
         "citation": "Journal of the American Ceramic Society 104 (11), 5859-5872, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "0P7IAs8AAAAJ:mKu_rENv82IC"
     },
     {
@@ -1045,7 +1045,7 @@
         "title": "Ferroelectricity in hafnia controlled via surface electrochemical state",
         "pub_year": "2023",
         "citation": "Nature Materials 22 (9), 1144-1151, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "0P7IAs8AAAAJ:TlpoogIpr_IC"
     },
     {
@@ -1094,14 +1094,14 @@
         "title": "Gas sensing characteristics of multi-wall carbon nanotubes",
         "pub_year": "2001",
         "citation": "Sensors and Actuators B: Chemical 81 (1), 32-41, 2001",
-        "num_citations": 768,
+        "num_citations": 770,
         "author_pub_id": "0P7IAs8AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Giant piezoelectricity of Sm-doped Pb(Mg1/3Nb2/3)O3-PbTiO3 single crystals",
         "pub_year": "2019",
         "citation": "Science 364 (6437), 264-268, 2019",
-        "num_citations": 689,
+        "num_citations": 701,
         "author_pub_id": "0P7IAs8AAAAJ:1taIhTC69MYC"
     },
     {
@@ -1219,7 +1219,7 @@
         "title": "Highly ordered nanoporous alumina films: Effect of pore size and uniformity on sensing performance",
         "pub_year": "2002",
         "citation": "Journal of materials research 17 (5), 1162-1171, 2002",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "0P7IAs8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1310,7 +1310,7 @@
         "title": "Infrared Signatures for Phase Identification in Hafnium Oxide Thin Films",
         "pub_year": "2023",
         "citation": "ACS nano 17 (23), 23944-23954, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "0P7IAs8AAAAJ:wvYxNZNCP7wC"
     },
     {
@@ -1344,7 +1344,7 @@
         "title": "Interface Crystallography and Structure in LaB6–ZrB2 Directionally Solidified Eutectics",
         "pub_year": "2007",
         "citation": "Journal of the American Ceramic Society 90 (8), 2603-2609, 2007",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "0P7IAs8AAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -1477,7 +1477,7 @@
         "title": "Large anelasticity and associated energy dissipation in single-crystalline nanowires",
         "pub_year": "2015",
         "citation": "Nature nanotechnology 10 (8), 687-691, 2015",
-        "num_citations": 79,
+        "num_citations": 83,
         "author_pub_id": "0P7IAs8AAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -1505,7 +1505,7 @@
         "title": "Load transfer and deformation mechanisms in carbon nanotube-polystyrene composites",
         "pub_year": "2000",
         "citation": "Applied physics letters 76 (20), 2868-2870, 2000",
-        "num_citations": 3370,
+        "num_citations": 3380,
         "author_pub_id": "0P7IAs8AAAAJ:tYavs44e6CUC"
     },
     {
@@ -1519,8 +1519,15 @@
         "title": "Local impedance and microchemical analysis of electrical heterogeneities in multilayer electroceramic devices",
         "pub_year": "2007",
         "citation": "Journal of Materials Research 22 (12), 3507-3515, 2007",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "0P7IAs8AAAAJ:4fKUyHm3Qg0C"
+    },
+    {
+        "title": "Low Leakage Ferroelectric Heteroepitaxial AlScN Films on GaN",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2407.14037, 2024",
+        "num_citations": 0,
+        "author_pub_id": "0P7IAs8AAAAJ:aIdbFUkbNIkC"
     },
     {
         "title": "Low Voltage CV Loss in Ta Capacitors",
@@ -1545,7 +1552,7 @@
         "title": "Low frequency dielectric properties related to structure of cotton fabrics",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Dielectrics and Electrical Insulation 27 (1), 314-321, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "0P7IAs8AAAAJ:hsZV8lGYWTMC"
     },
     {
@@ -1580,14 +1587,14 @@
         "title": "Magnetoelastic sensors in combination with nanometer-scale honeycombed thin film ceramic  for remote query measurement of humidity",
         "pub_year": "2000",
         "citation": "Journal of Applied Physics 87 (9), 5341-5343, 2000",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "0P7IAs8AAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Mapping 180 polar domains using electron backscatter diffraction and dynamical scattering simulations",
         "pub_year": "2017",
         "citation": "Ultramicroscopy 173, 47-51, 2017",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "0P7IAs8AAAAJ:fbc8zXXH2BUC"
     },
     {
@@ -1622,7 +1629,7 @@
         "title": "Mechanism studies of hydrothermal cold sintering of zinc oxide at near room temperature",
         "pub_year": "2019",
         "citation": "Journal of the American Ceramic Society 102 (8), 4459-4469, 2019",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "0P7IAs8AAAAJ:kVjdVfd2voEC"
     },
     {
@@ -1650,7 +1657,7 @@
         "title": "MgB2 thin films by hybrid physical–chemical vapor deposition",
         "pub_year": "2007",
         "citation": "Physica C: Superconductivity 456 (1-2), 22-37, 2007",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "0P7IAs8AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -1748,7 +1755,7 @@
         "title": "Model of carbon nanotube growth through chemical vapor deposition",
         "pub_year": "1999",
         "citation": "Chemical Physics Letters 315 (1-2), 25-30, 1999",
-        "num_citations": 826,
+        "num_citations": 830,
         "author_pub_id": "0P7IAs8AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1839,14 +1846,14 @@
         "title": "Oxygen nonstoichiometry and dielectric evolution of . Part II—insulation resistance degradation under applied dc bias",
         "pub_year": "2004",
         "citation": "Journal of applied physics 96 (12), 7500-7508, 2004",
-        "num_citations": 244,
+        "num_citations": 245,
         "author_pub_id": "0P7IAs8AAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "Oxygen nonstoichiometry and dielectric evolution of . Part I—improvement of insulation resistance with reoxidation",
         "pub_year": "2004",
         "citation": "Journal of Applied Physics 96 (12), 7492-7499, 2004",
-        "num_citations": 231,
+        "num_citations": 235,
         "author_pub_id": "0P7IAs8AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1874,7 +1881,7 @@
         "title": "Perspectives and progress on wurtzite ferroelectrics: Synthesis, characterization, theory, and device applications",
         "pub_year": "2024",
         "citation": "Applied Physics Letters 124 (8), 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "0P7IAs8AAAAJ:zGdJYJv2LkUC"
     },
     {
@@ -1909,7 +1916,7 @@
         "title": "Prediction of high-temperature point defect formation in TiO2 from combined ab initio and thermodynamic calculations",
         "pub_year": "2007",
         "citation": "Acta Materialia 55 (13), 4325-4337, 2007",
-        "num_citations": 163,
+        "num_citations": 165,
         "author_pub_id": "0P7IAs8AAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1972,7 +1979,7 @@
         "title": "Purification and structural annealing of multiwalled carbon nanotubes at graphitization temperatures",
         "pub_year": "2001",
         "citation": "Carbon 39 (11), 1681-1687, 2001",
-        "num_citations": 579,
+        "num_citations": 581,
         "author_pub_id": "0P7IAs8AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -2014,7 +2021,7 @@
         "title": "Raman spectroscopy and structure of crystalline gallium phosphide nanowires",
         "pub_year": "2003",
         "citation": "Journal of Nanoscience and Nanotechnology 3 (4), 335-339, 2003",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "0P7IAs8AAAAJ:dhFuZR0502QC"
     },
     {
@@ -2028,7 +2035,7 @@
         "title": "Relaxor ferroelectric behavior in barium strontium titanate",
         "pub_year": "2016",
         "citation": "Journal of the American Ceramic Society 99 (5), 1645-1650, 2016",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "0P7IAs8AAAAJ:OR75R8vi5nAC"
     },
     {
@@ -2056,7 +2063,7 @@
         "title": "Reversible intercalation of charged iodine chains into carbon nanotube ropes",
         "pub_year": "1998",
         "citation": "Physical review letters 80 (25), 5560, 1998",
-        "num_citations": 362,
+        "num_citations": 363,
         "author_pub_id": "0P7IAs8AAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -2201,7 +2208,7 @@
         "title": "Stoichiometry and valence measurements of niobium oxides using electron energy‐loss spectroscopy",
         "pub_year": "2006",
         "citation": "Journal of microscopy 224 (3), 233-241, 2006",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "0P7IAs8AAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -2231,6 +2238,13 @@
         "citation": "2007 International Semiconductor Device Research Symposium, 1-2, 2007",
         "num_citations": 0,
         "author_pub_id": "0P7IAs8AAAAJ:N5tVd3kTz84C"
+    },
+    {
+        "title": "Structural Evolution of Alloyed Aluminum Nitride Heterostructures",
+        "pub_year": "2024",
+        "citation": "Microscopy and Microanalysis 30 (Supplement_1), 2024",
+        "num_citations": 0,
+        "author_pub_id": "0P7IAs8AAAAJ:silx2ntsSuwC"
     },
     {
         "title": "Structural and electrical properties of trimethylboron-doped silicon nanowires",
@@ -2487,7 +2501,7 @@
         "title": "Titanium oxide nanotube arrays prepared by anodic oxidation",
         "pub_year": "2001",
         "citation": "Journal of Materials Research 16, 3331-3334, 2001",
-        "num_citations": 2834,
+        "num_citations": 2841,
         "author_pub_id": "0P7IAs8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2584,7 +2598,7 @@
         "title": "Z-contrast imaging and electron energy-loss spectroscopy analysis of chromium-doped diamond-like carbon films",
         "pub_year": "1999",
         "citation": "Applied physics letters 75 (18), 2740-2742, 1999",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "0P7IAs8AAAAJ:QIV2ME_5wuYC"
     },
     {

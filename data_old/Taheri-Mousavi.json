@@ -42,13 +42,6 @@
         "author_pub_id": "G5ZrIsIAAAAJ:LkGwnXOMwfcC"
     },
     {
-        "title": "Artificial Intelligence and Machine Learning in Materials Science",
-        "pub_year": "2024",
-        "citation": "AM&P Technical Articles 182 (4), 14-20, 2024",
-        "num_citations": 0,
-        "author_pub_id": "G5ZrIsIAAAAJ:dhFuZR0502QC"
-    },
-    {
         "title": "Dynamic crack propagation in a heterogeneous ceramic microstructure, insights from a cohesive model",
         "pub_year": "2015",
         "citation": "Acta Materialia 88, 136-146, 2015",
@@ -80,7 +73,7 @@
         "title": "Limiting mechanisms and scaling of electrostatically controlled adhesion of soft nanocomposite surfaces for robotic gripping",
         "pub_year": "2020",
         "citation": "ACS Applied Materials & Interfaces 13 (1), 1192-1203, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "G5ZrIsIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -150,7 +143,7 @@
         "title": "Origin of micrometer-scale dislocation motion during hydrogen desorption",
         "pub_year": "2020",
         "citation": "Science advances 6 (23), eaaz1187, 2020",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "G5ZrIsIAAAAJ:d1gkVwhDpl0C"
     },
     {

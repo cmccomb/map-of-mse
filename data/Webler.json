@@ -24,7 +24,7 @@
         "title": "A study of microstructure and cracking behavior of H13 tool steel produced by laser powder bed fusion using single-tracks, multi-track pads, and 3D cubes",
         "pub_year": "2020",
         "citation": "Journal of Materials Processing Technology 286, 116802, 2020",
-        "num_citations": 60,
+        "num_citations": 64,
         "author_pub_id": "MFLMm8YAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -72,7 +72,7 @@
         "title": "Automated detection of non-metallic inclusion clusters in aluminum-deoxidized steel",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions B 52, 3970-3985, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "MFLMm8YAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -86,7 +86,7 @@
         "title": "Calcium Modification of Inclusions via Slag/Metal Reactions",
         "pub_year": "2020",
         "citation": "Metallurgical and Materials Transactions B 51, 529-542, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "MFLMm8YAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -100,21 +100,21 @@
         "title": "Chemical composition modification of inclusions in steels by controlled Ca treatment",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions B 52 (5), 2837-2841, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "MFLMm8YAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Coarsening of inter-and intra-granular proeutectoid cementite in an initially pearlitic 2c-4cr ultrahigh carbon steel",
         "pub_year": "2017",
         "citation": "Metallurgical and Materials Transactions A 48, 2320-2335, 2017",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "MFLMm8YAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Defects and anomalies in powder bed fusion metal additive manufacturing",
         "pub_year": "2022",
         "citation": "Current Opinion in Solid State and Materials Science 26 (2), 100974, 2022",
-        "num_citations": 277,
+        "num_citations": 289,
         "author_pub_id": "MFLMm8YAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Digital image analysis to quantify carbide networks in ultrahigh carbon steels",
         "pub_year": "2016",
         "citation": "Materials Characterization 117, 134-143, 2016",
-        "num_citations": 34,
+        "num_citations": 37,
         "author_pub_id": "MFLMm8YAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "High temperature oxidation behaviors of steels at initial stages in air",
         "pub_year": "2024",
         "citation": "Corrosion Science 229, 111838, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "MFLMm8YAAAAJ:rO6llkc54NcC"
     },
     {
@@ -339,8 +339,9 @@
         "author_pub_id": "MFLMm8YAAAAJ:3s1wT3WcHBgC"
     },
     {
-        "title": "Location-Dependent Phase Transformation Kinetics During Laser Wire Deposition Additive Manufacturing of Ti6Al4V",
-        "citation": "Available at SSRN 4245027, 0",
+        "title": "Location-Dependent Phase Transformation Kinetics During Laser Wire Deposition Additive Manufacturing of Ti–6Al–4V",
+        "pub_year": "2024",
+        "citation": "Metallurgical and Materials Transactions A, 1-17, 2024",
         "num_citations": 1,
         "author_pub_id": "MFLMm8YAAAAJ:SeFeTyx0c_EC"
     },
@@ -348,7 +349,7 @@
         "title": "Melt pool geometry and microstructure of Ti6Al4V with B additions processed by selective laser melting additive manufacturing",
         "pub_year": "2019",
         "citation": "Materials & design 183, 108126, 2019",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "MFLMm8YAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -376,7 +377,7 @@
         "title": "On the extension of the Gurson-type porous plasticity models for prediction of ductile fracture under shear-dominated conditions",
         "pub_year": "2014",
         "citation": "International Journal of Solids and Structures 51 (18), 3273-3291, 2014",
-        "num_citations": 138,
+        "num_citations": 140,
         "author_pub_id": "MFLMm8YAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -439,7 +440,7 @@
         "title": "Reduction of CaO and MgO slag components by Al in liquid Fe",
         "pub_year": "2018",
         "citation": "Metallurgical and Materials Transactions B 49, 1665-1674, 2018",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "MFLMm8YAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -474,7 +475,7 @@
         "title": "The columnar-to-equiaxed transition in melt pools during laser powder bed fusion of M2 steel",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions A 52 (9), 4206-4221, 2021",
-        "num_citations": 23,
+        "num_citations": 26,
         "author_pub_id": "MFLMm8YAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -495,7 +496,7 @@
         "title": "UHCSDB: ultrahigh carbon steel micrograph database: tools for exploring large heterogeneous microstructure datasets",
         "pub_year": "2017",
         "citation": "Integrating Materials and Manufacturing Innovation 6, 197-205, 2017",
-        "num_citations": 81,
+        "num_citations": 83,
         "author_pub_id": "MFLMm8YAAAAJ:5nxA0vEk-isC"
     },
     {

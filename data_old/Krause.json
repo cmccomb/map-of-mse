@@ -3,22 +3,15 @@
         "title": "2ZrO2· Y2O3 Thermal Barrier Coatings Resistant to Degradation by Molten CMAS: Part I, Optical Basicity Considerations and Processing",
         "pub_year": "2014",
         "citation": "Journal of the American Ceramic Society 97 (12), 3943-3949, 2014",
-        "num_citations": 141,
+        "num_citations": 144,
         "author_pub_id": "l5EsegcAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "2ZrO2· Y2O3 Thermal Barrier Coatings Resistant to Degradation by Molten CMAS: Part II, Interactions with Sand and Fly Ash",
         "pub_year": "2014",
         "citation": "Journal of the American Ceramic Society 97 (12), 3950-3957, 2014",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "l5EsegcAAAAJ:Se3iqnhoufwC"
-    },
-    {
-        "title": "A Triple Junction Energy Study Using an Inclination-Dependent Anisotropic Monte Carlo Potts Grain Growth Model",
-        "pub_year": "2024",
-        "citation": "Materials & Design, 112763, 2024",
-        "num_citations": 1,
-        "author_pub_id": "l5EsegcAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "A new efficient grain growth model using a random Gaussian-sampled mode filter",
@@ -33,6 +26,13 @@
         "citation": "Materials & Design 222, 111032, 2022",
         "num_citations": 18,
         "author_pub_id": "l5EsegcAAAAJ:hC7cP41nSMkC"
+    },
+    {
+        "title": "A triple junction energy study using an inclination-dependent anisotropic Monte Carlo Potts grain growth model",
+        "pub_year": "2024",
+        "citation": "Materials & Design 239, 112763, 2024",
+        "num_citations": 1,
+        "author_pub_id": "l5EsegcAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Anisotropic physics-regularized interpretable machine learning of microstructure evolution",
@@ -52,7 +52,7 @@
         "title": "Calcia-magnesia-alumino-silicate (CMAS)-induced degradation and failure of air plasma sprayed yttria-stabilized zirconia thermal barrier coatings",
         "pub_year": "2016",
         "citation": "Acta Materialia 105, 355-366, 2016",
-        "num_citations": 211,
+        "num_citations": 214,
         "author_pub_id": "l5EsegcAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -87,27 +87,34 @@
         "title": "Engineering grain boundary anisotropy to elucidate grain growth behavior in alumina",
         "pub_year": "2022",
         "citation": "Journal of the European Ceramic Society 42 (13), 5864-5873, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "l5EsegcAAAAJ:qUcmZB5y_30C"
+    },
+    {
+        "title": "Engineering grain boundary energy with thermal profiles to control grain growth in SrTiO3",
+        "pub_year": "2024",
+        "citation": "Journal of the American Ceramic Society, 2024",
+        "num_citations": 0,
+        "author_pub_id": "l5EsegcAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Environmental-barrier coating ceramics for resistance against attack by molten calcia-magnesia-aluminosilicate (CMAS) glass: Part I, YAlO3 and γ-Y2Si2O7",
         "pub_year": "2018",
         "citation": "Journal of the European Ceramic Society 38 (11), 3905-3913, 2018",
-        "num_citations": 104,
+        "num_citations": 107,
         "author_pub_id": "l5EsegcAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Environmental-barrier coating ceramics for resistance against attack by molten calcia-magnesia-aluminosilicate (CMAS) glass: Part II, β-Yb2Si2O7 and β-Sc2Si2O7",
         "pub_year": "2018",
         "citation": "Journal of the European Ceramic Society 38 (11), 3914-3924, 2018",
-        "num_citations": 133,
+        "num_citations": 136,
         "author_pub_id": "l5EsegcAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Grain boundary complexion transitions",
         "pub_year": "2020",
-        "citation": "Annual Review of Materials Research 50, 465-492, 2020",
+        "citation": "Annual Review of Materials Research 50 (1), 465-492, 2020",
         "num_citations": 138,
         "author_pub_id": "l5EsegcAAAAJ:aqlVkmm33-oC"
     },
@@ -115,13 +122,13 @@
         "title": "Grain boundary migration in polycrystalline α-Fe",
         "pub_year": "2024",
         "citation": "Acta Materialia 264, 119541, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "l5EsegcAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Grain boundary migration in polycrystals",
         "pub_year": "2023",
-        "citation": "Annual Review of Materials Research 53, 347-369, 2023",
+        "citation": "Annual Review of Materials Research 53 (1), 347-369, 2023",
         "num_citations": 16,
         "author_pub_id": "l5EsegcAAAAJ:HDshCWvjkbEC"
     },
@@ -192,7 +199,7 @@
         "title": "Resistance of 2ZrO2· Y2O3 top coat in thermal/environmental barrier coatings to calcia‐magnesia‐aluminosilicate attack at 1500° C",
         "pub_year": "2017",
         "citation": "Journal of the American Ceramic Society 100 (7), 3175-3187, 2017",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "l5EsegcAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -248,7 +255,7 @@
         "title": "Thin‐Film Transformation of NH4PbI3 to CH3NH3PbI3 Perovskite: A Methylamine‐Induced Conversion–Healing Process",
         "pub_year": "2016",
         "citation": "Angewandte Chemie 128 (47), 14943-14947, 2016",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "l5EsegcAAAAJ:kNdYIx-mwKoC"
     },
     {

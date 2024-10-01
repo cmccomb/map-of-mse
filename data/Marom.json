@@ -24,14 +24,14 @@
         "title": "Accurate Ionization Potentials and Electron Affinities of Acceptor Molecules III: A Benchmark of GW Methods",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 615-626, 2016",
-        "num_citations": 192,
+        "num_citations": 196,
         "author_pub_id": "iz8reBoAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Accurate description of the electronic structure of organic semiconductors by GW methods",
         "pub_year": "2017",
         "citation": "Journal of Physics: Condensed Matter 29 (10), 103003, 2017",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "iz8reBoAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Accurate ionization potentials and electron affinities of acceptor molecules II: non-empirically tuned long-range corrected hybrid functionals",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 605-614, 2016",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "iz8reBoAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -80,28 +80,28 @@
         "title": "Anomalous pressure dependence of the electronic properties of molecular crystals explained by changes in intermolecular electronic coupling",
         "pub_year": "2019",
         "citation": "Synthetic Metals 253, 9-19, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "iz8reBoAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Assessing zethrene derivatives as singlet fission candidates based on multiple descriptors",
         "pub_year": "2020",
         "citation": "The Journal of Physical Chemistry C 124 (48), 26134-26143, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "iz8reBoAAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "Assessment of the performance of tuned range-separated hybrid density functionals in predicting accurate quasiparticle spectra",
         "pub_year": "2012",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 86 (20), 205110, 2012",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "iz8reBoAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Benchmark of  methods for azabenzenes",
         "pub_year": "2012",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 86 (24), 245127, 2012",
-        "num_citations": 212,
+        "num_citations": 218,
         "author_pub_id": "iz8reBoAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Best practices for first-principles simulations of epitaxial inorganic interfaces",
         "pub_year": "2022",
         "citation": "Journal of Physics: Condensed Matter 34 (23), 233002, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "iz8reBoAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Beyond the GW approximation: A second-order screened exchange correction",
         "pub_year": "2015",
         "citation": "Physical Review B 92, 081104, 2015",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "iz8reBoAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Crystal structure prediction of energetic materials and a twisted arene with Genarris and GAtor",
         "pub_year": "2021",
         "citation": "CrystEngComm 23 (35), 6023-6038, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "iz8reBoAAAAJ:08ZZubdj9fEC"
     },
     {
@@ -185,21 +185,21 @@
         "title": "Dependence of the electronic structure of the EuS/InAs interface on the bonding configuration",
         "pub_year": "2021",
         "citation": "Physical Review Materials 5 (6), 064606, 2021",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "iz8reBoAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Describing both dispersion interactions and electronic structure using density functional theory: The case of Metal− Phthalocyanine dimers",
         "pub_year": "2010",
         "citation": "Journal of Chemical Theory and Computation 6 (1), 81-90, 2010",
-        "num_citations": 135,
+        "num_citations": 137,
         "author_pub_id": "iz8reBoAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Dispersion interactions with density-functional theory: Benchmarking semi-empirical and inter-atomic pair-wise corrected density functionals",
         "pub_year": "2011",
         "citation": "Journal of Chemical Theory and Computation 7, 3944, 2011",
-        "num_citations": 320,
+        "num_citations": 322,
         "author_pub_id": "iz8reBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Electronic Structure of InAs and InSb Surfaces: Density Functional Theory and Angle‐Resolved Photoemission Spectroscopy",
         "pub_year": "2022",
         "citation": "Advanced Quantum Technologies 5 (3), 2100033, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "iz8reBoAAAAJ:SP6oXDckpogC"
     },
     {
@@ -241,7 +241,7 @@
         "title": "Electronic structure of copper phthalocyanine from  calculations",
         "pub_year": "2011",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 84 (19), 195143, 2011",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "iz8reBoAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -259,6 +259,13 @@
         "author_pub_id": "iz8reBoAAAAJ:_FxGoFyzp5QC"
     },
     {
+        "title": "Erratum: First-Principles Assessment of CdTe as a Tunnel Barrier at the α-Sn/InSb Interface (ACS Applied Materials and Interfaces (2023) 15: 12 (16288− 16298",
+        "pub_year": "2023",
+        "citation": "ACS Applied Materials and Interfaces 15 (25), 31100-31101, 2023",
+        "num_citations": 0,
+        "author_pub_id": "iz8reBoAAAAJ:ye4kPcJQO24C"
+    },
+    {
         "title": "Erratum: When to trust photoelectron spectra from Kohn-Sham eigenvalues: The case of organic semiconductors [Phys. Rev. B 79, 201205 (2009)]",
         "pub_year": "2010",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 82 (12), 129903, 2010",
@@ -273,38 +280,45 @@
         "author_pub_id": "iz8reBoAAAAJ:pqnbT2bcN3wC"
     },
     {
+        "title": "Fast Prediction of Ionic Epitaxial Interfaces with Ogre Demonstrated for Colloidal Heterostructures of Lead Halide Perovskites",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "iz8reBoAAAAJ:SdhP9T11ey4C"
+    },
+    {
         "title": "Finding predictive models for singlet fission by machine learning",
         "pub_year": "2022",
         "citation": "npj Computational Materials 8 (1), 70, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "iz8reBoAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "First principles study of the electronic structure of the  and  interfaces",
         "pub_year": "2023",
         "citation": "Physical Review Materials 7 (2), 026203, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "iz8reBoAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "First-Principles Assessment of CdTe as a Tunnel Barrier at the α-Sn/InSb Interface",
         "pub_year": "2023",
         "citation": "ACS Applied Materials & Interfaces 15 (12), 16288-16298, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "iz8reBoAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "First-principles feasibility assessment of a topological insulator at the InAs/GaSb interface",
         "pub_year": "2021",
         "citation": "Physical Review Materials 5 (8), 084204, 2021",
-        "num_citations": 20,
+        "num_citations": 23,
         "author_pub_id": "iz8reBoAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "GAtor: a first-principles genetic algorithm for molecular crystal structure prediction",
         "pub_year": "2018",
         "citation": "Journal of chemical theory and computation 14 (4), 2246-2264, 2018",
-        "num_citations": 123,
+        "num_citations": 126,
         "author_pub_id": "iz8reBoAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -332,7 +346,7 @@
         "title": "Inverse design of tetracene polymorphs with enhanced singlet fission performance by property-based genetic algorithm optimization",
         "pub_year": "2023",
         "citation": "Chemistry of Materials 35 (3), 1373-1386, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "iz8reBoAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -353,7 +367,7 @@
         "title": "Machine learning the Hubbard U parameter in DFT+U using Bayesian optimization",
         "pub_year": "2020",
         "citation": "npj computational materials 6 (1), 180, 2020",
-        "num_citations": 118,
+        "num_citations": 121,
         "author_pub_id": "iz8reBoAAAAJ:dshw04ExmUIC"
     },
     {
@@ -381,7 +395,7 @@
         "title": "Ogre: A python package for molecular crystal surface generation with applications to surface energy and crystal habit prediction",
         "pub_year": "2020",
         "citation": "The Journal of Chemical Physics 152 (24), 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "iz8reBoAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -395,7 +409,7 @@
         "title": "Origin of surface and subband states at the InAs (111) A surface",
         "pub_year": "2023",
         "citation": "Physical Review Materials 7 (6), 066201, 2023",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "iz8reBoAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -430,7 +444,7 @@
         "title": "Report on the sixth blind test of organic crystal structure prediction methods",
         "pub_year": "2016",
         "citation": "Acta Crystallographica Section B: Structural Science, Crystal Engineering …, 2016",
-        "num_citations": 605,
+        "num_citations": 609,
         "author_pub_id": "iz8reBoAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -458,28 +472,28 @@
         "title": "Stacking and registry effects in layered materials: the case of hexagonal boron nitride",
         "pub_year": "2010",
         "citation": "Physical review letters 105 (4), 046801, 2010",
-        "num_citations": 363,
+        "num_citations": 366,
         "author_pub_id": "iz8reBoAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Strategy for finding a reliable starting point for  demonstrated for molecules",
         "pub_year": "2012",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 86 (4), 041110, 2012",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "iz8reBoAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Structure Prediction of Epitaxial Organic Interfaces with Ogre, Demonstrated for Tetracyanoquinodimethane (TCNQ) on Tetrathiafulvalene (TTF)",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry C 127 (21), 10398-10410, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "iz8reBoAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Structure Selection Based on High Vertical Electron Affinity for  Clusters",
         "pub_year": "2012",
         "citation": "Physical Review Letters 108 (10), 106801, 2012",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "iz8reBoAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -493,7 +507,7 @@
         "title": "Structure prediction of epitaxial inorganic interfaces by lattice and surface matching with Ogre",
         "pub_year": "2021",
         "citation": "The Journal of Chemical Physics 155 (3), 2021",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "iz8reBoAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -507,21 +521,21 @@
         "title": "The malaria pigment hemozoin comprises at most four different isomer units in two crystalline models: chiral as based on a biochemical hypothesis or centrosymmetric made of …",
         "pub_year": "2014",
         "citation": "Crystal growth & design 14 (4), 1543-1554, 2014",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "iz8reBoAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Theoretical design of a shallow donor in diamond by lithium-nitrogen codoping",
         "pub_year": "2012",
         "citation": "Physical review letters 108 (22), 226404, 2012",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "iz8reBoAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Topological properties of snse/eus and snte/cate interfaces",
         "pub_year": "2020",
         "citation": "Physical Review Materials 4 (3), 034203, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "iz8reBoAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -542,7 +556,7 @@
         "title": "When to trust photoelectron spectra from Kohn-Sham eigenvalues: The case of organic semiconductors",
         "pub_year": "2009",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 79 (20), 201205, 2009",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "iz8reBoAAAAJ:qjMakFHDy7sC"
     }
 ]

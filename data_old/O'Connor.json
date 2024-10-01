@@ -24,7 +24,7 @@
         "title": "AIREBO-M: A reactive model for hydrocarbons at extreme pressures",
         "pub_year": "2015",
         "citation": "The Journal of chemical physics 142 (2), 2015",
-        "num_citations": 293,
+        "num_citations": 297,
         "author_pub_id": "asQ8ccIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Chain Ends and the Ultimate Strength of Polyethylene Fibers",
         "pub_year": "2016",
         "citation": "ACS Macro Letters 5 (3), 263-267, 2016",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "asQ8ccIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -112,6 +112,13 @@
         "author_pub_id": "asQ8ccIAAAAJ:R3hNpaxXUhUC"
     },
     {
+        "title": "Disentangling the Effects of Polymer Matrix Chain Length and Processing Conditions on Nanorod Assembly in Polymer Nanocomposites",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "asQ8ccIAAAAJ:g5m5HwL7SMYC"
+    },
+    {
         "title": "Disentangling the Role of Entanglement Density and Molecular Alignment in the Mechanical Response of Glassy Polymers",
         "pub_year": "2017",
         "citation": "APS March Meeting Abstracts 2017, S11. 008, 2017",
@@ -156,7 +163,7 @@
     {
         "title": "Entanglement kinetics in polymer melts are chemically specific",
         "pub_year": "2024",
-        "citation": "ACS Macro Letters 13, 896-902, 2024",
+        "citation": "ACS Macro Letters 13 (7), 896-902, 2024",
         "num_citations": 0,
         "author_pub_id": "asQ8ccIAAAAJ:ldfaerwXgEUC"
     },
@@ -318,7 +325,7 @@
         "title": "Relating chain conformations to extensional stress in entangled polymer melts",
         "pub_year": "2018",
         "citation": "Physical review letters 121 (4), 047801, 2018",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "asQ8ccIAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -395,7 +402,7 @@
         "title": "Stress relaxation in highly oriented melts of entangled polymers",
         "pub_year": "2019",
         "citation": "Macromolecules 52 (22), 8540-8550, 2019",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "asQ8ccIAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -451,7 +458,7 @@
         "title": "Topological linking drives anomalous thickening of ring polymers in weak extensional flows",
         "pub_year": "2020",
         "citation": "Physical review letters 124 (2), 027801, 2020",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "asQ8ccIAAAAJ:4DMP91E08xMC"
     },
     {

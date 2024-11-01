@@ -24,7 +24,7 @@
         "title": "AIREBO-M: A reactive model for hydrocarbons at extreme pressures",
         "pub_year": "2015",
         "citation": "The Journal of chemical physics 142 (2), 2015",
-        "num_citations": 297,
+        "num_citations": 304,
         "author_pub_id": "asQ8ccIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Chain Ends and the Ultimate Strength of Polyethylene Fibers",
         "pub_year": "2016",
         "citation": "ACS Macro Letters 5 (3), 263-267, 2016",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "asQ8ccIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Diffusion of thin nanorods in polymer melts",
         "pub_year": "2021",
         "citation": "Macromolecules 54 (15), 7051-7059, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "asQ8ccIAAAAJ:TQgYirikUcIC"
     },
     {
@@ -212,8 +212,8 @@
     {
         "title": "Measuring topological constraint relaxation in ring-linear polymer blends",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.15560, 2024",
-        "num_citations": 0,
+        "citation": "Physical Review Letters 133 (11), 118101, 2024",
+        "num_citations": 1,
         "author_pub_id": "asQ8ccIAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -290,7 +290,7 @@
         "title": "Nonlinear elongation flows in associating polymer melts: from homogeneous to heterogeneous flow",
         "pub_year": "2022",
         "citation": "Physical Review X 12 (2), 021024, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "asQ8ccIAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -325,7 +325,7 @@
         "title": "Relating chain conformations to extensional stress in entangled polymer melts",
         "pub_year": "2018",
         "citation": "Physical review letters 121 (4), 047801, 2018",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "asQ8ccIAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -416,7 +416,7 @@
         "title": "Superstretchable elastomer from cross-linked ring polymers",
         "pub_year": "2022",
         "citation": "Physical Review Letters 128 (23), 237801, 2022",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "asQ8ccIAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -472,7 +472,7 @@
         "title": "Unexpected slow relaxation dynamics in pure ring polymers arise from intermolecular interactions",
         "pub_year": "2023",
         "citation": "ACS Polymers Au 3 (4), 307-317, 2023",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "asQ8ccIAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -493,7 +493,7 @@
         "title": "Unified understanding of the impact of semiflexibility, concentration, and molecular weight on macromolecular-scale ring diffusion",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (31), e2403964121, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "asQ8ccIAAAAJ:M05iB0D1s5AC"
     }
 ]

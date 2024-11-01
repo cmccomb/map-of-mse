@@ -87,7 +87,7 @@
         "title": "A statistical assessment of the state-of-health of LiFePO4 cells harvested from a hybrid-electric vehicle battery pack",
         "pub_year": "2023",
         "citation": "Journal of Energy Storage 59, 106472, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "NIaQAAUAAAAJ:FiDNX6EVdGUC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "A techno-economic analysis and optimization of Li-ion batteries for light-duty passenger vehicle electrification",
         "pub_year": "2015",
         "citation": "Journal of Power Sources 273, 966-980, 2015",
-        "num_citations": 228,
+        "num_citations": 229,
         "author_pub_id": "NIaQAAUAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "An aqueous electrolyte, sodium ion functional, large format energy storage device for stationary applications",
         "pub_year": "2012",
         "citation": "Journal of Power Sources 213, 255-264, 2012",
-        "num_citations": 195,
+        "num_citations": 197,
         "author_pub_id": "NIaQAAUAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "An intertemporal decision framework for electrochemical energy storage management",
         "pub_year": "2018",
         "citation": "Nature Energy 3 (5), 404-412, 2018",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "NIaQAAUAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -234,14 +234,14 @@
         "title": "Aqueous electrolyte energy storage device",
         "pub_year": "2012",
         "citation": "US Patent 8,298,701, 2012",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "NIaQAAUAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Aqueous electrolyte energy storage device",
         "pub_year": "2013",
         "citation": "US Patent 8,580,422, 2013",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "NIaQAAUAAAAJ:gsN89kCJA0AC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Autonomous optimization of non-aqueous Li-ion battery electrolytes via robotic experimentation and machine learning coupling",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 5454, 2022",
-        "num_citations": 63,
+        "num_citations": 67,
         "author_pub_id": "NIaQAAUAAAAJ:RoXSNcbkSzsC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "Avoiding thermal runaway in lithium-ion batteries using ultrasound detection of early failure mechanisms",
         "pub_year": "2022",
         "citation": "Journal of Power Sources 535, 231423, 2022",
-        "num_citations": 55,
+        "num_citations": 59,
         "author_pub_id": "NIaQAAUAAAAJ:MAUkC_7iAq8C"
     },
     {
@@ -325,7 +325,7 @@
         "title": "Battery switch array system with application for JPL's rechargeable micro-scale batteries",
         "pub_year": "2008",
         "citation": "Journal of Power Sources 177 (2), 566-578, 2008",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "NIaQAAUAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -343,9 +343,9 @@
         "author_pub_id": "NIaQAAUAAAAJ:OTTXONDVkokC"
     },
     {
-        "title": "Bi-Doped P2 Layered Sodium-Ion Battery Cathode with Improved Cycling Stability",
+        "title": "Bi-Doped P2 layered Sodium-Ion Battery Cathode with Improved Cycling Stability",
         "pub_year": "2024",
-        "citation": "Journal of The Electrochemical Society, 2024",
+        "citation": "Journal of The Electrochemical Society 171 (9), 090509, 2024",
         "num_citations": 0,
         "author_pub_id": "NIaQAAUAAAAJ:aIdbFUkbNIkC"
     },
@@ -353,7 +353,7 @@
         "title": "Biologically derived melanin electrodes in aqueous sodium-ion energy storage devices",
         "pub_year": "2013",
         "citation": "Proceedings of the National Academy of Sciences 110 (52), 20912-20917, 2013",
-        "num_citations": 343,
+        "num_citations": 348,
         "author_pub_id": "NIaQAAUAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -402,14 +402,14 @@
         "title": "Capacity fade of NaTi2 (PO4) 3 in aqueous electrolyte solutions: relating pH increases to long term stability",
         "pub_year": "2017",
         "citation": "Electrochimica Acta 235, 730-739, 2017",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "NIaQAAUAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Catechol-mediated reversible binding of multivalent cations in eumelanin half-cells",
         "pub_year": "2014",
         "citation": "Adv. Mater 26 (38), 6572-6579, 2014",
-        "num_citations": 162,
+        "num_citations": 165,
         "author_pub_id": "NIaQAAUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Charging sustainable batteries",
         "pub_year": "2022",
         "citation": "Nature Sustainability 5 (3), 176-178, 2022",
-        "num_citations": 108,
+        "num_citations": 112,
         "author_pub_id": "NIaQAAUAAAAJ:-jrNzM816MMC"
     },
     {
@@ -444,7 +444,7 @@
         "title": "Chemical stability enhancement of lithium conducting solid electrolyte plates using sputtered LiPON thin films",
         "pub_year": "2004",
         "citation": "Journal of power sources 126 (1-2), 134-138, 2004",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "NIaQAAUAAAAJ:mB3voiENLucC"
     },
     {
@@ -465,7 +465,7 @@
         "title": "Comparative performance of ex situ artificial solid electrolyte interphases for Li metal batteries with liquid electrolytes",
         "pub_year": "2021",
         "citation": "Iscience 24 (6), 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "NIaQAAUAAAAJ:ALROH1vI_8AC"
     },
     {
@@ -486,14 +486,14 @@
         "title": "Comparison between cylindrical and prismatic lithium-ion cell costs using a process based cost model",
         "pub_year": "2017",
         "citation": "Journal of Power Sources 340, 273-281, 2017",
-        "num_citations": 143,
+        "num_citations": 145,
         "author_pub_id": "NIaQAAUAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Compensating for wind variability using co-located natural gas generation and energy storage",
         "pub_year": "2010",
         "citation": "Energy Systems 1, 417-439, 2010",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "NIaQAAUAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -535,7 +535,7 @@
         "title": "Consistency and robustness of forecasting for emerging technologies: The case of Li-ion batteries for electric vehicles",
         "pub_year": "2017",
         "citation": "Energy Policy 106, 415-426, 2017",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "NIaQAAUAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -563,7 +563,7 @@
         "title": "Cost comparison of capacitive deionization and reverse osmosis for brackish water desalination",
         "pub_year": "2020",
         "citation": "Acs Es&T Engineering 1 (2), 261-273, 2020",
-        "num_citations": 66,
+        "num_citations": 70,
         "author_pub_id": "NIaQAAUAAAAJ:gKiMpY-AVTkC"
     },
     {
@@ -758,7 +758,7 @@
         "title": "Electrochemically active nitrogen-enriched nanocarbons with well-defined morphology synthesized by pyrolysis of self-assembled block copolymer",
         "pub_year": "2012",
         "citation": "Journal of the American Chemical Society 134 (36), 14846-14857, 2012",
-        "num_citations": 389,
+        "num_citations": 390,
         "author_pub_id": "NIaQAAUAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -849,7 +849,7 @@
         "title": "Enhanced low-temperature performance of Li–CF x batteries",
         "pub_year": "2007",
         "citation": "Electrochemical and solid-state letters 10 (7), A166, 2007",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "NIaQAAUAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -876,21 +876,21 @@
         "title": "Evaluation of a proposal for reliable low-cost grid power with 100% wind, water, and solar",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (26), 6722-6727, 2017",
-        "num_citations": 414,
+        "num_citations": 415,
         "author_pub_id": "NIaQAAUAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Evidence of Porphyrin-Like Structures in Natural Melanin Pigments Using Electrochemical Fingerprinting.",
         "pub_year": "2016",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (16), 3173-3180, 2016",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "NIaQAAUAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Examining different recycling processes for lithium-ion batteries",
         "pub_year": "2019",
         "citation": "Nature Sustainability 2 (2), 148-156, 2019",
-        "num_citations": 636,
+        "num_citations": 643,
         "author_pub_id": "NIaQAAUAAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -904,14 +904,14 @@
         "title": "Expert assessments of the cost and expected future performance of proton exchange membrane fuel cells for vehicles",
         "pub_year": "2019",
         "citation": "Proceedings of the national academy of sciences 116 (11), 4899-4904, 2019",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "NIaQAAUAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Expert elicitation on paths to advance fuel cell electric vehicles",
         "pub_year": "2022",
         "citation": "Energy Policy 160, 112671, 2022",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "NIaQAAUAAAAJ:jFemdcug13IC"
     },
     {
@@ -953,7 +953,7 @@
         "title": "Formation of micro/mesopores during chemical activation in tailor-made nongraphitic carbons",
         "pub_year": "2017",
         "citation": "Microporous and Mesoporous Materials 251, 34-41, 2017",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "NIaQAAUAAAAJ:URolC5Kub84C"
     },
     {
@@ -1009,7 +1009,7 @@
         "title": "High performance TiP2O7 based intercalation negative electrode for aqueous lithium-ion batteries via a facile synthetic route",
         "pub_year": "2015",
         "citation": "Journal of the Electrochemical Society 162 (9), A1921, 2015",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "NIaQAAUAAAAJ:tzM49s52ZIMC"
     },
     {
@@ -1023,7 +1023,7 @@
         "title": "High voltage battery composed of anode limited electrochemical cells",
         "pub_year": "2015",
         "citation": "US Patent 8,945,751, 2015",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "NIaQAAUAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -1062,17 +1062,10 @@
         "author_pub_id": "NIaQAAUAAAAJ:w1MjKQ0l0TYC"
     },
     {
-        "title": "Highly Ionic Conductive Polymer Interlayer for Garnet-Type Solid Electrolyte to Improve Energy Storage Performance of All-Solid-State-Batteries",
-        "pub_year": "2024",
-        "citation": "PRiME 2024 (October 6-11, 2024), 2024",
-        "num_citations": 0,
-        "author_pub_id": "NIaQAAUAAAAJ:silx2ntsSuwC"
-    },
-    {
         "title": "How synthetic quench rate and composition affect the performance of lithium nickel manganese oxide cathode materials",
         "pub_year": "2020",
         "citation": "Journal of The Electrochemical Society 167 (16), 160518, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "NIaQAAUAAAAJ:BJbdYPG6LGMC"
     },
     {
@@ -1086,7 +1079,7 @@
         "title": "Hydrogen storage for fuel cell electric vehicles: expert elicitation and a levelized cost of driving model",
         "pub_year": "2020",
         "citation": "Environmental science & technology 55 (1), 553-562, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "NIaQAAUAAAAJ:Bg7qf7VwUHIC"
     },
     {
@@ -1232,7 +1225,7 @@
         "title": "Large format electrochemical energy storage device housing and module",
         "pub_year": "2014",
         "citation": "US Patent 8,652,672, 2014",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "NIaQAAUAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -1302,7 +1295,7 @@
         "title": "Lithium ion batteries for space applications",
         "pub_year": "2007",
         "citation": "2007 IEEE Aerospace Conference, 1-7, 2007",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "NIaQAAUAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -1316,7 +1309,7 @@
         "title": "Lithium-ion battery cell degradation resulting from realistic vehicle and vehicle-to-grid utilization",
         "pub_year": "2010",
         "citation": "Journal of Power Sources 195 (8), 2385-2392, 2010",
-        "num_citations": 981,
+        "num_citations": 985,
         "author_pub_id": "NIaQAAUAAAAJ:a0OBvERweLwC"
     },
     {
@@ -1441,7 +1434,7 @@
         "title": "Meeting US solid oxide fuel cell targets",
         "pub_year": "2019",
         "citation": "Joule 3 (9), 2060-2065, 2019",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "NIaQAAUAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -1581,7 +1574,7 @@
         "title": "Multiple imaging mode X-ray computed tomography for distinguishing active and inactive phases in lithium-ion battery cathodes",
         "pub_year": "2015",
         "citation": "Journal of Power Sources 283, 314-319, 2015",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "NIaQAAUAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -1595,7 +1588,7 @@
         "title": "Na4Mn9O18 as a positive electrode material for an aqueous electrolyte sodium-ion energy storage device",
         "pub_year": "2010",
         "citation": "Electrochemistry Communications 12 (3), 463-466, 2010",
-        "num_citations": 447,
+        "num_citations": 449,
         "author_pub_id": "NIaQAAUAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -1616,7 +1609,7 @@
         "title": "Negative electrodes for electrochemical cells",
         "pub_year": "2023",
         "citation": "US Patent 11,552,290, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "NIaQAAUAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -1706,7 +1699,7 @@
         "title": "Paths to market for stationary solid oxide fuel cells: Expert elicitation and a cost of electricity model",
         "pub_year": "2021",
         "citation": "Applied Energy 304, 117641, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "NIaQAAUAAAAJ:rHJHxKgnXwkC"
     },
     {
@@ -1762,7 +1755,7 @@
         "title": "Power system dispatch with marginal degradation cost of battery storage",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Power Systems 36 (4), 3552-3562, 2020",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "NIaQAAUAAAAJ:F1b5ZUV5XREC"
     },
     {
@@ -1839,7 +1832,7 @@
         "title": "Rechargeable battery using iron negative electrode and manganese oxide positive electrode",
         "pub_year": "2021",
         "citation": "US Patent App. 16/938,924, 2021",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "NIaQAAUAAAAJ:0CzhzZyukY4C"
     },
     {
@@ -1902,7 +1895,7 @@
         "title": "Relating electrolyte concentration to performance and stability for NaTi2 (PO4) 3/Na0. 44MnO2 aqueous sodium-ion batteries",
         "pub_year": "2015",
         "citation": "Journal of The Electrochemical Society 162 (6), A803, 2015",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "NIaQAAUAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -1941,13 +1934,6 @@
         "author_pub_id": "NIaQAAUAAAAJ:TQgYirikUcIC"
     },
     {
-        "title": "SUBSTITUTED LITHIUM-RICH CATHODE MATERIALS",
-        "pub_year": "2024",
-        "citation": "US Patent App. 18/429,308, 2024",
-        "num_citations": 0,
-        "author_pub_id": "NIaQAAUAAAAJ:k_7cPK9k7w8C"
-    },
-    {
         "title": "Scale Formation on Na4Mn9O18 Insertion Electrodes in Electrochemical Deionization",
         "pub_year": "2019",
         "citation": "Electrochemical Society Meeting Abstracts 235, 2171-2171, 2019",
@@ -1972,7 +1958,7 @@
         "title": "Self-deployable current sources fabricated from edible materials",
         "pub_year": "2013",
         "citation": "Journal of Materials Chemistry B 1 (31), 3781-3788, 2013",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "NIaQAAUAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -2007,7 +1993,7 @@
         "title": "Sodium ion based aqueous electrolyte electrochemical secondary energy storage device",
         "pub_year": "2009",
         "citation": "US Patent App. 12/385,277, 2009",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "NIaQAAUAAAAJ:geHnlv5EZngC"
     },
     {
@@ -2081,6 +2067,13 @@
         "author_pub_id": "NIaQAAUAAAAJ:iH-uZ7U-co4C"
     },
     {
+        "title": "Substituted lithium-rich cathode materials",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/429,308, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NIaQAAUAAAAJ:k_7cPK9k7w8C"
+    },
+    {
         "title": "Surface Effects of Quench Methodology on Lithium Rich Nickel Manganese Oxide Cathode Particles",
         "pub_year": "2022",
         "citation": "Electrochemical Society Meeting Abstracts 241, 274-274, 2022",
@@ -2105,7 +2098,7 @@
         "title": "Switch array system for thin film lithium microbatteries",
         "pub_year": "2004",
         "citation": "Journal of power sources 136 (2), 401-407, 2004",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "NIaQAAUAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -2146,7 +2139,7 @@
         "title": "Tailored PVDF Graft Copolymers via ATRP as High-Performance NCM811 Cathode Binders",
         "pub_year": "2023",
         "citation": "ACS Materials Letters 5 (10), 2594-2603, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "NIaQAAUAAAAJ:YsrPvlHIBpEC"
     },
     {
@@ -2248,7 +2241,7 @@
         "title": "The economic end of life of electrochemical energy storage",
         "pub_year": "2020",
         "citation": "Applied Energy 273, 115151, 2020",
-        "num_citations": 51,
+        "num_citations": 54,
         "author_pub_id": "NIaQAAUAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -2262,21 +2255,21 @@
         "title": "The economics of using plug-in hybrid electric vehicle battery packs for grid storage",
         "pub_year": "2010",
         "citation": "Journal of Power Sources 195 (8), 2377-2384, 2010",
-        "num_citations": 701,
+        "num_citations": 706,
         "author_pub_id": "NIaQAAUAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "The effect of high temperature exposure upon the performance of lithium ion cells",
         "pub_year": "2002",
         "citation": "Seventeenth Annual Battery Conference on Applications and Advances …, 2002",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "NIaQAAUAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "The effect of variability-mitigating market rules on the operation of wind power plants",
         "pub_year": "2014",
         "citation": "Energy Systems 5, 737-766, 2014",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "NIaQAAUAAAAJ:UxriW0iASnsC"
     },
     {
@@ -2345,7 +2338,7 @@
         "title": "Understanding Li-ion battery anode degradation and pore morphological changes through nano-resolution X-ray computed tomography",
         "pub_year": "2016",
         "citation": "Journal of The Electrochemical Society 163 (13), A2636, 2016",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "NIaQAAUAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -2380,7 +2373,7 @@
         "title": "Utility-scale portable energy storage systems",
         "pub_year": "2021",
         "citation": "Joule 5 (2), 379-392, 2021",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "NIaQAAUAAAAJ:LgRImbQfgY4C"
     },
     {

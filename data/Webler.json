@@ -17,7 +17,7 @@
         "title": "A solidification mode selection process map for laser powder bed fusion additive manufacturing of B-modified Ti6Al4V",
         "pub_year": "2022",
         "citation": "Additive Manufacturing 59, 103086, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "MFLMm8YAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -51,7 +51,7 @@
         "title": "Application of the plasticity models that involve three stress invariants",
         "pub_year": "2012",
         "citation": "International Journal of Applied Mechanics 4 (02), 1250021, 2012",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "MFLMm8YAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Defects and anomalies in powder bed fusion metal additive manufacturing",
         "pub_year": "2022",
         "citation": "Current Opinion in Solid State and Materials Science 26 (2), 100974, 2022",
-        "num_citations": 307,
+        "num_citations": 329,
         "author_pub_id": "MFLMm8YAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Digital image analysis to quantify carbide networks in ultrahigh carbon steels",
         "pub_year": "2016",
         "citation": "Materials Characterization 117, 134-143, 2016",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "MFLMm8YAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -176,7 +176,7 @@
         "title": "Effect of surface microstructure on oxidation of a CMnSi advanced high strength steel",
         "pub_year": "2017",
         "citation": "ISIJ International 57 (8), 1468-1475, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "MFLMm8YAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -239,14 +239,14 @@
         "title": "Evolution of near-surface internal and external oxide morphology during high-temperature selective oxidation of steels",
         "pub_year": "2018",
         "citation": "JOM 70, 1225-1231, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "MFLMm8YAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Evolution of non-metallic inclusions during heat treatment",
         "pub_year": "2020",
         "citation": "Metallurgical Research & Technology 117 (4), 408, 2020",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "MFLMm8YAAAAJ:blknAaTinKkC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "High temperature oxidation behaviors of steels at initial stages in air",
         "pub_year": "2024",
         "citation": "Corrosion Science 229, 111838, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "MFLMm8YAAAAJ:rO6llkc54NcC"
     },
     {
@@ -285,7 +285,7 @@
         "author_pub_id": "MFLMm8YAAAAJ:bEWYMUwI8FkC"
     },
     {
-        "title": "In-situ observation and formation mechanism of iron surface oxidation in the initial stages at 1150 C",
+        "title": "In-Situ Observation and Formation Mechanism of Iron Surface Oxidation in the Initial Stages at 1,150 C",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "MFLMm8YAAAAJ:GnPB-g6toBAC"
@@ -349,7 +349,7 @@
         "title": "Melt pool geometry and microstructure of Ti6Al4V with B additions processed by selective laser melting additive manufacturing",
         "pub_year": "2019",
         "citation": "Materials & design 183, 108126, 2019",
-        "num_citations": 75,
+        "num_citations": 78,
         "author_pub_id": "MFLMm8YAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -363,7 +363,7 @@
         "title": "Nature of MgO and Al2O3 Dissolution in Metallurgical Slags",
         "pub_year": "2015",
         "citation": "Metallurgical and Materials Transactions B 46, 2414-2418, 2015",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "MFLMm8YAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -398,14 +398,14 @@
         "title": "Precipitation behavior of titanium nitride on a primary inclusion particle during solidification of bearing steel",
         "pub_year": "2017",
         "citation": "Journal of Iron and Steel Research International 24 (7), 685-690, 2017",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "MFLMm8YAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Predicting Oxidation Behavior of Multi-Principal Element Alloys by Machine Learning Methods",
         "pub_year": "2022",
         "citation": "Oxidation of Metals 98 (5), 429-450, 2022",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "MFLMm8YAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -475,7 +475,7 @@
         "title": "The columnar-to-equiaxed transition in melt pools during laser powder bed fusion of M2 steel",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions A 52 (9), 4206-4221, 2021",
-        "num_citations": 26,
+        "num_citations": 31,
         "author_pub_id": "MFLMm8YAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -496,7 +496,7 @@
         "title": "UHCSDB: ultrahigh carbon steel micrograph database: tools for exploring large heterogeneous microstructure datasets",
         "pub_year": "2017",
         "citation": "Integrating Materials and Manufacturing Innovation 6, 197-205, 2017",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "MFLMm8YAAAAJ:5nxA0vEk-isC"
     },
     {

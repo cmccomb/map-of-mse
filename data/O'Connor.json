@@ -3,14 +3,14 @@
         "title": "A Reactive Bead–Spring Model for Associative Polymer Melts In and Out of Equilibrium",
         "pub_year": "2024",
         "citation": "Macromolecules 57 (4), 1403-1413, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "asQ8ccIAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "A hybrid smoothed-particle hydrodynamics model of oxide skins on molten aluminum",
         "pub_year": "2024",
         "citation": "Applied Mathematical Modelling 130, 310-326, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "asQ8ccIAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -24,7 +24,7 @@
         "title": "AIREBO-M: A reactive model for hydrocarbons at extreme pressures",
         "pub_year": "2015",
         "citation": "The Journal of chemical physics 142 (2), 2015",
-        "num_citations": 310,
+        "num_citations": 314,
         "author_pub_id": "asQ8ccIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Composite entanglement topology and extensional rheology of symmetric ring-linear polymer blends",
         "pub_year": "2022",
         "citation": "Journal of Rheology 66 (1), 49-65, 2022",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "asQ8ccIAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Directional dependence of the mechanical properties of aged paper",
         "pub_year": "2021",
         "citation": "Mechanics of Materials 162, 104036, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "asQ8ccIAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Entropic mixing of ring/linear polymer blends",
         "pub_year": "2022",
         "citation": "ACS Polymers Au 3 (2), 209-216, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "asQ8ccIAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -269,7 +269,7 @@
         "title": "Molecular models for creep in oriented polyethylene fibers",
         "pub_year": "2020",
         "citation": "The Journal of Chemical Physics 153 (14), 2020",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "asQ8ccIAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -327,6 +327,13 @@
         "citation": "Physical review letters 121 (4), 047801, 2018",
         "num_citations": 77,
         "author_pub_id": "asQ8ccIAAAAJ:8k81kl-MbHgC"
+    },
+    {
+        "title": "Reproducing hydrodynamics and elastic objects: A hybrid mesh-free model framework for dynamic multi-phase flows",
+        "pub_year": "2024",
+        "citation": "Physics of Fluids 36 (11), 2024",
+        "num_citations": 0,
+        "author_pub_id": "asQ8ccIAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Response of Sulfonated Polystyrene Melts to Nonlinear Elongation Flows",
@@ -493,7 +500,7 @@
         "title": "Unified understanding of the impact of semiflexibility, concentration, and molecular weight on macromolecular-scale ring diffusion",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (31), e2403964121, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "asQ8ccIAAAAJ:M05iB0D1s5AC"
     }
 ]

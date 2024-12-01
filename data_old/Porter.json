@@ -37,7 +37,7 @@
         "title": "A critical review of ohmic and rectifying contacts for silicon carbide",
         "pub_year": "1995",
         "citation": "Materials Science and Engineering: B 34 (2-3), 83-105, 1995",
-        "num_citations": 582,
+        "num_citations": 583,
         "author_pub_id": "RrSOHq8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Characterization of epitaxial β-(Al, Ga, In) 2O3-based films and applications as UV photodetectors",
         "pub_year": "2020",
         "citation": "Journal of Electronic Materials 49 (6), 3490-3498, 2020",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "RrSOHq8AAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -186,6 +186,13 @@
         "citation": "Nanoscale 10 (1), 319-327, 2018",
         "num_citations": 30,
         "author_pub_id": "RrSOHq8AAAAJ:b0M2c_1WBrUC"
+    },
+    {
+        "title": "Contacts to wide band gap (WBG) and ultra-wide band gap (UWBG) semiconductors for power electronics devices",
+        "pub_year": "2024",
+        "citation": "Elsevier, 2024",
+        "num_citations": 0,
+        "author_pub_id": "RrSOHq8AAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Contacts to wide-band-gap semiconductors",
@@ -268,7 +275,7 @@
         "title": "Effect of metal contacts on (100) β-Ga2O3 Schottky barriers",
         "pub_year": "2021",
         "citation": "Journal of Vacuum Science & Technology A 39 (3), 2021",
-        "num_citations": 54,
+        "num_citations": 53,
         "author_pub_id": "RrSOHq8AAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -414,21 +421,21 @@
         "title": "Growth and Characterization of α-, β-, and ε-Ga2O3 Epitaxial Layers on Sapphire",
         "pub_year": "2017",
         "citation": "ECS Transactions 80 (7), 191, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "RrSOHq8AAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Growth and characterization of α-, β-, and ϵ-phases of Ga2O3 using MOCVD and HVPE techniques",
         "pub_year": "2018",
         "citation": "Materials Research Letters 6 (5), 268-275, 2018",
-        "num_citations": 234,
+        "num_citations": 241,
         "author_pub_id": "RrSOHq8AAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Growth and structural investigations of epitaxial hexagonal YMnO3 thin films deposited on wurtzite GaN (001) substrates",
         "pub_year": "2006",
         "citation": "Thin Solid Films 515 (4), 1807-1813, 2006",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "RrSOHq8AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -547,7 +554,7 @@
         "title": "Investigation of different metals as ohmic contacts to β-Ga2O3: comparison and analysis of electrical behavior, morphology, and other physical properties",
         "pub_year": "2017",
         "citation": "Journal of Electronic Materials 46 (4), 2053-2060, 2017",
-        "num_citations": 138,
+        "num_citations": 137,
         "author_pub_id": "RrSOHq8AAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -575,7 +582,7 @@
         "title": "Layered phase composition and microstructure of κ-Ga2O3-dominant heteroepitaxial films grown via MOCVD",
         "pub_year": "2022",
         "citation": "Journal of Applied Physics 131 (5), 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "RrSOHq8AAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -827,14 +834,14 @@
         "title": "Schottky contacts to β-Ga2O3",
         "pub_year": "2019",
         "citation": "Gallium Oxide, 231-261, 2019",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "RrSOHq8AAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "Si/SiO2 and SiC/SiO2 Interfaces for MOSFETs – Challenges and Advances",
         "pub_year": "2006",
         "citation": "Materials science forum 527, 935-948, 2006",
-        "num_citations": 80,
+        "num_citations": 84,
         "author_pub_id": "RrSOHq8AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -883,7 +890,7 @@
         "title": "The physics of ohmic contacts to SiC",
         "pub_year": "1997",
         "citation": "physica status solidi (b) 202 (1), 581-603, 1997",
-        "num_citations": 296,
+        "num_citations": 297,
         "author_pub_id": "RrSOHq8AAAAJ:u-x6o8ySG0sC"
     },
     {

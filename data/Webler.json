@@ -10,7 +10,7 @@
         "title": "A review of steel processing considerations for oxide cleanliness",
         "pub_year": "2020",
         "citation": "Metallurgical and Materials Transactions B 51, 2437-2452, 2020",
-        "num_citations": 42,
+        "num_citations": 45,
         "author_pub_id": "MFLMm8YAAAAJ:hMod-77fHWUC"
     },
     {
@@ -24,7 +24,7 @@
         "title": "A study of microstructure and cracking behavior of H13 tool steel produced by laser powder bed fusion using single-tracks, multi-track pads, and 3D cubes",
         "pub_year": "2020",
         "citation": "Journal of Materials Processing Technology 286, 116802, 2020",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "MFLMm8YAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -72,7 +72,7 @@
         "title": "Automated detection of non-metallic inclusion clusters in aluminum-deoxidized steel",
         "pub_year": "2021",
         "citation": "Metallurgical and Materials Transactions B 52, 3970-3985, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "MFLMm8YAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Defects and anomalies in powder bed fusion metal additive manufacturing",
         "pub_year": "2022",
         "citation": "Current Opinion in Solid State and Materials Science 26 (2), 100974, 2022",
-        "num_citations": 329,
+        "num_citations": 340,
         "author_pub_id": "MFLMm8YAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -155,7 +155,7 @@
         "title": "Early Time Evolution of Selective Oxidation in a CMnSi AHSS",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions A 50, 1358-1369, 2019",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "MFLMm8YAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "High temperature oxidation behaviors of steels at initial stages in air",
         "pub_year": "2024",
         "citation": "Corrosion Science 229, 111838, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "MFLMm8YAAAAJ:rO6llkc54NcC"
     },
     {
@@ -377,7 +377,7 @@
         "title": "On the extension of the Gurson-type porous plasticity models for prediction of ductile fracture under shear-dominated conditions",
         "pub_year": "2014",
         "citation": "International Journal of Solids and Structures 51 (18), 3273-3291, 2014",
-        "num_citations": 143,
+        "num_citations": 147,
         "author_pub_id": "MFLMm8YAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -412,14 +412,14 @@
         "title": "Prediction of inclusion types from BSE images: RF vs. CNN",
         "pub_year": "2021",
         "citation": "Frontiers in Materials 8, 754089, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "MFLMm8YAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Processing of W and W-Ta alloys via laser powder feed directed energy deposition",
         "pub_year": "2023",
         "citation": "International Journal of Refractory Metals and Hard Materials 116, 106360, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "MFLMm8YAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -449,6 +449,13 @@
         "citation": "Advances in Molten Slags, Fluxes, and Salts: Proceedings of the 10th …, 2016",
         "num_citations": 1,
         "author_pub_id": "MFLMm8YAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Slag-steel reactions in the refining of Advanced High-Strength Steel",
+        "pub_year": "2024",
+        "citation": "ISIJ International, ISIJINT-2024-229, 2024",
+        "num_citations": 0,
+        "author_pub_id": "MFLMm8YAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "The Effect of Film Thickness and Substrate Resistivity on Corrosion of Fe Thin Films",
@@ -496,7 +503,7 @@
         "title": "UHCSDB: ultrahigh carbon steel micrograph database: tools for exploring large heterogeneous microstructure datasets",
         "pub_year": "2017",
         "citation": "Integrating Materials and Manufacturing Innovation 6, 197-205, 2017",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "MFLMm8YAAAAJ:5nxA0vEk-isC"
     },
     {

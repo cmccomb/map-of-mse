@@ -10,7 +10,7 @@
         "title": "A comprehensive comparison of the analytical and numerical prediction of the thermal history and solidification microstructure of Inconel 718 products made by laser powder-bed …",
         "pub_year": "2017",
         "citation": "Engineering 3 (5), 685-694, 2017",
-        "num_citations": 279,
+        "num_citations": 287,
         "author_pub_id": "oP6n73gAAAAJ:HIFyuExEbWQC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "A mechanistic explanation of shrinkage porosity in laser powder bed fusion additive manufacturing",
         "pub_year": "2024",
         "citation": "Acta Materialia 266, 119632, 2024",
-        "num_citations": 13,
+        "num_citations": 17,
         "author_pub_id": "oP6n73gAAAAJ:k_7cPK9k7w8C"
     },
     {
@@ -59,7 +59,7 @@
         "title": "A review of steel processing considerations for oxide cleanliness",
         "pub_year": "2020",
         "citation": "Metallurgical and Materials Transactions B 51, 2437-2452, 2020",
-        "num_citations": 42,
+        "num_citations": 45,
         "author_pub_id": "oP6n73gAAAAJ:hsZV8lGYWTMC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Accelerated corrosion of stainless steel in thiocyanate-containing solutions",
         "pub_year": "2012",
         "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2012",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "oP6n73gAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Aspects of the effects of electrolyte composition on the occurrence of metastable pitting on stainless steel",
         "pub_year": "1994",
         "citation": "Corrosion Science 36 (3), 525-538, 1994",
-        "num_citations": 309,
+        "num_citations": 310,
         "author_pub_id": "oP6n73gAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Behaviour of coal mineral matter in sintering and slagging of ash during the gasification process",
         "pub_year": "2011",
         "citation": "Fuel Processing Technology 92 (8), 1426-1433, 2011",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "oP6n73gAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -265,7 +265,7 @@
         "title": "Calcium modification of spinel inclusions in aluminum-killed steel: reaction steps",
         "pub_year": "2012",
         "citation": "Metallurgical and Materials Transactions B 43, 830-840, 2012",
-        "num_citations": 192,
+        "num_citations": 194,
         "author_pub_id": "oP6n73gAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -410,7 +410,7 @@
     {
         "title": "Decarbonization Priorities for Electric Furnace Steelmaking",
         "citation": "",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "oP6n73gAAAAJ:wvYxNZNCP7wC"
     },
     {
@@ -550,7 +550,7 @@
         "title": "Effect of cuprous cyanide, dry and wet milling on the selective flotation of galena and sphalerite",
         "pub_year": "2006",
         "citation": "Minerals Engineering 19 (1), 1-11, 2006",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "oP6n73gAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -578,21 +578,21 @@
         "title": "Effects of thiocyanate on anodic dissolution of Iron, Chromium, Nickel and type 304 stainless steel: II. Surface analysis by XPS",
         "pub_year": "2012",
         "citation": "Journal of the Electrochemical Society 159 (11), C519, 2012",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "oP6n73gAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Effects of thiocyanate on anodic dissolution of iron, chromium and type 430 stainless steel",
         "pub_year": "2012",
         "citation": "Journal of The Electrochemical Society 159 (3), C114, 2012",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "oP6n73gAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Effects of thiocyanate on anodic dissolution of iron, chromium, nickel and type 304 stainless steel: I. Electrochemical measurements and surface morphology",
         "pub_year": "2012",
         "citation": "Journal of the Electrochemical Society 159 (11), C513, 2012",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "oP6n73gAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -662,8 +662,15 @@
         "title": "Fatigue life prediction for AlSi10Mg components produced by selective laser melting",
         "pub_year": "2019",
         "citation": "International journal of fatigue 125, 479-490, 2019",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "oP6n73gAAAAJ:48xauSegjOkC"
+    },
+    {
+        "title": "Feature Engineering to Embed Process Knowledge: Analyzing the Energy Efficiency of Electric Arc Furnace Steelmaking",
+        "pub_year": "2024",
+        "citation": "Metals 15 (1), 13, 2024",
+        "num_citations": 0,
+        "author_pub_id": "oP6n73gAAAAJ:Xz60mAmATU4C"
     },
     {
         "title": "Ferrosilicon-based calcium treatment of aluminum-killed and silicomanganese-killed steels",
@@ -753,7 +760,7 @@
         "title": "Growth of corrosion pits on stainless steel in chloride solution containing dilute sulphate",
         "pub_year": "1992",
         "citation": "Corrosion science 33 (12), 1885-1897, 1992",
-        "num_citations": 457,
+        "num_citations": 459,
         "author_pub_id": "oP6n73gAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -767,14 +774,14 @@
         "title": "Heat transfer through mould flux with titanium oxide additions",
         "pub_year": "2007",
         "citation": "Ironmaking & Steelmaking 34 (6), 513-520, 2007",
-        "num_citations": 21,
+        "num_citations": 24,
         "author_pub_id": "oP6n73gAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "High speed synchrotron X-ray diffraction experiments resolve microstructure and phase transformation in laser processed Ti-6Al-4V",
         "pub_year": "2021",
         "citation": "Materials Research Letters 9 (10), 429-436, 2021",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "oP6n73gAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -844,7 +851,7 @@
         "title": "Increased use of natural gas in blast furnace ironmaking: Mass and energy balance calculations",
         "pub_year": "2019",
         "citation": "Metallurgical and Materials Transactions B 50, 1290-1299, 2019",
-        "num_citations": 56,
+        "num_citations": 59,
         "author_pub_id": "oP6n73gAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -865,7 +872,7 @@
         "title": "Influence of surface liquid segregation on corrosion behavior of semi-solid metal high pressure die cast aluminium alloys",
         "pub_year": "2010",
         "citation": "Transactions of Nonferrous Metals Society of China 20, s837-s841, 2010",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "oP6n73gAAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -935,7 +942,7 @@
         "title": "Kinetics of ilmenite dissolution in hydrochloric acid",
         "pub_year": "2002",
         "citation": "Hydrometallurgy 65 (1), 31-36, 2002",
-        "num_citations": 105,
+        "num_citations": 107,
         "author_pub_id": "oP6n73gAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1012,7 +1019,7 @@
         "title": "Magnesium: origin and role in calcium-treated inclusions",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "oP6n73gAAAAJ:rmuvC79q63oC"
     },
     {
@@ -1068,7 +1075,7 @@
         "title": "Metastable pitting corrosion of stainless steel and the transition to stability",
         "pub_year": "1992",
         "citation": "Philosophical transactions of the royal society of London. Series A …, 1992",
-        "num_citations": 761,
+        "num_citations": 763,
         "author_pub_id": "oP6n73gAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1103,7 +1110,7 @@
         "title": "Minimisation of calcium additions to low carbon steel grades",
         "pub_year": "2000",
         "citation": "Ironmaking & steelmaking 27 (6), 442-449, 2000",
-        "num_citations": 104,
+        "num_citations": 106,
         "author_pub_id": "oP6n73gAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1137,7 +1144,7 @@
         "title": "Modeling and simulation of an electric arc furnace process",
         "pub_year": "1999",
         "citation": "ISIJ international 39 (1), 23-32, 1999",
-        "num_citations": 185,
+        "num_citations": 187,
         "author_pub_id": "oP6n73gAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -1186,7 +1193,7 @@
         "title": "Modelling of an ilmenite-smelting DC arc furnace process",
         "pub_year": "2006",
         "citation": "Minerals engineering 19 (3), 262-279, 2006",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "oP6n73gAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1200,7 +1207,7 @@
         "title": "Modification of spinel inclusions by calcium in liquid steel",
         "pub_year": "2010",
         "citation": "Iron and steel Technology 7 (1), 189-197, 2010",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "oP6n73gAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1214,7 +1221,7 @@
         "title": "Natural gas utilization in blast furnace ironmaking: Tuyère injection, shaft injection and prereduction",
         "pub_year": "2017",
         "citation": "Applications of Process Engineering Principles in Materials Processing …, 2017",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "oP6n73gAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -1269,7 +1276,7 @@
         "title": "Nitrogen in SL/RN direct reduced iron: origin and effect on nitrogen control in EAF steelmaking",
         "pub_year": "2012",
         "citation": "Ironmaking & Steelmaking 39 (5), 336-341, 2012",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "oP6n73gAAAAJ:65Yg0jNCQDAC"
     },
     {
@@ -1283,7 +1290,7 @@
         "title": "Numerical modeling and experimental validation of thermal history and microstructure for additive manufacturing of an Inconel 718 product",
         "pub_year": "2018",
         "citation": "Progress in Additive Manufacturing 3, 15-32, 2018",
-        "num_citations": 81,
+        "num_citations": 83,
         "author_pub_id": "oP6n73gAAAAJ:3htObqc8RwsC"
     },
     {
@@ -1296,7 +1303,7 @@
         "title": "On the Eutectoid Reaction in a Quaternary Fe-C-Mn-Al Alloy: Austenite → Ferrite + Kappa-Carbide + M23C6 Carbide",
         "pub_year": "2014",
         "citation": "Metallurgical and Materials Transactions A 45, 1199-1216, 2014",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "oP6n73gAAAAJ:5ugPr518TE4C"
     },
     {
@@ -1331,7 +1338,7 @@
         "title": "Oxides, porosity and fatigue performance of AlSi10Mg parts produced by selective laser melting",
         "pub_year": "2017",
         "citation": "International Journal of Fatigue 94, 192-201, 2017",
-        "num_citations": 460,
+        "num_citations": 466,
         "author_pub_id": "oP6n73gAAAAJ:z_wVstp3MssC"
     },
     {
@@ -1422,13 +1429,13 @@
         "title": "Prediction of lack-of-fusion porosity for powder bed fusion",
         "pub_year": "2017",
         "citation": "Additive Manufacturing 14, 39-48, 2017",
-        "num_citations": 729,
+        "num_citations": 738,
         "author_pub_id": "oP6n73gAAAAJ:BwyfMAYsbu0C"
     },
     {
         "title": "Prediction of lack-of-fusion porosity for powder bed fusion, Addit. Manuf. 14 (2017) 39–48",
         "citation": "",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "oP6n73gAAAAJ:Br1UauaknNIC"
     },
     {
@@ -1456,7 +1463,7 @@
         "title": "Rapid solidification: selective laser melting of AlSi10Mg",
         "pub_year": "2016",
         "citation": "Jom 68, 960-966, 2016",
-        "num_citations": 263,
+        "num_citations": 269,
         "author_pub_id": "oP6n73gAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -1470,7 +1477,7 @@
         "title": "Rate-determining steps for reduction in magnetite-coal pellets",
         "pub_year": "2002",
         "citation": "Minerals Engineering 15 (11), 919-929, 2002",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "oP6n73gAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1505,7 +1512,7 @@
         "title": "Reduction mechanisms in manganese ore reduction",
         "pub_year": "2015",
         "citation": "Metallurgical and Materials Transactions B 46, 2534-2552, 2015",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "oP6n73gAAAAJ:W5xh706n7nkC"
     },
     {
@@ -1525,7 +1532,7 @@
         "title": "Relating Reported Carbon Dioxide Emissions to Iron and Steelmaking Process Details",
         "pub_year": "2018",
         "citation": "Extraction 2018: Proceedings of the First Global Conference on Extractive …, 2018",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "oP6n73gAAAAJ:tH6gc1N1XXoC"
     },
     {
@@ -1574,7 +1581,7 @@
         "title": "Slag carry-over and the production of clean steel",
         "pub_year": "2019",
         "citation": "Journal of the Southern African Institute of Mining and Metallurgy 119 (6 …, 2019",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "oP6n73gAAAAJ:kVjdVfd2voEC"
     },
     {
@@ -1583,6 +1590,13 @@
         "citation": "South African journal of science 102 (11), 575-580, 2006",
         "num_citations": 11,
         "author_pub_id": "oP6n73gAAAAJ:2P1L_qKh6hAC"
+    },
+    {
+        "title": "Slag-steel reactions in the refining of Advanced High-Strength Steel",
+        "pub_year": "2024",
+        "citation": "ISIJ International, ISIJINT-2024-229, 2024",
+        "num_citations": 0,
+        "author_pub_id": "oP6n73gAAAAJ:qe6vwMD2xtsC"
     },
     {
         "title": "Specification framework for control of the secondary cooling zone in continuous casting",
@@ -1616,7 +1630,7 @@
         "title": "Strength of direct reduced iron following gas-based reduction and carburization",
         "pub_year": "2020",
         "citation": "Metallurgical and Materials Transactions B 51 (6), 2628-2641, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "oP6n73gAAAAJ:1yWc8FF-_SYC"
     },
     {
@@ -1644,7 +1658,7 @@
         "title": "Structure of solidified films of mold flux for peritectic steel",
         "pub_year": "2017",
         "citation": "Metallurgical and Materials Transactions B 48, 1652-1658, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "oP6n73gAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1658,7 +1672,7 @@
         "title": "Surface roughness and the metastable pitting of stainless steel in chloride solutions",
         "pub_year": "1995",
         "citation": "Corrosion 51 (5), 380-385, 1995",
-        "num_citations": 294,
+        "num_citations": 297,
         "author_pub_id": "oP6n73gAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1672,7 +1686,7 @@
         "title": "Synthesis of titanium oxycarbide from titanium slag by methane-containing gas",
         "pub_year": "2018",
         "citation": "Metallurgical and Materials Transactions B 49, 123-131, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "oP6n73gAAAAJ:WJVC3Jt7v1AC"
     },
     {
@@ -1755,14 +1769,14 @@
         "title": "The effect of flux chemistry on element transfer in Submerged Arc Welding: Application of thermochemical modelling",
         "pub_year": "2021",
         "citation": "journal of materials research and technology 11, 2021",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "oP6n73gAAAAJ:KaMxkj08jr0C"
     },
     {
         "title": "The effect of interlayer delay on the heat accumulation, microstructures, and properties in laser hot wire directed energy deposition of Ti-6Al-4V single-wall",
         "pub_year": "2024",
         "citation": "Materials 17 (13), 3307, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "oP6n73gAAAAJ:SIv7DqKytYAC"
     },
     {
@@ -1860,7 +1874,7 @@
         "title": "The nucleation and growth of corrosion pits on stainless steel",
         "pub_year": "1993",
         "citation": "Corrosion Science 35 (1-4), 57-62, 1993",
-        "num_citations": 514,
+        "num_citations": 518,
         "author_pub_id": "oP6n73gAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1958,14 +1972,14 @@
         "title": "Transient inclusion evolution during modification of alumina inclusions by calcium in liquid steel: Part I. Background, experimental techniques and analysis methods",
         "pub_year": "2011",
         "citation": "Metallurgical and Materials Transactions B 42, 711-719, 2011",
-        "num_citations": 164,
+        "num_citations": 165,
         "author_pub_id": "oP6n73gAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "Transient inclusion evolution during modification of alumina inclusions by calcium in liquid steel: Part II. Results and discussion",
         "pub_year": "2011",
         "citation": "Metallurgical and Materials Transactions B 42, 720-729, 2011",
-        "num_citations": 156,
+        "num_citations": 157,
         "author_pub_id": "oP6n73gAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1986,7 +2000,7 @@
         "title": "Use of slag (CaO-Al2O3-SiO2-MgO) droplet as a catalyst to grow MgO whiskers through VLS mechanism",
         "pub_year": "2017",
         "citation": "Ceramics International 43 (17), 15478-15485, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "oP6n73gAAAAJ:_5tno0g5mFcC"
     },
     {
@@ -2006,7 +2020,7 @@
         "title": "Viscosity effect of titanium pickup by mould fluxes for stainless steel",
         "pub_year": "2004",
         "citation": "Ironmaking & steelmaking 31 (2), 135-143, 2004",
-        "num_citations": 75,
+        "num_citations": 78,
         "author_pub_id": "oP6n73gAAAAJ:roLk4NBRz8UC"
     },
     {

@@ -24,7 +24,7 @@
         "title": "Characterizing an effective magnetic field during asymmetric creep motion of Dzyaloshinskii domain walls",
         "pub_year": "2024",
         "citation": "Journal of Physics: Condensed Matter 36 (30), 30LT01, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "NmnYW7cAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "Disentangling factors governing Dzyaloshinskii domain-wall creep in Co/Ni thin films using  seed layers",
         "pub_year": "2018",
         "citation": "Physical Review B 98 (18), 184410, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "NmnYW7cAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Dispersive stiffness of Dzyaloshinskii domain walls",
         "pub_year": "2017",
         "citation": "Physical review letters 119 (2), 027203, 2017",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "NmnYW7cAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Energetic molding of chiral magnetic bubbles",
         "pub_year": "2016",
         "citation": "Physical review B 94 (6), 060401, 2016",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "NmnYW7cAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Enhancement of thermal conductance at metal-dielectric interfaces using subnanometer metal adhesion layers",
         "pub_year": "2016",
         "citation": "Physical Review Applied 5 (1), 014009, 2016",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "NmnYW7cAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Fabrication and recording of bit patterned media prepared by rotary stage electron beam lithography",
         "pub_year": "2011",
         "citation": "IEEE transactions on magnetics 47 (10), 2656-2659, 2011",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "NmnYW7cAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Higher-order perpendicular magnetic anisotropy and interfacial damping of Co/Ni multilayers",
         "pub_year": "2020",
         "citation": "Physical Review B 102 (17), 174421, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "NmnYW7cAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Lorentz TEM investigation of chiral spin textures and Néel Skyrmions in asymmetric  multi-layer thin films",
         "pub_year": "2019",
         "citation": "Physical Review Materials 3 (6), 064409, 2019",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "NmnYW7cAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "Magnetic domain wall skyrmions",
         "pub_year": "2019",
         "citation": "Physical Review B 99 (18), 184412, 2019",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "NmnYW7cAAAAJ:dhFuZR0502QC"
     },
     {
@@ -349,10 +349,17 @@
         "author_pub_id": "NmnYW7cAAAAJ:LkGwnXOMwfcC"
     },
     {
+        "title": "The Observation of the Role of Damping and Interfacial DMI on Directional Domain Wall Creep",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Magnetics, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NmnYW7cAAAAJ:ns9cj8rnVeAC"
+    },
+    {
         "title": "The interfacial Dzyaloshinskii-Moriya interaction and spin-orbit torque driven domain wall motion in Co/Ni multi-layers with a Ptx (Ir, Au) 1− x seedlayer",
         "pub_year": "2019",
         "citation": "AIP Advances 9 (3), 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "NmnYW7cAAAAJ:QIV2ME_5wuYC"
     },
     {

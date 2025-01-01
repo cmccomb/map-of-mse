@@ -44,7 +44,7 @@
         "title": "3D Bioprinting of Engineered Tissue Flaps with Hierarchical Vessel Networks (VesselNet) for Direct Host‐To‐Implant Perfusion",
         "pub_year": "2021",
         "citation": "Advanced Materials 33 (42), 2102661, 2021",
-        "num_citations": 130,
+        "num_citations": 135,
         "author_pub_id": "cncJ21oAAAAJ:jMZTt8odoasC"
     },
     {
@@ -58,21 +58,21 @@
         "title": "3D Bioprinting using UNIversal Orthogonal Network (UNION) Bioinks",
         "pub_year": "2021",
         "citation": "Advanced Functional Materials 31 (7), 2007983, 2021",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "cncJ21oAAAAJ:WgvcDLhf7hwC"
     },
     {
         "title": "3D Printing PDMS Elastomer in a Hydrophilic Support Bath via Freeform Reversible Embedding",
         "pub_year": "2016",
         "citation": "ACS Biomaterials Science & Engineering 2 (10), 1781-1786, 2016",
-        "num_citations": 502,
+        "num_citations": 505,
         "author_pub_id": "cncJ21oAAAAJ:tSVUDDkujAIC"
     },
     {
         "title": "3D Printing Silicone Elastomer for Patient‐Specific Wearable Pulse Oximeter",
         "pub_year": "2020",
         "citation": "Advanced healthcare materials 9 (15), 1901735, 2020",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "cncJ21oAAAAJ:4uoR24qA-WYC"
     },
     {
@@ -107,7 +107,7 @@
         "title": "3D bioprinting of collagen to rebuild components of the human heart",
         "pub_year": "2019",
         "citation": "Science 365 (6452), 482-487, 2019",
-        "num_citations": 1575,
+        "num_citations": 1608,
         "author_pub_id": "cncJ21oAAAAJ:xIusEVNJREcC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "3D-bioprinted human tissue and the path toward clinical translation",
         "pub_year": "2022",
         "citation": "Science Translational Medicine 14 (666), eabo7047, 2022",
-        "num_citations": 32,
+        "num_citations": 35,
         "author_pub_id": "cncJ21oAAAAJ:gL9scSG3K_gC"
     },
     {
@@ -151,6 +151,13 @@
         "citation": "TISSUE ENGINEERING PART A 28, 360-361, 2022",
         "num_citations": 0,
         "author_pub_id": "cncJ21oAAAAJ:NKlx0PmyA3cC"
+    },
+    {
+        "title": "3d bioprinting a medical device through freeform reversible embedding",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/659,047, 2024",
+        "num_citations": 0,
+        "author_pub_id": "cncJ21oAAAAJ:-c_eYhz9dBkC"
     },
     {
         "title": "A Fully Biological Gas Exchange Membrane for a Biomimetic Artificial Lung",
@@ -162,14 +169,14 @@
         "title": "A high performance open-source syringe extruder optimized for extrusion and retraction during FRESH 3D bioprinting",
         "pub_year": "2021",
         "citation": "HardwareX 9, e00170, 2021",
-        "num_citations": 55,
+        "num_citations": 58,
         "author_pub_id": "cncJ21oAAAAJ:puFLaqDw8dcC"
     },
     {
         "title": "A tissue-engineered jellyfish with biomimetic propulsion",
         "pub_year": "2012",
         "citation": "Nature Biotechnology 30 (8), 792-797, 2012",
-        "num_citations": 725,
+        "num_citations": 730,
         "author_pub_id": "cncJ21oAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -197,7 +204,7 @@
         "title": "Additive manufacturing of embedded materials",
         "pub_year": "2014",
         "citation": "US Patent 20160167312A1, 2014",
-        "num_citations": 46,
+        "num_citations": 52,
         "author_pub_id": "cncJ21oAAAAJ:r56sNq9gaawC"
     },
     {
@@ -232,7 +239,7 @@
         "title": "Advances in 3D Bioprinted Cardiac Tissue Using Stem Cell-Derived Cardiomyocytes",
         "pub_year": "2024",
         "citation": "Stem Cells Translational Medicine 13 (5), 425-435, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "cncJ21oAAAAJ:TY5xIG7f_2sC"
     },
     {
@@ -253,7 +260,7 @@
         "title": "Antifouling potential of lubricious, micro-engineered, PDMS elastomers against zoospores of the green fouling alga Ulva (Enteromorpha)",
         "pub_year": "2004",
         "citation": "Biofouling 20 (1), 53-63, 2004",
-        "num_citations": 272,
+        "num_citations": 274,
         "author_pub_id": "cncJ21oAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -267,7 +274,7 @@
         "title": "BIOPOLYMER STRUCTURES",
         "pub_year": "2007",
         "citation": "US Patent App. 12/443,890, 2007",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "cncJ21oAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -288,14 +295,14 @@
         "title": "Biodegradable, sustainable hydrogel actuators with shape and stiffness morphing capabilities via embedded 3D printing",
         "pub_year": "2023",
         "citation": "Advanced Functional Materials 33 (36), 2303659, 2023",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "cncJ21oAAAAJ:xm1hsP5ya-EC"
     },
     {
         "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
         "pub_year": "2017",
         "citation": "Science Robotics 2 (12), eaaq0495, 2017",
-        "num_citations": 466,
+        "num_citations": 472,
         "author_pub_id": "cncJ21oAAAAJ:lSLsV1MU4ZUC"
     },
     {
@@ -309,14 +316,14 @@
         "title": "Biohybrid thin films for measuring contractility in engineered cardiovascular muscle",
         "pub_year": "2010",
         "citation": "Biomaterials 31 (13), 3613-3621, 2010",
-        "num_citations": 233,
+        "num_citations": 234,
         "author_pub_id": "cncJ21oAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Biological soft robotics",
         "pub_year": "2015",
         "citation": "Annual review of biomedical engineering 17 (1), 243-265, 2015",
-        "num_citations": 129,
+        "num_citations": 131,
         "author_pub_id": "cncJ21oAAAAJ:PklR0melJeUC"
     },
     {
@@ -364,7 +371,7 @@
         "title": "Conformal nanopatterning of extracellular matrix proteins onto topographically complex surfaces",
         "pub_year": "2015",
         "citation": "Nature methods 12 (2), 134-136, 2015",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "cncJ21oAAAAJ:oYwriLWYh5YC"
     },
     {
@@ -399,14 +406,14 @@
         "title": "Cryopreserved cell-laden alginate microgel bioink for 3D bioprinting of living tissues",
         "pub_year": "2019",
         "citation": "Materials Today Chemistry 12, 61-70, 2019",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "cncJ21oAAAAJ:9o6PfxSMcEIC"
     },
     {
         "title": "Cytoskeletal prestress regulates nuclear shape and stiffness in cardiac myocytes",
         "pub_year": "2015",
         "citation": "Experimental Biology and Medicine 240 (11), 1543-1554, 2015",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "cncJ21oAAAAJ:JqN3CTdJtl0C"
     },
     {
@@ -420,7 +427,7 @@
         "title": "Development of Polydimethylsiloxane Substrates with Tunable Elastic Modulus to Study Cell Mechanobiology in Muscle and Nerve",
         "pub_year": "2012",
         "citation": "PLOS ONE 7 (12), e51499, 2012",
-        "num_citations": 679,
+        "num_citations": 684,
         "author_pub_id": "cncJ21oAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -441,7 +448,7 @@
         "title": "Development of a high-performance open-source 3D bioprinter",
         "pub_year": "2022",
         "citation": "Scientific Reports 12 (1), 22652, 2022",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "cncJ21oAAAAJ:TNEldfgDb5MC"
     },
     {
@@ -476,7 +483,7 @@
         "title": "Differentiation of Cardiomyocytes from Human Pluripotent Stem Cells Using Monolayer Culture: Supplementary Issue: Stem Cell Biology",
         "pub_year": "2015",
         "citation": "Biomarker insights 10, BMI. S20050, 2015",
-        "num_citations": 151,
+        "num_citations": 153,
         "author_pub_id": "cncJ21oAAAAJ:10A3hb2jUxYC"
     },
     {
@@ -497,7 +504,7 @@
         "title": "Dynamic loading of human engineered heart tissue enhances contractile function and drives a desmosome-linked disease phenotype",
         "pub_year": "2021",
         "citation": "Science translational medicine 13 (603), eabd1817, 2021",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "cncJ21oAAAAJ:71d7Y1FijdoC"
     },
     {
@@ -518,21 +525,21 @@
         "title": "Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
         "pub_year": "2023",
         "citation": "Nature communications 14 (1), 7019, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "cncJ21oAAAAJ:UY3hNwcQ290C"
     },
     {
         "title": "Embedded 3D Printing of Thermally‐Cured Thermoset Elastomers and the Interdependence of Rheology and Machine Pathing",
         "pub_year": "2023",
         "citation": "Advanced Materials Technologies 8 (3), 2200984, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "cncJ21oAAAAJ:0paDrhnEFY0C"
     },
     {
         "title": "Emergence of FRESH 3D printing as a platform for advanced tissue biofabrication",
         "pub_year": "2021",
         "citation": "APL Bioengineering 5 (1), 010904, 2021",
-        "num_citations": 186,
+        "num_citations": 189,
         "author_pub_id": "cncJ21oAAAAJ:JavbeY_VQWIC"
     },
     {
@@ -560,35 +567,35 @@
         "title": "Engineered antifouling microtopographies–correlating wettability with cell attachment",
         "pub_year": "2006",
         "citation": "Biofouling 22 (1), 11-21, 2006",
-        "num_citations": 582,
+        "num_citations": 584,
         "author_pub_id": "cncJ21oAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Engineered antifouling microtopographies–effect of feature size, geometry, and roughness on settlement of zoospores of the green alga Ulva",
         "pub_year": "2007",
         "citation": "Biofouling 23 (1), 55-62, 2007",
-        "num_citations": 554,
+        "num_citations": 556,
         "author_pub_id": "cncJ21oAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Engineered cell growth on polymeric films and biotechnological application thereof",
         "pub_year": "2016",
         "citation": "US Patent 9,383,350, 2016",
-        "num_citations": 24,
+        "num_citations": 28,
         "author_pub_id": "cncJ21oAAAAJ:CMPXdcK5v8EC"
     },
     {
         "title": "Engineered cell growth on polymeric films and biotechnological applications thereof",
         "pub_year": "2013",
         "citation": "US Patent 8,492,150, 2013",
-        "num_citations": 45,
+        "num_citations": 51,
         "author_pub_id": "cncJ21oAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Engineered skeletal muscle tissue for soft robotics: fabrication strategies, current applications, and future challenges",
         "pub_year": "2014",
         "citation": "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology 6 (2 …, 2014",
-        "num_citations": 86,
+        "num_citations": 89,
         "author_pub_id": "cncJ21oAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -609,7 +616,7 @@
         "title": "Engineering Aligned Skeletal Muscle Tissue Using Decellularized Plant-Derived Scaffolds",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (5), 3046-3054, 2020",
-        "num_citations": 103,
+        "num_citations": 105,
         "author_pub_id": "cncJ21oAAAAJ:rDsFeusoTZkC"
     },
     {
@@ -623,7 +630,7 @@
         "title": "Engineering aligned human cardiac muscle using developmentally inspired fibronectin micropatterns",
         "pub_year": "2021",
         "citation": "Scientific Reports 11 (1), 11502, 2021",
-        "num_citations": 43,
+        "num_citations": 47,
         "author_pub_id": "cncJ21oAAAAJ:HAmI6pRF5skC"
     },
     {
@@ -648,10 +655,24 @@
         "author_pub_id": "cncJ21oAAAAJ:eJD0kABLposC"
     },
     {
+        "title": "Engineering the 3D structure of organoids",
+        "pub_year": "2024",
+        "citation": "Stem Cell Reports, 2024",
+        "num_citations": 0,
+        "author_pub_id": "cncJ21oAAAAJ:h-xndbdg2koC"
+    },
+    {
+        "title": "Evaluation of 3D Bioprinted Pulsatile Conduits Engineered Using Human Stem Cell-Derived Cardiomyocytes in a Murine Model",
+        "pub_year": "2024",
+        "citation": "Circulation 150 (Suppl_1), A4144448-A4144448, 2024",
+        "num_citations": 0,
+        "author_pub_id": "cncJ21oAAAAJ:AkvegQHRDQ8C"
+    },
+    {
         "title": "Evaluation of senescence and its prevention in doxorubicin-induced cardiotoxicity using dynamic engineered heart tissues",
         "pub_year": "2023",
         "citation": "Cardio Oncology 5 (3), 298-315, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "cncJ21oAAAAJ:SEKBqlyTJecC"
     },
     {
@@ -700,21 +721,28 @@
         "title": "FRESH 3D Bioprinting a Full-Size Model of the Human Heart",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (11), 6453-6459, 2020",
-        "num_citations": 239,
+        "num_citations": 247,
         "author_pub_id": "cncJ21oAAAAJ:d6JCS5z0ckYC"
+    },
+    {
+        "title": "FRESH 3D Bioprinting of Collagen Types I, II, and III",
+        "pub_year": "2024",
+        "citation": "ACS Biomaterials Science & Engineering, 2024",
+        "num_citations": 0,
+        "author_pub_id": "cncJ21oAAAAJ:tfDI-GPdlUQC"
     },
     {
         "title": "FRESH 3D bioprinting a contractile heart tube using human stem cell-derived cardiomyocytes",
         "pub_year": "2022",
         "citation": "Biofabrication 14 (2), 024106, 2022",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "cncJ21oAAAAJ:w-fwKiQwpQAC"
     },
     {
         "title": "FRESH 3D bioprinting a ventricle-like cardiac construct using human stem cell-derived cardiomyocytes",
         "pub_year": "2022",
         "citation": "Cardiac Tissue Engineering: Methods and Protocols, 71-85, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "cncJ21oAAAAJ:RdUpO4xyVKMC"
     },
     {
@@ -728,7 +756,7 @@
         "title": "FRESH™ 3D bioprinted cardiac tissue, a bioengineered platform for in vitro pharmacology",
         "pub_year": "2023",
         "citation": "APL Bioengineering 7 (4), 2023",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "cncJ21oAAAAJ:-ZoC36zw86wC"
     },
     {
@@ -742,7 +770,7 @@
         "title": "Fabrication of freestanding alginate microfibers and microstructures for tissue engineering applications",
         "pub_year": "2013",
         "citation": "Biofabrication 6 (2), 024104, 2013",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "cncJ21oAAAAJ:Lo8V22OuN40C"
     },
     {
@@ -763,7 +791,7 @@
         "title": "Fibronectin-based nanomechanical biosensors to map 3D surface strains in live cells and tissue",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 5883, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "cncJ21oAAAAJ:hrkNWuzUpWwC"
     },
     {
@@ -805,21 +833,21 @@
         "title": "Functional maturation of human pluripotent stem cell derived cardiomyocytes in vitro–Correlation between contraction force and electrophysiology",
         "pub_year": "2015",
         "citation": "Biomaterials 51, 138-150, 2015",
-        "num_citations": 261,
+        "num_citations": 264,
         "author_pub_id": "cncJ21oAAAAJ:DPO9WFcz7UcC"
     },
     {
         "title": "Gain-of-function mutation in ubiquitin ligase KLHL24 causes desmin degradation and dilatation in hiPSC-derived engineered heart tissues",
         "pub_year": "2021",
         "citation": "The Journal of clinical investigation 131 (17), 2021",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "cncJ21oAAAAJ:jtOrAYjvdewC"
     },
     {
         "title": "Generation of functional ventricular heart muscle from mouse ventricular progenitor cells",
         "pub_year": "2009",
         "citation": "Science 326 (5951), 426-429, 2009",
-        "num_citations": 246,
+        "num_citations": 247,
         "author_pub_id": "cncJ21oAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -833,7 +861,7 @@
         "title": "Hierarchical Machine Learning for High-Fidelity 3D Printed Biopolymers",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (12), 7021-7031, 2020",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "cncJ21oAAAAJ:iWL_APfBKHwC"
     },
     {
@@ -854,7 +882,7 @@
         "title": "High throughput assays for determining contractile function and devices for use therein",
         "pub_year": "2012",
         "citation": "US Patent App. 13/318,227, 2012",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "cncJ21oAAAAJ:T_0gP6tLVL0C"
     },
     {
@@ -875,7 +903,7 @@
         "title": "In situ volumetric imaging and analysis of FRESH 3D bioprinted constructs using optical coherence tomography",
         "pub_year": "2022",
         "citation": "Biofabrication 15 (1), 014102, 2022",
-        "num_citations": 27,
+        "num_citations": 30,
         "author_pub_id": "cncJ21oAAAAJ:DwFgw5hZUzMC"
     },
     {
@@ -903,14 +931,14 @@
         "title": "Intracellular action potential recordings from cardiomyocytes by ultrafast pulsed laser irradiation of fuzzy graphene microelectrodes",
         "pub_year": "2021",
         "citation": "Science Advances 7 (15), eabd5175, 2021",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "cncJ21oAAAAJ:43B52WW2E64C"
     },
     {
         "title": "Large volume syringe pump extruder for desktop 3D printers",
         "pub_year": "2018",
         "citation": "HardwareX 3, 49-61, 2018",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "cncJ21oAAAAJ:anDooRL1HQEC"
     },
     {
@@ -924,14 +952,14 @@
         "title": "Long-Fiber Embedded Hydrogel 3D Printing for Structural Reinforcement",
         "pub_year": "2021",
         "citation": "ACS Biomaterials Science & Engineering 8 (1), 303-313, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "cncJ21oAAAAJ:ITz7TVZQ0sgC"
     },
     {
         "title": "MODIFICATION OF RHEOLOGY AND MACHINE PATHING FOR IMPROVED 3D PRINTING OF SOFT MATERIALS",
         "pub_year": "2022",
         "citation": "US Patent App. 17/754,115, 2022",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "cncJ21oAAAAJ:CKf5m1HYVjMC"
     },
     {
@@ -945,7 +973,7 @@
         "title": "MUSCLE CHIPS AND METHODS OF USE THEREOF",
         "pub_year": "2014",
         "citation": "US Patent 20,140,342,394, 2014",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "cncJ21oAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -965,7 +993,7 @@
         "title": "Methods of generating engineered innervated tissue and uses thereof",
         "pub_year": "2011",
         "citation": "US Patent App. 13/580,191, 2011",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "cncJ21oAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -992,7 +1020,7 @@
         "title": "Microtopographic cues for settlement of zoospores of the green fouling alga Enteromorpha",
         "pub_year": "2002",
         "citation": "Biofouling 18 (3), 229-236, 2002",
-        "num_citations": 380,
+        "num_citations": 382,
         "author_pub_id": "cncJ21oAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1034,7 +1062,7 @@
         "title": "Muscular thin films for building actuators and powering devices",
         "pub_year": "2007",
         "citation": "Science 317 (5843), 1366-1370, 2007",
-        "num_citations": 864,
+        "num_citations": 867,
         "author_pub_id": "cncJ21oAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1062,7 +1090,7 @@
         "title": "Natural biomaterials for corneal tissue engineering, repair, and regeneration",
         "pub_year": "2018",
         "citation": "Advanced healthcare materials 7 (16), 1701434, 2018",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "cncJ21oAAAAJ:qhW0HyKmSusC"
     },
     {
@@ -1090,14 +1118,14 @@
         "title": "Nuclear morphology and deformation in engineered cardiac myocytes and tissues",
         "pub_year": "2010",
         "citation": "Biomaterials 31 (19), 5143-5150, 2010",
-        "num_citations": 127,
+        "num_citations": 128,
         "author_pub_id": "cncJ21oAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Optimization of Silicone 3D Printing with Hierarchical Machine Learning",
         "pub_year": "2019",
         "citation": "3D Printing and Additive Manufacturing 6 (4), 181-189, 2019",
-        "num_citations": 98,
+        "num_citations": 100,
         "author_pub_id": "cncJ21oAAAAJ:CLhUwle04lcC"
     },
     {
@@ -1111,7 +1139,7 @@
         "title": "Organ-on-e-chip: Three-dimensional self-rolled biosensor array for electrical interrogations of human electrogenic spheroids",
         "pub_year": "2019",
         "citation": "Science Advances 5 (8), eaax0729, 2019",
-        "num_citations": 168,
+        "num_citations": 174,
         "author_pub_id": "cncJ21oAAAAJ:p-HGrieyzrAC"
     },
     {
@@ -1139,14 +1167,14 @@
         "title": "Polysiloxane Substrates with Highly-Tunable Elastic Modulus",
         "pub_year": "2015",
         "citation": "US Patent 20,150,010,919, 2015",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "cncJ21oAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Polysiloxane substrates with highly-tunable elastic modulus",
         "pub_year": "2018",
         "citation": "US Patent 10,119,119, 2018",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "cncJ21oAAAAJ:E2bRg1zSkIsC"
     },
     {
@@ -1195,7 +1223,7 @@
         "title": "Recapitulating human cardio-pulmonary co-development using simultaneous multilineage differentiation of pluripotent stem cells",
         "pub_year": "2022",
         "citation": "Elife 11, e67872, 2022",
-        "num_citations": 28,
+        "num_citations": 32,
         "author_pub_id": "cncJ21oAAAAJ:654Jc7Ppz2kC"
     },
     {
@@ -1265,7 +1293,7 @@
         "title": "Stretch-dependent changes in molecular conformation in fibronectin nanofibers",
         "pub_year": "2017",
         "citation": "Biomaterials science 5 (8), 1629-1639, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "cncJ21oAAAAJ:rJyh6hJnyfgC"
     },
     {
@@ -1278,28 +1306,28 @@
         "title": "Surface topographies for non-toxic bioadhesion control",
         "pub_year": "2010",
         "citation": "US Patent 7,650,848, 2010",
-        "num_citations": 196,
+        "num_citations": 199,
         "author_pub_id": "cncJ21oAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Surface topographies for non-toxic bioadhesion control",
         "pub_year": "2015",
         "citation": "US Patent 8,997,672, 2015",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "cncJ21oAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Surface topography for non-toxic bioadhesion control",
         "pub_year": "2006",
         "citation": "US Patent 7,143,709, 2006",
-        "num_citations": 130,
+        "num_citations": 131,
         "author_pub_id": "cncJ21oAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Surface-Initiated Assembly of Protein Nanofabrics",
         "pub_year": "2010",
         "citation": "Nano letters 10 (6), 2184-2191, 2010",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "cncJ21oAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1317,10 +1345,17 @@
         "author_pub_id": "cncJ21oAAAAJ:ZpgFv6i7Z4gC"
     },
     {
+        "title": "Synthetic strategy for mRNA encapsulation and gene delivery with metal-organic frameworks",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "cncJ21oAAAAJ:qkm5LKljiV4C"
+    },
+    {
         "title": "Systematic variation of microtopography, surface chemistry and elastic modulus and the state dependent effect on endothelial cell alignment",
         "pub_year": "2008",
         "citation": "Journal of Biomedical Materials Research Part A 86 (2), 522-534, 2008",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "cncJ21oAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1348,7 +1383,7 @@
         "title": "Three-dimensional fuzzy graphene ultra-microelectrodes for subcellular electrical recordings",
         "pub_year": "2020",
         "citation": "Nano Research 13 (5), 1444-1452, 2020",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "cncJ21oAAAAJ:gnsKu8c89wgC"
     },
     {
@@ -1369,7 +1404,7 @@
         "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels",
         "pub_year": "2015",
         "citation": "Science Advances 1 (9), e1500758, 2015",
-        "num_citations": 1815,
+        "num_citations": 1838,
         "author_pub_id": "cncJ21oAAAAJ:Pqt4MY__2vwC"
     },
     {

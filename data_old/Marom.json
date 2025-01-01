@@ -17,14 +17,14 @@
         "title": "Ab Initio Crystal Structure Prediction of the Energetic Materials LLM-105, RDX, and HMX",
         "pub_year": "2023",
         "citation": "Crystal Growth & Design 23 (9), 6275-6289, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "iz8reBoAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Accurate Ionization Potentials and Electron Affinities of Acceptor Molecules III: A Benchmark of GW Methods",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 615-626, 2016",
-        "num_citations": 199,
+        "num_citations": 201,
         "author_pub_id": "iz8reBoAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Accurate ionization potentials and electron affinities of acceptor molecules I. Reference data at the CCSD (T) complete basis set limit",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 595-604, 2016",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "iz8reBoAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Benchmark of  methods for azabenzenes",
         "pub_year": "2012",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 86 (24), 245127, 2012",
-        "num_citations": 219,
+        "num_citations": 220,
         "author_pub_id": "iz8reBoAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -122,14 +122,14 @@
         "title": "Beyond the GW approximation: A second-order screened exchange correction",
         "pub_year": "2015",
         "citation": "Physical Review B 92, 081104, 2015",
-        "num_citations": 80,
+        "num_citations": 79,
         "author_pub_id": "iz8reBoAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Computational Discovery of Intermolecular Singlet Fission Materials Using Many-Body Perturbation Theory",
         "pub_year": "2024",
         "citation": "The Journal of Physical Chemistry C 128 (19), 7841-7864, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "iz8reBoAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Crystal structure prediction of energetic materials and a twisted arene with Genarris and GAtor",
         "pub_year": "2021",
         "citation": "CrystEngComm 23 (35), 6023-6038, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "iz8reBoAAAAJ:08ZZubdj9fEC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Dispersion interactions with density-functional theory: Benchmarking semi-empirical and inter-atomic pair-wise corrected density functionals",
         "pub_year": "2011",
         "citation": "Journal of Chemical Theory and Computation 7, 3944, 2011",
-        "num_citations": 323,
+        "num_citations": 326,
         "author_pub_id": "iz8reBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -248,7 +248,7 @@
         "title": "Electronic structure of copper phthalocyanine: A comparative density functional theory study",
         "pub_year": "2008",
         "citation": "The Journal of chemical physics 128 (16), 2008",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "iz8reBoAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -269,7 +269,7 @@
         "title": "Evolutionary niching in the GAtor genetic algorithm for molecular crystal structure prediction",
         "pub_year": "2018",
         "citation": "Faraday discussions 211, 61-77, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "iz8reBoAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Finding predictive models for singlet fission by machine learning",
         "pub_year": "2022",
         "citation": "npj Computational Materials 8 (1), 70, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "iz8reBoAAAAJ:8AbLer7MMksC"
     },
     {
@@ -318,14 +318,14 @@
         "title": "GAtor: a first-principles genetic algorithm for molecular crystal structure prediction",
         "pub_year": "2018",
         "citation": "Journal of chemical theory and computation 14 (4), 2246-2264, 2018",
-        "num_citations": 127,
+        "num_citations": 130,
         "author_pub_id": "iz8reBoAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Genarris 2.0: A random structure generator for molecular crystals",
         "pub_year": "2020",
         "citation": "Computer Physics Communications 250, 107170, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "iz8reBoAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -353,21 +353,21 @@
         "title": "Inverted lowest singlet and triplet excitation energy ordering of graphitic carbon nitride flakes",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry Letters 14 (49), 10910-10919, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "iz8reBoAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Machine learned model for solid form volume estimation based on packing-accessible surface and molecular topological fragments",
         "pub_year": "2020",
         "citation": "The Journal of Physical Chemistry A 124 (49), 10330-10345, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "iz8reBoAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Machine learning the Hubbard U parameter in DFT+U using Bayesian optimization",
         "pub_year": "2020",
         "citation": "npj computational materials 6 (1), 180, 2020",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "iz8reBoAAAAJ:dshw04ExmUIC"
     },
     {
@@ -416,7 +416,7 @@
         "title": "Performance of dispersion-inclusive density functional theory methods for energetic materials",
         "pub_year": "2022",
         "citation": "Journal of Chemical Theory and Computation 18 (7), 4456-4471, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "iz8reBoAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -444,7 +444,7 @@
         "title": "Report on the sixth blind test of organic crystal structure prediction methods",
         "pub_year": "2016",
         "citation": "Acta Crystallographica Section B: Structural Science, Crystal Engineering …, 2016",
-        "num_citations": 621,
+        "num_citations": 624,
         "author_pub_id": "iz8reBoAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -472,7 +472,7 @@
         "title": "Stacking and registry effects in layered materials: the case of hexagonal boron nitride",
         "pub_year": "2010",
         "citation": "Physical review letters 105 (4), 046801, 2010",
-        "num_citations": 367,
+        "num_citations": 369,
         "author_pub_id": "iz8reBoAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -535,7 +535,7 @@
         "title": "The seventh blind test of crystal structure prediction: structure ranking methods",
         "pub_year": "2024",
         "citation": "Structural Science 80 (6), 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "iz8reBoAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -570,7 +570,7 @@
         "title": "When to trust photoelectron spectra from Kohn-Sham eigenvalues: The case of organic semiconductors",
         "pub_year": "2009",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 79 (20), 201205, 2009",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "iz8reBoAAAAJ:qjMakFHDy7sC"
     }
 ]

@@ -3,7 +3,7 @@
         "title": "3D electron diffraction structure determination of terrylene, a promising candidate for intermolecular singlet fission",
         "pub_year": "2021",
         "citation": "ChemPhysChem 22 (15), 1631-1637, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "iz8reBoAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -38,14 +38,14 @@
         "title": "Accurate ionization potentials and electron affinities of acceptor molecules I. Reference data at the CCSD (T) complete basis set limit",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 595-604, 2016",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "iz8reBoAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Accurate ionization potentials and electron affinities of acceptor molecules II: non-empirically tuned long-range corrected hybrid functionals",
         "pub_year": "2016",
         "citation": "Journal of chemical theory and computation 12 (2), 605-614, 2016",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "iz8reBoAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -73,7 +73,7 @@
         "title": "An energetics perspective on why there are so few triplet–triplet annihilation emitters",
         "pub_year": "2020",
         "citation": "Journal of Materials Chemistry C 8 (31), 10816-10824, 2020",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "iz8reBoAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Benchmark of  methods for azabenzenes",
         "pub_year": "2012",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 86 (24), 245127, 2012",
-        "num_citations": 224,
+        "num_citations": 225,
         "author_pub_id": "iz8reBoAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Best practices for first-principles simulations of epitaxial inorganic interfaces",
         "pub_year": "2022",
         "citation": "Journal of Physics: Condensed Matter 34 (23), 233002, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "iz8reBoAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Beyond the GW approximation: A second-order screened exchange correction",
         "pub_year": "2015",
         "citation": "Physical Review B 92, 081104, 2015",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "iz8reBoAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -178,14 +178,14 @@
         "title": "Density functional theory of transition metal phthalocyanines, II: áelectronic structure of MnPc and FePc—symmetry and symmetry breaking",
         "pub_year": "2009",
         "citation": "Applied Physics A 95, 165-172, 2009",
-        "num_citations": 133,
+        "num_citations": 134,
         "author_pub_id": "iz8reBoAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Dependence of the electronic structure of the EuS/InAs interface on the bonding configuration",
         "pub_year": "2021",
         "citation": "Physical Review Materials 5 (6), 064606, 2021",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "iz8reBoAAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Dispersion interactions with density-functional theory: Benchmarking semi-empirical and inter-atomic pair-wise corrected density functionals",
         "pub_year": "2011",
         "citation": "Journal of Chemical Theory and Computation 7, 3944, 2011",
-        "num_citations": 327,
+        "num_citations": 328,
         "author_pub_id": "iz8reBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Effect of packing motifs on the energy ranking and electronic properties of putative crystal structures of tricyano-1, 4-dithiino [c]-isothiazole",
         "pub_year": "2016",
         "citation": "Acta Crystallographica Section B: Structural Science, Crystal Engineering …, 2016",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "iz8reBoAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -227,14 +227,14 @@
         "title": "Electronic Structure of InAs and InSb Surfaces: Density Functional Theory and Angle‐Resolved Photoemission Spectroscopy",
         "pub_year": "2022",
         "citation": "Advanced Quantum Technologies 5 (3), 2100033, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "iz8reBoAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "Electronic structure of CoPc adsorbed on Ag(100): Evidence for molecule-substrate interaction mediated by Co 3 orbitals",
         "pub_year": "2013",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 87 (7), 075407, 2013",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "iz8reBoAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -276,7 +276,7 @@
         "title": "Fast Prediction of Ionic Epitaxial Interfaces with Ogre Demonstrated for Colloidal Heterostructures of Lead Halide Perovskites",
         "pub_year": "2024",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "iz8reBoAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -285,13 +285,6 @@
         "citation": "npj Computational Materials 8 (1), 70, 2022",
         "num_citations": 19,
         "author_pub_id": "iz8reBoAAAAJ:8AbLer7MMksC"
-    },
-    {
-        "title": "First Principles Assessment of ZnTe and CdSe as Prospective Tunnel Barriers at the InAs/Al Interface",
-        "pub_year": "2024",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "iz8reBoAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "First principles study of the electronic structure of the  and  interfaces",
@@ -308,6 +301,13 @@
         "author_pub_id": "iz8reBoAAAAJ:J-pR_7NvFogC"
     },
     {
+        "title": "First-Principles Assessment of ZnTe and CdSe as Prospective Tunnel Barriers at the InAs/Al Interface",
+        "pub_year": "2024",
+        "citation": "ACS Applied Materials & Interfaces, 2024",
+        "num_citations": 0,
+        "author_pub_id": "iz8reBoAAAAJ:N5tVd3kTz84C"
+    },
+    {
         "title": "First-principles feasibility assessment of a topological insulator at the InAs/GaSb interface",
         "pub_year": "2021",
         "citation": "Physical Review Materials 5 (8), 084204, 2021",
@@ -318,7 +318,7 @@
         "title": "GAtor: a first-principles genetic algorithm for molecular crystal structure prediction",
         "pub_year": "2018",
         "citation": "Journal of chemical theory and computation 14 (4), 2246-2264, 2018",
-        "num_citations": 132,
+        "num_citations": 133,
         "author_pub_id": "iz8reBoAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -332,7 +332,7 @@
         "title": "Genarris: Random generation of molecular crystal structures and fast screening with a Harris approximation",
         "pub_year": "2018",
         "citation": "The Journal of Chemical Physics 148 (24), 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "iz8reBoAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -367,28 +367,28 @@
         "title": "Machine learning the Hubbard U parameter in DFT+U using Bayesian optimization",
         "pub_year": "2020",
         "citation": "npj computational materials 6 (1), 180, 2020",
-        "num_citations": 128,
+        "num_citations": 135,
         "author_pub_id": "iz8reBoAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Many‐body dispersion interactions in molecular crystal polymorphism",
         "pub_year": "2013",
         "citation": "Angewandte Chemie International Edition 52 (26), 6629-6632, 2013",
-        "num_citations": 198,
+        "num_citations": 202,
         "author_pub_id": "iz8reBoAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Multiple dye interactions in plastic scintillators: Effects on pulse shape discrimination",
         "pub_year": "2020",
         "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 2020",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "iz8reBoAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Multiple resonance induced thermally activated delayed fluorescence: effect of chemical modification",
         "pub_year": "2023",
         "citation": "Electronic Structure 5 (1), 014010, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "iz8reBoAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -402,7 +402,7 @@
         "title": "Ogre: A python package for molecular crystal surface generation with applications to surface energy and crystal habit prediction",
         "pub_year": "2020",
         "citation": "The Journal of Chemical Physics 152 (24), 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "iz8reBoAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Performance of dispersion-inclusive density functional theory methods for energetic materials",
         "pub_year": "2022",
         "citation": "Journal of Chemical Theory and Computation 18 (7), 4456-4471, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "iz8reBoAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -465,7 +465,7 @@
         "title": "Report on the sixth blind test of organic crystal structure prediction methods",
         "pub_year": "2016",
         "citation": "Acta Crystallographica Section B: Structural Science, Crystal Engineering …, 2016",
-        "num_citations": 631,
+        "num_citations": 641,
         "author_pub_id": "iz8reBoAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -486,7 +486,7 @@
         "title": "Spin injection across the Fe/GaAs interface: Role of interfacial ordering",
         "pub_year": "2009",
         "citation": "Physical Review B—Condensed Matter and Materials Physics 80 (20), 201309, 2009",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "iz8reBoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -528,7 +528,7 @@
         "title": "Structure prediction of epitaxial inorganic interfaces by lattice and surface matching with Ogre",
         "pub_year": "2021",
         "citation": "The Journal of Chemical Physics 155 (3), 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "iz8reBoAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -549,35 +549,35 @@
         "title": "The seventh blind test of crystal structure prediction: structure generation methods",
         "pub_year": "2024",
         "citation": "Structural Science 80 (6), 2024",
-        "num_citations": 5,
+        "num_citations": 10,
         "author_pub_id": "iz8reBoAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "The seventh blind test of crystal structure prediction: structure ranking methods",
         "pub_year": "2024",
         "citation": "Structural Science 80 (6), 2024",
-        "num_citations": 4,
+        "num_citations": 8,
         "author_pub_id": "iz8reBoAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Theoretical design of a shallow donor in diamond by lithium-nitrogen codoping",
         "pub_year": "2012",
         "citation": "Physical review letters 108 (22), 226404, 2012",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "iz8reBoAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Topological properties of snse/eus and snte/cate interfaces",
         "pub_year": "2020",
         "citation": "Physical Review Materials 4 (3), 034203, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "iz8reBoAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "True molecular conformation and structure determination by three-dimensional electron diffraction of PAH by-products potentially useful for electronic applications",
         "pub_year": "2023",
         "citation": "IUCrJ 10 (1), 131-142, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "iz8reBoAAAAJ:eflP2zaiRacC"
     },
     {

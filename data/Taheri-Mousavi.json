@@ -42,30 +42,37 @@
         "author_pub_id": "G5ZrIsIAAAAJ:LkGwnXOMwfcC"
     },
     {
+        "title": "Computational statistics of segregation and dislocation activities of hydrogen charged free surfaces and grain boundaries",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.11134, 2025",
+        "num_citations": 0,
+        "author_pub_id": "G5ZrIsIAAAAJ:7PzlFSSx8tAC"
+    },
+    {
         "title": "Dynamic crack propagation in a heterogeneous ceramic microstructure, insights from a cohesive model",
         "pub_year": "2015",
         "citation": "Acta Materialia 88, 136-146, 2015",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "G5ZrIsIAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Highly efficient parallel grand canonical simulations of interstitial-driven diffusion-deformation processes",
         "pub_year": "2021",
         "citation": "Modelling and Simulation in Materials Science and Engineering 29 (5), 055018, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "G5ZrIsIAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "How hair deforms steel",
         "pub_year": "2020",
         "citation": "Science 369 (6504), 689-694, 2020",
-        "num_citations": 28,
+        "num_citations": 31,
         "author_pub_id": "G5ZrIsIAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Laser-scanning of induction-melted Al alloys: are they representative of additively manufactured ones?",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2407.06138, 2024",
+        "citation": "arXiv e-prints, arXiv: 2407.06138, 2024",
         "num_citations": 0,
         "author_pub_id": "G5ZrIsIAAAAJ:QIV2ME_5wuYC"
     },
@@ -73,14 +80,14 @@
         "title": "Limiting mechanisms and scaling of electrostatically controlled adhesion of soft nanocomposite surfaces for robotic gripping",
         "pub_year": "2020",
         "citation": "ACS Applied Materials & Interfaces 13 (1), 1192-1203, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "G5ZrIsIAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Low-Profile, Large-Range Compressive Strain Sensing Using Micromanufactured CNT Micropillar Arrays",
         "pub_year": "2023",
         "citation": "ACS Applied Materials & Interfaces 15 (32), 38665-38673, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "G5ZrIsIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -143,7 +150,7 @@
         "title": "Origin of micrometer-scale dislocation motion during hydrogen desorption",
         "pub_year": "2020",
         "citation": "Science advances 6 (23), eaaz1187, 2020",
-        "num_citations": 30,
+        "num_citations": 33,
         "author_pub_id": "G5ZrIsIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -157,7 +164,7 @@
         "title": "Transition from source-to stress-controlled plasticity in nanotwinned materials below a softening temperature",
         "pub_year": "2019",
         "citation": "npj Computational Materials 5 (1), 2, 2019",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "G5ZrIsIAAAAJ:2osOgNQ5qMEC"
     },
     {

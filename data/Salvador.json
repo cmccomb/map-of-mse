@@ -1,5 +1,12 @@
 [
     {
+        "title": " monitoring of the growth and characterization of  superlattices",
+        "pub_year": "2003",
+        "citation": "Journal of applied physics 94 (4), 2716-2724, 2003",
+        "num_citations": 14,
+        "author_pub_id": "vO15bQkAAAAJ:4TOpqqG69KYC"
+    },
+    {
         "title": "A New Series of Layered Cuprates (ACuO2. 5) 2 (ATiO3) m: Dy2Ba2Ca2Cu2Ti4O17, m= 4.",
         "pub_year": "1996",
         "citation": "ChemInform 27, 1996",
@@ -10,7 +17,7 @@
         "title": "A New Series of Layered Cuprates (ACuO2.5)2(ATiO3)m:  Dy2Ba2Ca2Cu2Ti4O17, m = 4",
         "pub_year": "1996",
         "citation": "Journal of the American Chemical Society 118 (37), 8951-8952, 1996",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "vO15bQkAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -42,6 +49,13 @@
         "author_pub_id": "vO15bQkAAAAJ:SP6oXDckpogC"
     },
     {
+        "title": "ACS Applied Materials & Interfaces 4",
+        "pub_year": "2012",
+        "citation": "",
+        "num_citations": 4,
+        "author_pub_id": "vO15bQkAAAAJ:LO7wyVUgiFcC"
+    },
+    {
         "title": "Advantages of ionic conductors over electronic conductors as infiltrates in solid oxide fuel cell cathodes",
         "pub_year": "2024",
         "citation": "International Journal of Hydrogen Energy 59, 764-776, 2024",
@@ -52,15 +66,21 @@
         "title": "An efficient approach for prediction of Warburg-type resistance under working currents",
         "pub_year": "2018",
         "citation": "International Journal of Hydrogen Energy 43 (32), 15445-15456, 2018",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "vO15bQkAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Architecture of PVD coatings for metalcutting applications: A review",
         "pub_year": "2014",
         "citation": "Surface and Coatings Technology 257, 138-153, 2014",
-        "num_citations": 279,
+        "num_citations": 282,
         "author_pub_id": "vO15bQkAAAAJ:kRWSkSYxWN8C"
+    },
+    {
+        "title": "Automated Phase Segmentation with Quantifiable Sensitivities of Three-Phase Microstructures of Solid Oxide Cell Electrodes",
+        "citation": "Available at SSRN 5143632, 0",
+        "num_citations": 0,
+        "author_pub_id": "vO15bQkAAAAJ:HtEfBTGE9r8C"
     },
     {
         "title": "BiFeO3/La0. 7Sr0. 3MnO3 heterostructures deposited on spark plasma sintered LaAlO3 substrates",
@@ -72,7 +92,7 @@
     {
         "title": "Buried Charge at the TiO2/SrTiO3 (111) Interface and Its Effect on Photochemical Reactivity",
         "pub_year": "2017",
-        "citation": "ACS applied materials & interfaces 9 (8), 7843-7851, 2017",
+        "citation": "ACS Applied Materials & Interfaces 9 (8), 7843-7851, 2017",
         "num_citations": 14,
         "author_pub_id": "vO15bQkAAAAJ:N5tVd3kTz84C"
     },
@@ -129,14 +149,14 @@
         "title": "Combinatorial substrate epitaxy: A high-throughput method for determining phase and orientation relationships and its application to BiFeO3/TiO2 heterostructures",
         "pub_year": "2012",
         "citation": "Acta materialia 60 (19), 6486-6493, 2012",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "vO15bQkAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Combinatorial substrate epitaxy: a new approach to growth of complex metastable compounds",
         "pub_year": "2013",
         "citation": "CrystEngComm 15 (27), 5434-5441, 2013",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "vO15bQkAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -150,7 +170,7 @@
         "title": "Competitive Growth of Scrutinyite (α-PbO2) and Rutile Polymorphs of SnO2 on All Orientations of Columbite CoNb2O6 Substrates",
         "pub_year": "2017",
         "citation": "Crystal Growth & Design 17 (7), 3929-3939, 2017",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "vO15bQkAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -164,7 +184,7 @@
         "title": "Computational model of domain-specific reactivity on coated ferroelectric photocatalysts",
         "pub_year": "2016",
         "citation": "The Journal of Physical Chemistry C 120 (23), 12673-12684, 2016",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "vO15bQkAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -227,7 +247,7 @@
         "title": "Crystal Chemistry of Ln'Ln''Ba2Cu2Ti2O11 (Ln= Lanthanide, Y) Materials",
         "pub_year": "1995",
         "citation": "Chemistry of materials 7 (7), 1355-1360, 1995",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "vO15bQkAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -258,6 +278,13 @@
         "author_pub_id": "vO15bQkAAAAJ:BrmTIyaxlBUC"
     },
     {
+        "title": "DABROWSKI+, KR POEPPELMEIER § , T. O. MASON",
+        "pub_year": "1997",
+        "citation": "Solid State Chemistry of Inorganic Materials: Volume 453, 171, 1997",
+        "num_citations": 1,
+        "author_pub_id": "vO15bQkAAAAJ:NXb4pA-qfm4C"
+    },
+    {
         "title": "Defect Analysis in La0. 7Sr0. 3MnO3 Epitaxial Thin Films by Electron Channeling Contrast Imaging (ECCI)",
         "pub_year": "2014",
         "citation": "Microscopy and Microanalysis 20 (S3), 1036-1037, 2014",
@@ -275,21 +302,21 @@
         "title": "Dislocation impact on resistive switching in single-crystal SrTiO3",
         "pub_year": "2013",
         "citation": "Journal of Applied Physics 113 (23), 2013",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "vO15bQkAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Distributions of local electrochemistry in heterogeneous microstructures of solid oxide fuel cells using high-performance computations",
         "pub_year": "2020",
         "citation": "Electrochimica Acta 345, 136191, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "vO15bQkAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "Effect of Crystal and Domain Orientation on the Visible-Light Photochemical Reduction of Ag on BiFeO3",
         "pub_year": "2011",
         "citation": "ACS applied materials & interfaces 3 (5), 1562-1567, 2011",
-        "num_citations": 72,
+        "num_citations": 69,
         "author_pub_id": "vO15bQkAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -303,7 +330,7 @@
         "title": "Effects of crystallographic orientation on the oxygen exchange rate of La0. 7Sr0. 3MnO3 thin films",
         "pub_year": "2011",
         "citation": "Solid State Ionics 194 (1), 9-16, 2011",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "vO15bQkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -317,7 +344,7 @@
         "title": "Electrode influence on the transport through SrRuO3∕ Cr-doped SrZrO3/metal junctions",
         "pub_year": "2007",
         "citation": "Applied physics letters 90 (20), 2007",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "vO15bQkAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -331,7 +358,7 @@
         "title": "Electron beam induced current investigations of Pt/SrTiO3− x interface exposed to chemical and electrical stresses",
         "pub_year": "2010",
         "citation": "Applied Physics Letters 96 (9), 2010",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "vO15bQkAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -394,7 +421,7 @@
         "title": "Epitaxial growth of Cu (100) and Pt (100) thin films on perovskite substrates",
         "pub_year": "2006",
         "citation": "Thin Solid Films 496 (2), 317-325, 2006",
-        "num_citations": 53,
+        "num_citations": 52,
         "author_pub_id": "vO15bQkAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -408,21 +435,21 @@
         "title": "Epitaxial stabilization and structural properties of REMnO3 (RE= Dy, Gd, Sm) compounds in a layered, hexagonal ABO3 structure",
         "pub_year": "2007",
         "citation": "Applied Physics Letters 91 (23), 2007",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "vO15bQkAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Epitaxial stabilization of (110)-layered perovskites of the RE2Ti2O7 (RE= La, Nd, Sm, Gd) family",
         "pub_year": "2009",
         "citation": "Journal of solid state chemistry 182 (7), 1603-1610, 2009",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "vO15bQkAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Eutaxial growth of hematite Fe2O3 films on perovskite SrTiO3 polycrystalline substrates",
         "pub_year": "2013",
         "citation": "Thin Solid Films 548, 220-224, 2013",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "vO15bQkAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -464,7 +491,7 @@
         "title": "First-Principles Investigation of the Epitaxial Stabilization of Oxide Polymorphs: TiO2 on (Sr,Ba)TiO3",
         "pub_year": "2017",
         "citation": "ACS Applied Materials & Interfaces 9 (4), 4106-4118, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "vO15bQkAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -492,7 +519,7 @@
         "title": "Growth and magnetoresistive properties of  superlattices",
         "pub_year": "1999",
         "citation": "Applied physics letters 75 (17), 2638-2640, 1999",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "vO15bQkAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -506,7 +533,7 @@
         "title": "Growth and structural investigations of epitaxial hexagonal YMnO3 thin films deposited on wurtzite GaN (001) substrates",
         "pub_year": "2006",
         "citation": "Thin Solid Films 515 (4), 1807-1813, 2006",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "vO15bQkAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -527,7 +554,7 @@
         "title": "Growth of La2Ti2O7 and LaTiO3 thin films using pulsed laser deposition",
         "pub_year": "2008",
         "citation": "Journal of Crystal Growth 310 (7-9), 1985-1990, 2008",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "vO15bQkAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -541,21 +568,21 @@
         "title": "Growth, structure, and morphology of TiO2 films deposited by molecular beam epitaxy in pure ozone ambients",
         "pub_year": "2006",
         "citation": "Microelectronics journal 37 (12), 1493-1497, 2006",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "vO15bQkAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Heterostructured (Ba, Sr) TiO3/TiO2 core/shell photocatalysts: influence of processing and structure on hydrogen production",
         "pub_year": "2013",
         "citation": "international journal of hydrogen energy 38 (17), 6948-6959, 2013",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "vO15bQkAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Heterostructured Ceramic Powders for Photocatalytic Hydrogen Production: Nanostructured TiO2 Shells Surrounding Microcrystalline (Ba,Sr)TiO3 Cores",
         "pub_year": "2012",
         "citation": "Journal of the American Ceramic Society 95 (4), 1414-1420, 2012",
-        "num_citations": 83,
+        "num_citations": 82,
         "author_pub_id": "vO15bQkAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -576,14 +603,14 @@
         "title": "High performance finite element simulations of infiltrated solid oxide fuel cell cathode microstructures",
         "pub_year": "2022",
         "citation": "Journal of Power Sources 541, 231652, 2022",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "vO15bQkAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "High performance modeling of heterogeneous SOFC electrode microstructures using the MOOSE framework: ERMINE (Electrochemical Reactions in MIcrostructural NEtworks)",
         "pub_year": "2020",
         "citation": "MethodsX 7, 100822, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "vO15bQkAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -610,8 +637,8 @@
     {
         "title": "High visible-light photochemical activity of titania decorated on single-wall carbon nanotube aerogels",
         "pub_year": "2016",
-        "citation": "RSC advances 6 (27), 22285-22294, 2016",
-        "num_citations": 48,
+        "citation": "RSC Advances 6 (27), 22285-22294, 2016",
+        "num_citations": 47,
         "author_pub_id": "vO15bQkAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -625,7 +652,7 @@
         "title": "High-temperature transport and defect studies of quadruple perovskites: La2Ba2Cu2Sn2O11, Eu2Ba2Cu2Ti2O11, and La2Ba2Cu2Ti2O11",
         "pub_year": "1995",
         "citation": "Journal of Solid State Chemistry 119 (1), 80-89, 1995",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "vO15bQkAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -646,7 +673,7 @@
         "title": "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates",
         "pub_year": "2014",
         "citation": "ACS Applied Materials & Interfaces 6 (5), 3630-3639, 2014",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "vO15bQkAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -688,15 +715,8 @@
         "title": "In situ characterization of strontium surface segregation in epitaxial La0. 7Sr0. 3MnO3 thin films as a function of oxygen partial pressure",
         "pub_year": "2008",
         "citation": "Applied Physics Letters 93 (15), 2008",
-        "num_citations": 224,
+        "num_citations": 225,
         "author_pub_id": "vO15bQkAAAAJ:u-x6o8ySG0sC"
-    },
-    {
-        "title": "In situ monitoring of the growth and characterization of (PrMnO3) n (SrMnO3) n superlattices",
-        "pub_year": "2003",
-        "citation": "Journal of applied physics 94 (4), 2716-2724, 2003",
-        "num_citations": 14,
-        "author_pub_id": "vO15bQkAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "In situ synchrotron X-ray studies of dense thin-film strontium-doped lanthanum manganite solid oxide fuel cell cathodes",
@@ -716,22 +736,29 @@
         "title": "Influence of Dipolar Fields on the Photochemical Reactivity of Thin Titania Films on BaTiO3 Substrates",
         "pub_year": "2006",
         "citation": "Journal of the American Ceramic Society 89 (9), 2943-2945, 2006",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "vO15bQkAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Influence of orientation and ferroelectric domains on the photochemical reactivity of La2Ti2O7",
         "pub_year": "2021",
         "citation": "Journal of the European Ceramic Society 41 (1), 319-325, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "vO15bQkAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "Influence of pH and Surface Orientation on the Photochemical Reactivity of SrTiO3",
         "pub_year": "2020",
-        "citation": "ACS applied materials & interfaces 12 (20), 23617-23626, 2020",
+        "citation": "ACS Applied Materials & Interfaces 12 (20), 23617-23626, 2020",
         "num_citations": 15,
         "author_pub_id": "vO15bQkAAAAJ:tuHXwOkdijsC"
+    },
+    {
+        "title": "Influence of pH and Surface Orientation on the Photochemical Reactivity of SrTiO₃",
+        "pub_year": "2020",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "vO15bQkAAAAJ:0izLItjtcgwC"
     },
     {
         "title": "Influence of particle size and shape on the rate of hydrogen produced by Al‐doped SrTiO3 photocatalysts",
@@ -750,7 +777,7 @@
     {
         "title": "Influence of the Magnitude of Ferroelectric Domain Polarization on the Photochemical Reactivity of BaTiO3",
         "pub_year": "2018",
-        "citation": "ACS applied materials & interfaces 10 (48), 41450-41457, 2018",
+        "citation": "ACS Applied Materials & Interfaces 10 (48), 41450-41457, 2018",
         "num_citations": 11,
         "author_pub_id": "vO15bQkAAAAJ:9Nmd_mFXekcC"
     },
@@ -765,7 +792,7 @@
         "title": "Internal Chemistry of the Pure and Chemically Substituted Quadruple Perovskites Ln‘Ln‘‘Ba2Cu2Ti2O11 (Ln‘Ln‘‘ = LaY or NdDy)",
         "pub_year": "1997",
         "citation": "Journal of the American Chemical Society 119 (16), 3756-3764, 1997",
-        "num_citations": 12,
+        "num_citations": 3,
         "author_pub_id": "vO15bQkAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -793,14 +820,14 @@
         "title": "Local heating-induced plastic deformation in resistive switching devices",
         "pub_year": "2011",
         "citation": "Journal of Applied Physics 110 (5), 2011",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "vO15bQkAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Machine learning in catalysis",
         "pub_year": "2018",
         "citation": "Nature Catalysis 1 (4), 230-232, 2018",
-        "num_citations": 451,
+        "num_citations": 452,
         "author_pub_id": "vO15bQkAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -821,7 +848,7 @@
         "title": "Mesoscale characterization of local property distributions in heterogeneous electrodes",
         "pub_year": "2018",
         "citation": "Journal of Power Sources 386, 1-9, 2018",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "vO15bQkAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -830,6 +857,13 @@
         "citation": "RSC advances 9 (35), 19895-19904, 2019",
         "num_citations": 12,
         "author_pub_id": "vO15bQkAAAAJ:BUYA1_V_uYcC"
+    },
+    {
+        "title": "Metastable monoclinic [110] layered perovskite Dy₂Ti₂O₇ thin films for ferroelectric applications",
+        "pub_year": "2019",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "vO15bQkAAAAJ:anf4URPfarAC"
     },
     {
         "title": "MgO films grown on yttria-stabilized zirconia by molecular beam epitaxy",
@@ -849,7 +883,7 @@
         "title": "Microstructural Degradation of (La, Sr) MnO3∕ YSZ Cathodes in Solid Oxide Fuel Cells with Uncoated E-Brite Interconnects",
         "pub_year": "2010",
         "citation": "Journal of The Electrochemical Society 158 (2), B152, 2010",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "vO15bQkAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -869,14 +903,14 @@
         "title": "Microstructure generation via generative adversarial network for heterogeneous, topologically complex 3D materials",
         "pub_year": "2021",
         "citation": "Jom 73, 90-102, 2021",
-        "num_citations": 103,
+        "num_citations": 105,
         "author_pub_id": "vO15bQkAAAAJ:S16KYo8Pm5AC"
     },
     {
         "title": "Mobility of oxygen vacancy in SrTiO3 and its implications for oxygen-migration-based resistance switching",
         "pub_year": "2011",
         "citation": "Journal of Applied Physics 110 (3), 2011",
-        "num_citations": 144,
+        "num_citations": 143,
         "author_pub_id": "vO15bQkAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -890,14 +924,14 @@
         "title": "Monte Carlo simulations and experimental observations of templated grain growth in thin platinum films",
         "pub_year": "2007",
         "citation": "Acta materialia 55 (18), 6159-6169, 2007",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "vO15bQkAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Multidomain simulations of coated ferroelectrics exhibiting spatially selective photocatalytic activity with high internal quantum efficiencies",
         "pub_year": "2016",
         "citation": "Journal of Materials Chemistry A 4 (41), 16085-16093, 2016",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "vO15bQkAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -945,8 +979,8 @@
     {
         "title": "Phase and structural characterization of Sr2Nb2O7 and SrNbO3 thin films grown via pulsed laser ablation in O2 or N2 atmospheres",
         "pub_year": "2008",
-        "citation": "Journal of solid state chemistry 181 (4), 705-714, 2008",
-        "num_citations": 27,
+        "citation": "Journal of Solid State Chemistry 181 (4), 705-714, 2008",
+        "num_citations": 26,
         "author_pub_id": "vO15bQkAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -960,28 +994,28 @@
         "title": "Photocatalysts with internal electric fields",
         "pub_year": "2014",
         "citation": "Nanoscale 6 (1), 24-42, 2014",
-        "num_citations": 782,
+        "num_citations": 778,
         "author_pub_id": "vO15bQkAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Photochemical Reactivity of Titania Films on BaTiO3 Substrates: Influence of Titania Phase and Orientation",
         "pub_year": "2010",
         "citation": "Chemistry of Materials 22 (21), 5831-5837, 2010",
-        "num_citations": 146,
+        "num_citations": 145,
         "author_pub_id": "vO15bQkAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Point Defect Modeling of La2CuO4‐Based Superconductors",
         "pub_year": "1994",
         "citation": "Journal of the American Ceramic Society 77 (1), 81-88, 1994",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "vO15bQkAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Polar Domains at the Surface of Centrosymmetric BiVO4",
         "pub_year": "2014",
         "citation": "Chemistry of Materials 26 (9), 2774-2776, 2014",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "vO15bQkAAAAJ:eflP2zaiRacC"
     },
     {
@@ -1016,14 +1050,14 @@
         "title": "Quantifying intermediate‐frequency heterogeneities of SOFC electrodes using X‐ray computed tomography",
         "pub_year": "2017",
         "citation": "Journal of the American Ceramic Society 100 (5), 2232-2242, 2017",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "vO15bQkAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Quantifying morphological variability and operating evolution in SOFC anode microstructures",
         "pub_year": "2021",
         "citation": "Journal of Power Sources 498, 229846, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "vO15bQkAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -1058,7 +1092,7 @@
         "title": "Secondary hardness enhancement in large period TiN/TaN superlattices",
         "pub_year": "2014",
         "citation": "Surface and Coatings Technology 254, 21-27, 2014",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "vO15bQkAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -1079,7 +1113,7 @@
         "title": "Spatially selective visible light photocatalytic activity of TiO 2/BiFeO 3 heterostructures",
         "pub_year": "2011",
         "citation": "Journal of Materials Chemistry 21 (12), 4168-4174, 2011",
-        "num_citations": 157,
+        "num_citations": 159,
         "author_pub_id": "vO15bQkAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1093,21 +1127,21 @@
         "title": "Stabilization of YMnO3 in a perovskite structure as a thin film",
         "pub_year": "1998",
         "citation": "Chemistry of materials 10 (10), 2592-2595, 1998",
-        "num_citations": 155,
+        "num_citations": 158,
         "author_pub_id": "vO15bQkAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Stoichiometric, nonstoichiometric, and locally nonstoichiometric SrTiO3 films grown by molecular beam epitaxy",
         "pub_year": "2008",
         "citation": "Journal of Applied Physics 103 (1), 2008",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "vO15bQkAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Structural characterization of TiO2 films grown on LaAlO3 and SrTiO3 substrates using reactive molecular beam epitaxy",
         "pub_year": "2008",
         "citation": "Journal of crystal growth 310 (3), 545-550, 2008",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "vO15bQkAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1135,14 +1169,14 @@
         "title": "Substitution behavior and stable charge carrier species in long-bond length layered cuprates",
         "pub_year": "1999",
         "citation": "Chemistry of materials 11 (7), 1760-1770, 1999",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "vO15bQkAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Substrate and Thickness Effects on the Oxygen Surface Exchange of La0.7Sr0.3MnO3 Thin Films",
         "pub_year": "2012",
         "citation": "ACS Applied Materials & Interfaces 4 (5), 2541-2550, 2012",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "vO15bQkAAAAJ:mB3voiENLucC"
     },
     {
@@ -1156,7 +1190,7 @@
         "title": "Synthesis and Structure of LaSr2CuTiO6.5:  A New Oxygen-Deficient Ruddlesden−Popper Phase",
         "pub_year": "1996",
         "citation": "Chemistry of materials 8 (12), 2792-2798, 1996",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "vO15bQkAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -1202,13 +1236,6 @@
         "author_pub_id": "vO15bQkAAAAJ:yB1At4FlUx8C"
     },
     {
-        "title": "THIN FILM SYNTHESIS OF COPPER-BASED PEROVSKITES HAVING TWO-DIMENSIONAL CATION ORDER:(La0. 8Ba0. 2CuO2. 6±x) m (AECuO2) n SUPERLATTICES PA SALVADORa, b, TD. DOANa, B. MERCEYª …",
-        "pub_year": "1998",
-        "citation": "Solid-state Chemistry of Inorganic Materials, 285, 1998",
-        "num_citations": 0,
-        "author_pub_id": "vO15bQkAAAAJ:86PQX7AUzd4C"
-    },
-    {
         "title": "The Orientation Dependence of the Photochemical Activity of α‐Fe2O3",
         "pub_year": "2016",
         "citation": "Journal of the American Ceramic Society 99 (7), 2428-2435, 2016",
@@ -1219,14 +1246,14 @@
         "title": "The effect of chromium oxyhydroxide on solid oxide fuel cells",
         "pub_year": "2009",
         "citation": "Journal of The Electrochemical Society 157 (2), B228, 2009",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "vO15bQkAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "The effect of pH on the photochemical reactivity of BaTiO3",
         "pub_year": "2018",
         "citation": "Surface Science 675, 83-90, 2018",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "vO15bQkAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -1240,7 +1267,7 @@
         "title": "The orientation dependence of the photochemical reactivity of BiVO 4",
         "pub_year": "2015",
         "citation": "Journal of Materials Chemistry A 3 (5), 2370-2377, 2015",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "vO15bQkAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -1254,14 +1281,14 @@
         "title": "The orientation distributions of lines, surfaces, and interfaces around three‐phase boundaries in solid oxide fuel cell cathodes",
         "pub_year": "2011",
         "citation": "Journal of the American Ceramic Society 94 (11), 4045-4051, 2011",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "vO15bQkAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "The origin of photochemical anisotropy in SrTiO3",
         "pub_year": "2007",
         "citation": "Topics in Catalysis 44, 529-533, 2007",
-        "num_citations": 95,
+        "num_citations": 94,
         "author_pub_id": "vO15bQkAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1324,7 +1351,7 @@
         "title": "Transient characterization of the electroforming process in TiO2 based resistive switching devices",
         "pub_year": "2013",
         "citation": "Applied Physics Letters 102 (2), 2013",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "vO15bQkAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -1338,7 +1365,7 @@
         "title": "Visible light photochemical activity of heterostructured PbTiO 3–TiO 2 core–shell particles",
         "pub_year": "2012",
         "citation": "Catalysis Science & Technology 2 (9), 1945-1952, 2012",
-        "num_citations": 110,
+        "num_citations": 113,
         "author_pub_id": "vO15bQkAAAAJ:3fE2CSJIrl8C"
     },
     {

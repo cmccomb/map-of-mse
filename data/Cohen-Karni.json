@@ -59,7 +59,7 @@
         "title": "3D fuzzy graphene microelectrode array for dopamine sensing at sub-cellular spatial resolution",
         "pub_year": "2021",
         "citation": "Biosensors and Bioelectronics 191, 113440, 2021",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "7dey80AAAAAJ:G36d5HCDkJYC"
     },
     {
@@ -73,21 +73,21 @@
         "title": "3D graphene-nanowire “sandwich” thermal interface with ultralow resistance and stiffness",
         "pub_year": "2023",
         "citation": "ACS nano 17 (3), 2602-2610, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "7dey80AAAAAJ:cB__R-XWw9UC"
     },
     {
         "title": "A snapshot review on materials enabled multimodal bioelectronics for neurological and cardiac research",
         "pub_year": "2023",
         "citation": "MRS advances 8 (19), 1047-1060, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "7dey80AAAAAJ:DIubQTN3OvUC"
     },
     {
         "title": "Adaptive frequency-domain filtering for neural signal preprocessing",
         "pub_year": "2023",
         "citation": "NeuroImage 284, 120429, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "7dey80AAAAAJ:sJK75vZXtG0C"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Design and implementation of functional nanoelectronic interfaces with biomolecules, cells, and tissue using nanowire device arrays",
         "pub_year": "2009",
         "citation": "IEEE transactions on nanotechnology 9 (3), 269-280, 2009",
-        "num_citations": 136,
+        "num_citations": 140,
         "author_pub_id": "7dey80AAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -171,13 +171,13 @@
         "title": "Effect of graphene on nonneuronal and neuronal cell viability and stress",
         "pub_year": "2017",
         "citation": "Nano letters 17 (5), 3297-3301, 2017",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "7dey80AAAAAJ:i_7YvbSbtFEC"
     },
     {
         "title": "Electrical Recording from Cardiac Cells and Tissue Using Nanowire Transistors",
         "pub_year": "2011",
-        "citation": "Nanomedicine and the Cardiovascular System, 141, 2011",
+        "citation": "Nanomedicine and the Cardiovascular System, 141-163, 2011",
         "num_citations": 0,
         "author_pub_id": "7dey80AAAAAJ:KlAtU1dfN6UC"
     },
@@ -192,14 +192,14 @@
         "title": "Electrical recording from hearts with flexible nanowire device arrays",
         "pub_year": "2009",
         "citation": "Nano letters 9 (2), 914-918, 2009",
-        "num_citations": 277,
+        "num_citations": 274,
         "author_pub_id": "7dey80AAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
         "pub_year": "2023",
         "citation": "Nature communications 14 (1), 7019, 2023",
-        "num_citations": 7,
+        "num_citations": 10,
         "author_pub_id": "7dey80AAAAAJ:ojlX30-wUrgC"
     },
     {
@@ -213,20 +213,20 @@
         "title": "Engineering three-dimensional (3D) out-of-plane graphene edge sites for highly selective two-electron oxygen reduction electrocatalysis",
         "pub_year": "2020",
         "citation": "ACS catalysis 10 (3), 1993-2008, 2020",
-        "num_citations": 149,
+        "num_citations": 151,
         "author_pub_id": "7dey80AAAAAJ:tBlTYpvFGQIC"
     },
     {
         "title": "Fabrication and characterization of Fe-pd ferromagnetic shape-memory thin films",
         "pub_year": "2003",
         "citation": "MRS Online Proceedings Library (OPL) 785, D7. 4, 2003",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "7dey80AAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Fe-Pd alloy ferromagnetic shape memory thin films",
-        "pub_year": "2004",
-        "citation": "J. Mater. Res. 20, 2279-2287, 2004",
+        "pub_year": "2003",
+        "citation": "Technion—Israel Institute of Technology, Harvard University 31, 2003",
         "num_citations": 4,
         "author_pub_id": "7dey80AAAAAJ:0EnyYjriUFMC"
     },
@@ -241,7 +241,7 @@
         "title": "Flexible Glassy Carbon Multielectrode Array for In Vivo Multisite Detection of Tonic and Phasic Dopamine Concentrations",
         "pub_year": "2022",
         "citation": "Biosensors 12 (7), 540, 2022",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "7dey80AAAAAJ:T8_be82Iz5gC"
     },
     {
@@ -261,14 +261,14 @@
         "title": "Graphene and nanowire transistors for cellular interfaces and electrical recording",
         "pub_year": "2010",
         "citation": "Nano letters 10 (3), 1098-1102, 2010",
-        "num_citations": 511,
+        "num_citations": 506,
         "author_pub_id": "7dey80AAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Graphene and poly (3, 4-ethylenedioxythiophene)–polystyrene sulfonate hybrid nanostructures for input/output bioelectronics",
         "pub_year": "2023",
         "citation": "ACS Applied Nano Materials 6 (10), 8495-8505, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "7dey80AAAAAJ:ShjGdcaqzI0C"
     },
     {
@@ -282,28 +282,28 @@
         "title": "Graphene nanostructures for input–output bioelectronics",
         "pub_year": "2021",
         "citation": "Biophysics Reviews 2 (4), 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "7dey80AAAAAJ:3vbIHxFL9FgC"
     },
     {
-        "title": "High Thermal Conductivity of Sandwich‐Structured Flexible Thermal Interface Materials",
+        "title": "High thermal conductivity of sandwich‐structured flexible thermal interface materials",
         "pub_year": "2023",
         "citation": "Small 19 (11), 2207015, 2023",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "7dey80AAAAAJ:S2WlVNSe3u4C"
     },
     {
         "title": "Hysteresis‐Free and High‐Sensitivity Strain Sensing of Ionically Conductive Hydrogels",
         "pub_year": "2023",
         "citation": "Advanced nanobiomed research 3 (2), 2200132, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "7dey80AAAAAJ:rFyVMFCKTwsC"
     },
     {
         "title": "Intact mangrove root electrodes for desalination",
         "pub_year": "2019",
         "citation": "RSC advances 9 (9), 4735-4743, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "7dey80AAAAAJ:gV6rEsy15s0C"
     },
     {
@@ -317,18 +317,18 @@
         "title": "Intracellular action potential recordings from cardiomyocytes by ultrafast pulsed laser irradiation of fuzzy graphene microelectrodes",
         "pub_year": "2021",
         "citation": "Science Advances 7 (15), eabd5175, 2021",
-        "num_citations": 59,
+        "num_citations": 58,
         "author_pub_id": "7dey80AAAAAJ:Nw_I7GeUguwC"
     },
     {
         "title": "Intracellular recordings of action potentials by an extracellular nanoscale field-effect transistor",
         "pub_year": "2012",
         "citation": "Nature nanotechnology 7 (3), 174-179, 2012",
-        "num_citations": 517,
+        "num_citations": 521,
         "author_pub_id": "7dey80AAAAAJ:qjMakFHDy7sC"
     },
     {
-        "title": "Modulation of Early Stage Neuronal Outgrowth through Out-of-Plane Graphene",
+        "title": "Modulation of early stage neuronal outgrowth through out-of-plane graphene",
         "pub_year": "2022",
         "citation": "Nano Letters 22 (21), 8633-8640, 2022",
         "num_citations": 4,
@@ -351,8 +351,8 @@
     {
         "title": "Multifunctional Nanomaterials for Advancing Neural Interfaces: Recording, Stimulation, and Beyond",
         "pub_year": "2024",
-        "citation": "Accounts of Chemical Research, 8495-8505, 2024",
-        "num_citations": 2,
+        "citation": "Accounts of Chemical Research 57 (13), 1803-1814, 2024",
+        "num_citations": 3,
         "author_pub_id": "7dey80AAAAAJ:a2necdfpwlEC"
     },
     {
@@ -366,14 +366,14 @@
         "title": "Nanocomposite gold-silk nanofibers",
         "pub_year": "2012",
         "citation": "Nano letters 12 (10), 5403-5406, 2012",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "7dey80AAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Nanoelectronics for neuroscience",
         "pub_year": "2019",
         "citation": "Elsevier, 2019",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "7dey80AAAAAJ:lK9BDNCuzFgC"
     },
     {
@@ -394,21 +394,21 @@
         "title": "Nanowire nanoelectronics: Building interfaces with tissue and cells at the natural scale of biology",
         "pub_year": "2013",
         "citation": "Pure and Applied Chemistry 85 (5), 883-901, 2013",
-        "num_citations": 35,
+        "num_citations": 33,
         "author_pub_id": "7dey80AAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Nanowire transistor arrays for mapping neural circuits in acute brain slices",
         "pub_year": "2010",
         "citation": "Proceedings of the National Academy of Sciences 107 (5), 1882-1887, 2010",
-        "num_citations": 233,
+        "num_citations": 235,
         "author_pub_id": "7dey80AAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Nanowire-Mesh Templated Growth of Out-of-Plane Three-Dimensional Fuzzy Graphene",
         "pub_year": "2021",
         "citation": "US Patent App. 16/606,055, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "7dey80AAAAAJ:Tfl4UtY-dJUC"
     },
     {
@@ -429,14 +429,14 @@
         "title": "Nanowire-mesh-templated growth of out-of-plane three-dimensional fuzzy graphene",
         "pub_year": "2017",
         "citation": "ACS nano 11 (6), 6301-6311, 2017",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "7dey80AAAAAJ:MDX3w3dAD3YC"
     },
     {
         "title": "Neural modulation with photothermally active nanomaterials",
         "pub_year": "2023",
-        "citation": "Nature Reviews Bioengineering 1 (3), 193-207, 2023",
-        "num_citations": 34,
+        "citation": "Nature reviews bioengineering 1 (3), 193-207, 2023",
+        "num_citations": 36,
         "author_pub_id": "7dey80AAAAAJ:wGzT3bKASkAC"
     },
     {
@@ -450,7 +450,7 @@
         "title": "Organ-on-e-chip: Three-dimensional self-rolled biosensor array for electrical interrogations of human electrogenic spheroids",
         "pub_year": "2019",
         "citation": "Science advances 5 (8), eaax0729, 2019",
-        "num_citations": 178,
+        "num_citations": 185,
         "author_pub_id": "7dey80AAAAAJ:qCpRzq7zkD8C"
     },
     {
@@ -464,7 +464,7 @@
         "title": "Outside looking in: nanotube transistor intracellular sensors",
         "pub_year": "2012",
         "citation": "Nano letters 12 (6), 3329-3333, 2012",
-        "num_citations": 137,
+        "num_citations": 139,
         "author_pub_id": "7dey80AAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -491,7 +491,7 @@
         "title": "Real-Time In Vivo Sensing of Nitric Oxide Using Photonic Microring Resonators",
         "pub_year": "2022",
         "citation": "ACS sensors 7 (8), 2253-2261, 2022",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "7dey80AAAAAJ:9LpHyFPp1DQC"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Remote nongenetic optical modulation of neuronal activity using fuzzy graphene",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (24), 13339-13349, 2020",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "7dey80AAAAAJ:c1AJUTjuCtUC"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Slow DNA transport through nanopores in hafnium oxide membranes",
         "pub_year": "2013",
         "citation": "ACS nano 7 (11), 10121-10128, 2013",
-        "num_citations": 248,
+        "num_citations": 252,
         "author_pub_id": "7dey80AAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -547,28 +547,28 @@
         "title": "Synthetically encoded ultrashort-channel nanowire transistors for fast, pointlike cellular signal detection",
         "pub_year": "2012",
         "citation": "Nano letters 12 (5), 2639-2644, 2012",
-        "num_citations": 107,
+        "num_citations": 109,
         "author_pub_id": "7dey80AAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "The Baltimore declaration toward the exploration of organoid intelligence",
         "pub_year": "2023",
         "citation": "Frontiers in Science 1, 1068159, 2023",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "7dey80AAAAAJ:BW2nPTmhBn4C"
     },
     {
         "title": "The smartest materials: the future of nanoelectronics in medicine",
         "pub_year": "2012",
         "citation": "ACS nano 6 (8), 6541-6545, 2012",
-        "num_citations": 106,
+        "num_citations": 105,
         "author_pub_id": "7dey80AAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Thermal transport in multidimensional silicon-graphene hybrid nanostructures",
         "pub_year": "2021",
         "citation": "ACS Applied Materials & Interfaces 13 (42), 50206-50212, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "7dey80AAAAAJ:wuD5JclIwkYC"
     },
     {
@@ -589,7 +589,7 @@
         "title": "Three-dimensional, flexible nanoscale field-effect transistors as localized bioprobes",
         "pub_year": "2010",
         "citation": "Science 329 (5993), 830-834, 2010",
-        "num_citations": 899,
+        "num_citations": 896,
         "author_pub_id": "7dey80AAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -603,14 +603,14 @@
         "title": "Torsional electromechanical quantum oscillations in carbon nanotubes",
         "pub_year": "2006",
         "citation": "Nature nanotechnology 1 (1), 36-41, 2006",
-        "num_citations": 169,
+        "num_citations": 170,
         "author_pub_id": "7dey80AAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Toward sustainable desalination using food waste: capacitive desalination with bread-derived electrodes",
         "pub_year": "2021",
         "citation": "RSC advances 11 (16), 9628-9637, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "7dey80AAAAAJ:hfzGNhXhx5MC"
     },
     {

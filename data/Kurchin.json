@@ -3,14 +3,14 @@
         "title": "A minimal information set to enable verifiable theoretical battery research",
         "pub_year": "2021",
         "citation": "ACS Energy Letters 6 (11), 3831-3835, 2021",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "CSHe53oAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "A-Site Cation in Inorganic A3Sb2I9 Perovskite Influences Structural Dimensionality, Exciton Binding Energy, and Solar Cell Performance",
         "pub_year": "2018",
         "citation": "Chemistry of Materials 30 (11), 3734-3742, 2018",
-        "num_citations": 165,
+        "num_citations": 172,
         "author_pub_id": "CSHe53oAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Bayesim: A tool for adaptive grid model fitting with Bayesian inference",
         "pub_year": "2019",
         "citation": "Computer Physics Communications 239, 161-165, 2019",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "CSHe53oAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -79,7 +79,7 @@
         "title": "Economically sustainable scaling of photovoltaics to meet climate targets",
         "pub_year": "2016",
         "citation": "Energy & Environmental Science 9 (6), 2122-2129, 2016",
-        "num_citations": 133,
+        "num_citations": 132,
         "author_pub_id": "CSHe53oAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -100,14 +100,14 @@
         "title": "High tolerance to iron contamination in lead halide perovskite solar cells",
         "pub_year": "2017",
         "citation": "ACS nano 11 (7), 7101-7109, 2017",
-        "num_citations": 107,
+        "num_citations": 106,
         "author_pub_id": "CSHe53oAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "How much physics is in a current–voltage curve? Inferring defect properties from photovoltaic device measurements",
         "pub_year": "2020",
         "citation": "IEEE Journal of Photovoltaics 10 (6), 1532-1537, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "CSHe53oAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Methylammonium bismuth iodide as a lead‐free, stable hybrid organic–inorganic solar absorber",
         "pub_year": "2016",
         "citation": "Chemistry–A European Journal 22 (8), 2605-2610, 2016",
-        "num_citations": 375,
+        "num_citations": 380,
         "author_pub_id": "CSHe53oAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -156,7 +156,7 @@
         "title": "Perovskite-inspired photovoltaic materials: toward best practices in materials characterization and calculations",
         "pub_year": "2017",
         "citation": "Chemistry of Materials 29 (5), 1964-1988, 2017",
-        "num_citations": 149,
+        "num_citations": 150,
         "author_pub_id": "CSHe53oAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -169,8 +169,15 @@
         "title": "Rapid photovoltaic device characterization through Bayesian parameter estimation",
         "pub_year": "2017",
         "citation": "Joule 1 (4), 843-856, 2017",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "CSHe53oAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+        "title": "Report on Reproducibility in Condensed Matter Physics",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.18631, 2025",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Research data supporting\" Strongly Enhanced Photovoltaic Performance and Defect Physics of Air-Stable Bismuth Oxyiodide (BiOI)\"",
@@ -183,21 +190,21 @@
         "title": "Score-based generative models for molecule generation",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2203.04698, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "CSHe53oAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Searching for “defect-tolerant” photovoltaic materials: combined theoretical and experimental screening",
         "pub_year": "2017",
         "citation": "Chemistry of Materials 29 (11), 4667-4674, 2017",
-        "num_citations": 392,
+        "num_citations": 396,
         "author_pub_id": "CSHe53oAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Segmentation and tracking of marine cellular clouds observed by geostationary satellites",
         "pub_year": "2016",
         "citation": "International Journal of Remote Sensing 37 (5), 1055-1068, 2016",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "CSHe53oAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -211,14 +218,14 @@
         "title": "Solvent-engineering method to deposit compact bismuth-based thin films: mechanism and application to photovoltaics",
         "pub_year": "2018",
         "citation": "Chemistry of Materials 30 (2), 336-343, 2018",
-        "num_citations": 121,
+        "num_citations": 124,
         "author_pub_id": "CSHe53oAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Strongly enhanced photovoltaic performance and defect physics of air‐stable bismuth oxyiodide (BiOI)",
         "pub_year": "2017",
         "citation": "Advanced Materials 29 (36), 1702176, 2017",
-        "num_citations": 186,
+        "num_citations": 189,
         "author_pub_id": "CSHe53oAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -236,9 +243,16 @@
         "author_pub_id": "CSHe53oAAAAJ:Tyk-4Ss8FVUC"
     },
     {
+        "title": "The Journal of Open Source Software (JOSS): Bringing Open-Source Software Practices to the Scholarly Publishing Community for Authors, Reviewers, Editors, and Publishers",
+        "pub_year": "2025",
+        "citation": "Journal of Librarianship and Scholarly Communication 12 (2), 2025",
+        "num_citations": 0,
+        "author_pub_id": "CSHe53oAAAAJ:IWHjjKOFINEC"
+    },
+    {
         "title": "Twisto-electrochemical activity volcanoes in Trilayer Graphene",
         "pub_year": "2024",
-        "citation": "Journal of the American Chemical Society, 2024",
+        "citation": "Journal of the American Chemical Society 146 (23), 16105-16111, 2024",
         "num_citations": 3,
         "author_pub_id": "CSHe53oAAAAJ:9ZlFYXVOiuMC"
     },
@@ -246,7 +260,7 @@
         "title": "Using Bayesian parameter estimation to learn more from data without black boxes",
         "pub_year": "2024",
         "citation": "Nature Reviews Physics 6 (3), 152-154, 2024",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "CSHe53oAAAAJ:7PzlFSSx8tAC"
     }
 ]

@@ -66,7 +66,7 @@
         "title": "Dispersive stiffness of Dzyaloshinskii domain walls",
         "pub_year": "2017",
         "citation": "Physical review letters 119 (2), 027203, 2017",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "NmnYW7cAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Enhancement of thermal conductance at metal-dielectric interfaces using subnanometer metal adhesion layers",
         "pub_year": "2016",
         "citation": "Physical Review Applied 5 (1), 014009, 2016",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "NmnYW7cAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Experimental demonstration of four-terminal magnetic logic device with separate read-and write-paths",
         "pub_year": "2014",
         "citation": "2014 IEEE International Electron Devices Meeting, 33.1. 1-33.1. 4, 2014",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "NmnYW7cAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -240,14 +240,14 @@
         "title": "Magnetic domain wall skyrmions",
         "pub_year": "2019",
         "citation": "Physical Review B 99 (18), 184412, 2019",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "NmnYW7cAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Magnetic domain wall substructures in Pt/Co/Ni/Ir multi-layers",
         "pub_year": "2021",
         "citation": "Journal of Applied Physics 130 (15), 2021",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "NmnYW7cAAAAJ:k_IJM867U9cC"
     },
     {
@@ -275,14 +275,14 @@
         "title": "Naturally oxidized FeCo as a magnetic coupling layer for electrically isolated read/write paths in mLogic",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Magnetics 49 (7), 4351-4354, 2013",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "NmnYW7cAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Noise mechanisms in small grain size perpendicular thin film media",
         "pub_year": "2010",
         "citation": "IEEE transactions on magnetics 47 (1), 74-80, 2010",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "NmnYW7cAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -303,7 +303,7 @@
         "title": "Proceedings of the 2014 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA",
         "pub_year": "2014",
         "citation": "IEEE, 2014",
-        "num_citations": 8,
+        "num_citations": 18,
         "author_pub_id": "NmnYW7cAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Simultaneous control of interlayer exchange coupling and the interfacial Dzyaloshinskii–Moriya interaction in Ru-based synthetic antiferromagnets",
         "pub_year": "2018",
         "citation": "IEEE Magnetics Letters 10, 1-4, 2018",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "NmnYW7cAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -387,7 +387,7 @@
         "title": "Towards hexagonal  systems with anisotropic Dzyaloshinkii-Moriya interaction: Characterization of epitaxial  multilayer films",
         "pub_year": "2021",
         "citation": "Physical Review Materials 5 (10), L101401, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "NmnYW7cAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -408,7 +408,7 @@
         "title": "mLogic: All spin logic device and circuits",
         "pub_year": "2015",
         "citation": "2015 Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 1-2, 2015",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "NmnYW7cAAAAJ:UebtZRa9Y70C"
     }
 ]
